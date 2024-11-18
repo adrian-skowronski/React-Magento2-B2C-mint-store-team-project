@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456192" stop="1729890456196" version="1.4.0">
+  <name>Magento\Framework\Search\Test\Unit\Dynamic\IntervalFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890456192" stop="1729890456193" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890456193" stop="1729890456194" status="passed">
+      <name>testCreateWithoutIntervals</name>
+    </test-case>
+    <test-case start="1729890456194" stop="1729890456195" status="passed">
+      <name>testCreateWithWrongInterval</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

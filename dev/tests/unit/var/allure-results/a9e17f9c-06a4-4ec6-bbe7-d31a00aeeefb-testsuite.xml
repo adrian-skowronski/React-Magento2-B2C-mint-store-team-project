@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330765" stop="1729890330786" version="1.4.0">
+  <name>Magento\GraphQl\Test\Unit\Plugin\DisableSessionTest</name>
+  <test-cases>
+    <test-case start="1729890330766" stop="1729890330767" status="passed">
+      <name>testAfterCheck with data set #0</name>
+    </test-case>
+    <test-case start="1729890330768" stop="1729890330769" status="passed">
+      <name>testAfterCheck with data set #1</name>
+    </test-case>
+    <test-case start="1729890330769" stop="1729890330770" status="passed">
+      <name>testAfterCheck with data set #2</name>
+    </test-case>
+    <test-case start="1729890330771" stop="1729890330771" status="passed">
+      <name>testAfterCheck with data set #3</name>
+    </test-case>
+    <test-case start="1729890330772" stop="1729890330773" status="passed">
+      <name>testAfterCheck with data set #4</name>
+    </test-case>
+    <test-case start="1729890330774" stop="1729890330774" status="passed">
+      <name>testAfterCheck with data set #5</name>
+    </test-case>
+    <test-case start="1729890330775" stop="1729890330776" status="passed">
+      <name>testAfterCheck with data set #6</name>
+    </test-case>
+    <test-case start="1729890330777" stop="1729890330777" status="passed">
+      <name>testAfterCheck with data set #7</name>
+    </test-case>
+    <test-case start="1729890330778" stop="1729890330779" status="passed">
+      <name>testAfterCheckDataProvider</name>
+    </test-case>
+    <test-case start="1729890330780" stop="1729890330781" status="passed">
+      <name>testAfterCheckNoArea with data set #0</name>
+    </test-case>
+    <test-case start="1729890330781" stop="1729890330782" status="passed">
+      <name>testAfterCheckNoArea with data set #1</name>
+    </test-case>
+    <test-case start="1729890330783" stop="1729890330783" status="passed">
+      <name>testAfterCheckNoArea with data set #2</name>
+    </test-case>
+    <test-case start="1729890330784" stop="1729890330785" status="passed">
+      <name>testAfterCheckNoArea with data set #3</name>
+    </test-case>
+    <test-case start="1729890330785" stop="1729890330786" status="passed">
+      <name>testAfterCheckDataProviderNoAreaCode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

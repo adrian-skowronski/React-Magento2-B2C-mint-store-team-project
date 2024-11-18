@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456926" stop="1729890456933" version="1.4.0">
+  <name>Magento\Framework\Setup\Test\Unit\ConsoleLoggerTest</name>
+  <test-cases>
+    <test-case start="1729890456927" stop="1729890456928" status="passed">
+      <name>testLogSuccess</name>
+    </test-case>
+    <test-case start="1729890456928" stop="1729890456929" status="passed">
+      <name>testLogError</name>
+    </test-case>
+    <test-case start="1729890456930" stop="1729890456930" status="passed">
+      <name>testLog</name>
+    </test-case>
+    <test-case start="1729890456931" stop="1729890456932" status="passed">
+      <name>testLogInline</name>
+    </test-case>
+    <test-case start="1729890456932" stop="1729890456933" status="passed">
+      <name>testLogMeta</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

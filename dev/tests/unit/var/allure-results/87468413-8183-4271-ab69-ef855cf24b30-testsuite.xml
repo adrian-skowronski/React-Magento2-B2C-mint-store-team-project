@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461397" stop="1729890461402" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890461397" stop="1729890461398" status="passed">
+      <name>testAdd</name>
+    </test-case>
+    <test-case start="1729890461398" stop="1729890461399" status="passed">
+      <name>testHas</name>
+    </test-case>
+    <test-case start="1729890461399" stop="1729890461399" status="passed">
+      <name>testAddSameInstance</name>
+    </test-case>
+    <test-case start="1729890461400" stop="1729890461400" status="passed">
+      <name>testAddOverrideExisting</name>
+    </test-case>
+    <test-case start="1729890461400" stop="1729890461401" status="passed">
+      <name>testRemove</name>
+    </test-case>
+    <test-case start="1729890461401" stop="1729890461402" status="passed">
+      <name>testGetAll</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

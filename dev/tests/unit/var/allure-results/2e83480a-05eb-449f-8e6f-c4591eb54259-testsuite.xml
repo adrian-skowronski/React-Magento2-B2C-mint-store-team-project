@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890423359" stop="1729890423364" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Config\DataFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890423360" stop="1729890423363" status="passed">
+      <name>testCreate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890416279" stop="1729890416283" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\Description\DescriptionGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890416279" stop="1729890416282" status="passed">
+      <name>testGeneratorWithMixin</name>
+    </test-case>
+    <test-case start="1729890416282" stop="1729890416282" status="passed">
+      <name>testGeneratorWithoutMixin</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

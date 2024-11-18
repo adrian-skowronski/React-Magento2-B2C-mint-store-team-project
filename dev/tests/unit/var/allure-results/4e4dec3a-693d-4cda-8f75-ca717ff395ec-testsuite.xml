@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461884" stop="1729890461916" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\RepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890461884" stop="1729890461888" status="passed">
+      <name>testUpdateDesignParamsWrongTheme</name>
+    </test-case>
+    <test-case start="1729890461889" stop="1729890461891" status="passed">
+      <name>testUpdateDesignParams with data set #0</name>
+    </test-case>
+    <test-case start="1729890461891" stop="1729890461893" status="passed">
+      <name>testUpdateDesignParams with data set #1</name>
+    </test-case>
+    <test-case start="1729890461893" stop="1729890461894" status="passed">
+      <name>testUpdateDesignParamsWithThemePath</name>
+    </test-case>
+    <test-case start="1729890461895" stop="1729890461897" status="passed">
+      <name>testUpdateDesignParamsWithThemeId</name>
+    </test-case>
+    <test-case start="1729890461897" stop="1729890461900" status="passed">
+      <name>testCreateAsset</name>
+    </test-case>
+    <test-case start="1729890461901" stop="1729890461903" status="passed">
+      <name>testGetStaticViewFileContext</name>
+    </test-case>
+    <test-case start="1729890461904" stop="1729890461907" status="passed">
+      <name>testCreateRelated with data set #0</name>
+    </test-case>
+    <test-case start="1729890461908" stop="1729890461910" status="passed">
+      <name>testCreateRelated with data set #1</name>
+    </test-case>
+    <test-case start="1729890461910" stop="1729890461912" status="passed">
+      <name>testCreateArbitrary</name>
+    </test-case>
+    <test-case start="1729890461912" stop="1729890461914" status="passed">
+      <name>testGetUrl</name>
+    </test-case>
+    <test-case start="1729890461915" stop="1729890461916" status="passed">
+      <name>testExtractModuleException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

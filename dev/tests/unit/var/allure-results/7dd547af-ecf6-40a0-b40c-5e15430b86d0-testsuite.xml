@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890389941" stop="1729890389974" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\RtlTextHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890389942" stop="1729890389942" status="passed">
+      <name>testIsRtlText with data set #0</name>
+    </test-case>
+    <test-case start="1729890389943" stop="1729890389943" status="passed">
+      <name>testIsRtlText with data set #1</name>
+    </test-case>
+    <test-case start="1729890389944" stop="1729890389944" status="passed">
+      <name>testIsRtlText with data set #2</name>
+    </test-case>
+    <test-case start="1729890389945" stop="1729890389946" status="passed">
+      <name>testIsRtlText with data set #3</name>
+    </test-case>
+    <test-case start="1729890389946" stop="1729890389947" status="passed">
+      <name>testIsRtlText with data set #4</name>
+    </test-case>
+    <test-case start="1729890389947" stop="1729890389948" status="passed">
+      <name>testIsRtlText with data set #5</name>
+    </test-case>
+    <test-case start="1729890389949" stop="1729890389949" status="passed">
+      <name>testIsRtlText with data set #6</name>
+    </test-case>
+    <test-case start="1729890389950" stop="1729890389950" status="passed">
+      <name>testIsRtlText with data set #7</name>
+    </test-case>
+    <test-case start="1729890389951" stop="1729890389952" status="passed">
+      <name>testIsRtlText with data set #8</name>
+    </test-case>
+    <test-case start="1729890389952" stop="1729890389953" status="passed">
+      <name>testIsRtlText with data set #9</name>
+    </test-case>
+    <test-case start="1729890389953" stop="1729890389954" status="passed">
+      <name>testIsRtlText with data set #10</name>
+    </test-case>
+    <test-case start="1729890389954" stop="1729890389955" status="passed">
+      <name>testIsRtlText with data set #11</name>
+    </test-case>
+    <test-case start="1729890389955" stop="1729890389956" status="passed">
+      <name>testIsRtlText with data set #12</name>
+    </test-case>
+    <test-case start="1729890389957" stop="1729890389957" status="passed">
+      <name>testReverseRtlText with data set #0</name>
+    </test-case>
+    <test-case start="1729890389958" stop="1729890389958" status="passed">
+      <name>testReverseRtlText with data set #1</name>
+    </test-case>
+    <test-case start="1729890389959" stop="1729890389960" status="passed">
+      <name>testReverseRtlText with data set #2</name>
+    </test-case>
+    <test-case start="1729890389960" stop="1729890389961" status="passed">
+      <name>testReverseRtlText with data set #3</name>
+    </test-case>
+    <test-case start="1729890389961" stop="1729890389962" status="passed">
+      <name>testReverseRtlText with data set #4</name>
+    </test-case>
+    <test-case start="1729890389962" stop="1729890389963" status="passed">
+      <name>testReverseRtlText with data set #5</name>
+    </test-case>
+    <test-case start="1729890389963" stop="1729890389965" status="passed">
+      <name>testReverseRtlText with data set #6</name>
+    </test-case>
+    <test-case start="1729890389965" stop="1729890389966" status="passed">
+      <name>testReverseRtlText with data set #7</name>
+    </test-case>
+    <test-case start="1729890389966" stop="1729890389967" status="passed">
+      <name>testReverseRtlText with data set #8</name>
+    </test-case>
+    <test-case start="1729890389968" stop="1729890389969" status="passed">
+      <name>testReverseRtlText with data set #9</name>
+    </test-case>
+    <test-case start="1729890389969" stop="1729890389970" status="passed">
+      <name>testReverseRtlText with data set #10</name>
+    </test-case>
+    <test-case start="1729890389971" stop="1729890389973" status="passed">
+      <name>testReverseRtlText with data set #11</name>
+    </test-case>
+    <test-case start="1729890389973" stop="1729890389974" status="passed">
+      <name>testReverseRtlText with data set #12</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

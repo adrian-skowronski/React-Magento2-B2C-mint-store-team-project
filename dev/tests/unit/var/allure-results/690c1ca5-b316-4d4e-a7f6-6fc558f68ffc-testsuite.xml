@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890269592" stop="1729890269613" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Model\Product\Attribute\Source\Price\ViewTest</name>
+  <test-cases>
+    <test-case start="1729890269592" stop="1729890269607" status="passed">
+      <name>testGetAllOptions</name>
+    </test-case>
+    <test-case start="1729890269607" stop="1729890269608" status="passed">
+      <name>testGetOptionTextForExistLabel</name>
+    </test-case>
+    <test-case start="1729890269609" stop="1729890269609" status="passed">
+      <name>testGetOptionTextForNotExistLabel</name>
+    </test-case>
+    <test-case start="1729890269610" stop="1729890269611" status="passed">
+      <name>testGetFlatColumns</name>
+    </test-case>
+    <test-case start="1729890269612" stop="1729890269613" status="passed">
+      <name>testGetFlatUpdateSelect</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

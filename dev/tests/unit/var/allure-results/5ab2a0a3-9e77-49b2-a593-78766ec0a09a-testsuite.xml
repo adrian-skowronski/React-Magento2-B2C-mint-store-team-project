@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310279" stop="1729890310298" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Plugin\Model\Order\Invoice\UpdateConfigurableProductTotalQtyTest</name>
+  <test-cases>
+    <test-case start="1729890310279" stop="1729890310290" status="passed">
+      <name>testBeforeSetTotalQty with data set "verify productQty for simple products"</name>
+    </test-case>
+    <test-case start="1729890310290" stop="1729890310293" status="passed">
+      <name>testBeforeSetTotalQty with data set "verify productQty for configurable products"</name>
+    </test-case>
+    <test-case start="1729890310294" stop="1729890310297" status="passed">
+      <name>testBeforeSetTotalQty with data set "verify productQty for simple configurable products"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

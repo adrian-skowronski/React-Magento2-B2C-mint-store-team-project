@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890265375" stop="1729890265396" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Controller\Adminhtml\Auth\LoginTest</name>
+  <test-cases>
+    <test-case start="1729890265376" stop="1729890265384" status="passed">
+      <name>testIsValidBackendUri with data set "Rewrites on, valid url"</name>
+    </test-case>
+    <test-case start="1729890265385" stop="1729890265389" status="passed">
+      <name>testIsValidBackendUri with data set "Rewrites on, invalid url"</name>
+    </test-case>
+    <test-case start="1729890265389" stop="1729890265392" status="passed">
+      <name>testIsValidBackendUri with data set "Rewrites off, valid url"</name>
+    </test-case>
+    <test-case start="1729890265393" stop="1729890265396" status="passed">
+      <name>testIsValidBackendUri with data set "Rewrites off, invalid url"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

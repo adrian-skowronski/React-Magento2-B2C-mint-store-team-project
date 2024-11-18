@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890322920" stop="1729890322936" version="1.4.0">
+  <name>Magento\DownloadableImportExport\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890322921" stop="1729890322923" status="passed">
+      <name>testIsRowDownloadableEmptyOptions with data set "Data set include downloadable link and sample"</name>
+    </test-case>
+    <test-case start="1729890322923" stop="1729890322924" status="passed">
+      <name>testIsRowDownloadableEmptyOptions with data set "Data set with empty"</name>
+    </test-case>
+    <test-case start="1729890322925" stop="1729890322927" status="passed">
+      <name>testFillExistOptions with data set "Data set 1"</name>
+    </test-case>
+    <test-case start="1729890322927" stop="1729890322929" status="passed">
+      <name>testFillExistOptions with data set "Data set 2"</name>
+    </test-case>
+    <test-case start="1729890322929" stop="1729890322930" status="passed">
+      <name>testPrepareDataForSave with data set "Data set 1"</name>
+    </test-case>
+    <test-case start="1729890322931" stop="1729890322932" status="passed">
+      <name>testPrepareDataForSave with data set "Data set 2"</name>
+    </test-case>
+    <test-case start="1729890322933" stop="1729890322934" status="passed">
+      <name>testGetTypeByValue with data set "Case File Option Value"</name>
+    </test-case>
+    <test-case start="1729890322934" stop="1729890322935" status="passed">
+      <name>testGetTypeByValue with data set "Case url Option Value"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

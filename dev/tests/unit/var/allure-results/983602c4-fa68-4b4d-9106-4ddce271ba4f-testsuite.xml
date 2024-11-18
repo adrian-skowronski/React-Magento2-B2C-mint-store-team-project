@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890417607" stop="1729890417614" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\Di\App\Task\OperationFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890417608" stop="1729890417610" status="passed">
+      <name>testCreateSuccess with data set #0</name>
+    </test-case>
+    <test-case start="1729890417610" stop="1729890417611" status="passed">
+      <name>testCreateSuccess with data set #1</name>
+    </test-case>
+    <test-case start="1729890417611" stop="1729890417612" status="passed">
+      <name>testCreateSuccess with data set #2</name>
+    </test-case>
+    <test-case start="1729890417613" stop="1729890417614" status="passed">
+      <name>testCreateException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

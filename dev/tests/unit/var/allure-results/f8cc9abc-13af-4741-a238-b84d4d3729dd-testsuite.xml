@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890308468" stop="1729890308511" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890308468" stop="1729890308495" status="passed">
+      <name>testGetAllowAttributes</name>
+    </test-case>
+    <test-case start="1729890308496" stop="1729890308499" status="passed">
+      <name>testGetOptions with data set #0</name>
+    </test-case>
+    <test-case start="1729890308499" stop="1729890308503" status="passed">
+      <name>testGetOptions with data set #1</name>
+    </test-case>
+    <test-case start="1729890308504" stop="1729890308511" status="passed">
+      <name>testGetGalleryImages</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

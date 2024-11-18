@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890277689" stop="1729890277697" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Model\Indexer\ProductPriceCalculatorTest</name>
+  <test-cases>
+    <test-case start="1729890277689" stop="1729890277692" status="passed">
+      <name>testCalculateToFixedPrice</name>
+    </test-case>
+    <test-case start="1729890277692" stop="1729890277693" status="passed">
+      <name>testCalculateToPercentPrice</name>
+    </test-case>
+    <test-case start="1729890277693" stop="1729890277694" status="passed">
+      <name>testCalculateByFixedPrice</name>
+    </test-case>
+    <test-case start="1729890277695" stop="1729890277697" status="passed">
+      <name>testCalculateByPercentPrice</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

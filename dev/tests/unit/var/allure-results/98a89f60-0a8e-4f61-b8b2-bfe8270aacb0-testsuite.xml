@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890363339" stop="1729890363375" version="1.4.0">
+  <name>Magento\Persistent\Test\Unit\Helper\SessionTest</name>
+  <test-cases>
+    <test-case start="1729890363340" stop="1729890363359" status="passed">
+      <name>testIsPersistent with data set "session_id_and_enable_persistent"</name>
+    </test-case>
+    <test-case start="1729890363360" stop="1729890363362" status="passed">
+      <name>testIsPersistent with data set "no_session_id_and_enable_persistent"</name>
+    </test-case>
+    <test-case start="1729890363363" stop="1729890363366" status="passed">
+      <name>testIsRememberMeChecked with data set "enable_all_config"</name>
+    </test-case>
+    <test-case start="1729890363366" stop="1729890363368" status="passed">
+      <name>testIsRememberMeChecked with data set "at_least_once_disabled"</name>
+    </test-case>
+    <test-case start="1729890363369" stop="1729890363372" status="passed">
+      <name>testIsRememberMeChecked with data set "set_remember_me_checked_false"</name>
+    </test-case>
+    <test-case start="1729890363373" stop="1729890363374" status="passed">
+      <name>testIsRememberMeChecked with data set "set_remember_me_checked_true"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

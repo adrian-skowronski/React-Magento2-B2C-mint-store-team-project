@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890459892" stop="1729890459902" version="1.4.0">
+  <name>Magento\Framework\Url\Test\Unit\DecoderTest</name>
+  <test-cases>
+    <test-case start="1729890459893" stop="1729890459899" status="passed">
+      <name>testDecode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

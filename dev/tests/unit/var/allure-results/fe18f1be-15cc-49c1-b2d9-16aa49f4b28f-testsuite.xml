@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358544" stop="1729890358555" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Gateway\Data\PaymentDataObjectFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890358544" stop="1729890358551" status="passed">
+      <name>testCreatePaymentDataObjectFromOrder</name>
+    </test-case>
+    <test-case start="1729890358551" stop="1729890358555" status="passed">
+      <name>testCreatePaymentDataObjectFromQuote</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

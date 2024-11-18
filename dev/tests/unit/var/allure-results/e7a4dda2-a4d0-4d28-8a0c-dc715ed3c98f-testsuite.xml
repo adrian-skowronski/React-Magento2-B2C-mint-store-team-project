@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890416088" stop="1729890416099" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\ConfigOptionsList\PageCacheTest</name>
+  <test-cases>
+    <test-case start="1729890416088" stop="1729890416089" status="passed">
+      <name>testGetOptions</name>
+    </test-case>
+    <test-case start="1729890416089" stop="1729890416091" status="passed">
+      <name>testCreateConfigWithRedis</name>
+    </test-case>
+    <test-case start="1729890416091" stop="1729890416093" status="passed">
+      <name>testCreateConfigWithRedisConfiguration</name>
+    </test-case>
+    <test-case start="1729890416093" stop="1729890416094" status="passed">
+      <name>testCreateConfigWithFileCache</name>
+    </test-case>
+    <test-case start="1729890416094" stop="1729890416095" status="passed">
+      <name>testCreateConfigWithIdPrefix</name>
+    </test-case>
+    <test-case start="1729890416095" stop="1729890416097" status="passed">
+      <name>testValidationWithValidData</name>
+    </test-case>
+    <test-case start="1729890416098" stop="1729890416099" status="passed">
+      <name>testValidationWithInvalidData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

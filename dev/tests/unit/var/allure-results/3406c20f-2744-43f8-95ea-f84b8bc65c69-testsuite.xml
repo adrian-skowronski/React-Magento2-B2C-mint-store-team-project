@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330268" stop="1729890330282" version="1.4.0">
+  <name>Magento\GoogleGtag\Test\Unit\Model\Config\GtagConfigTest</name>
+  <test-cases>
+    <test-case start="1729890330268" stop="1729890330269" status="passed">
+      <name>testIsGoogleAnalyticsAvailable with data set #0</name>
+    </test-case>
+    <test-case start="1729890330270" stop="1729890330271" status="passed">
+      <name>testIsGoogleAnalyticsAvailable with data set #1</name>
+    </test-case>
+    <test-case start="1729890330272" stop="1729890330272" status="passed">
+      <name>testGetMeasurementId with data set #0</name>
+    </test-case>
+    <test-case start="1729890330273" stop="1729890330274" status="passed">
+      <name>testIsGoogleAdwordsActive with data set #0</name>
+    </test-case>
+    <test-case start="1729890330275" stop="1729890330276" status="passed">
+      <name>testIsGoogleAdwordsActive with data set #1</name>
+    </test-case>
+    <test-case start="1729890330276" stop="1729890330277" status="passed">
+      <name>testIsGoogleAdwordsActive with data set #2</name>
+    </test-case>
+    <test-case start="1729890330278" stop="1729890330278" status="passed">
+      <name>testIsGoogleAdwordsActive with data set #3</name>
+    </test-case>
+    <test-case start="1729890330279" stop="1729890330280" status="passed">
+      <name>testGetStoreConfigValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890330281" stop="1729890330282" status="passed">
+      <name>testGetStoreConfigValue with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

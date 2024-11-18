@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302105" stop="1729890302118" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Backend\SerializedTest</name>
+  <test-cases>
+    <test-case start="1729890302105" stop="1729890302107" status="passed">
+      <name>testAfterLoad with data set "empty value"</name>
+    </test-case>
+    <test-case start="1729890302108" stop="1729890302110" status="passed">
+      <name>testAfterLoad with data set "value"</name>
+    </test-case>
+    <test-case start="1729890302110" stop="1729890302111" status="passed">
+      <name>testAfterLoadWithException</name>
+    </test-case>
+    <test-case start="1729890302113" stop="1729890302114" status="passed">
+      <name>testBeforeSave with data set "string"</name>
+    </test-case>
+    <test-case start="1729890302115" stop="1729890302116" status="passed">
+      <name>testBeforeSave with data set "array"</name>
+    </test-case>
+    <test-case start="1729890302117" stop="1729890302118" status="passed">
+      <name>testGetOldValueWithNonScalarDefaultValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

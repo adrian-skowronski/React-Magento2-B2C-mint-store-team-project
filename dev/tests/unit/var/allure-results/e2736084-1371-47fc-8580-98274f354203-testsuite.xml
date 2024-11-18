@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316827" stop="1729890316913" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Metadata\Form\AbstractDataTest</name>
+  <test-cases>
+    <test-case start="1729890316828" stop="1729890316829" status="passed">
+      <name>testGetAttribute</name>
+    </test-case>
+    <test-case start="1729890316829" stop="1729890316830" status="passed">
+      <name>testGetAttributeException</name>
+    </test-case>
+    <test-case start="1729890316831" stop="1729890316832" status="passed">
+      <name>testSetRequestScope</name>
+    </test-case>
+    <test-case start="1729890316832" stop="1729890316833" status="passed">
+      <name>testSetRequestScopeOnly with data set #0</name>
+    </test-case>
+    <test-case start="1729890316834" stop="1729890316835" status="passed">
+      <name>testSetRequestScopeOnly with data set #1</name>
+    </test-case>
+    <test-case start="1729890316835" stop="1729890316836" status="passed">
+      <name>testGetSetExtractedData</name>
+    </test-case>
+    <test-case start="1729890316837" stop="1729890316838" status="passed">
+      <name>testApplyInputFilter with data set #0</name>
+    </test-case>
+    <test-case start="1729890316838" stop="1729890316839" status="passed">
+      <name>testApplyInputFilter with data set #1</name>
+    </test-case>
+    <test-case start="1729890316840" stop="1729890316841" status="passed">
+      <name>testApplyInputFilter with data set #2</name>
+    </test-case>
+    <test-case start="1729890316842" stop="1729890316849" status="passed">
+      <name>testApplyInputFilter with data set #3</name>
+    </test-case>
+    <test-case start="1729890316849" stop="1729890316851" status="passed">
+      <name>testApplyInputFilter with data set #4</name>
+    </test-case>
+    <test-case start="1729890316852" stop="1729890316853" status="passed">
+      <name>testDateFilterFormat with data set #0</name>
+    </test-case>
+    <test-case start="1729890316853" stop="1729890316854" status="passed">
+      <name>testDateFilterFormat with data set #1</name>
+    </test-case>
+    <test-case start="1729890316855" stop="1729890316855" status="passed">
+      <name>testDateFilterFormat with data set #2</name>
+    </test-case>
+    <test-case start="1729890316856" stop="1729890316857" status="passed">
+      <name>testApplyOutputFilter with data set #0</name>
+    </test-case>
+    <test-case start="1729890316858" stop="1729890316859" status="passed">
+      <name>testApplyOutputFilter with data set #1</name>
+    </test-case>
+    <test-case start="1729890316859" stop="1729890316860" status="passed">
+      <name>testApplyOutputFilter with data set #2</name>
+    </test-case>
+    <test-case start="1729890316861" stop="1729890316864" status="passed">
+      <name>testApplyOutputFilter with data set #3</name>
+    </test-case>
+    <test-case start="1729890316865" stop="1729890316866" status="passed">
+      <name>testApplyOutputFilter with data set #4</name>
+    </test-case>
+    <test-case start="1729890316867" stop="1729890316869" status="passed">
+      <name>testValidateInputRule with data set #0</name>
+    </test-case>
+    <test-case start="1729890316870" stop="1729890316872" status="passed">
+      <name>testValidateInputRule with data set #1</name>
+    </test-case>
+    <test-case start="1729890316872" stop="1729890316874" status="passed">
+      <name>testValidateInputRule with data set #2</name>
+    </test-case>
+    <test-case start="1729890316875" stop="1729890316877" status="passed">
+      <name>testValidateInputRule with data set #3</name>
+    </test-case>
+    <test-case start="1729890316877" stop="1729890316879" status="passed">
+      <name>testValidateInputRule with data set #4</name>
+    </test-case>
+    <test-case start="1729890316880" stop="1729890316881" status="passed">
+      <name>testValidateInputRule with data set #5</name>
+    </test-case>
+    <test-case start="1729890316882" stop="1729890316885" status="passed">
+      <name>testValidateInputRule with data set #6</name>
+    </test-case>
+    <test-case start="1729890316885" stop="1729890316888" status="passed">
+      <name>testValidateInputRule with data set #7</name>
+    </test-case>
+    <test-case start="1729890316888" stop="1729890316893" status="passed">
+      <name>testValidateInputRule with data set #8</name>
+    </test-case>
+    <test-case start="1729890316894" stop="1729890316895" status="passed">
+      <name>testValidateInputRule with data set #9</name>
+    </test-case>
+    <test-case start="1729890316896" stop="1729890316898" status="passed">
+      <name>testValidateInputRule with data set #10</name>
+    </test-case>
+    <test-case start="1729890316899" stop="1729890316902" status="passed">
+      <name>testValidateInputRule with data set #11</name>
+    </test-case>
+    <test-case start="1729890316902" stop="1729890316903" status="passed">
+      <name>testGetIsAjaxRequest with data set #0</name>
+    </test-case>
+    <test-case start="1729890316903" stop="1729890316904" status="passed">
+      <name>testGetIsAjaxRequest with data set #1</name>
+    </test-case>
+    <test-case start="1729890316905" stop="1729890316906" status="passed">
+      <name>testGetRequestValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890316907" stop="1729890316908" status="passed">
+      <name>testGetRequestValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890316909" stop="1729890316910" status="passed">
+      <name>testGetRequestValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890316911" stop="1729890316913" status="passed">
+      <name>testGetRequestValue with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

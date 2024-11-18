@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328810" stop="1729890328835" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Model\Template\Config\XsdTest</name>
+  <test-cases>
+    <test-case start="1729890328811" stop="1729890328813" status="passed">
+      <name>testMergedXml with data set "valid"</name>
+    </test-case>
+    <test-case start="1729890328813" stop="1729890328814" status="passed">
+      <name>testMergedXml with data set "empty root node"</name>
+    </test-case>
+    <test-case start="1729890328815" stop="1729890328816" status="passed">
+      <name>testMergedXml with data set "irrelevant root node"</name>
+    </test-case>
+    <test-case start="1729890328816" stop="1729890328817" status="passed">
+      <name>testMergedXml with data set "invalid node"</name>
+    </test-case>
+    <test-case start="1729890328818" stop="1729890328819" status="passed">
+      <name>testMergedXml with data set "node "template" with value"</name>
+    </test-case>
+    <test-case start="1729890328819" stop="1729890328820" status="passed">
+      <name>testMergedXml with data set "node "template" with children"</name>
+    </test-case>
+    <test-case start="1729890328821" stop="1729890328822" status="passed">
+      <name>testMergedXml with data set "node "template" without attribute "id""</name>
+    </test-case>
+    <test-case start="1729890328822" stop="1729890328823" status="passed">
+      <name>testMergedXml with data set "node "template" without attribute "label""</name>
+    </test-case>
+    <test-case start="1729890328824" stop="1729890328825" status="passed">
+      <name>testMergedXml with data set "node "template" without attribute "file""</name>
+    </test-case>
+    <test-case start="1729890328825" stop="1729890328827" status="passed">
+      <name>testMergedXml with data set "node "template" without attribute "type""</name>
+    </test-case>
+    <test-case start="1729890328827" stop="1729890328829" status="failed">
+      <name>testMergedXml with data set "node "template" with invalid attribute "type""</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'template', attribute...ext'}.'
+-    1 =&gt; 'Element 'template', attribute...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-email/Test/Unit/Model/Template/Config/XsdTest.php(134): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-email/Test/Unit/Model/Template/Config/XsdTest.php(33): Magento\Email\Test\Unit\Model\Template\Config\XsdTest-&gt;_testXmlAgainstXsd()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Email\Test\Unit\Model\Template\Config\XsdTest-&gt;testMergedXml()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890328830" stop="1729890328831" status="passed">
+      <name>testMergedXml with data set "node "template" without attribute "area""</name>
+    </test-case>
+    <test-case start="1729890328832" stop="1729890328833" status="failed">
+      <name>testMergedXml with data set "node "template" with invalid attribute "area""</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'template', attribute...tml'}.'
+-    1 =&gt; 'Element 'template', attribute...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-email/Test/Unit/Model/Template/Config/XsdTest.php(134): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-email/Test/Unit/Model/Template/Config/XsdTest.php(33): Magento\Email\Test\Unit\Model\Template\Config\XsdTest-&gt;_testXmlAgainstXsd()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Email\Test\Unit\Model\Template\Config\XsdTest-&gt;testMergedXml()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890328834" stop="1729890328835" status="passed">
+      <name>testMergedXml with data set "node "template" with unknown attribute"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

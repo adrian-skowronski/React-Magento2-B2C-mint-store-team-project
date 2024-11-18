@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890274754" stop="1729890274761" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\AddStockStatusToCollectionTest</name>
+  <test-cases>
+    <test-case start="1729890274754" stop="1729890274760" status="passed">
+      <name>testAddStockStatusToCollection</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

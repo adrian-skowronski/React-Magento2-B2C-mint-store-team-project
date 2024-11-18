@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890386821" stop="1729890386828" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Reorder\UnavailableProductsProviderTest</name>
+  <test-cases>
+    <test-case start="1729890386821" stop="1729890386825" status="passed">
+      <name>testGetForOrder</name>
+    </test-case>
+    <test-case start="1729890386825" stop="1729890386827" status="passed">
+      <name>testGetForOrderEmpty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890380230" stop="1729890380235" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890380230" stop="1729890380231" status="passed">
+      <name>testInstanceOf</name>
+    </test-case>
+    <test-case start="1729890380232" stop="1729890380232" status="passed">
+      <name>testGetTotalsRenderer</name>
+    </test-case>
+    <test-case start="1729890380233" stop="1729890380233" status="passed">
+      <name>testGetGroupTotals</name>
+    </test-case>
+    <test-case start="1729890380234" stop="1729890380234" status="passed">
+      <name>testGetAvailableProductTypes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

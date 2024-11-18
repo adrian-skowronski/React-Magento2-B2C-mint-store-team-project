@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890260599" stop="1729890260611" version="1.4.0">
+  <name>Magento\AdobeStockImageAdminUi\Test\Unit\Model\SignInConfigProviderTest</name>
+  <test-cases>
+    <test-case start="1729890260600" stop="1729890260605" status="passed">
+      <name>testGettingUserQuota with data set #0</name>
+    </test-case>
+    <test-case start="1729890260605" stop="1729890260606" status="passed">
+      <name>testGettingUserQuota with data set #1</name>
+    </test-case>
+    <test-case start="1729890260607" stop="1729890260609" status="passed">
+      <name>testGettingUserQuotaOnExceptions with data set #0</name>
+    </test-case>
+    <test-case start="1729890260609" stop="1729890260611" status="passed">
+      <name>testGettingUserQuotaOnExceptions with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

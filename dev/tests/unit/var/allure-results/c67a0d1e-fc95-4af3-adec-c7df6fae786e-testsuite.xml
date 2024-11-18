@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890370598" stop="1729890370604" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\QuoteRepository\Plugin\AuthorizationTest</name>
+  <test-cases>
+    <test-case start="1729890370598" stop="1729890370600" status="passed">
+      <name>testAfterGetActiveThrowsExceptionIfQuoteIsNotAllowedForCurrentUserContext</name>
+    </test-case>
+    <test-case start="1729890370600" stop="1729890370601" status="passed">
+      <name>testAfterGetActiveReturnsQuoteIfQuoteIsAllowedForCurrentUserContext</name>
+    </test-case>
+    <test-case start="1729890370602" stop="1729890370603" status="passed">
+      <name>testAfterGetActiveForCustomerThrowsExceptionIfQuoteIsNotAllowedForCurrentUserContext</name>
+    </test-case>
+    <test-case start="1729890370603" stop="1729890370604" status="passed">
+      <name>testAfterGetActiveForCustomerReturnsQuoteIfQuoteIsAllowedForCurrentUserContext</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

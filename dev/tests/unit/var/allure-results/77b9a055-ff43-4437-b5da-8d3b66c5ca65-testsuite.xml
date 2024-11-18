@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890279684" stop="1729890279689" version="1.4.0">
+  <name>Magento\CatalogSearch\Test\Unit\Model\Search\RequestGenerator\GeneralTest</name>
+  <test-cases>
+    <test-case start="1729890279685" stop="1729890279686" status="passed">
+      <name>testGetFilterData</name>
+    </test-case>
+    <test-case start="1729890279687" stop="1729890279688" status="passed">
+      <name>testGetAggregationData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

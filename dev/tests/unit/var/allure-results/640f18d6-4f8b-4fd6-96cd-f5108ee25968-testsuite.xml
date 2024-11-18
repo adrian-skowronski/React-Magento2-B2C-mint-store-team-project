@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890269695" stop="1729890269741" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Model\Product\PriceTest</name>
+  <test-cases>
+    <test-case start="1729890269696" stop="1729890269706" status="passed">
+      <name>testCalculateSpecialPrice with data set #0</name>
+    </test-case>
+    <test-case start="1729890269706" stop="1729890269708" status="passed">
+      <name>testCalculateSpecialPrice with data set #1</name>
+    </test-case>
+    <test-case start="1729890269709" stop="1729890269710" status="passed">
+      <name>testCalculateSpecialPrice with data set #2</name>
+    </test-case>
+    <test-case start="1729890269711" stop="1729890269713" status="passed">
+      <name>testCalculateSpecialPrice with data set #3</name>
+    </test-case>
+    <test-case start="1729890269714" stop="1729890269716" status="passed">
+      <name>testCalculateSpecialPrice with data set #4</name>
+    </test-case>
+    <test-case start="1729890269717" stop="1729890269719" status="passed">
+      <name>testCalculateSpecialPrice with data set #5</name>
+    </test-case>
+    <test-case start="1729890269719" stop="1729890269721" status="passed">
+      <name>testGetTotalBundleItemsPriceWithNoCustomOptions</name>
+    </test-case>
+    <test-case start="1729890269722" stop="1729890269725" status="passed">
+      <name>testGetTotalBundleItemsPriceWithEmptyOptions with data set #0</name>
+    </test-case>
+    <test-case start="1729890269726" stop="1729890269729" status="passed">
+      <name>testGetTotalBundleItemsPriceWithEmptyOptions with data set #1</name>
+    </test-case>
+    <test-case start="1729890269729" stop="1729890269734" status="passed">
+      <name>testGetTotalBundleItemsPriceWithEmptyOptions with data set #2</name>
+    </test-case>
+    <test-case start="1729890269734" stop="1729890269741" status="passed">
+      <name>testGetTotalBundleItemsPriceWithNoItems</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

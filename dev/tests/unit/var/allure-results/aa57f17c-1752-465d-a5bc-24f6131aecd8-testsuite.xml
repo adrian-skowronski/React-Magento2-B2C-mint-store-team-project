@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325010" stop="1729890325017" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\AttributeSetManagementTest</name>
+  <test-cases>
+    <test-case start="1729890325011" stop="1729890325013" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890325013" stop="1729890325014" status="passed">
+      <name>testCreateThrowsExceptionIfGivenAttributeSetAlreadyHasId</name>
+    </test-case>
+    <test-case start="1729890325014" stop="1729890325015" status="passed">
+      <name>testCreateThrowsExceptionIfGivenSkeletonIdIsInvalid</name>
+    </test-case>
+    <test-case start="1729890325015" stop="1729890325017" status="passed">
+      <name>testCreateThrowsExceptionIfAttributeSetNotValid</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

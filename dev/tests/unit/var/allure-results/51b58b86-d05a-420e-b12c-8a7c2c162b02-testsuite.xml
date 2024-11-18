@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456066" stop="1729890456085" version="1.4.0">
+  <name>Magento\Framework\RequireJs\Test\Unit\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890456066" stop="1729890456074" status="passed">
+      <name>testGetConfig</name>
+    </test-case>
+    <test-case start="1729890456074" stop="1729890456076" status="passed">
+      <name>testGetMinResolverCode</name>
+    </test-case>
+    <test-case start="1729890456077" stop="1729890456079" status="passed">
+      <name>testGetConfigFileRelativePath</name>
+    </test-case>
+    <test-case start="1729890456079" stop="1729890456081" status="passed">
+      <name>testGetMixinsFileRelativePath</name>
+    </test-case>
+    <test-case start="1729890456081" stop="1729890456083" status="passed">
+      <name>testGetMinResolverRelativePath</name>
+    </test-case>
+    <test-case start="1729890456083" stop="1729890456085" status="passed">
+      <name>testGetBaseConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890457808" stop="1729890457810" version="1.4.0">
+  <name>Magento\Framework\Setup\Test\Unit\Option\TextConfigOptionTest</name>
+  <test-cases>
+    <test-case start="1729890457808" stop="1729890457808" status="passed">
+      <name>testConstructInvalidFrontendType</name>
+    </test-case>
+    <test-case start="1729890457809" stop="1729890457809" status="passed">
+      <name>testGetFrontendType</name>
+    </test-case>
+    <test-case start="1729890457809" stop="1729890457810" status="passed">
+      <name>testValidateException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

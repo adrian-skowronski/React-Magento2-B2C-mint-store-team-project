@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890405288" stop="1729890405293" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Config\Converter\CompositeTest</name>
+  <test-cases>
+    <test-case start="1729890405289" stop="1729890405290" status="passed">
+      <name>testConvert</name>
+    </test-case>
+    <test-case start="1729890405291" stop="1729890405291" status="passed">
+      <name>testConvertWithMissedConverter</name>
+    </test-case>
+    <test-case start="1729890405292" stop="1729890405293" status="passed">
+      <name>testConvertWithInvalidConverter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

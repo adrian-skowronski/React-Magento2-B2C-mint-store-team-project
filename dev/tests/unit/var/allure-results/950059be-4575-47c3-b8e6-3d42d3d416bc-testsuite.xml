@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352691" stop="1729890352695" version="1.4.0">
+  <name>Magento\MediaGallery\Test\Unit\Model\Asset\Command\GetByIdSuccessfulTest</name>
+  <test-cases>
+    <test-case start="1729890352692" stop="1729890352694" status="passed">
+      <name>testSuccessfulGetByIdExecution</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

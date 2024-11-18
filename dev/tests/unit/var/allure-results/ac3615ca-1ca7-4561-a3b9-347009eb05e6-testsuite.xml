@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356350" stop="1729890356354" version="1.4.0">
+  <name>Magento\PageBuilder\Test\Unit\Model\WidgetInitializerConfigTest</name>
+  <test-cases>
+    <test-case start="1729890356351" stop="1729890356352" status="passed">
+      <name>testGetConfig with data set #0</name>
+    </test-case>
+    <test-case start="1729890356353" stop="1729890356354" status="passed">
+      <name>testGetConfig with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374550" stop="1729890374557" version="1.4.0">
+  <name>Magento\Review\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890374550" stop="1729890374551" status="passed">
+      <name>testGetDetail</name>
+    </test-case>
+    <test-case start="1729890374552" stop="1729890374553" status="passed">
+      <name>testGetIsGuestAllowToWrite</name>
+    </test-case>
+    <test-case start="1729890374553" stop="1729890374555" status="passed">
+      <name>testGetReviewStatuses</name>
+    </test-case>
+    <test-case start="1729890374555" stop="1729890374556" status="passed">
+      <name>testGetReviewStatusesOptionArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

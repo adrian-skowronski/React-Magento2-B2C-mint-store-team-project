@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890277666" stop="1729890277672" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Model\Indexer\Product\ProductRuleIndexerTest</name>
+  <test-cases>
+    <test-case start="1729890277667" stop="1729890277669" status="passed">
+      <name>testDoExecuteList with data set #0</name>
+    </test-case>
+    <test-case start="1729890277670" stop="1729890277671" status="passed">
+      <name>testDoExecuteList with data set #1</name>
+    </test-case>
+    <test-case start="1729890277671" stop="1729890277672" status="passed">
+      <name>testDoExecuteRow</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

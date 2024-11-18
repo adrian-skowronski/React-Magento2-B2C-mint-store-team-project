@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448008" stop="1729890448011" version="1.4.0">
+  <name>Magento\Framework\EntityManager\Test\Unit\OperationPoolTest</name>
+  <test-cases>
+    <test-case start="1729890448009" stop="1729890448010" status="passed">
+      <name>testGetOperationUsesDefaultValueForEntityThatDoesNotProvideCustomMapping</name>
+    </test-case>
+    <test-case start="1729890448010" stop="1729890448011" status="passed">
+      <name>testGetOperationUsesOverriddenDefaultValueForEntityThatDoesNotProvideCustomMapping</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

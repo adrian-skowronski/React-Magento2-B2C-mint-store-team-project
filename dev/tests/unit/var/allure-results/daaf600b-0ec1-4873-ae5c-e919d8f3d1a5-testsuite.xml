@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461846" stop="1729890461851" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\PreProcessor\PoolTest</name>
+  <test-cases>
+    <test-case start="1729890461847" stop="1729890461848" status="passed">
+      <name>testProcess</name>
+    </test-case>
+    <test-case start="1729890461849" stop="1729890461850" status="passed">
+      <name>testProcessDefault</name>
+    </test-case>
+    <test-case start="1729890461850" stop="1729890461851" status="passed">
+      <name>testProcessBadInterface</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

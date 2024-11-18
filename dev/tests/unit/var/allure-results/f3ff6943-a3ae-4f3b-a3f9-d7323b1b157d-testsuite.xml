@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890355042" stop="1729890355054" version="1.4.0">
+  <name>Magento\Newsletter\Test\Unit\Controller\Manage\SaveTest</name>
+  <test-cases>
+    <test-case start="1729890355042" stop="1729890355047" status="passed">
+      <name>testSaveActionInvalidFormKey</name>
+    </test-case>
+    <test-case start="1729890355047" stop="1729890355050" status="passed">
+      <name>testSaveActionNoCustomerInSession</name>
+    </test-case>
+    <test-case start="1729890355050" stop="1729890355054" status="passed">
+      <name>testSaveActionWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

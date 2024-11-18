@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890276419" stop="1729890276540" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\Spi\StockStateProviderTest</name>
+  <test-cases>
+    <test-case start="1729890276420" stop="1729890276426" status="passed">
+      <name>testVerifyStock with data set #0</name>
+    </test-case>
+    <test-case start="1729890276427" stop="1729890276429" status="passed">
+      <name>testVerifyStock with data set #1</name>
+    </test-case>
+    <test-case start="1729890276430" stop="1729890276432" status="passed">
+      <name>testVerifyStock with data set #2</name>
+    </test-case>
+    <test-case start="1729890276433" stop="1729890276436" status="passed">
+      <name>testVerifyNotification with data set #0</name>
+    </test-case>
+    <test-case start="1729890276437" stop="1729890276439" status="passed">
+      <name>testVerifyNotification with data set #1</name>
+    </test-case>
+    <test-case start="1729890276440" stop="1729890276442" status="passed">
+      <name>testVerifyNotification with data set #2</name>
+    </test-case>
+    <test-case start="1729890276443" stop="1729890276446" status="passed">
+      <name>testCheckQty with data set #0</name>
+    </test-case>
+    <test-case start="1729890276446" stop="1729890276453" status="passed">
+      <name>testCheckQty with data set #1</name>
+    </test-case>
+    <test-case start="1729890276455" stop="1729890276458" status="passed">
+      <name>testCheckQty with data set #2</name>
+    </test-case>
+    <test-case start="1729890276459" stop="1729890276462" status="passed">
+      <name>testCheckQtyWithPositiveQtyAndOutOfStockstatus with data set #0</name>
+    </test-case>
+    <test-case start="1729890276462" stop="1729890276468" status="passed">
+      <name>testCheckQtyWithPositiveQtyAndOutOfStockstatus with data set #1</name>
+    </test-case>
+    <test-case start="1729890276469" stop="1729890276473" status="passed">
+      <name>testSuggestQty with data set #0</name>
+    </test-case>
+    <test-case start="1729890276474" stop="1729890276476" status="passed">
+      <name>testSuggestQty with data set #1</name>
+    </test-case>
+    <test-case start="1729890276476" stop="1729890276478" status="passed">
+      <name>testSuggestQty with data set #2</name>
+    </test-case>
+    <test-case start="1729890276479" stop="1729890276487" status="passed">
+      <name>testGetStockQty with data set #0</name>
+    </test-case>
+    <test-case start="1729890276487" stop="1729890276493" status="passed">
+      <name>testGetStockQty with data set #1</name>
+    </test-case>
+    <test-case start="1729890276493" stop="1729890276497" status="passed">
+      <name>testGetStockQty with data set #2</name>
+    </test-case>
+    <test-case start="1729890276501" stop="1729890276504" status="passed">
+      <name>testCheckQtyIncrements with data set #0</name>
+    </test-case>
+    <test-case start="1729890276504" stop="1729890276507" status="passed">
+      <name>testCheckQtyIncrements with data set #1</name>
+    </test-case>
+    <test-case start="1729890276507" stop="1729890276509" status="passed">
+      <name>testCheckQtyIncrements with data set #2</name>
+    </test-case>
+    <test-case start="1729890276510" stop="1729890276514" status="passed">
+      <name>testCheckQuoteItemQty with data set #0</name>
+    </test-case>
+    <test-case start="1729890276514" stop="1729890276522" status="passed">
+      <name>testCheckQuoteItemQty with data set #1</name>
+    </test-case>
+    <test-case start="1729890276522" stop="1729890276527" status="passed">
+      <name>testCheckQuoteItemQty with data set #2</name>
+    </test-case>
+    <test-case start="1729890276528" stop="1729890276535" status="passed">
+      <name>testCheckQtyIncrementsMsg with data set #0</name>
+    </test-case>
+    <test-case start="1729890276536" stop="1729890276540" status="passed">
+      <name>testCheckQtyIncrementsMsg with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464924" stop="1729890464932" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Url\CssResolverTest</name>
+  <test-cases>
+    <test-case start="1729890464924" stop="1729890464925" status="passed">
+      <name>testRelocateRelativeUrls</name>
+    </test-case>
+    <test-case start="1729890464926" stop="1729890464926" status="passed">
+      <name>testAggregateImportDirectives with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890464927" stop="1729890464928" status="passed">
+      <name>testAggregateImportDirectives with data set "data without patterns"</name>
+    </test-case>
+    <test-case start="1729890464928" stop="1729890464929" status="passed">
+      <name>testAggregateImportDirectives with data set "data with patterns"</name>
+    </test-case>
+    <test-case start="1729890464929" stop="1729890464930" status="passed">
+      <name>testReplaceRelativeUrls with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890464931" stop="1729890464931" status="passed">
+      <name>testReplaceRelativeUrls with data set "data without patterns"</name>
+    </test-case>
+    <test-case start="1729890464932" stop="1729890464932" status="passed">
+      <name>testReplaceRelativeUrls with data set "data with patterns"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

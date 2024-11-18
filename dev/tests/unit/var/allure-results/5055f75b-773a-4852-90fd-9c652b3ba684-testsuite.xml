@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890278970" stop="1729890278982" version="1.4.0">
+  <name>Magento\CatalogSearch\Test\Unit\Model\Indexer\Fulltext\Plugin\Store\ViewTest</name>
+  <test-cases>
+    <test-case start="1729890278971" stop="1729890278977" status="passed">
+      <name>testAfterSave with data set #0</name>
+    </test-case>
+    <test-case start="1729890278978" stop="1729890278980" status="passed">
+      <name>testAfterSave with data set #1</name>
+    </test-case>
+    <test-case start="1729890278980" stop="1729890278982" status="passed">
+      <name>testAfterDelete</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

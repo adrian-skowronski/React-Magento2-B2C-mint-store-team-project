@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890300776" stop="1729890300781" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Model\ResourceModel\Page\Relation\Store\ReadHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890300776" stop="1729890300779" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890300780" stop="1729890300781" status="passed">
+      <name>testExecuteWithNoId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

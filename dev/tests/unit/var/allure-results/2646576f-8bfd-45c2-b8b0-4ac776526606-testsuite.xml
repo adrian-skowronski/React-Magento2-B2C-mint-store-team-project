@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890390813" stop="1729890390815" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Observer\GridSyncRemoveObserverTest</name>
+  <test-cases>
+    <test-case start="1729890390813" stop="1729890390814" status="passed">
+      <name>testSyncRemove</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

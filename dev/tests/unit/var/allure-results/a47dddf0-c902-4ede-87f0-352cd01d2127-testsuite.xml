@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890445691" stop="1729890445806" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\StructureTest</name>
+  <test-cases>
+    <test-case start="1729890445691" stop="1729890445692" status="passed">
+      <name>testConstructImportExportElements with data set #0</name>
+    </test-case>
+    <test-case start="1729890445693" stop="1729890445693" status="passed">
+      <name>testConstructImportExportElements with data set #1</name>
+    </test-case>
+    <test-case start="1729890445694" stop="1729890445695" status="passed">
+      <name>testConstructImportExportElements with data set #2</name>
+    </test-case>
+    <test-case start="1729890445695" stop="1729890445696" status="passed">
+      <name>testConstructImportExportElements with data set #3</name>
+    </test-case>
+    <test-case start="1729890445697" stop="1729890445697" status="passed">
+      <name>testImportException with data set "numeric id"</name>
+    </test-case>
+    <test-case start="1729890445698" stop="1729890445698" status="passed">
+      <name>testImportException with data set "completely missing nested set"</name>
+    </test-case>
+    <test-case start="1729890445699" stop="1729890445699" status="passed">
+      <name>testImportException with data set "messed up nested set"</name>
+    </test-case>
+    <test-case start="1729890445700" stop="1729890445701" status="passed">
+      <name>testImportException with data set "nested set invalid data type"</name>
+    </test-case>
+    <test-case start="1729890445701" stop="1729890445702" status="passed">
+      <name>testImportException with data set "duplicate aliases"</name>
+    </test-case>
+    <test-case start="1729890445702" stop="1729890445703" status="passed">
+      <name>testImportException with data set "missing reference back to parent"</name>
+    </test-case>
+    <test-case start="1729890445703" stop="1729890445704" status="passed">
+      <name>testImportException with data set "broken reference back to parent"</name>
+    </test-case>
+    <test-case start="1729890445704" stop="1729890445705" status="passed">
+      <name>testImportException with data set "groups invalid data type"</name>
+    </test-case>
+    <test-case start="1729890445705" stop="1729890445706" status="passed">
+      <name>testImportException with data set "group invalid data type"</name>
+    </test-case>
+    <test-case start="1729890445707" stop="1729890445707" status="passed">
+      <name>testImportException with data set "asymmetric group"</name>
+    </test-case>
+    <test-case start="1729890445708" stop="1729890445709" status="passed">
+      <name>testImportException with data set "group references to non-existing element"</name>
+    </test-case>
+    <test-case start="1729890445710" stop="1729890445710" status="passed">
+      <name>testImportExceptionElementNotFound with data set "non-existing parent"</name>
+    </test-case>
+    <test-case start="1729890445711" stop="1729890445712" status="passed">
+      <name>testImportExceptionElementNotFound with data set "missing child"</name>
+    </test-case>
+    <test-case start="1729890445712" stop="1729890445713" status="passed">
+      <name>testCreateGetHasElement</name>
+    </test-case>
+    <test-case start="1729890445713" stop="1729890445714" status="passed">
+      <name>testCreateElementException</name>
+    </test-case>
+    <test-case start="1729890445714" stop="1729890445715" status="passed">
+      <name>testUnsetElement</name>
+    </test-case>
+    <test-case start="1729890445715" stop="1729890445716" status="passed">
+      <name>testSetGetAttribute</name>
+    </test-case>
+    <test-case start="1729890445716" stop="1729890445717" status="passed">
+      <name>testSetAttributeNoElementException</name>
+    </test-case>
+    <test-case start="1729890445718" stop="1729890445718" status="passed">
+      <name>testSetAttributeArgumentException with data set #0</name>
+    </test-case>
+    <test-case start="1729890445719" stop="1729890445719" status="passed">
+      <name>testSetAttributeArgumentException with data set #1</name>
+    </test-case>
+    <test-case start="1729890445720" stop="1729890445720" status="passed">
+      <name>testSetAttributeArgumentException with data set #2</name>
+    </test-case>
+    <test-case start="1729890445721" stop="1729890445721" status="passed">
+      <name>testGetAttributeNoElementException</name>
+    </test-case>
+    <test-case start="1729890445721" stop="1729890445722" status="passed">
+      <name>testRenameElement</name>
+    </test-case>
+    <test-case start="1729890445722" stop="1729890445723" status="passed">
+      <name>testSetAsChild</name>
+    </test-case>
+    <test-case start="1729890445724" stop="1729890445724" status="passed">
+      <name>testSetAsChildOffset with data set #0</name>
+    </test-case>
+    <test-case start="1729890445725" stop="1729890445726" status="passed">
+      <name>testSetAsChildOffset with data set #1</name>
+    </test-case>
+    <test-case start="1729890445727" stop="1729890445727" status="passed">
+      <name>testSetAsChildOffset with data set #2</name>
+    </test-case>
+    <test-case start="1729890445728" stop="1729890445729" status="passed">
+      <name>testSetAsChildOffset with data set #3</name>
+    </test-case>
+    <test-case start="1729890445729" stop="1729890445730" status="passed">
+      <name>testSetAsChildOffset with data set #4</name>
+    </test-case>
+    <test-case start="1729890445731" stop="1729890445731" status="passed">
+      <name>testSetAsChildOffset with data set #5</name>
+    </test-case>
+    <test-case start="1729890445732" stop="1729890445732" status="passed">
+      <name>testSetAsChildOffset with data set #6</name>
+    </test-case>
+    <test-case start="1729890445733" stop="1729890445733" status="passed">
+      <name>testSetAsChildOffset with data set #7</name>
+    </test-case>
+    <test-case start="1729890445734" stop="1729890445734" status="passed">
+      <name>testSetAsChildOffset with data set #8</name>
+    </test-case>
+    <test-case start="1729890445735" stop="1729890445736" status="passed">
+      <name>testSetAsChildOffset with data set #9</name>
+    </test-case>
+    <test-case start="1729890445736" stop="1729890445737" status="passed">
+      <name>testSetAsChildOffset with data set #10</name>
+    </test-case>
+    <test-case start="1729890445737" stop="1729890445738" status="passed">
+      <name>testSetAsChildOffset with data set #11</name>
+    </test-case>
+    <test-case start="1729890445739" stop="1729890445740" status="passed">
+      <name>testSetAsChildException with data set #0</name>
+    </test-case>
+    <test-case start="1729890445740" stop="1729890445741" status="passed">
+      <name>testSetAsChildException with data set #1</name>
+    </test-case>
+    <test-case start="1729890445741" stop="1729890445742" status="passed">
+      <name>testUnsetChild</name>
+    </test-case>
+    <test-case start="1729890445743" stop="1729890445744" status="passed">
+      <name>testReorderChild with data set #0</name>
+    </test-case>
+    <test-case start="1729890445745" stop="1729890445745" status="passed">
+      <name>testReorderChild with data set #1</name>
+    </test-case>
+    <test-case start="1729890445746" stop="1729890445747" status="passed">
+      <name>testReorderChild with data set #2</name>
+    </test-case>
+    <test-case start="1729890445747" stop="1729890445748" status="passed">
+      <name>testReorderChild with data set #3</name>
+    </test-case>
+    <test-case start="1729890445748" stop="1729890445749" status="passed">
+      <name>testReorderChild with data set #4</name>
+    </test-case>
+    <test-case start="1729890445750" stop="1729890445750" status="passed">
+      <name>testReorderChild with data set #5</name>
+    </test-case>
+    <test-case start="1729890445751" stop="1729890445751" status="passed">
+      <name>testReorderChild with data set #6</name>
+    </test-case>
+    <test-case start="1729890445752" stop="1729890445752" status="passed">
+      <name>testReorderChild with data set #7</name>
+    </test-case>
+    <test-case start="1729890445753" stop="1729890445754" status="passed">
+      <name>testReorderChild with data set #8</name>
+    </test-case>
+    <test-case start="1729890445754" stop="1729890445755" status="passed">
+      <name>testReorderChild with data set #9</name>
+    </test-case>
+    <test-case start="1729890445755" stop="1729890445756" status="passed">
+      <name>testReorderChild with data set #10</name>
+    </test-case>
+    <test-case start="1729890445757" stop="1729890445757" status="passed">
+      <name>testReorderChild with data set #11</name>
+    </test-case>
+    <test-case start="1729890445758" stop="1729890445759" status="passed">
+      <name>testReorderChild with data set #12</name>
+    </test-case>
+    <test-case start="1729890445760" stop="1729890445761" status="passed">
+      <name>testReorderChild with data set #13</name>
+    </test-case>
+    <test-case start="1729890445761" stop="1729890445762" status="passed">
+      <name>testReorderChild with data set #14</name>
+    </test-case>
+    <test-case start="1729890445762" stop="1729890445763" status="passed">
+      <name>testReorderChild with data set #15</name>
+    </test-case>
+    <test-case start="1729890445763" stop="1729890445764" status="passed">
+      <name>testReorderChild with data set #16</name>
+    </test-case>
+    <test-case start="1729890445765" stop="1729890445765" status="passed">
+      <name>testReorderChild with data set #17</name>
+    </test-case>
+    <test-case start="1729890445766" stop="1729890445766" status="passed">
+      <name>testReorderChild with data set #18</name>
+    </test-case>
+    <test-case start="1729890445767" stop="1729890445767" status="passed">
+      <name>testReorderChild with data set #19</name>
+    </test-case>
+    <test-case start="1729890445768" stop="1729890445769" status="passed">
+      <name>testReorderChild with data set #20</name>
+    </test-case>
+    <test-case start="1729890445769" stop="1729890445770" status="passed">
+      <name>testReorderChild with data set #21</name>
+    </test-case>
+    <test-case start="1729890445771" stop="1729890445771" status="passed">
+      <name>testReorderChild with data set #22</name>
+    </test-case>
+    <test-case start="1729890445772" stop="1729890445772" status="passed">
+      <name>testReorderChild with data set #23</name>
+    </test-case>
+    <test-case start="1729890445773" stop="1729890445774" status="passed">
+      <name>testReorderChild with data set #24</name>
+    </test-case>
+    <test-case start="1729890445774" stop="1729890445775" status="passed">
+      <name>testReorderChild with data set #25</name>
+    </test-case>
+    <test-case start="1729890445775" stop="1729890445776" status="passed">
+      <name>testReorderChildException</name>
+    </test-case>
+    <test-case start="1729890445777" stop="1729890445778" status="passed">
+      <name>testReorderToSibling with data set #0</name>
+    </test-case>
+    <test-case start="1729890445779" stop="1729890445779" status="passed">
+      <name>testReorderToSibling with data set #1</name>
+    </test-case>
+    <test-case start="1729890445780" stop="1729890445781" status="passed">
+      <name>testReorderToSibling with data set #2</name>
+    </test-case>
+    <test-case start="1729890445781" stop="1729890445782" status="passed">
+      <name>testReorderToSibling with data set #3</name>
+    </test-case>
+    <test-case start="1729890445782" stop="1729890445783" status="passed">
+      <name>testReorderToSibling with data set #4</name>
+    </test-case>
+    <test-case start="1729890445783" stop="1729890445784" status="passed">
+      <name>testReorderToSibling with data set #5</name>
+    </test-case>
+    <test-case start="1729890445785" stop="1729890445785" status="passed">
+      <name>testReorderToSibling with data set #6</name>
+    </test-case>
+    <test-case start="1729890445786" stop="1729890445786" status="passed">
+      <name>testReorderToSibling with data set #7</name>
+    </test-case>
+    <test-case start="1729890445787" stop="1729890445788" status="passed">
+      <name>testReorderToSibling with data set #8</name>
+    </test-case>
+    <test-case start="1729890445788" stop="1729890445789" status="passed">
+      <name>testReorderToSibling with data set #9</name>
+    </test-case>
+    <test-case start="1729890445790" stop="1729890445790" status="passed">
+      <name>testReorderToSibling with data set #10</name>
+    </test-case>
+    <test-case start="1729890445791" stop="1729890445792" status="passed">
+      <name>testReorderToSibling with data set #11</name>
+    </test-case>
+    <test-case start="1729890445793" stop="1729890445794" status="passed">
+      <name>testReorderToSibling with data set #12</name>
+    </test-case>
+    <test-case start="1729890445794" stop="1729890445795" status="passed">
+      <name>testReorderToSibling with data set #13</name>
+    </test-case>
+    <test-case start="1729890445795" stop="1729890445796" status="passed">
+      <name>testReorderToSibling with data set #14</name>
+    </test-case>
+    <test-case start="1729890445797" stop="1729890445797" status="passed">
+      <name>testReorderToSibling with data set #15</name>
+    </test-case>
+    <test-case start="1729890445798" stop="1729890445798" status="passed">
+      <name>testReorderToSibling with data set #16</name>
+    </test-case>
+    <test-case start="1729890445799" stop="1729890445799" status="passed">
+      <name>testReorderToSibling with data set #17</name>
+    </test-case>
+    <test-case start="1729890445800" stop="1729890445801" status="passed">
+      <name>testReorderToSibling with data set #18</name>
+    </test-case>
+    <test-case start="1729890445802" stop="1729890445802" status="passed">
+      <name>testReorderToSibling with data set #19</name>
+    </test-case>
+    <test-case start="1729890445803" stop="1729890445803" status="passed">
+      <name>testReorderToSiblingException</name>
+    </test-case>
+    <test-case start="1729890445804" stop="1729890445804" status="passed">
+      <name>testGetChildId</name>
+    </test-case>
+    <test-case start="1729890445804" stop="1729890445805" status="passed">
+      <name>testGetChildrenParentIdChildAlias</name>
+    </test-case>
+    <test-case start="1729890445806" stop="1729890445806" status="passed">
+      <name>testGroups</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

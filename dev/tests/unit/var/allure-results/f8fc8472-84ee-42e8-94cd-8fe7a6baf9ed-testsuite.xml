@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890351965" stop="1729890352021" version="1.4.0">
+  <name>Magento\Inventory\Test\Unit\Model\SourceRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890351965" stop="1729890351997" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890351997" stop="1729890351998" status="passed">
+      <name>testSaveWithCouldNotSaveException</name>
+    </test-case>
+    <test-case start="1729890351999" stop="1729890352008" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890352008" stop="1729890352009" status="passed">
+      <name>testGetWithNoSuchEntityException</name>
+    </test-case>
+    <test-case start="1729890352009" stop="1729890352017" status="passed">
+      <name>testGetListWithoutSearchCriteria</name>
+    </test-case>
+    <test-case start="1729890352017" stop="1729890352020" status="passed">
+      <name>testGetListWithSearchCriteria</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

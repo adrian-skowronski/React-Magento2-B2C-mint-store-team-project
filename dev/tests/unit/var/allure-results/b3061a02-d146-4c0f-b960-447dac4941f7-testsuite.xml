@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284399" stop="1729890284402" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Cron\SynchronizeWebsiteAttributesTest</name>
+  <test-cases>
+    <test-case start="1729890284399" stop="1729890284401" status="passed">
+      <name>testExecuteSuccess</name>
+    </test-case>
+    <test-case start="1729890284401" stop="1729890284402" status="passed">
+      <name>testExecuteWithNoSyncRequired</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

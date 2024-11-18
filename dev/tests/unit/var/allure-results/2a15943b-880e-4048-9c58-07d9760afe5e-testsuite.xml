@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890401841" stop="1729890401919" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Helper\StorageTest</name>
+  <test-cases>
+    <test-case start="1729890401842" stop="1729890401845" status="passed">
+      <name>testGetShortFilename</name>
+    </test-case>
+    <test-case start="1729890401845" stop="1729890401848" status="passed">
+      <name>testGetStorageRoot</name>
+    </test-case>
+    <test-case start="1729890401848" stop="1729890401852" status="passed">
+      <name>testGetThumbnailDirectory</name>
+    </test-case>
+    <test-case start="1729890401852" stop="1729890401855" status="passed">
+      <name>testGetThumbnailPath</name>
+    </test-case>
+    <test-case start="1729890401855" stop="1729890401859" status="passed">
+      <name>testGetRequestParams</name>
+    </test-case>
+    <test-case start="1729890401859" stop="1729890401862" status="passed">
+      <name>testGetAllowedExtensionsByType</name>
+    </test-case>
+    <test-case start="1729890401862" stop="1729890401868" status="passed">
+      <name>testGetThumbnailPathNotFound</name>
+    </test-case>
+    <test-case start="1729890401868" stop="1729890401870" status="passed">
+      <name>testConvertPathToIdAndIdToPath</name>
+    </test-case>
+    <test-case start="1729890401871" stop="1729890401873" status="passed">
+      <name>testGetSession</name>
+    </test-case>
+    <test-case start="1729890401873" stop="1729890401876" status="passed">
+      <name>testGetRelativeUrl</name>
+    </test-case>
+    <test-case start="1729890401877" stop="1729890401880" status="passed">
+      <name>testGetStorageTypeName with data set "font"</name>
+    </test-case>
+    <test-case start="1729890401881" stop="1729890401885" status="passed">
+      <name>testGetStorageTypeName with data set "image"</name>
+    </test-case>
+    <test-case start="1729890401885" stop="1729890401887" status="passed">
+      <name>testGetStorageTypeNameInvalid</name>
+    </test-case>
+    <test-case start="1729890401888" stop="1729890401891" status="passed">
+      <name>testGetThemeNotFound</name>
+    </test-case>
+    <test-case start="1729890401891" stop="1729890401894" status="passed">
+      <name>testGetCurrentPathCachesResult with data set "requested path "root" should short-circuit"</name>
+    </test-case>
+    <test-case start="1729890401894" stop="1729890401897" status="passed">
+      <name>testGetCurrentPathCachesResult with data set "non-existent directory should default to the base path"</name>
+    </test-case>
+    <test-case start="1729890401897" stop="1729890401900" status="passed">
+      <name>testGetCurrentPathCachesResult with data set "requested path that resolves to a bad path should default to root"</name>
+    </test-case>
+    <test-case start="1729890401901" stop="1729890401903" status="passed">
+      <name>testGetCurrentPathCachesResult with data set "real path should resolve to relative path"</name>
+    </test-case>
+    <test-case start="1729890401904" stop="1729890401907" status="passed">
+      <name>testGetCurrentPath with data set "requested path "root" should short-circuit"</name>
+    </test-case>
+    <test-case start="1729890401907" stop="1729890401911" status="passed">
+      <name>testGetCurrentPath with data set "non-existent directory should default to the base path"</name>
+    </test-case>
+    <test-case start="1729890401911" stop="1729890401915" status="passed">
+      <name>testGetCurrentPath with data set "requested path that resolves to a bad path should default to root"</name>
+    </test-case>
+    <test-case start="1729890401915" stop="1729890401919" status="passed">
+      <name>testGetCurrentPath with data set "real path should resolve to relative path"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890398089" stop="1729890398112" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Block\Grid\Renderer\CodesTest</name>
+  <test-cases>
+    <test-case start="1729890398090" stop="1729890398096" status="passed">
+      <name>testRenderCodes with data set #0</name>
+    </test-case>
+    <test-case start="1729890398097" stop="1729890398100" status="passed">
+      <name>testRenderCodes with data set #1</name>
+    </test-case>
+    <test-case start="1729890398102" stop="1729890398105" status="passed">
+      <name>testRenderCodes with data set #2</name>
+    </test-case>
+    <test-case start="1729890398105" stop="1729890398112" status="passed">
+      <name>testRenderCodes with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

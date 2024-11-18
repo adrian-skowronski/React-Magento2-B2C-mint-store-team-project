@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406643" stop="1729890406680" version="1.4.0">
+  <name>Magento\UrlRewrite\Test\Unit\Model\Storage\DbStorageTest</name>
+  <test-cases>
+    <test-case start="1729890406643" stop="1729890406646" status="passed">
+      <name>testFindAllByData</name>
+    </test-case>
+    <test-case start="1729890406646" stop="1729890406649" status="passed">
+      <name>testFindOneByData</name>
+    </test-case>
+    <test-case start="1729890406649" stop="1729890406652" status="passed">
+      <name>testFindOneByDataWithRequestPath</name>
+    </test-case>
+    <test-case start="1729890406652" stop="1729890406655" status="passed">
+      <name>testFindOneByDataWithRequestPathIsDifferent</name>
+    </test-case>
+    <test-case start="1729890406655" stop="1729890406658" status="passed">
+      <name>testFindOneByDataWithRequestPathIsDifferent2</name>
+    </test-case>
+    <test-case start="1729890406659" stop="1729890406661" status="passed">
+      <name>testFindOneByDataWithRequestPathIsRedirect</name>
+    </test-case>
+    <test-case start="1729890406662" stop="1729890406665" status="passed">
+      <name>testFindOneByDataWithRequestPathTwoResults</name>
+    </test-case>
+    <test-case start="1729890406665" stop="1729890406669" status="passed">
+      <name>testReplace</name>
+    </test-case>
+    <test-case start="1729890406669" stop="1729890406672" status="passed">
+      <name>testReplaceIfThrewExceptionOnDuplicateUrl</name>
+    </test-case>
+    <test-case start="1729890406672" stop="1729890406674" status="passed">
+      <name>testReplaceIfThrewExceptionOnDuplicateEntry</name>
+    </test-case>
+    <test-case start="1729890406674" stop="1729890406677" status="passed">
+      <name>testReplaceIfThrewCustomException</name>
+    </test-case>
+    <test-case start="1729890406677" stop="1729890406680" status="passed">
+      <name>testDeleteByData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

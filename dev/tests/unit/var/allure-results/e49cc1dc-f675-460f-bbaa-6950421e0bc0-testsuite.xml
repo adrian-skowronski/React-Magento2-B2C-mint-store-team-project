@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890401798" stop="1729890401817" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Controller\Result\MessagePluginTest</name>
+  <test-cases>
+    <test-case start="1729890401798" stop="1729890401800" status="passed">
+      <name>testAfterRenderResultJson</name>
+    </test-case>
+    <test-case start="1729890401800" stop="1729890401804" status="passed">
+      <name>testAfterRenderResult</name>
+    </test-case>
+    <test-case start="1729890401804" stop="1729890401805" status="passed">
+      <name>testAfterRenderResultWithNoMessages</name>
+    </test-case>
+    <test-case start="1729890401805" stop="1729890401807" status="passed">
+      <name>testAfterRenderResultWithoutExisting</name>
+    </test-case>
+    <test-case start="1729890401807" stop="1729890401810" status="passed">
+      <name>testAfterRenderResultWithWrongJson</name>
+    </test-case>
+    <test-case start="1729890401810" stop="1729890401812" status="passed">
+      <name>testAfterRenderResultWithWrongArray</name>
+    </test-case>
+    <test-case start="1729890401812" stop="1729890401815" status="passed">
+      <name>testAfterRenderResultWithAllowedInlineTranslate</name>
+    </test-case>
+    <test-case start="1729890401815" stop="1729890401817" status="passed">
+      <name>testSetCookieWithCookiePath</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452518" stop="1729890452526" version="1.4.0">
+  <name>Magento\Framework\Model\Test\Unit\ResourceModel\Db\VersionControl\MetadataTest</name>
+  <test-cases>
+    <test-case start="1729890452518" stop="1729890452526" status="passed">
+      <name>testGetFields</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406589" stop="1729890406592" version="1.4.0">
+  <name>Magento\UrlRewrite\Test\Unit\Model\Message\UrlRewriteExceptionMessageFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890406589" stop="1729890406591" status="passed">
+      <name>testCreateMessage</name>
+    </test-case>
+    <test-case start="1729890406591" stop="1729890406592" status="passed">
+      <name>testCreateMessageNotFound</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328099" stop="1729890328102" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\SearchAdapter\Filter\Builder\WildcardTest</name>
+  <test-cases>
+    <test-case start="1729890328099" stop="1729890328101" status="passed">
+      <name>testBuildFilter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

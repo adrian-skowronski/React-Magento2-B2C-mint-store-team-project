@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890386400" stop="1729890386402" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Pdf\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890386400" stop="1729890386401" status="passed">
+      <name>testGetRenderersPerProduct</name>
+    </test-case>
+    <test-case start="1729890386402" stop="1729890386402" status="passed">
+      <name>testGetTotals</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

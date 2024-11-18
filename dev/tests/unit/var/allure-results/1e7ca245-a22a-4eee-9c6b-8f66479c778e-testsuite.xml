@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890320279" stop="1729890320295" version="1.4.0">
+  <name>Magento\Developer\Test\Unit\Model\Css\PreProcessor\FileGenerator\PublicationDecoratorTest</name>
+  <test-cases>
+    <test-case start="1729890320280" stop="1729890320294" status="passed">
+      <name>testGenerateRelatedFile</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890416240" stop="1729890416242" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\DataGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890416240" stop="1729890416241" status="passed">
+      <name>testGenerate</name>
+    </test-case>
+    <test-case start="1729890416242" stop="1729890416242" status="passed">
+      <name>testGenerateWithKey</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

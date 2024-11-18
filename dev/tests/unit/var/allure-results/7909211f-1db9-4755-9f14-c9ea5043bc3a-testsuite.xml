@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285225" stop="1729890285239" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Category\AttributeRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890285226" stop="1729890285228" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890285228" stop="1729890285236" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890285237" stop="1729890285239" status="passed">
+      <name>testGetCustomAttributesMetadata</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

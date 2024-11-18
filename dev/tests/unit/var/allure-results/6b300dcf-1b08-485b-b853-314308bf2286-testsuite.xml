@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890380210" stop="1729890380220" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Config\XsdTest</name>
+  <test-cases>
+    <test-case start="1729890380211" stop="1729890380212" status="passed">
+      <name>testValidXmlFile with data set #0</name>
+    </test-case>
+    <test-case start="1729890380213" stop="1729890380214" status="passed">
+      <name>testInvalidXmlFile with data set #0</name>
+    </test-case>
+    <test-case start="1729890380215" stop="1729890380216" status="passed">
+      <name>testInvalidXmlFile with data set #1</name>
+    </test-case>
+    <test-case start="1729890380217" stop="1729890380218" status="passed">
+      <name>testInvalidXmlFile with data set #2</name>
+    </test-case>
+    <test-case start="1729890380218" stop="1729890380219" status="passed">
+      <name>testInvalidXmlFile with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

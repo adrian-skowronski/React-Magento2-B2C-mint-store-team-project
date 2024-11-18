@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402212" stop="1729890402233" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\CopyServiceTest</name>
+  <test-cases>
+    <test-case start="1729890402212" stop="1729890402225" status="passed">
+      <name>testCopyLayoutUpdates</name>
+    </test-case>
+    <test-case start="1729890402226" stop="1729890402229" status="passed">
+      <name>testCopyDatabaseCustomization</name>
+    </test-case>
+    <test-case start="1729890402230" stop="1729890402232" status="passed">
+      <name>testCopyFilesystemCustomization</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

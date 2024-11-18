@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890270208" stop="1729890270239" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Model\Sales\Order\Pdf\Items\InvoiceTest</name>
+  <test-cases>
+    <test-case start="1729890270209" stop="1729890270230" status="passed">
+      <name>testDrawPrice with data set "display_both"</name>
+    </test-case>
+    <test-case start="1729890270230" stop="1729890270234" status="passed">
+      <name>testDrawPrice with data set "including_tax"</name>
+    </test-case>
+    <test-case start="1729890270235" stop="1729890270239" status="passed">
+      <name>testDrawPrice with data set "excluding_tax"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

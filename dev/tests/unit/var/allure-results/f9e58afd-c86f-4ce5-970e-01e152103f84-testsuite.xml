@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890407683" stop="1729890407751" version="1.4.0">
+  <name>Magento\Vault\Test\Unit\Model\Method\VaultTest</name>
+  <test-cases>
+    <test-case start="1729890407684" stop="1729890407693" status="passed">
+      <name>testAuthorizeNotOrderPayment</name>
+    </test-case>
+    <test-case start="1729890407694" stop="1729890407696" status="passed">
+      <name>testAuthorizeNoTokenMetadata with data set #0</name>
+    </test-case>
+    <test-case start="1729890407696" stop="1729890407699" status="passed">
+      <name>testAuthorizeNoTokenMetadata with data set #1</name>
+    </test-case>
+    <test-case start="1729890407699" stop="1729890407702" status="passed">
+      <name>testAuthorizeNoTokenMetadata with data set #2</name>
+    </test-case>
+    <test-case start="1729890407702" stop="1729890407706" status="passed">
+      <name>testAuthorizeNoToken</name>
+    </test-case>
+    <test-case start="1729890407706" stop="1729890407712" status="passed">
+      <name>testAuthorize</name>
+    </test-case>
+    <test-case start="1729890407712" stop="1729890407714" status="passed">
+      <name>testCaptureNotOrderPayment</name>
+    </test-case>
+    <test-case start="1729890407714" stop="1729890407717" status="passed">
+      <name>testCapture</name>
+    </test-case>
+    <test-case start="1729890407717" stop="1729890407720" status="passed">
+      <name>testIsAvailable with data set #0</name>
+    </test-case>
+    <test-case start="1729890407720" stop="1729890407723" status="passed">
+      <name>testIsAvailable with data set #1</name>
+    </test-case>
+    <test-case start="1729890407723" stop="1729890407725" status="passed">
+      <name>testIsAvailable with data set #2</name>
+    </test-case>
+    <test-case start="1729890407725" stop="1729890407727" status="passed">
+      <name>testIsAvailable with data set #3</name>
+    </test-case>
+    <test-case start="1729890407727" stop="1729890407729" status="passed">
+      <name>testIsAvailableWithoutQuote</name>
+    </test-case>
+    <test-case start="1729890407730" stop="1729890407731" status="passed">
+      <name>testCanUseInternal with data set #0</name>
+    </test-case>
+    <test-case start="1729890407732" stop="1729890407734" status="passed">
+      <name>testCanUseInternal with data set #1</name>
+    </test-case>
+    <test-case start="1729890407735" stop="1729890407737" status="passed">
+      <name>testCanUseInternal with data set #2</name>
+    </test-case>
+    <test-case start="1729890407738" stop="1729890407740" status="passed">
+      <name>testCanUseInternal with data set #3</name>
+    </test-case>
+    <test-case start="1729890407741" stop="1729890407743" status="passed">
+      <name>testCanUseInternal with data set #4</name>
+    </test-case>
+    <test-case start="1729890407743" stop="1729890407745" status="passed">
+      <name>testCanUseInternal with data set #5</name>
+    </test-case>
+    <test-case start="1729890407745" stop="1729890407747" status="passed">
+      <name>testCanUseInternal with data set #6</name>
+    </test-case>
+    <test-case start="1729890407748" stop="1729890407750" status="passed">
+      <name>testCanUseInternal with data set #7</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

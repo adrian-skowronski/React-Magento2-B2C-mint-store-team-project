@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402520" stop="1729890402524" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Design\Config\ValueCheckerTest</name>
+  <test-cases>
+    <test-case start="1729890402520" stop="1729890402521" status="passed">
+      <name>testIsDifferentFromDefault</name>
+    </test-case>
+    <test-case start="1729890402521" stop="1729890402522" status="passed">
+      <name>testIsDifferentFromDefaultWithWebsiteScope</name>
+    </test-case>
+    <test-case start="1729890402523" stop="1729890402524" status="passed">
+      <name>testIsDifferentFromDefaultWithArrays</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454923" stop="1729890454949" version="1.4.0">
+  <name>Magento\Framework\Pricing\Test\Unit\Adjustment\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890454924" stop="1729890454931" status="passed">
+      <name>testGetItems with data set #0</name>
+    </test-case>
+    <test-case start="1729890454932" stop="1729890454933" status="passed">
+      <name>testGetItems with data set #1</name>
+    </test-case>
+    <test-case start="1729890454933" stop="1729890454934" status="passed">
+      <name>testGetItems with data set #2</name>
+    </test-case>
+    <test-case start="1729890454935" stop="1729890454936" status="passed">
+      <name>testGetItems with data set #3</name>
+    </test-case>
+    <test-case start="1729890454937" stop="1729890454939" status="passed">
+      <name>testGetItemByCode with data set #0</name>
+    </test-case>
+    <test-case start="1729890454939" stop="1729890454941" status="passed">
+      <name>testGetItemByCode with data set #1</name>
+    </test-case>
+    <test-case start="1729890454941" stop="1729890454943" status="passed">
+      <name>testGetItemByCode with data set #2</name>
+    </test-case>
+    <test-case start="1729890454943" stop="1729890454945" status="passed">
+      <name>testGetItemByCode with data set #3</name>
+    </test-case>
+    <test-case start="1729890454946" stop="1729890454947" status="passed">
+      <name>testGetItemByCode with data set #4</name>
+    </test-case>
+    <test-case start="1729890454947" stop="1729890454949" status="passed">
+      <name>testGetItemByNotExistingCode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

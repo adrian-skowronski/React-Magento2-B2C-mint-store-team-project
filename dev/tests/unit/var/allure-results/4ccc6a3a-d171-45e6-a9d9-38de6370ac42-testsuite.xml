@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353478" stop="1729890353487" version="1.4.0">
+  <name>Magento\Msrp\Test\Unit\Pricing\Price\MsrpPriceTest</name>
+  <test-cases>
+    <test-case start="1729890353479" stop="1729890353481" status="passed">
+      <name>testIsShowPriceOnGestureTrue</name>
+    </test-case>
+    <test-case start="1729890353481" stop="1729890353482" status="passed">
+      <name>testIsShowPriceOnGestureFalse</name>
+    </test-case>
+    <test-case start="1729890353482" stop="1729890353484" status="passed">
+      <name>testGetMsrpPriceMessage</name>
+    </test-case>
+    <test-case start="1729890353484" stop="1729890353485" status="passed">
+      <name>testIsMsrpEnabled</name>
+    </test-case>
+    <test-case start="1729890353486" stop="1729890353487" status="passed">
+      <name>testCanApplyMsrp</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

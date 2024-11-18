@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890331423" stop="1729890331430" version="1.4.0">
+  <name>Magento\GroupedProduct\Test\Unit\Model\ResourceModel\Product\Link\RelationPersisterTest</name>
+  <test-cases>
+    <test-case start="1729890331423" stop="1729890331428" status="passed">
+      <name>testAfterSaveProductLinks</name>
+    </test-case>
+    <test-case start="1729890331428" stop="1729890331430" status="passed">
+      <name>testAroundDeleteProductLink</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

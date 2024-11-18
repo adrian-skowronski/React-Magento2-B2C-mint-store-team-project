@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375441" stop="1729890375450" version="1.4.0">
+  <name>Magento\Rule\Test\Unit\Model\Condition\Sql\BuilderTest</name>
+  <test-cases>
+    <test-case start="1729890375442" stop="1729890375446" status="passed">
+      <name>testAttachConditionToCollection</name>
+    </test-case>
+    <test-case start="1729890375446" stop="1729890375450" status="passed">
+      <name>testAttachConditionAsHtmlToCollection</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287561" stop="1729890287573" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Layer\FilterListTest</name>
+  <test-cases>
+    <test-case start="1729890287562" stop="1729890287564" status="passed">
+      <name>testGetFilters with data set #0</name>
+    </test-case>
+    <test-case start="1729890287565" stop="1729890287568" status="passed">
+      <name>testGetFilters with data set #1</name>
+    </test-case>
+    <test-case start="1729890287568" stop="1729890287570" status="passed">
+      <name>testGetFilters with data set #2</name>
+    </test-case>
+    <test-case start="1729890287571" stop="1729890287572" status="passed">
+      <name>testGetFiltersWithoutCategoryFilter with data set "Filters contains only price attribute"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319869" stop="1729890319898" version="1.4.0">
+  <name>Magento\Developer\Test\Unit\Console\Command\TablesWhitelistGenerateCommandTest</name>
+  <test-cases>
+    <test-case start="1729890319870" stop="1729890319879" status="passed">
+      <name>testCommandSuccess with data set #0</name>
+    </test-case>
+    <test-case start="1729890319881" stop="1729890319883" status="passed">
+      <name>testCommandSuccess with data set #1</name>
+    </test-case>
+    <test-case start="1729890319887" stop="1729890319889" status="passed">
+      <name>testCommandFailure with data set #0</name>
+    </test-case>
+    <test-case start="1729890319893" stop="1729890319894" status="passed">
+      <name>testCommandFailure with data set #1</name>
+    </test-case>
+    <test-case start="1729890319895" stop="1729890319896" status="passed">
+      <name>testCommandFailure with data set #2</name>
+    </test-case>
+    <test-case start="1729890319897" stop="1729890319897" status="passed">
+      <name>testCommandFailure with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

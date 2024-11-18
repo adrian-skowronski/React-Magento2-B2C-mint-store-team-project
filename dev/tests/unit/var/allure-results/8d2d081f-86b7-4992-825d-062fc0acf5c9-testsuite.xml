@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890378455" stop="1729890378469" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Block\Order\PrintShipmentTest</name>
+  <test-cases>
+    <test-case start="1729890378456" stop="1729890378464" status="passed">
+      <name>testIsPagerDisplayed</name>
+    </test-case>
+    <test-case start="1729890378464" stop="1729890378465" status="passed">
+      <name>testGetItemsNoOrder</name>
+    </test-case>
+    <test-case start="1729890378465" stop="1729890378469" status="passed">
+      <name>testGetItemsSuccessful</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442274" stop="1729890442292" version="1.4.0">
+  <name>Magento\Framework\DB\Test\Unit\Logger\FileTest</name>
+  <test-cases>
+    <test-case start="1729890442275" stop="1729890442276" status="passed">
+      <name>testLog</name>
+    </test-case>
+    <test-case start="1729890442277" stop="1729890442279" status="passed">
+      <name>testLogStats with data set #0</name>
+    </test-case>
+    <test-case start="1729890442280" stop="1729890442281" status="passed">
+      <name>testLogStats with data set #1</name>
+    </test-case>
+    <test-case start="1729890442282" stop="1729890442284" status="passed">
+      <name>testLogStats with data set #2</name>
+    </test-case>
+    <test-case start="1729890442284" stop="1729890442286" status="passed">
+      <name>testLogStats with data set #3</name>
+    </test-case>
+    <test-case start="1729890442286" stop="1729890442288" status="passed">
+      <name>testLogStatsWithResult</name>
+    </test-case>
+    <test-case start="1729890442288" stop="1729890442290" status="passed">
+      <name>testLogStatsUnknownType</name>
+    </test-case>
+    <test-case start="1729890442290" stop="1729890442291" status="passed">
+      <name>testcritical</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

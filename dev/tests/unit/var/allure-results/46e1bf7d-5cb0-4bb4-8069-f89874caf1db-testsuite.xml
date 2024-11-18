@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890421740" stop="1729890421752" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\Validator\HTML\StyleAttributeValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890421741" stop="1729890421742" status="passed">
+      <name>testValidate with data set "not a style"</name>
+    </test-case>
+    <test-case start="1729890421743" stop="1729890421744" status="passed">
+      <name>testValidate with data set "valid style"</name>
+    </test-case>
+    <test-case start="1729890421745" stop="1729890421745" status="passed">
+      <name>testValidate with data set "invalid position style"</name>
+    </test-case>
+    <test-case start="1729890421746" stop="1729890421747" status="passed">
+      <name>testValidate with data set "another invalid position style"</name>
+    </test-case>
+    <test-case start="1729890421748" stop="1729890421748" status="passed">
+      <name>testValidate with data set "valid position style"</name>
+    </test-case>
+    <test-case start="1729890421749" stop="1729890421750" status="passed">
+      <name>testValidate with data set "valid background style"</name>
+    </test-case>
+    <test-case start="1729890421750" stop="1729890421751" status="passed">
+      <name>testValidate with data set "invalid opacity style"</name>
+    </test-case>
+    <test-case start="1729890421752" stop="1729890421752" status="passed">
+      <name>testValidate with data set "invalid z-index style"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890440785" stop="1729890440791" version="1.4.0">
+  <name>Magento\Framework\Config\Test\Unit\Converter\Dom\FlatTest</name>
+  <test-cases>
+    <test-case start="1729890440785" stop="1729890440788" status="passed">
+      <name>testConvert</name>
+    </test-case>
+    <test-case start="1729890440788" stop="1729890440790" status="passed">
+      <name>testConvertWithNotUnique</name>
+    </test-case>
+    <test-case start="1729890440790" stop="1729890440791" status="passed">
+      <name>testConvertWrongArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

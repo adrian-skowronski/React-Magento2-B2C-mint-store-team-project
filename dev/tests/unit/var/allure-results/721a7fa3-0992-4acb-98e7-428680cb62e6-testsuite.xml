@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890274870" stop="1729890274938" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\ConfigurationTest</name>
+  <test-cases>
+    <test-case start="1729890274871" stop="1729890274874" status="passed">
+      <name>testGetDefaultWebsiteId</name>
+    </test-case>
+    <test-case start="1729890274876" stop="1729890274880" status="passed">
+      <name>testGetIsQtyTypeIds</name>
+    </test-case>
+    <test-case start="1729890274880" stop="1729890274882" status="passed">
+      <name>testIsQty</name>
+    </test-case>
+    <test-case start="1729890274882" stop="1729890274884" status="passed">
+      <name>testCanSubtractQty</name>
+    </test-case>
+    <test-case start="1729890274884" stop="1729890274888" status="passed">
+      <name>testGetMinQty</name>
+    </test-case>
+    <test-case start="1729890274890" stop="1729890274895" status="passed">
+      <name>testGetMinSaleQty</name>
+    </test-case>
+    <test-case start="1729890274896" stop="1729890274897" status="passed">
+      <name>testGetMaxSaleQty</name>
+    </test-case>
+    <test-case start="1729890274898" stop="1729890274904" status="passed">
+      <name>testGetNotifyStockQty</name>
+    </test-case>
+    <test-case start="1729890274904" stop="1729890274905" status="passed">
+      <name>testGetEnableQtyIncrements</name>
+    </test-case>
+    <test-case start="1729890274909" stop="1729890274912" status="passed">
+      <name>testGetQtyIncrements</name>
+    </test-case>
+    <test-case start="1729890274912" stop="1729890274915" status="passed">
+      <name>testGetBackorders</name>
+    </test-case>
+    <test-case start="1729890274916" stop="1729890274917" status="passed">
+      <name>testGetCanBackInStock</name>
+    </test-case>
+    <test-case start="1729890274917" stop="1729890274922" status="passed">
+      <name>testIsShowOutOfStock</name>
+    </test-case>
+    <test-case start="1729890274922" stop="1729890274925" status="passed">
+      <name>testIsAutoReturnEnabled</name>
+    </test-case>
+    <test-case start="1729890274927" stop="1729890274928" status="passed">
+      <name>testIsDisplayProductStockStatus</name>
+    </test-case>
+    <test-case start="1729890274929" stop="1729890274933" status="passed">
+      <name>testGetDefaultConfigValue</name>
+    </test-case>
+    <test-case start="1729890274934" stop="1729890274935" status="passed">
+      <name>testGetConfigItemOptions</name>
+    </test-case>
+    <test-case start="1729890274935" stop="1729890274937" status="passed">
+      <name>testGetManageStock</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

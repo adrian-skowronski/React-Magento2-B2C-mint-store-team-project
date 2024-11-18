@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287831" stop="1729890287835" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Attribute\Backend\BooleanTest</name>
+  <test-cases>
+    <test-case start="1729890287831" stop="1729890287835" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

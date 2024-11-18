@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890398509" stop="1729890398525" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\CustomerData\CheckoutTotalsJsLayoutDataProviderTest</name>
+  <test-cases>
+    <test-case start="1729890398511" stop="1729890398521" status="passed">
+      <name>testGetData with data set "Test with settings display cart incl and excl is Yes"</name>
+    </test-case>
+    <test-case start="1729890398521" stop="1729890398525" status="passed">
+      <name>testGetData with data set "Test with settings display cart incl and excl is No"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

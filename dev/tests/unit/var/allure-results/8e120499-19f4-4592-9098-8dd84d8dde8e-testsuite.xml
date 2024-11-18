@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890465388" stop="1729890465473" version="1.4.0">
+  <name>Magento\Framework\Webapi\Test\Unit\ServiceInputProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890465388" stop="1729890465396" status="passed">
+      <name>testSimpleProperties</name>
+    </test-case>
+    <test-case start="1729890465396" stop="1729890465399" status="passed">
+      <name>testNonExistentPropertiesWithDefaultArgumentValue</name>
+    </test-case>
+    <test-case start="1729890465399" stop="1729890465401" status="passed">
+      <name>testNonExistentPropertiesWithoutDefaultArgumentValue</name>
+    </test-case>
+    <test-case start="1729890465402" stop="1729890465406" status="passed">
+      <name>testNestedDataProperties</name>
+    </test-case>
+    <test-case start="1729890465406" stop="1729890465410" status="passed">
+      <name>testSimpleConstructorProperties</name>
+    </test-case>
+    <test-case start="1729890465411" stop="1729890465413" status="passed">
+      <name>testSimpleArrayProperties</name>
+    </test-case>
+    <test-case start="1729890465413" stop="1729890465415" status="passed">
+      <name>testAssociativeArrayProperties</name>
+    </test-case>
+    <test-case start="1729890465416" stop="1729890465418" status="passed">
+      <name>testAssociativeArrayPropertiesWithItem</name>
+    </test-case>
+    <test-case start="1729890465418" stop="1729890465420" status="passed">
+      <name>testAssociativeArrayPropertiesWithItemArray</name>
+    </test-case>
+    <test-case start="1729890465420" stop="1729890465424" status="passed">
+      <name>testArrayOfDataObjectProperties</name>
+    </test-case>
+    <test-case start="1729890465424" stop="1729890465426" status="passed">
+      <name>testArrayOfDataObjectPropertiesIsValidated</name>
+    </test-case>
+    <test-case start="1729890465427" stop="1729890465430" status="passed">
+      <name>testDefaultPageSizeSetterIsInvoked</name>
+    </test-case>
+    <test-case start="1729890465430" stop="1729890465433" status="passed">
+      <name>testNestedSimpleArrayProperties</name>
+    </test-case>
+    <test-case start="1729890465433" stop="1729890465437" status="passed">
+      <name>testNestedAssociativeArrayProperties</name>
+    </test-case>
+    <test-case start="1729890465437" stop="1729890465441" status="passed">
+      <name>testNestedArrayOfDataObjectProperties</name>
+    </test-case>
+    <test-case start="1729890465442" stop="1729890465447" status="passed">
+      <name>testCustomAttributesProperties with data set "customAttributeInteger"</name>
+    </test-case>
+    <test-case start="1729890465447" stop="1729890465450" status="passed">
+      <name>testCustomAttributesProperties with data set "customAttributeIntegerCamelCaseCode"</name>
+    </test-case>
+    <test-case start="1729890465451" stop="1729890465455" status="passed">
+      <name>testCustomAttributesProperties with data set "customAttributeObject"</name>
+    </test-case>
+    <test-case start="1729890465455" stop="1729890465462" status="passed">
+      <name>testCustomAttributesProperties with data set "customAttributeArrayOfObjects"</name>
+    </test-case>
+    <test-case start="1729890465463" stop="1729890465466" status="passed">
+      <name>testCustomAttributesExceptions with data set #0</name>
+    </test-case>
+    <test-case start="1729890465466" stop="1729890465469" status="passed">
+      <name>testCustomAttributesExceptions with data set #1</name>
+    </test-case>
+    <test-case start="1729890465470" stop="1729890465473" status="passed">
+      <name>testCustomAttributesExceptions with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

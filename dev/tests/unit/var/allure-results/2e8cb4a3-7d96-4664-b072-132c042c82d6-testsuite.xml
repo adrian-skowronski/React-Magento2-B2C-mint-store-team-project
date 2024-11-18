@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328398" stop="1729890328421" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Block\Adminhtml\Template\EditTest</name>
+  <test-cases>
+    <test-case start="1729890328398" stop="1729890328418" status="passed">
+      <name>testGetCurrentlyUsedForPaths</name>
+    </test-case>
+    <test-case start="1729890328418" stop="1729890328421" status="passed">
+      <name>testGetDefaultTemplatesAsOptionsArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

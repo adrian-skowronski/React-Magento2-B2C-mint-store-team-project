@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442397" stop="1729890442405" version="1.4.0">
+  <name>Magento\Framework\DB\Test\Unit\QueryTest</name>
+  <test-cases>
+    <test-case start="1729890442397" stop="1729890442400" status="passed">
+      <name>testGetAllIds</name>
+    </test-case>
+    <test-case start="1729890442400" stop="1729890442402" status="passed">
+      <name>testGetSize</name>
+    </test-case>
+    <test-case start="1729890442403" stop="1729890442403" status="passed">
+      <name>testFetchAll</name>
+    </test-case>
+    <test-case start="1729890442404" stop="1729890442405" status="passed">
+      <name>testFetchItem</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

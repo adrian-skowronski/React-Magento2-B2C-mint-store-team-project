@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890259061" stop="1729890259150" version="1.4.0">
+  <name>Magento\AdobeStockClient\Test\Unit\Model\Client\Files\FilesTest</name>
+  <test-cases>
+    <test-case start="1729890259064" stop="1729890259110" status="passed">
+      <name>testResultContainsEmptyFiles with data set #0</name>
+    </test-case>
+    <test-case start="1729890259112" stop="1729890259144" status="passed">
+      <name>testResultContainsFiles with data set #0</name>
+    </test-case>
+    <test-case start="1729890259145" stop="1729890259150" status="passed">
+      <name>testWithEmptyIds</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

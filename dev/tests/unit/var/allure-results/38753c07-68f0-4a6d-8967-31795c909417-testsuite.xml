@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890272037" stop="1729890272057" version="1.4.0">
+  <name>Magento\CatalogImportExport\Test\Unit\Model\Export\ProductTest</name>
+  <test-cases>
+    <test-case start="1729890272038" stop="1729890272042" status="passed">
+      <name>testGetEntityTypeCode</name>
+    </test-case>
+    <test-case start="1729890272042" stop="1729890272044" status="passed">
+      <name>testUpdateDataWithCategoryColumnsNoCategoriesAssigned</name>
+    </test-case>
+    <test-case start="1729890272044" stop="1729890272047" status="passed">
+      <name>testGetHeaderColumns</name>
+    </test-case>
+    <test-case start="1729890272047" stop="1729890272051" status="passed">
+      <name>testExportCountZeroBreakInternalCalls</name>
+    </test-case>
+    <test-case start="1729890272051" stop="1729890272056" status="passed">
+      <name>testExportCurPageEqualToLastBreakInternalCalls</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

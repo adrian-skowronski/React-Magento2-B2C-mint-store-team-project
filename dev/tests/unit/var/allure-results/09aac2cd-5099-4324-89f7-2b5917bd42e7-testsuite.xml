@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375752" stop="1729890375770" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Controller\Adminhtml\Promo\Quote\GenerateTest</name>
+  <test-cases>
+    <test-case start="1729890375752" stop="1729890375761" status="passed">
+      <name>testExecuteWithCouponTypeAuto</name>
+    </test-case>
+    <test-case start="1729890375762" stop="1729890375766" status="passed">
+      <name>testExecuteWithAutoGenerationEnabled</name>
+    </test-case>
+    <test-case start="1729890375766" stop="1729890375770" status="passed">
+      <name>testExecuteWithCouponTypeNotAutoAndAutoGenerationNotEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

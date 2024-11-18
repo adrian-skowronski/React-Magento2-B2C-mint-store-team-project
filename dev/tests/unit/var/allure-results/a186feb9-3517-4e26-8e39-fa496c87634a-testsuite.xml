@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890357370" stop="1729890357381" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Observer\FlushCacheByTagsTest</name>
+  <test-cases>
+    <test-case start="1729890357372" stop="1729890357376" status="passed">
+      <name>testExecute with data set "full_page cache type is enabled"</name>
+    </test-case>
+    <test-case start="1729890357377" stop="1729890357379" status="passed">
+      <name>testExecute with data set "full_page cache type is disabled"</name>
+    </test-case>
+    <test-case start="1729890357379" stop="1729890357381" status="passed">
+      <name>testExecuteWithEmptyTags</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

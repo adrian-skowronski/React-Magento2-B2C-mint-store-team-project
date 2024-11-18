@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294530" stop="1729890294543" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ResourceModel\Product\LinkTest</name>
+  <test-cases>
+    <test-case start="1729890294530" stop="1729890294535" status="passed">
+      <name>testGetAttributesByType</name>
+    </test-case>
+    <test-case start="1729890294535" stop="1729890294537" status="passed">
+      <name>testGetAttributeTypeTable</name>
+    </test-case>
+    <test-case start="1729890294537" stop="1729890294540" status="passed">
+      <name>testGetChildrenIds</name>
+    </test-case>
+    <test-case start="1729890294540" stop="1729890294543" status="passed">
+      <name>testGetParentIdsByChild</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

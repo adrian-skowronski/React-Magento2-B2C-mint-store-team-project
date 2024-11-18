@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890313242" stop="1729890313244" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Block\SectionConfigTest</name>
+  <test-cases>
+    <test-case start="1729890313242" stop="1729890313244" status="passed">
+      <name>testGetSections</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

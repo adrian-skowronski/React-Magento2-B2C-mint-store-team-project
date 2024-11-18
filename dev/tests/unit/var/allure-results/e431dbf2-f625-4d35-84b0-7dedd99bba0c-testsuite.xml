@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890317654" stop="1729890317661" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Plugin\CustomerFlushFormKeyTest</name>
+  <test-cases>
+    <test-case start="1729890317655" stop="1729890317658" status="passed">
+      <name>testAroundFlushFormKey with data set #0</name>
+    </test-case>
+    <test-case start="1729890317658" stop="1729890317659" status="passed">
+      <name>testAroundFlushFormKey with data set #1</name>
+    </test-case>
+    <test-case start="1729890317660" stop="1729890317660" status="passed">
+      <name>testAroundFlushFormKey with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

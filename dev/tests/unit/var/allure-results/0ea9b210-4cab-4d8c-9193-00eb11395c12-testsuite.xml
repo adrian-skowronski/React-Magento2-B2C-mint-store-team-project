@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890411890" stop="1729890411949" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Model\WishlistTest</name>
+  <test-cases>
+    <test-case start="1729890411890" stop="1729890411905" status="passed">
+      <name>testLoadByCustomerId</name>
+    </test-case>
+    <test-case start="1729890411906" stop="1729890411929" status="passed">
+      <name>testUpdateItem with data set #0</name>
+    </test-case>
+    <test-case start="1729890411930" stop="1729890411935" status="passed">
+      <name>testAddNewItem with data set #0</name>
+    </test-case>
+    <test-case start="1729890411935" stop="1729890411940" status="passed">
+      <name>testAddNewItem with data set #1</name>
+    </test-case>
+    <test-case start="1729890411940" stop="1729890411944" status="passed">
+      <name>testAddNewItem with data set #2</name>
+    </test-case>
+    <test-case start="1729890411945" stop="1729890411949" status="passed">
+      <name>testAddNewItem with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

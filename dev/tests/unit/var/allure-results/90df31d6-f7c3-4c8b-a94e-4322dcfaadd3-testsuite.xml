@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890425671" stop="1729890425674" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\PageCache\PageCacheTest</name>
+  <test-cases>
+    <test-case start="1729890425672" stop="1729890425673" status="passed">
+      <name>testIdentifierProperty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

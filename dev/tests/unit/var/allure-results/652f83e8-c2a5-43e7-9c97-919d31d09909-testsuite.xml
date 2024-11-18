@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461413" stop="1729890461418" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890461414" stop="1729890461415" status="passed">
+      <name>testIsMergeCssFiles with data set #0</name>
+    </test-case>
+    <test-case start="1729890461415" stop="1729890461416" status="passed">
+      <name>testIsMergeCssFiles with data set #1</name>
+    </test-case>
+    <test-case start="1729890461416" stop="1729890461417" status="passed">
+      <name>testIsMergeJsFiles with data set #0</name>
+    </test-case>
+    <test-case start="1729890461418" stop="1729890461418" status="passed">
+      <name>testIsMergeJsFiles with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

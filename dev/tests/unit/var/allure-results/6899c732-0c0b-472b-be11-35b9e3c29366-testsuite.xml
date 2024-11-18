@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890416379" stop="1729890416382" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\Description\Mixin\ItalicMixinTest</name>
+  <test-cases>
+    <test-case start="1729890416379" stop="1729890416380" status="passed">
+      <name>testEmptyApply</name>
+    </test-case>
+    <test-case start="1729890416381" stop="1729890416382" status="passed">
+      <name>testApply</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

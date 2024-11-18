@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358405" stop="1729890358408" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Gateway\Config\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890358406" stop="1729890358407" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+    <test-case start="1729890358407" stop="1729890358408" status="passed">
+      <name>testGetValueWithDefaultPathPattern</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

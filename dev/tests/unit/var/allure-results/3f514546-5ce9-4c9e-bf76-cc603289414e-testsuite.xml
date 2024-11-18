@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890317851" stop="1729890317885" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\ResourceModel\AddressRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890317851" stop="1729890317865" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890317865" stop="1729890317867" status="passed">
+      <name>testSaveWithException</name>
+    </test-case>
+    <test-case start="1729890317867" stop="1729890317869" status="passed">
+      <name>testSaveWithInvalidRegion</name>
+    </test-case>
+    <test-case start="1729890317869" stop="1729890317871" status="passed">
+      <name>testSaveWithInvalidRegionId</name>
+    </test-case>
+    <test-case start="1729890317872" stop="1729890317873" status="passed">
+      <name>testGetById</name>
+    </test-case>
+    <test-case start="1729890317874" stop="1729890317878" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890317878" stop="1729890317881" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890317881" stop="1729890317885" status="passed">
+      <name>testDeleteById</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

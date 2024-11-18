@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890278905" stop="1729890278912" version="1.4.0">
+  <name>Magento\CatalogSearch\Test\Unit\Model\Indexer\Fulltext\Plugin\Product\ActionTest</name>
+  <test-cases>
+    <test-case start="1729890278905" stop="1729890278907" status="passed">
+      <name>testAfterUpdateAttributesNonScheduled</name>
+    </test-case>
+    <test-case start="1729890278907" stop="1729890278908" status="passed">
+      <name>testAfterUpdateAttributesScheduled</name>
+    </test-case>
+    <test-case start="1729890278909" stop="1729890278910" status="passed">
+      <name>testAfterUpdateWebsitesNonScheduled</name>
+    </test-case>
+    <test-case start="1729890278910" stop="1729890278912" status="passed">
+      <name>testAfterUpdateWebsitesScheduled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

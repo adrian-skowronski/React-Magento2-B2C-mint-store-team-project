@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441438" stop="1729890441440" version="1.4.0">
+  <name>Magento\Framework\Controller\Test\Unit\Result\RawTest</name>
+  <test-cases>
+    <test-case start="1729890441438" stop="1729890441439" status="passed">
+      <name>testSetContents</name>
+    </test-case>
+    <test-case start="1729890441439" stop="1729890441440" status="passed">
+      <name>testRender</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

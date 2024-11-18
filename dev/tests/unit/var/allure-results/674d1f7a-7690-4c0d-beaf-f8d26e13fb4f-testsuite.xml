@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890423840" stop="1729890423842" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Config\MetadataProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890423840" stop="1729890423841" status="passed">
+      <name>testProcess</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

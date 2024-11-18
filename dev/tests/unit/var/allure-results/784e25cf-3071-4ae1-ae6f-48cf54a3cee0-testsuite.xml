@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890382927" stop="1729890382936" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Grid\Massaction\ItemsUpdaterTest</name>
+  <test-cases>
+    <test-case start="1729890382928" stop="1729890382934" status="passed">
+      <name>testUpdate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

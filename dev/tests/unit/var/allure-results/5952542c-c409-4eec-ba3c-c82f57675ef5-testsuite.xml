@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264027" stop="1729890264039" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\App\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890264027" stop="1729890264030" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+    <test-case start="1729890264031" stop="1729890264032" status="passed">
+      <name>testIsSetFlag with data set #0</name>
+    </test-case>
+    <test-case start="1729890264032" stop="1729890264033" status="passed">
+      <name>testIsSetFlag with data set #1</name>
+    </test-case>
+    <test-case start="1729890264034" stop="1729890264034" status="passed">
+      <name>testIsSetFlag with data set #2</name>
+    </test-case>
+    <test-case start="1729890264035" stop="1729890264036" status="passed">
+      <name>testIsSetFlag with data set #3</name>
+    </test-case>
+    <test-case start="1729890264037" stop="1729890264038" status="passed">
+      <name>testIsSetFlag with data set #4</name>
+    </test-case>
+    <test-case start="1729890264038" stop="1729890264039" status="passed">
+      <name>testIsSetFlag with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

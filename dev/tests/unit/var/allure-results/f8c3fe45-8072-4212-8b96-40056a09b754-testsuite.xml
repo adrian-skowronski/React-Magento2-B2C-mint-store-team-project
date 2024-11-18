@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890350474" stop="1729890350629" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Oauth\OauthTest</name>
+  <test-cases>
+    <test-case start="1729890350475" stop="1729890350489" status="passed">
+      <name>testGetRequestTokenVersionRejected</name>
+    </test-case>
+    <test-case start="1729890350490" stop="1729890350492" status="passed">
+      <name>testGetRequestTokenConsumerKeyRejected</name>
+    </test-case>
+    <test-case start="1729890350492" stop="1729890350497" status="passed">
+      <name>testGetRequestTokenConsumerKeyNotFound</name>
+    </test-case>
+    <test-case start="1729890350497" stop="1729890350501" status="passed">
+      <name>testGetRequestTokenOutdatedConsumerKey</name>
+    </test-case>
+    <test-case start="1729890350502" stop="1729890350505" status="passed">
+      <name>testGetRequestTokenOauthTimestampRefused with data set #0</name>
+    </test-case>
+    <test-case start="1729890350505" stop="1729890350508" status="passed">
+      <name>testGetRequestTokenOauthTimestampRefused with data set #1</name>
+    </test-case>
+    <test-case start="1729890350509" stop="1729890350513" status="passed">
+      <name>testGetRequestTokenNonceAlreadyUsed</name>
+    </test-case>
+    <test-case start="1729890350513" stop="1729890350515" status="passed">
+      <name>testGetRequestTokenNoConsumer</name>
+    </test-case>
+    <test-case start="1729890350515" stop="1729890350521" status="passed">
+      <name>testGetRequestTokenTokenRejected</name>
+    </test-case>
+    <test-case start="1729890350521" stop="1729890350528" status="passed">
+      <name>testGetRequestTokenTokenRejectedByType</name>
+    </test-case>
+    <test-case start="1729890350528" stop="1729890350533" status="passed">
+      <name>testGetRequestTokenSignatureMethodRejected</name>
+    </test-case>
+    <test-case start="1729890350534" stop="1729890350539" status="passed">
+      <name>testGetRequestTokenInvalidSignature</name>
+    </test-case>
+    <test-case start="1729890350540" stop="1729890350547" status="passed">
+      <name>testGetRequestToken</name>
+    </test-case>
+    <test-case start="1729890350547" stop="1729890350548" status="passed">
+      <name>testGetAccessTokenVersionRejected</name>
+    </test-case>
+    <test-case start="1729890350549" stop="1729890350550" status="passed">
+      <name>testGetAccessTokenParameterAbsent</name>
+    </test-case>
+    <test-case start="1729890350550" stop="1729890350552" status="passed">
+      <name>testGetAccessTokenTokenRejected</name>
+    </test-case>
+    <test-case start="1729890350552" stop="1729890350554" status="passed">
+      <name>testGetAccessTokenSignatureMethodRejected</name>
+    </test-case>
+    <test-case start="1729890350554" stop="1729890350558" status="passed">
+      <name>testGetAccessTokenTokenUsed</name>
+    </test-case>
+    <test-case start="1729890350558" stop="1729890350563" status="passed">
+      <name>testGetAccessTokenConsumerIdDoesntMatch</name>
+    </test-case>
+    <test-case start="1729890350564" stop="1729890350569" status="passed">
+      <name>testGetAccessTokenVerifierInvalid with data set #0</name>
+    </test-case>
+    <test-case start="1729890350569" stop="1729890350573" status="passed">
+      <name>testGetAccessTokenVerifierInvalid with data set #1</name>
+    </test-case>
+    <test-case start="1729890350573" stop="1729890350576" status="passed">
+      <name>testGetAccessTokenVerifierInvalid with data set #2</name>
+    </test-case>
+    <test-case start="1729890350576" stop="1729890350583" status="passed">
+      <name>testGetAccessToken</name>
+    </test-case>
+    <test-case start="1729890350583" stop="1729890350586" status="passed">
+      <name>testValidateAccessTokenRequestTokenRejected</name>
+    </test-case>
+    <test-case start="1729890350587" stop="1729890350589" status="passed">
+      <name>testValidateAccessTokenRequestTokenRejectedByType</name>
+    </test-case>
+    <test-case start="1729890350590" stop="1729890350595" status="passed">
+      <name>testValidateAccessTokenRequestTokenRevoked</name>
+    </test-case>
+    <test-case start="1729890350595" stop="1729890350601" status="passed">
+      <name>testValidateAccessTokenRequest</name>
+    </test-case>
+    <test-case start="1729890350602" stop="1729890350605" status="passed">
+      <name>testValidateAccessTokenRejectedByType</name>
+    </test-case>
+    <test-case start="1729890350605" stop="1729890350608" status="passed">
+      <name>testValidateAccessTokenRevoked</name>
+    </test-case>
+    <test-case start="1729890350608" stop="1729890350612" status="passed">
+      <name>testValidateAccessTokenNoConsumer</name>
+    </test-case>
+    <test-case start="1729890350612" stop="1729890350617" status="passed">
+      <name>testValidateAccessToken</name>
+    </test-case>
+    <test-case start="1729890350617" stop="1729890350620" status="passed">
+      <name>testBuildAuthorizationHeader</name>
+    </test-case>
+    <test-case start="1729890350621" stop="1729890350622" status="passed">
+      <name>testMissingParamForBuildAuthorizationHeader with data set #0</name>
+    </test-case>
+    <test-case start="1729890350623" stop="1729890350624" status="passed">
+      <name>testMissingParamForBuildAuthorizationHeader with data set #1</name>
+    </test-case>
+    <test-case start="1729890350625" stop="1729890350626" status="passed">
+      <name>testMissingParamForBuildAuthorizationHeader with data set #2</name>
+    </test-case>
+    <test-case start="1729890350627" stop="1729890350629" status="passed">
+      <name>testMissingParamForBuildAuthorizationHeader with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

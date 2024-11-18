@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890259664" stop="1729890259780" version="1.4.0">
+  <name>Magento\AdobeStockClient\Test\Unit\Model\ConnectionWrapperTest</name>
+  <test-cases>
+    <test-case start="1729890259669" stop="1729890259675" status="passed">
+      <name>testApiKey</name>
+    </test-case>
+    <test-case start="1729890259675" stop="1729890259680" status="passed">
+      <name>testSearchFilesInitialize</name>
+    </test-case>
+    <test-case start="1729890259687" stop="1729890259693" status="passed">
+      <name>testSearchFilesInitializeException</name>
+    </test-case>
+    <test-case start="1729890259694" stop="1729890259697" status="passed">
+      <name>testGetNextResponse</name>
+    </test-case>
+    <test-case start="1729890259700" stop="1729890259702" status="passed">
+      <name>testGetNextResponseWithException</name>
+    </test-case>
+    <test-case start="1729890259713" stop="1729890259717" status="passed">
+      <name>testGetNextResponseWithExceptionThatNeedMoreAttention with data set #0</name>
+    </test-case>
+    <test-case start="1729890259718" stop="1729890259728" status="passed">
+      <name>testGetNextResponseWithExceptionThatNeedMoreAttention with data set #1</name>
+    </test-case>
+    <test-case start="1729890259729" stop="1729890259732" status="passed">
+      <name>testGetNextResponseWithExceptionThatNeedMoreAttention with data set #2</name>
+    </test-case>
+    <test-case start="1729890259734" stop="1729890259736" status="passed">
+      <name>testGetNextResponseWithExceptionThatNeedMoreAttention with data set #3</name>
+    </test-case>
+    <test-case start="1729890259739" stop="1729890259743" status="passed">
+      <name>testGetMemberProfile</name>
+    </test-case>
+    <test-case start="1729890259744" stop="1729890259746" status="passed">
+      <name>testGetMemberProfileWithException</name>
+    </test-case>
+    <test-case start="1729890259749" stop="1729890259757" status="passed">
+      <name>testGetContentLicense</name>
+    </test-case>
+    <test-case start="1729890259760" stop="1729890259768" status="passed">
+      <name>testGetContentLicenseWithException</name>
+    </test-case>
+    <test-case start="1729890259768" stop="1729890259772" status="passed">
+      <name>testDownloadAssetUrl</name>
+    </test-case>
+    <test-case start="1729890259774" stop="1729890259776" status="passed">
+      <name>testDownloadAssetUrlWithExeption</name>
+    </test-case>
+    <test-case start="1729890259777" stop="1729890259780" status="passed">
+      <name>testFlushTokens</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

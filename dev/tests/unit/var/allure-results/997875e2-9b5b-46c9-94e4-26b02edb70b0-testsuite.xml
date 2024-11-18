@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890266964" stop="1729890267009" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Model\Menu\Item\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890266965" stop="1729890266976" status="passed">
+      <name>testValidateWithMissingRequiredParamThrowsException with data set #0</name>
+    </test-case>
+    <test-case start="1729890266976" stop="1729890266977" status="passed">
+      <name>testValidateWithMissingRequiredParamThrowsException with data set #1</name>
+    </test-case>
+    <test-case start="1729890266978" stop="1729890266978" status="passed">
+      <name>testValidateWithMissingRequiredParamThrowsException with data set #2</name>
+    </test-case>
+    <test-case start="1729890266979" stop="1729890266982" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #0</name>
+    </test-case>
+    <test-case start="1729890266983" stop="1729890266984" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #1</name>
+    </test-case>
+    <test-case start="1729890266984" stop="1729890266985" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #2</name>
+    </test-case>
+    <test-case start="1729890266986" stop="1729890266987" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #3</name>
+    </test-case>
+    <test-case start="1729890266987" stop="1729890266988" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #4</name>
+    </test-case>
+    <test-case start="1729890266988" stop="1729890266989" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #5</name>
+    </test-case>
+    <test-case start="1729890266990" stop="1729890266991" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #6</name>
+    </test-case>
+    <test-case start="1729890266991" stop="1729890266992" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #7</name>
+    </test-case>
+    <test-case start="1729890266993" stop="1729890266993" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #8</name>
+    </test-case>
+    <test-case start="1729890266994" stop="1729890266995" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #9</name>
+    </test-case>
+    <test-case start="1729890266995" stop="1729890266996" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #10</name>
+    </test-case>
+    <test-case start="1729890266997" stop="1729890266998" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #11</name>
+    </test-case>
+    <test-case start="1729890266999" stop="1729890266999" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #12</name>
+    </test-case>
+    <test-case start="1729890267000" stop="1729890267001" status="passed">
+      <name>testValidateWithNonValidPrimitivesThrowsException with data set #13</name>
+    </test-case>
+    <test-case start="1729890267002" stop="1729890267003" status="passed">
+      <name>testValidateWithDuplicateIdsThrowsException with data set #0</name>
+    </test-case>
+    <test-case start="1729890267003" stop="1729890267004" status="passed">
+      <name>testValidateWithDuplicateIdsThrowsException with data set #1</name>
+    </test-case>
+    <test-case start="1729890267005" stop="1729890267005" status="passed">
+      <name>testValidateParamWithNullForRequiredParamThrowsException</name>
+    </test-case>
+    <test-case start="1729890267006" stop="1729890267006" status="passed">
+      <name>testValidateParamWithNullForNonRequiredParamDoesntValidate</name>
+    </test-case>
+    <test-case start="1729890267007" stop="1729890267007" status="passed">
+      <name>testValidateParamValidatesPrimitiveValues</name>
+    </test-case>
+    <test-case start="1729890267008" stop="1729890267008" status="passed">
+      <name>testValidateParamResourceCompoundModuleNamespace</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

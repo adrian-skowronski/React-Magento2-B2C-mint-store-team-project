@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316710" stop="1729890316735" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Metadata\AddressMetadataTest</name>
+  <test-cases>
+    <test-case start="1729890316711" stop="1729890316720" status="passed">
+      <name>testGetAttributes</name>
+    </test-case>
+    <test-case start="1729890316720" stop="1729890316721" status="passed">
+      <name>testGetAttributesWithException</name>
+    </test-case>
+    <test-case start="1729890316722" stop="1729890316723" status="passed">
+      <name>testGetAttributeMetadata</name>
+    </test-case>
+    <test-case start="1729890316723" stop="1729890316724" status="passed">
+      <name>testGetAttributeMetadataWithCodeId</name>
+    </test-case>
+    <test-case start="1729890316724" stop="1729890316725" status="passed">
+      <name>testGetAttributeMetadataWithoutAttribute</name>
+    </test-case>
+    <test-case start="1729890316725" stop="1729890316727" status="passed">
+      <name>testGetAllAttributesMetadata</name>
+    </test-case>
+    <test-case start="1729890316727" stop="1729890316728" status="passed">
+      <name>testGetAllAttributesMetadataWithoutEntity</name>
+    </test-case>
+    <test-case start="1729890316728" stop="1729890316730" status="passed">
+      <name>testGetCustomAttributesMetadata</name>
+    </test-case>
+    <test-case start="1729890316730" stop="1729890316733" status="passed">
+      <name>testGetCustomAttributesMetadataWithSystemAttribute</name>
+    </test-case>
+    <test-case start="1729890316733" stop="1729890316735" status="passed">
+      <name>testGetCustomAttributesMetadataWithoutAttributes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

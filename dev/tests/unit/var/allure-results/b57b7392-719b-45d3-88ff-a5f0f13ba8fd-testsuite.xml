@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316928" stop="1729890316937" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Metadata\Form\BooleanTest</name>
+  <test-cases>
+    <test-case start="1729890316929" stop="1729890316930" status="passed">
+      <name>testGetOptionText with data set #0</name>
+    </test-case>
+    <test-case start="1729890316931" stop="1729890316932" status="passed">
+      <name>testGetOptionText with data set #1</name>
+    </test-case>
+    <test-case start="1729890316932" stop="1729890316933" status="passed">
+      <name>testGetOptionText with data set "int 5"</name>
+    </test-case>
+    <test-case start="1729890316933" stop="1729890316934" status="passed">
+      <name>testGetOptionText with data set "Null"</name>
+    </test-case>
+    <test-case start="1729890316935" stop="1729890316936" status="passed">
+      <name>testGetOptionText with data set "Invalid"</name>
+    </test-case>
+    <test-case start="1729890316936" stop="1729890316937" status="passed">
+      <name>testGetOptionText with data set "Empty string"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

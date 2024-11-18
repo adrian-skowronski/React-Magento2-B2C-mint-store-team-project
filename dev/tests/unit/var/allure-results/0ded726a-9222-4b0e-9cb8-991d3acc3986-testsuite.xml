@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890331233" stop="1729890331372" version="1.4.0">
+  <name>Magento\GroupedProduct\Test\Unit\Model\Product\Type\GroupedTest</name>
+  <test-cases>
+    <test-case start="1729890331233" stop="1729890331237" status="passed">
+      <name>testHasWeightFalse</name>
+    </test-case>
+    <test-case start="1729890331237" stop="1729890331239" status="passed">
+      <name>testGetChildrenIds</name>
+    </test-case>
+    <test-case start="1729890331239" stop="1729890331241" status="passed">
+      <name>testGetParentIdsByChild</name>
+    </test-case>
+    <test-case start="1729890331241" stop="1729890331244" status="passed">
+      <name>testGetAssociatedProducts</name>
+    </test-case>
+    <test-case start="1729890331245" stop="1729890331247" status="passed">
+      <name>testAddStatusFilter with data set #0</name>
+    </test-case>
+    <test-case start="1729890331248" stop="1729890331251" status="passed">
+      <name>testAddStatusFilter with data set #1</name>
+    </test-case>
+    <test-case start="1729890331251" stop="1729890331253" status="passed">
+      <name>testSetSaleableStatus</name>
+    </test-case>
+    <test-case start="1729890331254" stop="1729890331256" status="passed">
+      <name>testGetStatusFiltersNoData</name>
+    </test-case>
+    <test-case start="1729890331256" stop="1729890331259" status="passed">
+      <name>testGetStatusFiltersWithData</name>
+    </test-case>
+    <test-case start="1729890331259" stop="1729890331264" status="passed">
+      <name>testGetAssociatedProductIdsCached</name>
+    </test-case>
+    <test-case start="1729890331264" stop="1729890331269" status="passed">
+      <name>testGetAssociatedProductIdsNonCached</name>
+    </test-case>
+    <test-case start="1729890331269" stop="1729890331272" status="passed">
+      <name>testGetAssociatedProductCollection</name>
+    </test-case>
+    <test-case start="1729890331273" stop="1729890331274" status="passed">
+      <name>testProcessBuyRequest with data set "positive"</name>
+    </test-case>
+    <test-case start="1729890331275" stop="1729890331277" status="passed">
+      <name>testProcessBuyRequest with data set "negative"</name>
+    </test-case>
+    <test-case start="1729890331277" stop="1729890331281" status="passed">
+      <name>testGetChildrenMsrpWhenNoChildrenWithMsrp</name>
+    </test-case>
+    <test-case start="1729890331282" stop="1729890331288" status="passed">
+      <name>testPrepareForCartAdvancedEmpty</name>
+    </test-case>
+    <test-case start="1729890331289" stop="1729890331292" status="passed">
+      <name>testPrepareForCartAdvancedNoProductsStrictTrue</name>
+    </test-case>
+    <test-case start="1729890331292" stop="1729890331295" status="passed">
+      <name>testPrepareForCartAdvancedNoProductsStrictFalse</name>
+    </test-case>
+    <test-case start="1729890331295" stop="1729890331301" status="passed">
+      <name>testPrepareForCartAdvancedWithProductsStrictFalseStringResult</name>
+    </test-case>
+    <test-case start="1729890331302" stop="1729890331306" status="passed">
+      <name>testPrepareForCartAdvancedWithProductsStrictFalseEmptyArrayResult</name>
+    </test-case>
+    <test-case start="1729890331306" stop="1729890331322" status="passed">
+      <name>testPrepareForCartAdvancedWithProductsStrictFalse</name>
+    </test-case>
+    <test-case start="1729890331322" stop="1729890331333" status="passed">
+      <name>testPrepareForCartAdvancedWithProductsStrictTrue with data set #0</name>
+    </test-case>
+    <test-case start="1729890331334" stop="1729890331344" status="passed">
+      <name>testPrepareForCartAdvancedWithProductsStrictTrue with data set #1</name>
+    </test-case>
+    <test-case start="1729890331345" stop="1729890331354" status="passed">
+      <name>testPrepareForCartAdvancedWithProductsStrictTrue with data set #2</name>
+    </test-case>
+    <test-case start="1729890331354" stop="1729890331365" status="passed">
+      <name>testPrepareForCartAdvancedWithProductsStrictTrue with data set #3</name>
+    </test-case>
+    <test-case start="1729890331366" stop="1729890331370" status="passed">
+      <name>testPrepareForCartAdvancedZeroQtyAndSoldOutOption</name>
+    </test-case>
+    <test-case start="1729890331370" stop="1729890331372" status="passed">
+      <name>testFlushAssociatedProductsCache</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890351612" stop="1729890351715" version="1.4.0">
+  <name>Magento\InventorySales\Test\Unit\Model\IsProductSalableCondition\BackOrderNotifyCustomerConditionTest</name>
+  <test-cases>
+    <test-case start="1729890351614" stop="1729890351649" status="passed">
+      <name>testExecute with data set "StockQty=1, ReqQty=2, SalableQty=1, Backorders=YesNotify, ManageStock=Yes"</name>
+    </test-case>
+    <test-case start="1729890351651" stop="1729890351657" status="passed">
+      <name>testExecute with data set "StockQty=10, ReqQty=20, SalableQty=0, Backorders=YesNotify, ManageStock=Yes"</name>
+    </test-case>
+    <test-case start="1729890351658" stop="1729890351665" status="passed">
+      <name>testExecute with data set "StockQty=10, ReqQty=20, SalableQty=15, Backorders=YesNotify, ManageStock=Yes"</name>
+    </test-case>
+    <test-case start="1729890351669" stop="1729890351679" status="passed">
+      <name>testExecute with data set "StockQty=1, ReqQty=1, SalableQty=1, Backorders=YesNotify, ManageStock=Yes"</name>
+    </test-case>
+    <test-case start="1729890351680" stop="1729890351686" status="passed">
+      <name>testExecute with data set "StockQty=?, ReqQty=1, SalableQty=1, Backorders=YesNotify, ManageStock=Yes"</name>
+    </test-case>
+    <test-case start="1729890351690" stop="1729890351696" status="passed">
+      <name>testExecute with data set "StockQty=0, ReqQty=1, SalableQty=1, Backorders=No, ManageStock=Yes"</name>
+    </test-case>
+    <test-case start="1729890351697" stop="1729890351701" status="passed">
+      <name>testExecute with data set "StockQty=0, ReqQty=1, SalableQty=1, Backorders=Yes, ManageStock=Yes"</name>
+    </test-case>
+    <test-case start="1729890351702" stop="1729890351705" status="passed">
+      <name>testExecute with data set "StockQty=0, ReqQty=1, SalableQty=1, Backorders=YesNotify, ManageStock=No"</name>
+    </test-case>
+    <test-case start="1729890351707" stop="1729890351710" status="passed">
+      <name>testExecute with data set "StockQty=3, ReqQty=5, SalableQty=13, Backorders=YesNotify, ManageStock=Yes"</name>
+    </test-case>
+    <test-case start="1729890351712" stop="1729890351714" status="passed">
+      <name>testExecute with data set "StockQty=3, ReqQty=3, SalableQty=13, Backorders=YesNotify, ManageStock=Yes"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

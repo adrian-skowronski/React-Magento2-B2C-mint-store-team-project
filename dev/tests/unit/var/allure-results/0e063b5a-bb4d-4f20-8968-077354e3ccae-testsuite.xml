@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284971" stop="1729890284988" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Attribute\Config\XsdTest</name>
+  <test-cases>
+    <test-case start="1729890284972" stop="1729890284973" status="passed">
+      <name>testExemplarXml with data set "valid"</name>
+    </test-case>
+    <test-case start="1729890284974" stop="1729890284975" status="passed">
+      <name>testExemplarXml with data set "empty root node"</name>
+    </test-case>
+    <test-case start="1729890284975" stop="1729890284976" status="passed">
+      <name>testExemplarXml with data set "irrelevant root node"</name>
+    </test-case>
+    <test-case start="1729890284977" stop="1729890284978" status="passed">
+      <name>testExemplarXml with data set "empty node "group""</name>
+    </test-case>
+    <test-case start="1729890284978" stop="1729890284980" status="passed">
+      <name>testExemplarXml with data set "node "group" without attribute "name""</name>
+    </test-case>
+    <test-case start="1729890284980" stop="1729890284981" status="passed">
+      <name>testExemplarXml with data set "node "group" with invalid attribute"</name>
+    </test-case>
+    <test-case start="1729890284982" stop="1729890284983" status="passed">
+      <name>testExemplarXml with data set "node "attribute" with value"</name>
+    </test-case>
+    <test-case start="1729890284984" stop="1729890284985" status="passed">
+      <name>testExemplarXml with data set "node "attribute" with children"</name>
+    </test-case>
+    <test-case start="1729890284985" stop="1729890284986" status="passed">
+      <name>testExemplarXml with data set "node "attribute" without attribute "name""</name>
+    </test-case>
+    <test-case start="1729890284986" stop="1729890284988" status="passed">
+      <name>testExemplarXml with data set "node "attribute" with invalid attribute"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

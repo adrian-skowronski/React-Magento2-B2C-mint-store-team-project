@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890359428" stop="1729890359443" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Model\Method\AdapterTest</name>
+  <test-cases>
+    <test-case start="1729890359428" stop="1729890359430" status="passed">
+      <name>testFetchTransactionInfo</name>
+    </test-case>
+    <test-case start="1729890359430" stop="1729890359432" status="passed">
+      <name>testIsAvailableNotActive</name>
+    </test-case>
+    <test-case start="1729890359432" stop="1729890359434" status="passed">
+      <name>testIsAvailableEmptyQuote</name>
+    </test-case>
+    <test-case start="1729890359434" stop="1729890359435" status="passed">
+      <name>testIsAvailableWithEmptyInfoInstance</name>
+    </test-case>
+    <test-case start="1729890359435" stop="1729890359439" status="passed">
+      <name>testExecuteCommandWithCommandExecutor</name>
+    </test-case>
+    <test-case start="1729890359439" stop="1729890359443" status="passed">
+      <name>testExecuteCommandWithCommandPool</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

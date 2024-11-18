@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890349505" stop="1729890349546" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Model\Config\XsdTest</name>
+  <test-cases>
+    <test-case start="1729890349506" stop="1729890349507" status="passed">
+      <name>testExemplarXml with data set "valid"</name>
+    </test-case>
+    <test-case start="1729890349510" stop="1729890349511" status="passed">
+      <name>testExemplarXml with data set "valid with several entities"</name>
+    </test-case>
+    <test-case start="1729890349512" stop="1729890349513" status="passed">
+      <name>testExemplarXml with data set "empty root node"</name>
+    </test-case>
+    <test-case start="1729890349514" stop="1729890349515" status="passed">
+      <name>testExemplarXml with data set "empty integration"</name>
+    </test-case>
+    <test-case start="1729890349515" stop="1729890349516" status="passed">
+      <name>testExemplarXml with data set "integration without email"</name>
+    </test-case>
+    <test-case start="1729890349517" stop="1729890349518" status="failed">
+      <name>testExemplarXml with data set "empty email"</name>
+      <failure>
+        <message>Validation errors does not match.
+Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'email': [facet 'patt...\..+'.'
+-    1 =&gt; 'Element 'email': '' is not a ...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-integration/Test/Unit/Model/Config/XsdTest.php(50): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Integration\Test\Unit\Model\Config\XsdTest-&gt;testExemplarXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890349519" stop="1729890349520" status="failed">
+      <name>testExemplarXml with data set "endpoint_url is empty"</name>
+      <failure>
+        <message>Validation errors does not match.
+Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'endpoint_url': [face...f '4'.'
+-    1 =&gt; 'Element 'endpoint_url': '' is...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-integration/Test/Unit/Model/Config/XsdTest.php(50): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Integration\Test\Unit\Model\Config\XsdTest-&gt;testExemplarXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890349521" stop="1729890349524" status="failed">
+      <name>testExemplarXml with data set "identity_link_url is empty"</name>
+      <failure>
+        <message>Validation errors does not match.
+Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'identity_link_url': ...f '4'.'
+-    1 =&gt; 'Element 'identity_link_url': ...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-integration/Test/Unit/Model/Config/XsdTest.php(50): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Integration\Test\Unit\Model\Config\XsdTest-&gt;testExemplarXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890349524" stop="1729890349525" status="passed">
+      <name>testExemplarXml with data set "irrelevant root node"</name>
+    </test-case>
+    <test-case start="1729890349526" stop="1729890349527" status="passed">
+      <name>testExemplarXml with data set "irrelevant node in root"</name>
+    </test-case>
+    <test-case start="1729890349528" stop="1729890349529" status="passed">
+      <name>testExemplarXml with data set "irrelevant node in integration"</name>
+    </test-case>
+    <test-case start="1729890349529" stop="1729890349531" status="passed">
+      <name>testExemplarXml with data set "irrelevant node in authentication"</name>
+    </test-case>
+    <test-case start="1729890349531" stop="1729890349533" status="passed">
+      <name>testExemplarXml with data set "invalid attribute in root"</name>
+    </test-case>
+    <test-case start="1729890349533" stop="1729890349534" status="passed">
+      <name>testExemplarXml with data set "invalid attribute in integration"</name>
+    </test-case>
+    <test-case start="1729890349534" stop="1729890349536" status="passed">
+      <name>testExemplarXml with data set "invalid attribute in email"</name>
+    </test-case>
+    <test-case start="1729890349536" stop="1729890349537" status="passed">
+      <name>testExemplarXml with data set "invalid attribute in endpoint_url"</name>
+    </test-case>
+    <test-case start="1729890349537" stop="1729890349538" status="passed">
+      <name>testExemplarXml with data set "invalid attribute in identity_link_url"</name>
+    </test-case>
+    <test-case start="1729890349539" stop="1729890349540" status="passed">
+      <name>testExemplarXml with data set "integration without name"</name>
+    </test-case>
+    <test-case start="1729890349542" stop="1729890349544" status="failed">
+      <name>testExemplarXml with data set "integration with empty name"</name>
+      <failure>
+        <message>Validation errors does not match.
+Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'integration', attrib...f '2'.'
+-    1 =&gt; 'Element 'integration', attrib...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-integration/Test/Unit/Model/Config/XsdTest.php(50): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Integration\Test\Unit\Model\Config\XsdTest-&gt;testExemplarXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890349544" stop="1729890349545" status="failed">
+      <name>testExemplarXml with data set "invalid email"</name>
+      <failure>
+        <message>Validation errors does not match.
+Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'email': [facet 'patt...\..+'.'
+-    1 =&gt; 'Element 'email': 'invalid' is...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-integration/Test/Unit/Model/Config/XsdTest.php(50): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Integration\Test\Unit\Model\Config\XsdTest-&gt;testExemplarXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

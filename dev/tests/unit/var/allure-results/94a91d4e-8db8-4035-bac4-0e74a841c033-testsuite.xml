@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890260922" stop="1729890260944" version="1.4.0">
+  <name>Magento\AdobeStockImage\Test\Unit\Model\Storage\SaveTest</name>
+  <test-cases>
+    <test-case start="1729890260922" stop="1729890260943" status="passed">
+      <name>testSavePreview</name>
+    </test-case>
+    <test-case start="1729890260943" stop="1729890260944" status="passed">
+      <name>testExceptionOnSaveExecution</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

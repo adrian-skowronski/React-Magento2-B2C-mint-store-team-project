@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890317123" stop="1729890317184" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Metadata\Form\HiddenTest</name>
+  <test-cases>
+    <test-case start="1729890317124" stop="1729890317125" status="passed">
+      <name>testValidateValue with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890317126" stop="1729890317126" status="passed">
+      <name>testValidateValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890317127" stop="1729890317128" status="passed">
+      <name>testValidateValue with data set "zero"</name>
+    </test-case>
+    <test-case start="1729890317128" stop="1729890317130" status="passed">
+      <name>testValidateValue with data set "string"</name>
+    </test-case>
+    <test-case start="1729890317130" stop="1729890317131" status="passed">
+      <name>testValidateValue with data set "number"</name>
+    </test-case>
+    <test-case start="1729890317132" stop="1729890317133" status="passed">
+      <name>testValidateValue with data set "true"</name>
+    </test-case>
+    <test-case start="1729890317133" stop="1729890317134" status="passed">
+      <name>testValidateValue with data set "false"</name>
+    </test-case>
+    <test-case start="1729890317135" stop="1729890317136" status="passed">
+      <name>testValidateValueRequired with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890317137" stop="1729890317138" status="passed">
+      <name>testValidateValueRequired with data set "null"</name>
+    </test-case>
+    <test-case start="1729890317139" stop="1729890317140" status="passed">
+      <name>testValidateValueRequired with data set #0</name>
+    </test-case>
+    <test-case start="1729890317141" stop="1729890317142" status="passed">
+      <name>testValidateValueRequired with data set "zero"</name>
+    </test-case>
+    <test-case start="1729890317143" stop="1729890317144" status="passed">
+      <name>testValidateValueRequired with data set "string"</name>
+    </test-case>
+    <test-case start="1729890317144" stop="1729890317146" status="passed">
+      <name>testValidateValueRequired with data set "number"</name>
+    </test-case>
+    <test-case start="1729890317147" stop="1729890317148" status="passed">
+      <name>testValidateValueRequired with data set "true"</name>
+    </test-case>
+    <test-case start="1729890317149" stop="1729890317150" status="passed">
+      <name>testValidateValueRequired with data set "false"</name>
+    </test-case>
+    <test-case start="1729890317151" stop="1729890317153" status="passed">
+      <name>testValidateValueLength with data set "false"</name>
+    </test-case>
+    <test-case start="1729890317153" stop="1729890317155" status="passed">
+      <name>testValidateValueLength with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890317155" stop="1729890317157" status="passed">
+      <name>testValidateValueLength with data set "null"</name>
+    </test-case>
+    <test-case start="1729890317158" stop="1729890317160" status="passed">
+      <name>testValidateValueLength with data set "true"</name>
+    </test-case>
+    <test-case start="1729890317161" stop="1729890317163" status="passed">
+      <name>testValidateValueLength with data set "one"</name>
+    </test-case>
+    <test-case start="1729890317163" stop="1729890317166" status="passed">
+      <name>testValidateValueLength with data set "L1"</name>
+    </test-case>
+    <test-case start="1729890317167" stop="1729890317169" status="passed">
+      <name>testValidateValueLength with data set "L3"</name>
+    </test-case>
+    <test-case start="1729890317169" stop="1729890317171" status="passed">
+      <name>testValidateValueLength with data set "L4"</name>
+    </test-case>
+    <test-case start="1729890317172" stop="1729890317174" status="passed">
+      <name>testValidateValueLength with data set "thousand"</name>
+    </test-case>
+    <test-case start="1729890317174" stop="1729890317176" status="passed">
+      <name>testValidateValueLength with data set "L8"</name>
+    </test-case>
+    <test-case start="1729890317177" stop="1729890317179" status="passed">
+      <name>testValidateValueLength with data set "L9"</name>
+    </test-case>
+    <test-case start="1729890317179" stop="1729890317182" status="passed">
+      <name>testValidateValueLength with data set "L12"</name>
+    </test-case>
+    <test-case start="1729890317182" stop="1729890317184" status="passed">
+      <name>testValidateValueLength with data set "billion"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

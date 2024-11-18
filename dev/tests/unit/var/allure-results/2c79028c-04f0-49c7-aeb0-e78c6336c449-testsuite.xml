@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890332621" stop="1729890332625" version="1.4.0">
+  <name>Magento\ImportExport\Test\Unit\Model\Source\Export\EntityTest</name>
+  <test-cases>
+    <test-case start="1729890332621" stop="1729890332623" status="passed">
+      <name>testToOptionArray with data set "Empty Entity"</name>
+    </test-case>
+    <test-case start="1729890332623" stop="1729890332624" status="passed">
+      <name>testToOptionArray with data set "Has entities"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

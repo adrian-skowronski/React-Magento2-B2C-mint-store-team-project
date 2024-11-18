@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890286781" stop="1729890286786" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Product\Eav\Plugin\AttributeSet\IndexableAttributeFilterTest</name>
+  <test-cases>
+    <test-case start="1729890286782" stop="1729890286786" status="passed">
+      <name>testFilter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

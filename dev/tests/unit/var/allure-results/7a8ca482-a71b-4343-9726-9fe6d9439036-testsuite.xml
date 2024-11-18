@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328520" stop="1729890328523" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Block\Adminhtml\Template\Render\SenderTest</name>
+  <test-cases>
+    <test-case start="1729890328520" stop="1729890328522" status="passed">
+      <name>testRenderWithSenderNameAndEmail</name>
+    </test-case>
+    <test-case start="1729890328522" stop="1729890328523" status="passed">
+      <name>testRenderWithNoSenderNameAndEmail</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

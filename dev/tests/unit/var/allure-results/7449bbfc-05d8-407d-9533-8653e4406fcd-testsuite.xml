@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297694" stop="1729890297699" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\CustomerData\DirectoryDataTest</name>
+  <test-cases>
+    <test-case start="1729890297694" stop="1729890297699" status="passed">
+      <name>testGetSectionData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890455114" stop="1729890455117" version="1.4.0">
+  <name>Magento\Framework\Pricing\Test\Unit\Price\FactoryTest</name>
+  <test-cases>
+    <test-case start="1729890455114" stop="1729890455115" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890455116" stop="1729890455117" status="passed">
+      <name>testCreateWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

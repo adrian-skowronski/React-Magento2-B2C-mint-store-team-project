@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294690" stop="1729890294704" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\System\Config\Backend\Catalog\Url\Rewrite\SuffixTest</name>
+  <test-cases>
+    <test-case start="1729890294690" stop="1729890294701" status="passed">
+      <name>testAfterSaveCleanCache</name>
+    </test-case>
+    <test-case start="1729890294701" stop="1729890294702" status="passed">
+      <name>testAfterSaveWithoutChanges</name>
+    </test-case>
+    <test-case start="1729890294702" stop="1729890294704" status="passed">
+      <name>testAfterSaveProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

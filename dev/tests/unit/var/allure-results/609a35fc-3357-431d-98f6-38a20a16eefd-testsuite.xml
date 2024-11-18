@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890306816" stop="1729890306846" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Block\Cart\Item\Renderer\ConfigurableTest</name>
+  <test-cases>
+    <test-case start="1729890306817" stop="1729890306831" status="passed">
+      <name>testGetOptionList</name>
+    </test-case>
+    <test-case start="1729890306833" stop="1729890306846" status="passed">
+      <name>testGetIdentities</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

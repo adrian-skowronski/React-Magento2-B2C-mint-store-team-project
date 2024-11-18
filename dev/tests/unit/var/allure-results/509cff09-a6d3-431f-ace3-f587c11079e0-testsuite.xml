@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890260064" stop="1729890260072" version="1.4.0">
+  <name>Magento\AdobeStockClient\Test\Unit\Model\SearchParametersProvider\PremiumTest</name>
+  <test-cases>
+    <test-case start="1729890260065" stop="1729890260067" status="passed">
+      <name>testApply with data set #0</name>
+    </test-case>
+    <test-case start="1729890260068" stop="1729890260071" status="passed">
+      <name>testApply with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

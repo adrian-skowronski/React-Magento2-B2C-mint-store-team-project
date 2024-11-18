@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890295094" stop="1729890295116" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Pricing\Price\CustomOptionPriceTest</name>
+  <test-cases>
+    <test-case start="1729890295094" stop="1729890295104" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+    <test-case start="1729890295104" stop="1729890295109" status="passed">
+      <name>testGetCustomOptionRange</name>
+    </test-case>
+    <test-case start="1729890295109" stop="1729890295113" status="passed">
+      <name>testGetSelectedOptions</name>
+    </test-case>
+    <test-case start="1729890295114" stop="1729890295116" status="passed">
+      <name>testGetOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403715" stop="1729890403720" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Ui\Component\Listing\Column\ViewActionTest</name>
+  <test-cases>
+    <test-case start="1729890403716" stop="1729890403718" status="passed">
+      <name>testPrepareDataSource with data set #0</name>
+    </test-case>
+    <test-case start="1729890403719" stop="1729890403720" status="passed">
+      <name>testPrepareDataSource with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

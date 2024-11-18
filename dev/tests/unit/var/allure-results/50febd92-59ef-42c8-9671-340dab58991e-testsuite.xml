@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392321" stop="1729890392331" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest</name>
+  <test-cases>
+    <test-case start="1729890392321" stop="1729890392325" status="passed">
+      <name>testAroundProlongSessionIsNotActiveAndIsNotAjaxRequest</name>
+    </test-case>
+    <test-case start="1729890392325" stop="1729890392327" status="passed">
+      <name>testAroundProlongSessionIsNotActiveAndIsAjaxRequest</name>
+    </test-case>
+    <test-case start="1729890392327" stop="1729890392329" status="passed">
+      <name>testAroundProlongSessionIsActiveUserIsExpired</name>
+    </test-case>
+    <test-case start="1729890392329" stop="1729890392331" status="passed">
+      <name>testAroundProlongSessionIsActive</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

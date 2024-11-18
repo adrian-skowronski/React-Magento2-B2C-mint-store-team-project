@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441582" stop="1729890441583" version="1.4.0">
+  <name>Magento\Framework\Convert\Test\Unit\XmlTest</name>
+  <test-cases>
+    <test-case start="1729890441582" stop="1729890441583" status="passed">
+      <name>testXmlToAssoc</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

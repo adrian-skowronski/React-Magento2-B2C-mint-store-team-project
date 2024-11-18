@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890332118" stop="1729890332155" version="1.4.0">
+  <name>Magento\ImportExport\Test\Unit\Model\Import\Entity\AbstractTest</name>
+  <test-cases>
+    <test-case start="1729890332118" stop="1729890332120" status="passed">
+      <name>testValidateDataEmptyColumnName</name>
+    </test-case>
+    <test-case start="1729890332120" stop="1729890332122" status="passed">
+      <name>testValidateDataEmptyColumnNameForDeleteBehaviour</name>
+    </test-case>
+    <test-case start="1729890332122" stop="1729890332123" status="passed">
+      <name>testValidateDataColumnNameWithWhitespacesForDeleteBehaviour</name>
+    </test-case>
+    <test-case start="1729890332123" stop="1729890332125" status="passed">
+      <name>testValidateDataColumnNameWithWhitespaces</name>
+    </test-case>
+    <test-case start="1729890332125" stop="1729890332126" status="passed">
+      <name>testValidateDataAttributeNames</name>
+    </test-case>
+    <test-case start="1729890332127" stop="1729890332127" status="passed">
+      <name>testIsNeedToLogInHistory</name>
+    </test-case>
+    <test-case start="1729890332128" stop="1729890332130" status="passed">
+      <name>testIsAttributeValid with data set #0</name>
+    </test-case>
+    <test-case start="1729890332131" stop="1729890332132" status="passed">
+      <name>testIsAttributeValid with data set #1</name>
+    </test-case>
+    <test-case start="1729890332133" stop="1729890332134" status="passed">
+      <name>testIsAttributeValid with data set #2</name>
+    </test-case>
+    <test-case start="1729890332134" stop="1729890332136" status="passed">
+      <name>testIsAttributeValid with data set #3</name>
+    </test-case>
+    <test-case start="1729890332136" stop="1729890332137" status="passed">
+      <name>testIsAttributeValid with data set #4</name>
+    </test-case>
+    <test-case start="1729890332138" stop="1729890332139" status="passed">
+      <name>testIsAttributeValid with data set #5</name>
+    </test-case>
+    <test-case start="1729890332140" stop="1729890332141" status="passed">
+      <name>testIsAttributeValid with data set #6</name>
+    </test-case>
+    <test-case start="1729890332141" stop="1729890332142" status="passed">
+      <name>testIsAttributeValid with data set #7</name>
+    </test-case>
+    <test-case start="1729890332143" stop="1729890332144" status="passed">
+      <name>testIsAttributeValid with data set #8</name>
+    </test-case>
+    <test-case start="1729890332145" stop="1729890332147" status="passed">
+      <name>testIsAttributeValid with data set #9</name>
+    </test-case>
+    <test-case start="1729890332148" stop="1729890332149" status="passed">
+      <name>testIsAttributeValid with data set #10</name>
+    </test-case>
+    <test-case start="1729890332150" stop="1729890332151" status="passed">
+      <name>testIsAttributeValid with data set #11</name>
+    </test-case>
+    <test-case start="1729890332152" stop="1729890332152" status="passed">
+      <name>testGetCreatedItemsCount</name>
+    </test-case>
+    <test-case start="1729890332153" stop="1729890332154" status="passed">
+      <name>testGetUpdatedItemsCount</name>
+    </test-case>
+    <test-case start="1729890332154" stop="1729890332155" status="passed">
+      <name>testGetDeletedItemsCount</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

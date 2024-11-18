@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890425511" stop="1729890425515" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\PageCache\FormKeyTest</name>
+  <test-cases>
+    <test-case start="1729890425511" stop="1729890425512" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890425513" stop="1729890425514" status="passed">
+      <name>testSet</name>
+    </test-case>
+    <test-case start="1729890425514" stop="1729890425515" status="passed">
+      <name>testDelete</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

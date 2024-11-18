@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890426565" stop="1729890426574" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\RouterListTest</name>
+  <test-cases>
+    <test-case start="1729890426566" stop="1729890426567" status="passed">
+      <name>testCurrent</name>
+    </test-case>
+    <test-case start="1729890426567" stop="1729890426572" status="passed">
+      <name>testNext</name>
+    </test-case>
+    <test-case start="1729890426572" stop="1729890426573" status="passed">
+      <name>testValid</name>
+    </test-case>
+    <test-case start="1729890426573" stop="1729890426574" status="passed">
+      <name>testRewind</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

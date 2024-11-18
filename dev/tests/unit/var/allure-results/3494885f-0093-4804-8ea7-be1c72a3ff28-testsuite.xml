@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456788" stop="1729890456807" version="1.4.0">
+  <name>Magento\Framework\Session\Test\Unit\SaveHandler\Redis\LoggerTest</name>
+  <test-cases>
+    <test-case start="1729890456789" stop="1729890456792" status="passed">
+      <name>testLog with data set #0</name>
+    </test-case>
+    <test-case start="1729890456793" stop="1729890456794" status="passed">
+      <name>testLog with data set #1</name>
+    </test-case>
+    <test-case start="1729890456795" stop="1729890456796" status="passed">
+      <name>testLog with data set #2</name>
+    </test-case>
+    <test-case start="1729890456796" stop="1729890456798" status="passed">
+      <name>testLog with data set #3</name>
+    </test-case>
+    <test-case start="1729890456798" stop="1729890456800" status="passed">
+      <name>testLog with data set #4</name>
+    </test-case>
+    <test-case start="1729890456800" stop="1729890456802" status="passed">
+      <name>testLog with data set #5</name>
+    </test-case>
+    <test-case start="1729890456802" stop="1729890456803" status="passed">
+      <name>testLog with data set #6</name>
+    </test-case>
+    <test-case start="1729890456804" stop="1729890456805" status="passed">
+      <name>testLog with data set #7</name>
+    </test-case>
+    <test-case start="1729890456806" stop="1729890456807" status="passed">
+      <name>testLogException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

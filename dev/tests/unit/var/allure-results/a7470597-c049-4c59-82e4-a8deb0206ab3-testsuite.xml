@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890332754" stop="1729890332760" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Block\Backend\Grid\Column\Renderer\StatusTest</name>
+  <test-cases>
+    <test-case start="1729890332755" stop="1729890332757" status="passed">
+      <name>testRender with data set "set1"</name>
+    </test-case>
+    <test-case start="1729890332757" stop="1729890332758" status="passed">
+      <name>testRender with data set "set2"</name>
+    </test-case>
+    <test-case start="1729890332759" stop="1729890332760" status="passed">
+      <name>testRender with data set "set3"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

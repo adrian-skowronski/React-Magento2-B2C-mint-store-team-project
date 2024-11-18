@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890290762" stop="1729890290793" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Price\Validation\TierPriceValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890290763" stop="1729890290765" status="passed">
+      <name>testValidateSkus</name>
+    </test-case>
+    <test-case start="1729890290766" stop="1729890290772" status="passed">
+      <name>testRetrieveValidationResult with data set #0</name>
+    </test-case>
+    <test-case start="1729890290773" stop="1729890290786" status="passed">
+      <name>testRetrieveValidationResult with data set #1</name>
+    </test-case>
+    <test-case start="1729890290786" stop="1729890290793" status="passed">
+      <name>testRetrieveValidationResultWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

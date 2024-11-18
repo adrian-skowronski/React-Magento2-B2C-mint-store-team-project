@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890364510" stop="1729890364514" version="1.4.0">
+  <name>Magento\Persistent\Test\Unit\Observer\SynchronizePersistentOnLogoutObserverTest</name>
+  <test-cases>
+    <test-case start="1729890364510" stop="1729890364512" status="passed">
+      <name>testSynchronizePersistentOnLogoutWhenPersistentDataNotEnabled</name>
+    </test-case>
+    <test-case start="1729890364512" stop="1729890364514" status="passed">
+      <name>testSynchronizePersistentOnLogoutWhenPersistentDataIsEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

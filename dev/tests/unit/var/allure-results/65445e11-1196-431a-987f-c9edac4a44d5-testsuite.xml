@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408454" stop="1729890408456" version="1.4.0">
+  <name>Magento\Webapi\Test\Unit\Model\Authorization\GuestUserContextTest</name>
+  <test-cases>
+    <test-case start="1729890408454" stop="1729890408455" status="passed">
+      <name>testGetUserId</name>
+    </test-case>
+    <test-case start="1729890408456" stop="1729890408456" status="passed">
+      <name>testGetUserType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890428977" stop="1729890428998" version="1.4.0">
+  <name>Magento\Framework\Backup\Test\Unit\SnapshotTest</name>
+  <test-cases>
+    <test-case start="1729890428986" stop="1729890428995" status="passed">
+      <name>testGetDbBackupFilename</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

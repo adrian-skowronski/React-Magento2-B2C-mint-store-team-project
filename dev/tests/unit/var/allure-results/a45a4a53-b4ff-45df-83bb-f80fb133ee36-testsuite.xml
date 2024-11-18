@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890272632" stop="1729890272657" version="1.4.0">
+  <name>Magento\CatalogImportExport\Test\Unit\Model\Import\Product\Validator\TierPriceTest</name>
+  <test-cases>
+    <test-case start="1729890272633" stop="1729890272637" status="passed">
+      <name>testInit</name>
+    </test-case>
+    <test-case start="1729890272638" stop="1729890272639" status="passed">
+      <name>testIsValid with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890272640" stop="1729890272642" status="passed">
+      <name>testIsValid with data set "valid1"</name>
+    </test-case>
+    <test-case start="1729890272642" stop="1729890272644" status="passed">
+      <name>testIsValid with data set "invalidPriceWebsite"</name>
+    </test-case>
+    <test-case start="1729890272644" stop="1729890272646" status="passed">
+      <name>testIsValid with data set "invalidIncomplete1"</name>
+    </test-case>
+    <test-case start="1729890272647" stop="1729890272648" status="passed">
+      <name>testIsValid with data set "invalidIncomplete2"</name>
+    </test-case>
+    <test-case start="1729890272649" stop="1729890272651" status="passed">
+      <name>testIsValid with data set "invalidIncomplete3"</name>
+    </test-case>
+    <test-case start="1729890272651" stop="1729890272653" status="passed">
+      <name>testIsValid with data set "invalidSite"</name>
+    </test-case>
+    <test-case start="1729890272653" stop="1729890272654" status="passed">
+      <name>testIsValid with data set "invalidGroup"</name>
+    </test-case>
+    <test-case start="1729890272655" stop="1729890272657" status="passed">
+      <name>testIsValid with data set "invalidQty"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

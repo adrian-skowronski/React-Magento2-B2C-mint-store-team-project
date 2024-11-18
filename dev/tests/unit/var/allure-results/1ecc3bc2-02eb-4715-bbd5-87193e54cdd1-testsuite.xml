@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890364712" stop="1729890364757" version="1.4.0">
+  <name>Magento\ProductAlert\Test\Unit\Block\Product\View\StockTest</name>
+  <test-cases>
+    <test-case start="1729890364713" stop="1729890364729" status="passed">
+      <name>testSetTemplateStockUrlAllowed</name>
+    </test-case>
+    <test-case start="1729890364731" stop="1729890364737" status="passed">
+      <name>testSetTemplateStockUrlNotAllowed with data set "stock alert not allowed"</name>
+    </test-case>
+    <test-case start="1729890364739" stop="1729890364746" status="passed">
+      <name>testSetTemplateStockUrlNotAllowed with data set "product is available (no alert)"</name>
+    </test-case>
+    <test-case start="1729890364747" stop="1729890364753" status="passed">
+      <name>testSetTemplateStockUrlNotAllowed with data set "stock alert not allowed and product is available"</name>
+    </test-case>
+    <test-case start="1729890364754" stop="1729890364757" status="passed">
+      <name>testSetTemplateNoProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310602" stop="1729890310616" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Pricing\Price\ConfigurablePriceResolverTest</name>
+  <test-cases>
+    <test-case start="1729890310603" stop="1729890310609" status="passed">
+      <name>testResolvePrice with data set "Single variant at price 0.00 (float), should return 0.00 (float)"</name>
+    </test-case>
+    <test-case start="1729890310609" stop="1729890310611" status="passed">
+      <name>testResolvePrice with data set "Single variant at price 5 (integer), should return 5.00 (float)"</name>
+    </test-case>
+    <test-case start="1729890310611" stop="1729890310613" status="passed">
+      <name>testResolvePrice with data set "Single variants at price null (null), should return 0.00 (float)"</name>
+    </test-case>
+    <test-case start="1729890310613" stop="1729890310614" status="passed">
+      <name>testResolvePrice with data set "Multiple variants at price 0, 10, 20, should return 0.00 (float)"</name>
+    </test-case>
+    <test-case start="1729890310615" stop="1729890310616" status="passed">
+      <name>testResolvePrice with data set "Multiple variants at price 10, 0, 20, should return 0.00 (float)"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

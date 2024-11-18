@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452574" stop="1729890452587" version="1.4.0">
+  <name>Magento\Framework\Model\Test\Unit\ResourceModel\Type\Db\Pdo\MysqlTest</name>
+  <test-cases>
+    <test-case start="1729890452575" stop="1729890452576" status="canceled">
+      <name>testConstructor with data set "default values"</name>
+      <failure>
+        <message>Skipped in #27500 due to testing protected/private methods and properties</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/framework/Model/Test/Unit/ResourceModel/Type/Db/Pdo/MysqlTest.php(49): PHPUnit\Framework\Assert::markTestSkipped()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Model\Test\Unit\ResourceModel\Type\Db\Pdo\MysqlTest-&gt;testConstructor()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#13 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890452577" stop="1729890452577" status="canceled">
+      <name>testConstructor with data set "custom values"</name>
+      <failure>
+        <message>Skipped in #27500 due to testing protected/private methods and properties</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/framework/Model/Test/Unit/ResourceModel/Type/Db/Pdo/MysqlTest.php(49): PHPUnit\Framework\Assert::markTestSkipped()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Model\Test\Unit\ResourceModel\Type\Db\Pdo\MysqlTest-&gt;testConstructor()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#13 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890452579" stop="1729890452580" status="canceled">
+      <name>testConstructor with data set "active string true"</name>
+      <failure>
+        <message>Skipped in #27500 due to testing protected/private methods and properties</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/framework/Model/Test/Unit/ResourceModel/Type/Db/Pdo/MysqlTest.php(49): PHPUnit\Framework\Assert::markTestSkipped()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Model\Test\Unit\ResourceModel\Type\Db\Pdo\MysqlTest-&gt;testConstructor()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#13 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890452582" stop="1729890452582" status="canceled">
+      <name>testConstructor with data set "non-active string false"</name>
+      <failure>
+        <message>Skipped in #27500 due to testing protected/private methods and properties</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/framework/Model/Test/Unit/ResourceModel/Type/Db/Pdo/MysqlTest.php(49): PHPUnit\Framework\Assert::markTestSkipped()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Model\Test\Unit\ResourceModel\Type\Db\Pdo\MysqlTest-&gt;testConstructor()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#13 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890452583" stop="1729890452583" status="canceled">
+      <name>testConstructor with data set "non-active string 0"</name>
+      <failure>
+        <message>Skipped in #27500 due to testing protected/private methods and properties</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/framework/Model/Test/Unit/ResourceModel/Type/Db/Pdo/MysqlTest.php(49): PHPUnit\Framework\Assert::markTestSkipped()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Model\Test\Unit\ResourceModel\Type\Db\Pdo\MysqlTest-&gt;testConstructor()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#13 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890452585" stop="1729890452585" status="canceled">
+      <name>testConstructor with data set "non-active bool false"</name>
+      <failure>
+        <message>Skipped in #27500 due to testing protected/private methods and properties</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/framework/Model/Test/Unit/ResourceModel/Type/Db/Pdo/MysqlTest.php(49): PHPUnit\Framework\Assert::markTestSkipped()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Model\Test\Unit\ResourceModel\Type\Db\Pdo\MysqlTest-&gt;testConstructor()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#13 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890452585" stop="1729890452586" status="passed">
+      <name>testConstructorException</name>
+    </test-case>
+    <test-case start="1729890452586" stop="1729890452587" status="passed">
+      <name>testGetConnectionInactive</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

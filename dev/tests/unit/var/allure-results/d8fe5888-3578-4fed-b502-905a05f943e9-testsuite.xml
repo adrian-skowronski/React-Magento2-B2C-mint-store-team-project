@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418021" stop="1729890418024" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\Di\Compiler\Config\ModificationChainTest</name>
+  <test-cases>
+    <test-case start="1729890418021" stop="1729890418022" status="passed">
+      <name>testConstructor</name>
+    </test-case>
+    <test-case start="1729890418022" stop="1729890418023" status="passed">
+      <name>testConstructorException</name>
+    </test-case>
+    <test-case start="1729890418023" stop="1729890418024" status="passed">
+      <name>testModify</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

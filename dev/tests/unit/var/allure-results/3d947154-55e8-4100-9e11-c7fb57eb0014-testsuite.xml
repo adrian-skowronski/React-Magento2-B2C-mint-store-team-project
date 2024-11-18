@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456956" stop="1729890456962" version="1.4.0">
+  <name>Magento\Framework\Setup\Test\Unit\Declaration\Schema\Db\DefinitionAggregatorTest</name>
+  <test-cases>
+    <test-case start="1729890456957" stop="1729890456961" status="passed">
+      <name>testToDefinition</name>
+    </test-case>
+    <test-case start="1729890456961" stop="1729890456962" status="passed">
+      <name>testFromDefinition</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

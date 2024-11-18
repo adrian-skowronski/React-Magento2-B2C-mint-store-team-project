@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890348836" stop="1729890348888" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Controller\Adminhtml\Integration\SaveTest</name>
+  <test-cases>
+    <test-case start="1729890348836" stop="1729890348844" status="passed">
+      <name>testSaveAction</name>
+    </test-case>
+    <test-case start="1729890348844" stop="1729890348850" status="passed">
+      <name>testSaveActionException</name>
+    </test-case>
+    <test-case start="1729890348851" stop="1729890348858" status="passed">
+      <name>testSaveActionIntegrationException</name>
+    </test-case>
+    <test-case start="1729890348858" stop="1729890348863" status="passed">
+      <name>testSaveActionNew</name>
+    </test-case>
+    <test-case start="1729890348863" stop="1729890348869" status="passed">
+      <name>testSaveActionExceptionDuringServiceCreation</name>
+    </test-case>
+    <test-case start="1729890348870" stop="1729890348875" status="passed">
+      <name>testSaveActionExceptionOnIntegrationsCreatedFromConfigFile</name>
+    </test-case>
+    <test-case start="1729890348876" stop="1729890348879" status="passed">
+      <name>testSaveActionUserLockedException</name>
+    </test-case>
+    <test-case start="1729890348880" stop="1729890348888" status="passed">
+      <name>testSaveActionAuthenticationException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

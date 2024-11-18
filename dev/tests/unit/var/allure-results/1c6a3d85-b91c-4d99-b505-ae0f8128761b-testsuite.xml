@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890324480" stop="1729890324485" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Api\SearchCriteria\CollectionProcessor\FilterProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890324480" stop="1729890324484" status="passed">
+      <name>testProcess</name>
+    </test-case>
+    <test-case start="1729890324484" stop="1729890324485" status="passed">
+      <name>testProcessWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

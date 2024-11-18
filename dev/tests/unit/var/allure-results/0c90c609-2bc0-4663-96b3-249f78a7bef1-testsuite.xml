@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890276578" stop="1729890276657" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\Stock\ItemTest</name>
+  <test-cases>
+    <test-case start="1729890276578" stop="1729890276589" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890276592" stop="1729890276596" status="passed">
+      <name>testSetProduct</name>
+    </test-case>
+    <test-case start="1729890276597" stop="1729890276601" status="passed">
+      <name>testGetMaxSaleQty with data set #0</name>
+    </test-case>
+    <test-case start="1729890276602" stop="1729890276604" status="passed">
+      <name>testGetMaxSaleQty with data set #1</name>
+    </test-case>
+    <test-case start="1729890276605" stop="1729890276607" status="passed">
+      <name>testGetAndSetCustomerGroupId</name>
+    </test-case>
+    <test-case start="1729890276607" stop="1729890276611" status="passed">
+      <name>testGetMinSaleQty with data set "config value"</name>
+    </test-case>
+    <test-case start="1729890276612" stop="1729890276614" status="passed">
+      <name>testGetMinSaleQty with data set "object value"</name>
+    </test-case>
+    <test-case start="1729890276614" stop="1729890276617" status="passed">
+      <name>testGetMinSaleQty with data set "null value"</name>
+    </test-case>
+    <test-case start="1729890276617" stop="1729890276620" status="passed">
+      <name>testSetMinQty with data set #0</name>
+    </test-case>
+    <test-case start="1729890276621" stop="1729890276623" status="passed">
+      <name>testSetMinQty with data set #1</name>
+    </test-case>
+    <test-case start="1729890276624" stop="1729890276626" status="passed">
+      <name>testGetStoreId with data set #0</name>
+    </test-case>
+    <test-case start="1729890276627" stop="1729890276629" status="passed">
+      <name>testGetStoreId with data set #1</name>
+    </test-case>
+    <test-case start="1729890276630" stop="1729890276635" status="passed">
+      <name>testGetLowStockDate</name>
+    </test-case>
+    <test-case start="1729890276636" stop="1729890276638" status="passed">
+      <name>testGetQtyIncrements with data set #0</name>
+    </test-case>
+    <test-case start="1729890276639" stop="1729890276641" status="passed">
+      <name>testGetQtyIncrements with data set #1</name>
+    </test-case>
+    <test-case start="1729890276642" stop="1729890276645" status="passed">
+      <name>testGetQtyIncrements with data set #2</name>
+    </test-case>
+    <test-case start="1729890276645" stop="1729890276648" status="passed">
+      <name>testGetQtyIncrements with data set #3</name>
+    </test-case>
+    <test-case start="1729890276648" stop="1729890276650" status="passed">
+      <name>testGetQtyIncrements with data set #4</name>
+    </test-case>
+    <test-case start="1729890276651" stop="1729890276654" status="passed">
+      <name>testDispatchEvents with data set #0</name>
+    </test-case>
+    <test-case start="1729890276654" stop="1729890276657" status="passed">
+      <name>testDispatchEvents with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

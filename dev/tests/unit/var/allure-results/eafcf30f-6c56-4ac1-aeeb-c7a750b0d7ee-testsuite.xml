@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294808" stop="1729890294811" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Observer\MenuCategoryDataTest</name>
+  <test-cases>
+    <test-case start="1729890294808" stop="1729890294811" status="passed">
+      <name>testGetMenuCategoryData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

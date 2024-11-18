@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890372530" stop="1729890372534" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Controller\Adminhtml\Report\Customer\OrdersTest</name>
+  <test-cases>
+    <test-case start="1729890372530" stop="1729890372533" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

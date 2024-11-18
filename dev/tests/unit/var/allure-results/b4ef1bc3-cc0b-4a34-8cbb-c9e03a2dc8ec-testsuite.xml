@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890424204" stop="1729890424209" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Config\Storage\WriterTest</name>
+  <test-cases>
+    <test-case start="1729890424205" stop="1729890424206" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890424207" stop="1729890424208" status="passed">
+      <name>testDeleteOptions</name>
+    </test-case>
+    <test-case start="1729890424208" stop="1729890424209" status="passed">
+      <name>testSave</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

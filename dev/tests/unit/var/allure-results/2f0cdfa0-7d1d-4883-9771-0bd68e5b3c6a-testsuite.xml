@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454764" stop="1729890454778" version="1.4.0">
+  <name>Magento\Framework\Phrase\Test\Unit\Renderer\InlineTest</name>
+  <test-cases>
+    <test-case start="1729890454764" stop="1729890454773" status="passed">
+      <name>testRenderIfInlineTranslationIsAllowed</name>
+    </test-case>
+    <test-case start="1729890454774" stop="1729890454776" status="passed">
+      <name>testRenderIfInlineTranslationIsNotAllowed</name>
+    </test-case>
+    <test-case start="1729890454776" stop="1729890454778" status="passed">
+      <name>testRenderException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

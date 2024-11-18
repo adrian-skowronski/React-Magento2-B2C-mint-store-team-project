@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890355869" stop="1729890355934" version="1.4.0">
+  <name>Magento\OfflinePayments\Test\Unit\Observer\BeforeOrderPaymentSaveObserverTest</name>
+  <test-cases>
+    <test-case start="1729890355869" stop="1729890355893" status="passed">
+      <name>testBeforeOrderPaymentSaveWithInstructions with data set #0</name>
+    </test-case>
+    <test-case start="1729890355893" stop="1729890355899" status="passed">
+      <name>testBeforeOrderPaymentSaveWithInstructions with data set #1</name>
+    </test-case>
+    <test-case start="1729890355900" stop="1729890355912" status="passed">
+      <name>testBeforeOrderPaymentSaveWithCheckmo</name>
+    </test-case>
+    <test-case start="1729890355912" stop="1729890355918" status="passed">
+      <name>testBeforeOrderPaymentSaveWithCheckmoWithoutConfig</name>
+    </test-case>
+    <test-case start="1729890355918" stop="1729890355923" status="passed">
+      <name>testBeforeOrderPaymentSaveWithOthers</name>
+    </test-case>
+    <test-case start="1729890355924" stop="1729890355929" status="passed">
+      <name>testBeforeOrderPaymentSaveWithInstructionsAlreadySet with data set #0</name>
+    </test-case>
+    <test-case start="1729890355929" stop="1729890355934" status="passed">
+      <name>testBeforeOrderPaymentSaveWithInstructionsAlreadySet with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

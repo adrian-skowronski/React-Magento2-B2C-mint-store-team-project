@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890354231" stop="1729890354242" version="1.4.0">
+  <name>Magento\Multishipping\Test\Unit\Plugin\DisableMultishippingModeTest</name>
+  <test-cases>
+    <test-case start="1729890354232" stop="1729890354237" status="passed">
+      <name>testPluginWithChangedMultishippingMode with data set "check_when_totals_are_collected"</name>
+    </test-case>
+    <test-case start="1729890354237" stop="1729890354240" status="passed">
+      <name>testPluginWithChangedMultishippingMode with data set "check_when_totals_are_not_collected"</name>
+    </test-case>
+    <test-case start="1729890354241" stop="1729890354242" status="passed">
+      <name>testPluginWithNotChangedMultishippingMode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

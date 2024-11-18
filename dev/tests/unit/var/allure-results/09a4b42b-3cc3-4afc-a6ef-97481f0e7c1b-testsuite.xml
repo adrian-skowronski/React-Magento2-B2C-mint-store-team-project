@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301611" stop="1729890301699" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Block\System\Config\FormTest</name>
+  <test-cases>
+    <test-case start="1729890301611" stop="1729890301620" status="passed">
+      <name>testInitForm with data set #0</name>
+    </test-case>
+    <test-case start="1729890301620" stop="1729890301624" status="passed">
+      <name>testInitForm with data set #1</name>
+    </test-case>
+    <test-case start="1729890301625" stop="1729890301636" status="passed">
+      <name>testInitGroup with data set #0</name>
+    </test-case>
+    <test-case start="1729890301637" stop="1729890301643" status="passed">
+      <name>testInitGroup with data set #1</name>
+    </test-case>
+    <test-case start="1729890301644" stop="1729890301649" status="passed">
+      <name>testInitGroup with data set #2</name>
+    </test-case>
+    <test-case start="1729890301650" stop="1729890301669" status="passed">
+      <name>testInitFields with data set #0</name>
+    </test-case>
+    <test-case start="1729890301670" stop="1729890301680" status="passed">
+      <name>testInitFields with data set #1</name>
+    </test-case>
+    <test-case start="1729890301681" stop="1729890301689" status="passed">
+      <name>testInitFields with data set #2</name>
+    </test-case>
+    <test-case start="1729890301690" stop="1729890301699" status="passed">
+      <name>testInitFields with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

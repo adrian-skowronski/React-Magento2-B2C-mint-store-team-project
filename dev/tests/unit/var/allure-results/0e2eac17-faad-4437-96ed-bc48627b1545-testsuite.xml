@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280027" stop="1729890280035" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Model\Category\Plugin\Category\UpdateUrlPathTest</name>
+  <test-cases>
+    <test-case start="1729890280027" stop="1729890280031" status="passed">
+      <name>testAroundSaveWithoutRootCategory</name>
+    </test-case>
+    <test-case start="1729890280031" stop="1729890280035" status="passed">
+      <name>testAroundSaveWithRootCategory</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

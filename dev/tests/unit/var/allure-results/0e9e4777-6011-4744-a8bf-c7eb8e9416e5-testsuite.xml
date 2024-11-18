@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890317353" stop="1729890317407" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Metadata\Form\MultiselectTest</name>
+  <test-cases>
+    <test-case start="1729890317354" stop="1729890317355" status="passed">
+      <name>testExtractValue with data set "false"</name>
+    </test-case>
+    <test-case start="1729890317356" stop="1729890317357" status="passed">
+      <name>testExtractValue with data set "int"</name>
+    </test-case>
+    <test-case start="1729890317357" stop="1729890317358" status="passed">
+      <name>testExtractValue with data set "string"</name>
+    </test-case>
+    <test-case start="1729890317359" stop="1729890317359" status="passed">
+      <name>testExtractValue with data set "array"</name>
+    </test-case>
+    <test-case start="1729890317360" stop="1729890317361" status="passed">
+      <name>testCompactValue with data set "false"</name>
+    </test-case>
+    <test-case start="1729890317361" stop="1729890317362" status="passed">
+      <name>testCompactValue with data set "int"</name>
+    </test-case>
+    <test-case start="1729890317363" stop="1729890317364" status="passed">
+      <name>testCompactValue with data set "string"</name>
+    </test-case>
+    <test-case start="1729890317364" stop="1729890317365" status="passed">
+      <name>testCompactValue with data set "array"</name>
+    </test-case>
+    <test-case start="1729890317366" stop="1729890317368" status="passed">
+      <name>testOutputValueText with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890317368" stop="1729890317370" status="passed">
+      <name>testOutputValueText with data set "null"</name>
+    </test-case>
+    <test-case start="1729890317370" stop="1729890317372" status="passed">
+      <name>testOutputValueText with data set "number"</name>
+    </test-case>
+    <test-case start="1729890317372" stop="1729890317374" status="passed">
+      <name>testOutputValueText with data set "string"</name>
+    </test-case>
+    <test-case start="1729890317374" stop="1729890317376" status="passed">
+      <name>testOutputValueText with data set "array"</name>
+    </test-case>
+    <test-case start="1729890317377" stop="1729890317379" status="passed">
+      <name>testOutputValueText with data set "unknown"</name>
+    </test-case>
+    <test-case start="1729890317379" stop="1729890317381" status="passed">
+      <name>testOutputValueHtml with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890317382" stop="1729890317384" status="passed">
+      <name>testOutputValueHtml with data set "null"</name>
+    </test-case>
+    <test-case start="1729890317384" stop="1729890317386" status="passed">
+      <name>testOutputValueHtml with data set "number"</name>
+    </test-case>
+    <test-case start="1729890317387" stop="1729890317388" status="passed">
+      <name>testOutputValueHtml with data set "string"</name>
+    </test-case>
+    <test-case start="1729890317388" stop="1729890317390" status="passed">
+      <name>testOutputValueHtml with data set "array"</name>
+    </test-case>
+    <test-case start="1729890317391" stop="1729890317393" status="passed">
+      <name>testOutputValueHtml with data set "unknown"</name>
+    </test-case>
+    <test-case start="1729890317393" stop="1729890317395" status="passed">
+      <name>testOutputValueJson with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890317396" stop="1729890317397" status="passed">
+      <name>testOutputValueJson with data set "null"</name>
+    </test-case>
+    <test-case start="1729890317398" stop="1729890317400" status="passed">
+      <name>testOutputValueJson with data set "number"</name>
+    </test-case>
+    <test-case start="1729890317400" stop="1729890317402" status="passed">
+      <name>testOutputValueJson with data set "string"</name>
+    </test-case>
+    <test-case start="1729890317402" stop="1729890317404" status="passed">
+      <name>testOutputValueJson with data set "array"</name>
+    </test-case>
+    <test-case start="1729890317405" stop="1729890317407" status="passed">
+      <name>testOutputValueJson with data set "unknown"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

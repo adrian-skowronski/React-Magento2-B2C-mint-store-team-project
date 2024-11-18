@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890359526" stop="1729890359528" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Model\Method\SubstitutionTest</name>
+  <test-cases>
+    <test-case start="1729890359527" stop="1729890359528" status="passed">
+      <name>testGetTitle</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

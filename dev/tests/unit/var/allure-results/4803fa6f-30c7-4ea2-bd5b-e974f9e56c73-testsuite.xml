@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890312019" stop="1729890312024" version="1.4.0">
+  <name>Magento\Csp\Test\Unit\Model\Mode\ConfigManagerTest</name>
+  <test-cases>
+    <test-case start="1729890312019" stop="1729890312021" status="passed">
+      <name>testThrownExceptionForCrontabArea</name>
+    </test-case>
+    <test-case start="1729890312021" stop="1729890312023" status="passed">
+      <name>testConfiguredCSPForAdminArea</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

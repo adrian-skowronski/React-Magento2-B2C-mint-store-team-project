@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330380" stop="1729890330385" version="1.4.0">
+  <name>Magento\GoogleOptimizer\Test\Unit\Helper\FormTest</name>
+  <test-cases>
+    <test-case start="1729890330380" stop="1729890330383" status="passed">
+      <name>testAddFieldsWithExperimentCode</name>
+    </test-case>
+    <test-case start="1729890330383" stop="1729890330385" status="passed">
+      <name>testAddFieldsWithoutExperimentCode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

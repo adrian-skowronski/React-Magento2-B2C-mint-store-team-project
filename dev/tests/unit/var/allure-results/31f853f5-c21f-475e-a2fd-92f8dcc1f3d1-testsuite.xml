@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330873" stop="1729890330899" version="1.4.0">
+  <name>Magento\GroupedImportExport\Test\Unit\Model\Import\Product\Type\GroupedTest</name>
+  <test-cases>
+    <test-case start="1729890330873" stop="1729890330879" status="passed">
+      <name>testSaveData with data set #0</name>
+    </test-case>
+    <test-case start="1729890330880" stop="1729890330884" status="passed">
+      <name>testSaveData with data set #1</name>
+    </test-case>
+    <test-case start="1729890330884" stop="1729890330888" status="passed">
+      <name>testSaveData with data set #2</name>
+    </test-case>
+    <test-case start="1729890330888" stop="1729890330891" status="passed">
+      <name>testSaveData with data set #3</name>
+    </test-case>
+    <test-case start="1729890330891" stop="1729890330895" status="passed">
+      <name>testSaveDataScopeStore</name>
+    </test-case>
+    <test-case start="1729890330895" stop="1729890330899" status="passed">
+      <name>testSaveDataAssociatedComposite</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

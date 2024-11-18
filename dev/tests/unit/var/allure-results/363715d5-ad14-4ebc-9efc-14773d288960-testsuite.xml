@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890266164" stop="1729890266173" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890266165" stop="1729890266171" status="passed">
+      <name>testGetAreaFrontNameLocalConfigCustomFrontName</name>
+    </test-case>
+    <test-case start="1729890266171" stop="1729890266172" status="passed">
+      <name>testPrepareFilterStringValues with data set "both_spaces_value"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

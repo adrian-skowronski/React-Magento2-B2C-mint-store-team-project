@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890326823" stop="1729890326843" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Elasticsearch5\SearchAdapter\Aggregation\IntervalTest</name>
+  <test-cases>
+    <test-case start="1729890326824" stop="1729890326833" status="passed">
+      <name>testLoad with data set #0</name>
+    </test-case>
+    <test-case start="1729890326834" stop="1729890326836" status="passed">
+      <name>testLoadPrev with data set #0</name>
+    </test-case>
+    <test-case start="1729890326836" stop="1729890326838" status="passed">
+      <name>testLoadPrev with data set #1</name>
+    </test-case>
+    <test-case start="1729890326838" stop="1729890326840" status="passed">
+      <name>testLoadNext with data set #0</name>
+    </test-case>
+    <test-case start="1729890326841" stop="1729890326843" status="passed">
+      <name>testLoadNext with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

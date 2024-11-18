@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890458420" stop="1729890458450" version="1.4.0">
+  <name>Magento\Framework\Stdlib\Test\Unit\Cookie\SensitiveCookieMetadataTest</name>
+  <test-cases>
+    <test-case start="1729890458424" stop="1729890458424" status="passed">
+      <name>testConstructorAndGetHttpOnly with data set "with httpOnly"</name>
+    </test-case>
+    <test-case start="1729890458425" stop="1729890458425" status="passed">
+      <name>testConstructorAndGetHttpOnly with data set "without httpOnly"</name>
+    </test-case>
+    <test-case start="1729890458426" stop="1729890458427" status="passed">
+      <name>testGetSecure with data set "with secure"</name>
+    </test-case>
+    <test-case start="1729890458427" stop="1729890458430" status="passed">
+      <name>testGetSecure with data set "without secure"</name>
+    </test-case>
+    <test-case start="1729890458431" stop="1729890458434" status="passed">
+      <name>testGetSecure with data set "without secure 2"</name>
+    </test-case>
+    <test-case start="1729890458436" stop="1729890458438" status="passed">
+      <name>testToArray with data set "with secure"</name>
+    </test-case>
+    <test-case start="1729890458439" stop="1729890458440" status="passed">
+      <name>testToArray with data set "without secure"</name>
+    </test-case>
+    <test-case start="1729890458441" stop="1729890458443" status="passed">
+      <name>testToArray with data set "without secure 2"</name>
+    </test-case>
+    <test-case start="1729890458443" stop="1729890458444" status="passed">
+      <name>testGetters with data set "getDomain"</name>
+    </test-case>
+    <test-case start="1729890458445" stop="1729890458445" status="passed">
+      <name>testGetters with data set "getPath"</name>
+    </test-case>
+    <test-case start="1729890458446" stop="1729890458450" status="passed">
+      <name>testGetters with data set "getSameSite"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464054" stop="1729890464059" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Layout\Reader\MoveTest</name>
+  <test-cases>
+    <test-case start="1729890464055" stop="1729890464056" status="passed">
+      <name>testProcess with data set "move_before"</name>
+    </test-case>
+    <test-case start="1729890464057" stop="1729890464058" status="passed">
+      <name>testProcess with data set "move_after"</name>
+    </test-case>
+    <test-case start="1729890464058" stop="1729890464059" status="passed">
+      <name>testProcessInvalidData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890273774" stop="1729890273799" version="1.4.0">
+  <name>Magento\CatalogImportExport\Test\Unit\Model\Indexer\Product\Flat\Plugin\ImportTest</name>
+  <test-cases>
+    <test-case start="1729890273774" stop="1729890273796" status="passed">
+      <name>testAfterImportSourceWithFlatEnabledAndIndexerScheduledDisabled</name>
+    </test-case>
+    <test-case start="1729890273797" stop="1729890273798" status="passed">
+      <name>testAfterImportSourceWithFlatDisabledAndIndexerScheduledDisabled</name>
+    </test-case>
+    <test-case start="1729890273798" stop="1729890273799" status="passed">
+      <name>testAfterImportSourceWithFlatEnabledAndIndexerScheduledEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

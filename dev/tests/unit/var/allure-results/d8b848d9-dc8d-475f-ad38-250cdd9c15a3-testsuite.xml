@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890300752" stop="1729890300764" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Model\ResourceModel\Page\Grid\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890300752" stop="1729890300760" status="passed">
+      <name>testSetterGetter</name>
+    </test-case>
+    <test-case start="1729890300760" stop="1729890300764" status="passed">
+      <name>testSetSearchCriteria</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

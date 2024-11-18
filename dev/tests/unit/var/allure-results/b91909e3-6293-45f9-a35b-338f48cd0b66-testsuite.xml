@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325372" stop="1729890325407" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\Attribute\OptionManagementTest</name>
+  <test-cases>
+    <test-case start="1729890325373" stop="1729890325379" status="passed">
+      <name>testAdd with data set #0</name>
+    </test-case>
+    <test-case start="1729890325379" stop="1729890325381" status="passed">
+      <name>testAdd with data set #1</name>
+    </test-case>
+    <test-case start="1729890325381" stop="1729890325382" status="passed">
+      <name>testAddWithEmptyAttributeCode</name>
+    </test-case>
+    <test-case start="1729890325383" stop="1729890325384" status="passed">
+      <name>testAddWithWrongOptions</name>
+    </test-case>
+    <test-case start="1729890325384" stop="1729890325387" status="passed">
+      <name>testAddWithCannotSaveException</name>
+    </test-case>
+    <test-case start="1729890325387" stop="1729890325390" status="passed">
+      <name>testUpdate with data set #0</name>
+    </test-case>
+    <test-case start="1729890325390" stop="1729890325392" status="passed">
+      <name>testUpdate with data set #1</name>
+    </test-case>
+    <test-case start="1729890325392" stop="1729890325394" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890325394" stop="1729890325396" status="passed">
+      <name>testDeleteWithCannotSaveException</name>
+    </test-case>
+    <test-case start="1729890325396" stop="1729890325399" status="passed">
+      <name>testDeleteWithWrongOption</name>
+    </test-case>
+    <test-case start="1729890325399" stop="1729890325400" status="passed">
+      <name>testDeleteWithAbsentOption</name>
+    </test-case>
+    <test-case start="1729890325401" stop="1729890325401" status="passed">
+      <name>testDeleteWithEmptyAttributeCode</name>
+    </test-case>
+    <test-case start="1729890325402" stop="1729890325405" status="passed">
+      <name>testGetItems</name>
+    </test-case>
+    <test-case start="1729890325405" stop="1729890325406" status="passed">
+      <name>testGetItemsWithCannotLoadException</name>
+    </test-case>
+    <test-case start="1729890325407" stop="1729890325407" status="passed">
+      <name>testGetItemsWithEmptyAttributeCode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

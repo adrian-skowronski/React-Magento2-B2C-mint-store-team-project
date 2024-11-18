@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422677" stop="1729890422691" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\ActionFlagTest</name>
+  <test-cases>
+    <test-case start="1729890422677" stop="1729890422679" status="passed">
+      <name>testSetIfActionNotExist</name>
+    </test-case>
+    <test-case start="1729890422679" stop="1729890422680" status="passed">
+      <name>testSetIfActionExist</name>
+    </test-case>
+    <test-case start="1729890422681" stop="1729890422683" status="passed">
+      <name>testGetIfFlagNotExist</name>
+    </test-case>
+    <test-case start="1729890422684" stop="1729890422687" status="passed">
+      <name>testGetIfFlagExist</name>
+    </test-case>
+    <test-case start="1729890422688" stop="1729890422691" status="passed">
+      <name>testGetIfFlagWithControllerKryNotExist</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

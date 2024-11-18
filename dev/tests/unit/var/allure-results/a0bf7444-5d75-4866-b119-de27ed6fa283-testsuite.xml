@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319482" stop="1729890319487" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Service\DeployTranslationsDictionaryTest</name>
+  <test-cases>
+    <test-case start="1729890319483" stop="1729890319487" status="passed">
+      <name>testDeploy</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

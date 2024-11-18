@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404278" stop="1729890404303" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\AbstractComponentTest</name>
+  <test-cases>
+    <test-case start="1729890404279" stop="1729890404280" status="passed">
+      <name>testGetContext</name>
+    </test-case>
+    <test-case start="1729890404280" stop="1729890404280" status="passed">
+      <name>testGetName</name>
+    </test-case>
+    <test-case start="1729890404281" stop="1729890404283" status="passed">
+      <name>testRender</name>
+    </test-case>
+    <test-case start="1729890404283" stop="1729890404284" status="passed">
+      <name>testGetComponentNotExists</name>
+    </test-case>
+    <test-case start="1729890404284" stop="1729890404285" status="passed">
+      <name>testGetChildComponentsEmptyArray</name>
+    </test-case>
+    <test-case start="1729890404286" stop="1729890404286" status="passed">
+      <name>testAddGetChildComponents</name>
+    </test-case>
+    <test-case start="1729890404287" stop="1729890404288" status="passed">
+      <name>testGetChildComponents</name>
+    </test-case>
+    <test-case start="1729890404288" stop="1729890404289" status="passed">
+      <name>testRenderChildComponentNotExists</name>
+    </test-case>
+    <test-case start="1729890404289" stop="1729890404290" status="passed">
+      <name>testRenderChildComponent</name>
+    </test-case>
+    <test-case start="1729890404290" stop="1729890404291" status="passed">
+      <name>testGetTemplate</name>
+    </test-case>
+    <test-case start="1729890404291" stop="1729890404292" status="passed">
+      <name>testGetConfiguration with data set #0</name>
+    </test-case>
+    <test-case start="1729890404293" stop="1729890404293" status="passed">
+      <name>testGetConfiguration with data set #1</name>
+    </test-case>
+    <test-case start="1729890404294" stop="1729890404294" status="passed">
+      <name>testGetConfiguration with data set #2</name>
+    </test-case>
+    <test-case start="1729890404295" stop="1729890404298" status="passed">
+      <name>testGetJsConfig with data set #0</name>
+    </test-case>
+    <test-case start="1729890404299" stop="1729890404301" status="passed">
+      <name>testGetJsConfig with data set #1</name>
+    </test-case>
+    <test-case start="1729890404301" stop="1729890404303" status="passed">
+      <name>testGetJsConfig with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

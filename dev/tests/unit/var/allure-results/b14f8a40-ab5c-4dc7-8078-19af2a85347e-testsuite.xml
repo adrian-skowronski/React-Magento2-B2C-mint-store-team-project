@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454092" stop="1729890454100" version="1.4.0">
+  <name>Magento\Framework\Notification\Test\Unit\NotifierPoolTest</name>
+  <test-cases>
+    <test-case start="1729890454092" stop="1729890454094" status="passed">
+      <name>testAdd</name>
+    </test-case>
+    <test-case start="1729890454095" stop="1729890454096" status="passed">
+      <name>testAddCritical</name>
+    </test-case>
+    <test-case start="1729890454096" stop="1729890454097" status="passed">
+      <name>testAddMajor</name>
+    </test-case>
+    <test-case start="1729890454097" stop="1729890454098" status="passed">
+      <name>testAddMinor</name>
+    </test-case>
+    <test-case start="1729890454099" stop="1729890454100" status="passed">
+      <name>testAddNotice</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

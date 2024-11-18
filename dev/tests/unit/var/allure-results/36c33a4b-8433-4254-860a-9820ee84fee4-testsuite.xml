@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890296331" stop="1729890296353" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\ViewModel\Product\Checker\AddToCompareAvailabilityTest</name>
+  <test-cases>
+    <test-case start="1729890296332" stop="1729890296336" status="passed">
+      <name>testIsAvailableForCompare with data set #0</name>
+    </test-case>
+    <test-case start="1729890296337" stop="1729890296340" status="passed">
+      <name>testIsAvailableForCompare with data set #1</name>
+    </test-case>
+    <test-case start="1729890296341" stop="1729890296344" status="passed">
+      <name>testIsAvailableForCompare with data set #2</name>
+    </test-case>
+    <test-case start="1729890296345" stop="1729890296349" status="passed">
+      <name>testIsAvailableForCompare with data set #3</name>
+    </test-case>
+    <test-case start="1729890296350" stop="1729890296353" status="passed">
+      <name>testIsAvailableForCompare with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

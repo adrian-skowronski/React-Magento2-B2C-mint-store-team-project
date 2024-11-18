@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890425253" stop="1729890425283" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\HttpTest</name>
+  <test-cases>
+    <test-case start="1729890425254" stop="1729890425261" status="passed">
+      <name>testLaunchSuccess</name>
+    </test-case>
+    <test-case start="1729890425261" stop="1729890425263" status="passed">
+      <name>testLaunchException</name>
+    </test-case>
+    <test-case start="1729890425264" stop="1729890425268" status="passed">
+      <name>testLaunchHeadRequest with data set #0</name>
+    </test-case>
+    <test-case start="1729890425269" stop="1729890425273" status="passed">
+      <name>testLaunchHeadRequest with data set #1</name>
+    </test-case>
+    <test-case start="1729890425274" stop="1729890425278" status="passed">
+      <name>testLaunchHeadRequest with data set #2</name>
+    </test-case>
+    <test-case start="1729890425279" stop="1729890425283" status="passed">
+      <name>testLaunchHeadRequest with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

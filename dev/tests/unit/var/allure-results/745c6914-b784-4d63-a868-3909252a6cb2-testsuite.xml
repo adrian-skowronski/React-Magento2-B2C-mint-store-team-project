@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890426167" stop="1729890426178" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\ResourceConnection\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890426167" stop="1729890426169" status="passed">
+      <name>testGetConnectionName with data set #0</name>
+    </test-case>
+    <test-case start="1729890426170" stop="1729890426171" status="passed">
+      <name>testGetConnectionName with data set #1</name>
+    </test-case>
+    <test-case start="1729890426172" stop="1729890426173" status="passed">
+      <name>testGetConnectionName with data set #2</name>
+    </test-case>
+    <test-case start="1729890426173" stop="1729890426174" status="passed">
+      <name>testGetConnectionName with data set #3</name>
+    </test-case>
+    <test-case start="1729890426175" stop="1729890426176" status="passed">
+      <name>testGetConnectionName with data set #4</name>
+    </test-case>
+    <test-case start="1729890426176" stop="1729890426178" status="passed">
+      <name>testGetConnectionNameWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

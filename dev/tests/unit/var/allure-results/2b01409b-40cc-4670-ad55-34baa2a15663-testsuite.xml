@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264474" stop="1729890264480" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\Widget\Grid\Column\MultistoreTest</name>
+  <test-cases>
+    <test-case start="1729890264475" stop="1729890264477" status="passed">
+      <name>testIsDisplayedReturnsTrueInMultiStoreMode</name>
+    </test-case>
+    <test-case start="1729890264477" stop="1729890264480" status="passed">
+      <name>testIsDisplayedReturnsFalseInSingleStoreMode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

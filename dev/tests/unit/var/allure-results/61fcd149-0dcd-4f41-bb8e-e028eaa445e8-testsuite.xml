@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374035" stop="1729890374038" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Observer\SendfriendProductObserverTest</name>
+  <test-cases>
+    <test-case start="1729890374035" stop="1729890374036" status="passed">
+      <name>testExecuteWhenReportIsDisabled</name>
+    </test-case>
+    <test-case start="1729890374037" stop="1729890374038" status="passed">
+      <name>testExecuteWhenReportIsEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

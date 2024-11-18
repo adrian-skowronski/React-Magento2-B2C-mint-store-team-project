@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890394525" stop="1729890394538" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\Config\Importer\DataDifferenceCalculatorTest</name>
+  <test-cases>
+    <test-case start="1729890394526" stop="1729890394533" status="passed">
+      <name>testGetItemsToDelete</name>
+    </test-case>
+    <test-case start="1729890394534" stop="1729890394535" status="passed">
+      <name>testGetItemsToCreate</name>
+    </test-case>
+    <test-case start="1729890394535" stop="1729890394537" status="passed">
+      <name>testGetItemsToUpdate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

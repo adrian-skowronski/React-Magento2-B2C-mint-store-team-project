@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890387208" stop="1729890387220" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Shipment\TrackTest</name>
+  <test-cases>
+    <test-case start="1729890387208" stop="1729890387210" status="passed">
+      <name>testAddData</name>
+    </test-case>
+    <test-case start="1729890387211" stop="1729890387212" status="passed">
+      <name>testGetStoreId</name>
+    </test-case>
+    <test-case start="1729890387213" stop="1729890387214" status="passed">
+      <name>testSetGetNumber</name>
+    </test-case>
+    <test-case start="1729890387215" stop="1729890387216" status="passed">
+      <name>testIsCustom with data set #0</name>
+    </test-case>
+    <test-case start="1729890387217" stop="1729890387219" status="passed">
+      <name>testIsCustom with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

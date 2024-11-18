@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890407592" stop="1729890407604" version="1.4.0">
+  <name>Magento\VaultGraphQl\Test\Unit\Model\Resolver\DeletePaymentTokenTest</name>
+  <test-cases>
+    <test-case start="1729890407592" stop="1729890407596" status="passed">
+      <name>testDeleteCustomerPaymentToken</name>
+    </test-case>
+    <test-case start="1729890407597" stop="1729890407598" status="passed">
+      <name>testCustomerNotAuthorized</name>
+    </test-case>
+    <test-case start="1729890407598" stop="1729890407602" status="passed">
+      <name>testCustomerPaymentTokenNotExists</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

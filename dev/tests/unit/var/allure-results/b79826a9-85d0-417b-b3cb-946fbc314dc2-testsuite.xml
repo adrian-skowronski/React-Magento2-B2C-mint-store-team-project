@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890326673" stop="1729890326692" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Adapter\FieldMapper\Product\FieldProvider\FieldType\Resolver\KeywordTypeTest</name>
+  <test-cases>
+    <test-case start="1729890326673" stop="1729890326677" status="passed">
+      <name>testGetFieldType with data set #0</name>
+    </test-case>
+    <test-case start="1729890326677" stop="1729890326679" status="passed">
+      <name>testGetFieldType with data set #1</name>
+    </test-case>
+    <test-case start="1729890326680" stop="1729890326681" status="passed">
+      <name>testGetFieldType with data set #2</name>
+    </test-case>
+    <test-case start="1729890326682" stop="1729890326683" status="passed">
+      <name>testGetFieldType with data set #3</name>
+    </test-case>
+    <test-case start="1729890326684" stop="1729890326685" status="passed">
+      <name>testGetFieldType with data set #4</name>
+    </test-case>
+    <test-case start="1729890326686" stop="1729890326687" status="passed">
+      <name>testGetFieldType with data set #5</name>
+    </test-case>
+    <test-case start="1729890326688" stop="1729890326689" status="passed">
+      <name>testGetFieldType with data set #6</name>
+    </test-case>
+    <test-case start="1729890326690" stop="1729890326691" status="passed">
+      <name>testGetFieldType with data set #7</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

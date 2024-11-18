@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890260291" stop="1729890260299" version="1.4.0">
+  <name>Magento\AdobeStockImageAdminUi\Test\Unit\Controller\Adminhtml\License\SaveLicensedTest</name>
+  <test-cases>
+    <test-case start="1729890260291" stop="1729890260293" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890260294" stop="1729890260296" status="passed">
+      <name>testNotFoundAsset with data set "Test the thrown exception if the asset couldn't be found"</name>
+    </test-case>
+    <test-case start="1729890260297" stop="1729890260299" status="passed">
+      <name>testNotFoundAsset with data set "Test the thrown exception if the asset couldn't downloaded"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

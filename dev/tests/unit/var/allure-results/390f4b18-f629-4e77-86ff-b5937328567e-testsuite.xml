@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294054" stop="1729890294055" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ResourceModel\Product\Collection\ProductLimitationTest</name>
+  <test-cases>
+    <test-case start="1729890294054" stop="1729890294055" status="passed">
+      <name>testGetUsePriceIndex</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

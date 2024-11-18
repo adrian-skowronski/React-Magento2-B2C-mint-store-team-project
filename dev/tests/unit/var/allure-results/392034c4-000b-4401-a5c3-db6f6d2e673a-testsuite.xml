@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280739" stop="1729890280762" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Observer\ProductProcessUrlRewriteSavingObserverTest</name>
+  <test-cases>
+    <test-case start="1729890280740" stop="1729890280746" status="passed">
+      <name>testExecuteUrlKey with data set "url changed"</name>
+    </test-case>
+    <test-case start="1729890280746" stop="1729890280749" status="passed">
+      <name>testExecuteUrlKey with data set "no chnages"</name>
+    </test-case>
+    <test-case start="1729890280750" stop="1729890280753" status="passed">
+      <name>testExecuteUrlKey with data set "visibility changed"</name>
+    </test-case>
+    <test-case start="1729890280754" stop="1729890280757" status="passed">
+      <name>testExecuteUrlKey with data set "websites changed"</name>
+    </test-case>
+    <test-case start="1729890280757" stop="1729890280759" status="passed">
+      <name>testExecuteUrlKey with data set "categories changed"</name>
+    </test-case>
+    <test-case start="1729890280760" stop="1729890280762" status="passed">
+      <name>testExecuteUrlKey with data set "url changed invisible"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

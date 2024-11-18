@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890359656" stop="1729890359664" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Observer\UpdateOrderStatusForPaymentMethodsObserverTest</name>
+  <test-cases>
+    <test-case start="1729890359656" stop="1729890359661" status="passed">
+      <name>testUpdateOrderStatusForPaymentMethodsNotNewState</name>
+    </test-case>
+    <test-case start="1729890359661" stop="1729890359664" status="passed">
+      <name>testUpdateOrderStatusForPaymentMethodsNewState</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

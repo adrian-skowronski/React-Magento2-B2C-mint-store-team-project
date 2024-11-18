@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890261548" stop="1729890261555" version="1.4.0">
+  <name>Magento\AdvancedSearch\Test\Unit\Model\Client\ClientResolverTest</name>
+  <test-cases>
+    <test-case start="1729890261548" stop="1729890261551" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890261552" stop="1729890261552" status="passed">
+      <name>testCreateExceptionThrown</name>
+    </test-case>
+    <test-case start="1729890261553" stop="1729890261554" status="passed">
+      <name>testCreateLogicException</name>
+    </test-case>
+    <test-case start="1729890261554" stop="1729890261555" status="passed">
+      <name>testGetCurrentEngine</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

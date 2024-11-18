@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890270580" stop="1729890270628" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Pricing\Price\BundleSelectionPriceTest</name>
+  <test-cases>
+    <test-case start="1729890270581" stop="1729890270590" status="passed">
+      <name>testGetValueTypeDynamic with data set "useRegularPrice"</name>
+    </test-case>
+    <test-case start="1729890270590" stop="1729890270594" status="passed">
+      <name>testGetValueTypeDynamic with data set "notUseRegularPrice"</name>
+    </test-case>
+    <test-case start="1729890270595" stop="1729890270598" status="passed">
+      <name>testGetValueTypeFixedWithSelectionPriceType with data set "useRegularPrice"</name>
+    </test-case>
+    <test-case start="1729890270598" stop="1729890270603" status="passed">
+      <name>testGetValueTypeFixedWithSelectionPriceType with data set "notUseRegularPrice"</name>
+    </test-case>
+    <test-case start="1729890270604" stop="1729890270607" status="passed">
+      <name>testGetValueTypeFixedWithoutSelectionPriceType with data set "useRegularPrice"</name>
+    </test-case>
+    <test-case start="1729890270607" stop="1729890270611" status="passed">
+      <name>testGetValueTypeFixedWithoutSelectionPriceType with data set "notUseRegularPrice"</name>
+    </test-case>
+    <test-case start="1729890270612" stop="1729890270614" status="passed">
+      <name>testFixedPriceWithMultipleQty with data set "useRegularPrice"</name>
+    </test-case>
+    <test-case start="1729890270614" stop="1729890270617" status="passed">
+      <name>testFixedPriceWithMultipleQty with data set "notUseRegularPrice"</name>
+    </test-case>
+    <test-case start="1729890270618" stop="1729890270621" status="passed">
+      <name>testGetProductFixedBundle</name>
+    </test-case>
+    <test-case start="1729890270621" stop="1729890270623" status="passed">
+      <name>testGetProductDynamicBundle</name>
+    </test-case>
+    <test-case start="1729890270623" stop="1729890270628" status="passed">
+      <name>testGetAmount</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422747" stop="1729890422765" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\AreaTest</name>
+  <test-cases>
+    <test-case start="1729890422747" stop="1729890422749" status="passed">
+      <name>testLoadConfig</name>
+    </test-case>
+    <test-case start="1729890422750" stop="1729890422751" status="passed">
+      <name>testLoadTranslate</name>
+    </test-case>
+    <test-case start="1729890422752" stop="1729890422753" status="passed">
+      <name>testLoadDesign</name>
+    </test-case>
+    <test-case start="1729890422753" stop="1729890422754" status="passed">
+      <name>testLoadUnknownPart</name>
+    </test-case>
+    <test-case start="1729890422755" stop="1729890422756" status="passed">
+      <name>testLoad</name>
+    </test-case>
+    <test-case start="1729890422757" stop="1729890422758" status="passed">
+      <name>testDetectDesign</name>
+    </test-case>
+    <test-case start="1729890422759" stop="1729890422761" status="passed">
+      <name>testDetectDesignByRequest with data set #0</name>
+    </test-case>
+    <test-case start="1729890422761" stop="1729890422763" status="passed">
+      <name>testDetectDesignByRequest with data set #1</name>
+    </test-case>
+    <test-case start="1729890422763" stop="1729890422764" status="passed">
+      <name>testDetectDesignByRequestWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

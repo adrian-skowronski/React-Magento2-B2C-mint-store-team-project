@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890286942" stop="1729890286950" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Product\Flat\Action\Rows\TableDataTest</name>
+  <test-cases>
+    <test-case start="1729890286943" stop="1729890286945" status="passed">
+      <name>testMoveWithNonExistentFlatTable</name>
+    </test-case>
+    <test-case start="1729890286946" stop="1729890286950" status="passed">
+      <name>testMoveWithExistentFlatTable</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

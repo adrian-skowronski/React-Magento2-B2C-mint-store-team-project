@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890424291" stop="1729890424376" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Config\XsdTest</name>
+  <test-cases>
+    <test-case start="1729890424292" stop="1729890424294" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "without_router_handle"</name>
+    </test-case>
+    <test-case start="1729890424295" stop="1729890424296" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "router_without_required_id_attribute"</name>
+    </test-case>
+    <test-case start="1729890424297" stop="1729890424298" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "route_with_same_id_attribute"</name>
+    </test-case>
+    <test-case start="1729890424299" stop="1729890424300" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "router_without_required_route_handle"</name>
+    </test-case>
+    <test-case start="1729890424301" stop="1729890424302" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "routers_with_same_id"</name>
+    </test-case>
+    <test-case start="1729890424302" stop="1729890424304" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "router_with_notallowed_attribute"</name>
+    </test-case>
+    <test-case start="1729890424304" stop="1729890424305" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "route_without_required_module_handle"</name>
+    </test-case>
+    <test-case start="1729890424306" stop="1729890424307" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "route_with_notallowed_attribute"</name>
+    </test-case>
+    <test-case start="1729890424308" stop="1729890424309" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "same_route_frontname_attribute_value"</name>
+    </test-case>
+    <test-case start="1729890424310" stop="1729890424311" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "module_with_notallowed_attribute"</name>
+    </test-case>
+    <test-case start="1729890424312" stop="1729890424327" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "router_id_empty_value"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'router', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'router', attribute 'id': '' is not a valid value of the atomic type 'routerIdType'.\n
++    1 =&gt; 'Element 'router', attribute 'id': Warning: No precomputed value available, the value was either invalid or something strange happened.\n
+     Line: 1\n
+     '
+-    2 =&gt; 'Element 'router', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424328" stop="1729890424332" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "router_id_value_regexp1"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'router', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'router', attribute 'id': 'as' is not a valid value of the atomic type 'routerIdType'.\n
++    1 =&gt; 'Element 'router', attribute 'id': Warning: No precomputed value available, the value was either invalid or something strange happened.\n
+     Line: 1\n
+     '
+-    2 =&gt; 'Element 'router', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424333" stop="1729890424335" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "router_id_value_regexp2"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'router', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'router', attribute 'id': '##%#' is not a valid value of the atomic type 'routerIdType'.\n
++    1 =&gt; 'Element 'router', attribute 'id': Warning: No precomputed value available, the value was either invalid or something strange happened.\n
+     Line: 1\n
+     '
+-    2 =&gt; 'Element 'router', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424336" stop="1729890424338" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "router_route_value_regexp1"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'route', attribute 'i...e: 1\n'
+-    1 =&gt; 'Element 'route', attribute 'id': 'dc' is not a valid value of the atomic type 'routeIdType'.\n
++    1 =&gt; 'Element 'route', attribute 'id': Warning: No precomputed value available, the value was either invalid or something strange happened.\n
+     Line: 1\n
+     '
+-    2 =&gt; 'Element 'route', attribute 'i...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424338" stop="1729890424340" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "router_route_empty_before_attribute_value"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'module', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'module', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424341" stop="1729890424343" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "router_route_before_attribute_value_regexp1"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'module', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'module', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424344" stop="1729890424347" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "router_route_before_attribute_value_regexp2"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'module', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'module', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424347" stop="1729890424349" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "route_module_without_required_name_atrribute"</name>
+    </test-case>
+    <test-case start="1729890424349" stop="1729890424352" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "route_module_name_attribute_value_regexp1"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'module', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'module', attribute 'name': 'ss' is not a valid value of the atomic type 'moduleNameType'.\n
++    1 =&gt; 'Element 'module', attribute 'name': Warning: No precomputed value available, the value was either invalid or something strange happened.\n
+     Line: 1\n
+     '
+-    2 =&gt; 'Element 'module', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424352" stop="1729890424355" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "route_module_name_attribute_value_regexp2"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'module', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'module', attribute 'name': '#$%^' is not a valid value of the atomic type 'moduleNameType'.\n
++    1 =&gt; 'Element 'module', attribute 'name': Warning: No precomputed value available, the value was either invalid or something strange happened.\n
+     Line: 1\n
+     '
+-    2 =&gt; 'Element 'module', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424356" stop="1729890424358" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "route_module_before_attribute_empty_value"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'module', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'module', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424358" stop="1729890424360" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "route_module_before_attribute_value_regexp1"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'module', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'module', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424361" stop="1729890424363" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "route_module_before_attribute_value_regexp2"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'module', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'module', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424364" stop="1729890424366" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "route_module_after_attribute_empty_value"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'module', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'module', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424366" stop="1729890424369" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "route_module_after_attribute_value_regexp1"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'module', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'module', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424369" stop="1729890424372" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "route_module_after_attribute_value_regexp2"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'module', attribute '...e: 1\n'
+-    1 =&gt; 'Element 'module', attribute '...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/App/Test/Unit/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\App\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890424372" stop="1729890424375" status="passed">
+      <name>testSchemaCorrectlyIdentifiesValidXml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

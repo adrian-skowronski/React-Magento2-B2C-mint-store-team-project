@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890424244" stop="1729890424268" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Config\ValueTest</name>
+  <test-cases>
+    <test-case start="1729890424245" stop="1729890424247" status="passed">
+      <name>testGetOldValue</name>
+    </test-case>
+    <test-case start="1729890424247" stop="1729890424249" status="passed">
+      <name>testIsValueChanged with data set #0</name>
+    </test-case>
+    <test-case start="1729890424250" stop="1729890424252" status="passed">
+      <name>testIsValueChanged with data set #1</name>
+    </test-case>
+    <test-case start="1729890424252" stop="1729890424254" status="passed">
+      <name>testAfterLoad</name>
+    </test-case>
+    <test-case start="1729890424255" stop="1729890424257" status="passed">
+      <name>testGetFieldsetDataValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890424257" stop="1729890424259" status="passed">
+      <name>testGetFieldsetDataValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890424259" stop="1729890424261" status="passed">
+      <name>testGetFieldsetDataValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890424262" stop="1729890424264" status="passed">
+      <name>testAfterSave with data set #0</name>
+    </test-case>
+    <test-case start="1729890424264" stop="1729890424266" status="passed">
+      <name>testAfterSave with data set #1</name>
+    </test-case>
+    <test-case start="1729890424266" stop="1729890424268" status="passed">
+      <name>testAfterDelete</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

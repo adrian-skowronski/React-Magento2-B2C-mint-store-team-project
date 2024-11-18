@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890459085" stop="1729890459092" version="1.4.0">
+  <name>Magento\Framework\TestFramework\Test\Unit\Autoloader\ExtensionAttributesGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890459086" stop="1729890459087" status="passed">
+      <name>testGenerateExtensionAttributes</name>
+    </test-case>
+    <test-case start="1729890459091" stop="1729890459091" status="passed">
+      <name>testGenerateNonExtensionAttributes with data set "non-extension attribute class"</name>
+    </test-case>
+    <test-case start="1729890459092" stop="1729890459092" status="passed">
+      <name>testGenerateNonExtensionAttributes with data set "non-conventional extension attribute name"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890295170" stop="1729890295184" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Pricing\Price\RegularPriceTest</name>
+  <test-cases>
+    <test-case start="1729890295171" stop="1729890295173" status="passed">
+      <name>testGetValue with data set "With price"</name>
+    </test-case>
+    <test-case start="1729890295174" stop="1729890295176" status="passed">
+      <name>testGetValue with data set "Without price"</name>
+    </test-case>
+    <test-case start="1729890295176" stop="1729890295178" status="passed">
+      <name>testGetValueDataProvider</name>
+    </test-case>
+    <test-case start="1729890295178" stop="1729890295181" status="passed">
+      <name>testGetAmount</name>
+    </test-case>
+    <test-case start="1729890295181" stop="1729890295183" status="passed">
+      <name>testGetPriceCode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

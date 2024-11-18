@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890426422" stop="1729890426450" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Router\ActionListTest</name>
+  <test-cases>
+    <test-case start="1729890426423" stop="1729890426431" status="passed">
+      <name>testConstructActionsCached</name>
+    </test-case>
+    <test-case start="1729890426431" stop="1729890426433" status="passed">
+      <name>testConstructActionsNoCached</name>
+    </test-case>
+    <test-case start="1729890426434" stop="1729890426436" status="passed">
+      <name>testGet with data set #0</name>
+    </test-case>
+    <test-case start="1729890426437" stop="1729890426439" status="passed">
+      <name>testGet with data set #1</name>
+    </test-case>
+    <test-case start="1729890426439" stop="1729890426441" status="passed">
+      <name>testGet with data set #2</name>
+    </test-case>
+    <test-case start="1729890426442" stop="1729890426444" status="passed">
+      <name>testGet with data set #3</name>
+    </test-case>
+    <test-case start="1729890426445" stop="1729890426447" status="passed">
+      <name>testGet with data set #4</name>
+    </test-case>
+    <test-case start="1729890426448" stop="1729890426450" status="passed">
+      <name>testGet with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

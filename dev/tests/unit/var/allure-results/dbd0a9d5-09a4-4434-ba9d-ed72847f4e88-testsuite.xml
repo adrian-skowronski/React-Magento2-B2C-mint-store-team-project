@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316659" stop="1729890316662" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\LogTest</name>
+  <test-cases>
+    <test-case start="1729890316659" stop="1729890316660" status="passed">
+      <name>testGetCustomerId</name>
+    </test-case>
+    <test-case start="1729890316660" stop="1729890316661" status="passed">
+      <name>testGetLastLoginAt</name>
+    </test-case>
+    <test-case start="1729890316661" stop="1729890316661" status="passed">
+      <name>testGetLastVisitAt</name>
+    </test-case>
+    <test-case start="1729890316662" stop="1729890316662" status="passed">
+      <name>testGetLastLogoutAt</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

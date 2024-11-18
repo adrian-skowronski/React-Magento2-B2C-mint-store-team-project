@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890411065" stop="1729890411070" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Block\Rss\EmailLinkTest</name>
+  <test-cases>
+    <test-case start="1729890411065" stop="1729890411070" status="passed">
+      <name>testGetLink</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

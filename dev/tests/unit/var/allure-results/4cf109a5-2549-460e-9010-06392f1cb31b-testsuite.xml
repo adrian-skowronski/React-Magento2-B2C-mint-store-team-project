@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358452" stop="1729890358480" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Gateway\Data\Order\AddressAdapterTest</name>
+  <test-cases>
+    <test-case start="1729890358452" stop="1729890358455" status="passed">
+      <name>testGetRegion</name>
+    </test-case>
+    <test-case start="1729890358455" stop="1729890358456" status="passed">
+      <name>testGetCountryId</name>
+    </test-case>
+    <test-case start="1729890358457" stop="1729890358459" status="passed">
+      <name>testStreetLine1 with data set #0</name>
+    </test-case>
+    <test-case start="1729890358459" stop="1729890358461" status="passed">
+      <name>testStreetLine1 with data set #1</name>
+    </test-case>
+    <test-case start="1729890358461" stop="1729890358463" status="passed">
+      <name>testStreetLine2 with data set #0</name>
+    </test-case>
+    <test-case start="1729890358463" stop="1729890358465" status="passed">
+      <name>testStreetLine2 with data set #1</name>
+    </test-case>
+    <test-case start="1729890358465" stop="1729890358466" status="passed">
+      <name>testStreetLine2 with data set #2</name>
+    </test-case>
+    <test-case start="1729890358467" stop="1729890358468" status="passed">
+      <name>testGetTelephone</name>
+    </test-case>
+    <test-case start="1729890358468" stop="1729890358469" status="passed">
+      <name>testGetPostcode</name>
+    </test-case>
+    <test-case start="1729890358470" stop="1729890358471" status="passed">
+      <name>testGetCity</name>
+    </test-case>
+    <test-case start="1729890358472" stop="1729890358473" status="passed">
+      <name>testGetFirstname</name>
+    </test-case>
+    <test-case start="1729890358473" stop="1729890358475" status="passed">
+      <name>testGetLastname</name>
+    </test-case>
+    <test-case start="1729890358475" stop="1729890358476" status="passed">
+      <name>testGetMiddlename</name>
+    </test-case>
+    <test-case start="1729890358477" stop="1729890358478" status="passed">
+      <name>testGetCustomerId</name>
+    </test-case>
+    <test-case start="1729890358478" stop="1729890358480" status="passed">
+      <name>testGetEmail</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

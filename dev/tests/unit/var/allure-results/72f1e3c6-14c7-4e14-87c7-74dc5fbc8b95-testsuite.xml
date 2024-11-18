@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890424088" stop="1729890424091" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Config\Scope\ConverterTest</name>
+  <test-cases>
+    <test-case start="1729890424089" stop="1729890424090" status="passed">
+      <name>testConvert</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

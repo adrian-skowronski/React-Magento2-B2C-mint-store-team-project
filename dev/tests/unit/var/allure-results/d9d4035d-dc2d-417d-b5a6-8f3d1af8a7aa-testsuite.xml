@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890268421" stop="1729890268424" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Block\Adminhtml\Catalog\Product\Composite\Fieldset\Options\Type\RadioTest</name>
+  <test-cases>
+    <test-case start="1729890268421" stop="1729890268424" status="passed">
+      <name>testSetValidationContainer</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

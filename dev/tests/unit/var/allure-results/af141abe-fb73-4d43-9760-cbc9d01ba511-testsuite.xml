@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890359327" stop="1729890359342" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890359328" stop="1729890359330" status="passed">
+      <name>testGetActiveMethods with data set #0</name>
+    </test-case>
+    <test-case start="1729890359330" stop="1729890359332" status="passed">
+      <name>testGetActiveMethods with data set #1</name>
+    </test-case>
+    <test-case start="1729890359332" stop="1729890359333" status="passed">
+      <name>testGetCcTypes</name>
+    </test-case>
+    <test-case start="1729890359334" stop="1729890359335" status="passed">
+      <name>testGetMethodsInfo</name>
+    </test-case>
+    <test-case start="1729890359335" stop="1729890359336" status="passed">
+      <name>testGetGroups</name>
+    </test-case>
+    <test-case start="1729890359336" stop="1729890359340" status="passed">
+      <name>testGetMonths</name>
+    </test-case>
+    <test-case start="1729890359341" stop="1729890359342" status="passed">
+      <name>testGetYears</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

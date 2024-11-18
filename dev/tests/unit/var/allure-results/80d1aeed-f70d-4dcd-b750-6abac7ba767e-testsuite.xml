@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890440032" stop="1729890440050" version="1.4.0">
+  <name>Magento\Framework\Code\Test\Unit\GeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890440032" stop="1729890440033" status="passed">
+      <name>testGetGeneratedEntities</name>
+    </test-case>
+    <test-case start="1729890440033" stop="1729890440035" status="passed">
+      <name>testGenerateClass with data set "test class for Factory"</name>
+    </test-case>
+    <test-case start="1729890440036" stop="1729890440037" status="passed">
+      <name>testGenerateClass with data set "test class for Proxy"</name>
+    </test-case>
+    <test-case start="1729890440038" stop="1729890440039" status="passed">
+      <name>testGenerateClass with data set "test class for Interceptor"</name>
+    </test-case>
+    <test-case start="1729890440040" stop="1729890440041" status="passed">
+      <name>testShouldNotGenerateVirtualType</name>
+    </test-case>
+    <test-case start="1729890440041" stop="1729890440042" status="passed">
+      <name>testGenerateClassWithWrongName</name>
+    </test-case>
+    <test-case start="1729890440042" stop="1729890440044" status="passed">
+      <name>testGenerateClassWhenClassIsNotGenerationSuccess</name>
+    </test-case>
+    <test-case start="1729890440044" stop="1729890440046" status="passed">
+      <name>testGenerateClassWithErrors</name>
+    </test-case>
+    <test-case start="1729890440047" stop="1729890440048" status="passed">
+      <name>testGenerateClassWithExistName with data set #0</name>
+    </test-case>
+    <test-case start="1729890440049" stop="1729890440050" status="passed">
+      <name>testGenerateClassWithExistName with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

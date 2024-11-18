@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890458805" stop="1729890458810" version="1.4.0">
+  <name>Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890458805" stop="1729890458806" status="passed">
+      <name>testValidateWithTimestampOutOfSystemRangeThrowsException with data set #0</name>
+    </test-case>
+    <test-case start="1729890458807" stop="1729890458807" status="passed">
+      <name>testValidateWithTimestampOutOfSystemRangeThrowsException with data set #1</name>
+    </test-case>
+    <test-case start="1729890458808" stop="1729890458810" status="passed">
+      <name>testValidateWithTimestampOutOfSpecifiedRangeThrowsException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890426646" stop="1729890426650" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\ScopeResolverPoolTest</name>
+  <test-cases>
+    <test-case start="1729890426646" stop="1729890426647" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890426647" stop="1729890426648" status="passed">
+      <name>testGetException with data set #0</name>
+    </test-case>
+    <test-case start="1729890426648" stop="1729890426649" status="passed">
+      <name>testGetException with data set #1</name>
+    </test-case>
+    <test-case start="1729890426649" stop="1729890426650" status="passed">
+      <name>testGetExceptionDataProvider</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464992" stop="1729890464998" version="1.4.0">
+  <name>Magento\Framework\Webapi\Test\Unit\RequestTest</name>
+  <test-cases>
+    <test-case start="1729890464993" stop="1729890464995" status="passed">
+      <name>testGetRequestedServicesSuccess with data set #0</name>
+    </test-case>
+    <test-case start="1729890464996" stop="1729890464997" status="passed">
+      <name>testGetRequestedServicesSuccess with data set #1</name>
+    </test-case>
+    <test-case start="1729890464997" stop="1729890464998" status="passed">
+      <name>testGetRequestedServicesSuccess with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

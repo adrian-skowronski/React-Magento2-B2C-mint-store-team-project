@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403981" stop="1729890404007" version="1.4.0">
+  <name>Magento\TwoFactorAuth\Test\Unit\Model\Config\Backend\Duo\ApiHostnameTest</name>
+  <test-cases>
+    <test-case start="1729890403981" stop="1729890403984" status="passed">
+      <name>testBefore with data set #0</name>
+    </test-case>
+    <test-case start="1729890403984" stop="1729890403986" status="passed">
+      <name>testBefore with data set #1</name>
+    </test-case>
+    <test-case start="1729890403986" stop="1729890403988" status="passed">
+      <name>testBefore with data set #2</name>
+    </test-case>
+    <test-case start="1729890403988" stop="1729890403989" status="passed">
+      <name>testBefore with data set #3</name>
+    </test-case>
+    <test-case start="1729890403990" stop="1729890403991" status="passed">
+      <name>testBefore with data set #4</name>
+    </test-case>
+    <test-case start="1729890403991" stop="1729890403993" status="passed">
+      <name>testBefore with data set #5</name>
+    </test-case>
+    <test-case start="1729890403993" stop="1729890403995" status="passed">
+      <name>testBefore with data set #6</name>
+    </test-case>
+    <test-case start="1729890403995" stop="1729890403997" status="passed">
+      <name>testBefore with data set #7</name>
+    </test-case>
+    <test-case start="1729890403997" stop="1729890403999" status="passed">
+      <name>testBefore with data set #8</name>
+    </test-case>
+    <test-case start="1729890403999" stop="1729890404001" status="passed">
+      <name>testBefore with data set #9</name>
+    </test-case>
+    <test-case start="1729890404001" stop="1729890404003" status="passed">
+      <name>testBefore with data set #10</name>
+    </test-case>
+    <test-case start="1729890404003" stop="1729890404005" status="passed">
+      <name>testBefore with data set #11</name>
+    </test-case>
+    <test-case start="1729890404005" stop="1729890404006" status="passed">
+      <name>testBefore with data set #12</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

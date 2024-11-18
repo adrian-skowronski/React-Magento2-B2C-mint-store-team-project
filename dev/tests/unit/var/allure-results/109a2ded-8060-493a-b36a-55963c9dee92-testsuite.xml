@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890371887" stop="1729890371909" version="1.4.0">
+  <name>Magento\RemoteStorage\Test\Unit\Setup\ConfigOptionsListTest</name>
+  <test-cases>
+    <test-case start="1729890371888" stop="1729890371890" status="passed">
+      <name>testValidate with data set "Local File Storage Before Deployment Config Exists"</name>
+    </test-case>
+    <test-case start="1729890371890" stop="1729890371891" status="passed">
+      <name>testValidate with data set "Local File Storage After Deployment Config Exists"</name>
+    </test-case>
+    <test-case start="1729890371892" stop="1729890371892" status="passed">
+      <name>testValidate with data set "Remote Storage Before Deployment Config Exists"</name>
+    </test-case>
+    <test-case start="1729890371893" stop="1729890371894" status="passed">
+      <name>testValidate with data set "Remote Storage Missing Region"</name>
+    </test-case>
+    <test-case start="1729890371894" stop="1729890371895" status="passed">
+      <name>testValidate with data set "Remote Storage Missing Bucket"</name>
+    </test-case>
+    <test-case start="1729890371896" stop="1729890371896" status="passed">
+      <name>testValidate with data set "Remote Storage Missing Region and Bucket"</name>
+    </test-case>
+    <test-case start="1729890371897" stop="1729890371901" status="passed">
+      <name>testValidate with data set "Valid Remote Storage Config with Successful Test Connection"</name>
+    </test-case>
+    <test-case start="1729890371902" stop="1729890371903" status="passed">
+      <name>testValidate with data set "Valid Remote Storage With Unsuccessful Test Connection"</name>
+    </test-case>
+    <test-case start="1729890371904" stop="1729890371905" status="passed">
+      <name>testCreateConfig with data set "Remote Storage Options Missing and Remote Storage Deployment Config Present"</name>
+    </test-case>
+    <test-case start="1729890371905" stop="1729890371906" status="passed">
+      <name>testCreateConfig with data set "Remote Storage Options Missing and Remote Storage Deployment Config Missing"</name>
+    </test-case>
+    <test-case start="1729890371907" stop="1729890371908" status="passed">
+      <name>testCreateConfig with data set "Remote Storage Options Present and Remote Storage Deployment Config Missing"</name>
+    </test-case>
+    <test-case start="1729890371908" stop="1729890371909" status="passed">
+      <name>testCreateConfig with data set "Remote Storage Options Present and Remote Storage Deployment Config Present"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

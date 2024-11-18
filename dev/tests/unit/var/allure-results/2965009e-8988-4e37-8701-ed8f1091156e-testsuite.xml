@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890397324" stop="1729890397337" version="1.4.0">
+  <name>Magento\Swatches\Test\Unit\Model\Plugin\ProductTest</name>
+  <test-cases>
+    <test-case start="1729890397325" stop="1729890397327" status="passed">
+      <name>testAfterGetMediaAttributes with data set #0</name>
+    </test-case>
+    <test-case start="1729890397328" stop="1729890397329" status="passed">
+      <name>testAfterGetMediaAttributes with data set #1</name>
+    </test-case>
+    <test-case start="1729890397329" stop="1729890397330" status="passed">
+      <name>testAfterGetMediaAttributes with data set #2</name>
+    </test-case>
+    <test-case start="1729890397331" stop="1729890397332" status="passed">
+      <name>testAfterGetMediaAttributes with data set #3</name>
+    </test-case>
+    <test-case start="1729890397332" stop="1729890397333" status="passed">
+      <name>testAfterGetMediaAttributes with data set #4</name>
+    </test-case>
+    <test-case start="1729890397334" stop="1729890397335" status="passed">
+      <name>testAfterGetMediaAttributes with data set #5</name>
+    </test-case>
+    <test-case start="1729890397335" stop="1729890397336" status="passed">
+      <name>testAfterGetMediaAttributes with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

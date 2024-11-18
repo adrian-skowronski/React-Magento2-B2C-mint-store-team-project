@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890295211" stop="1729890295267" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Pricing\Price\TierPriceTest</name>
+  <test-cases>
+    <test-case start="1729890295211" stop="1729890295214" status="passed">
+      <name>testBaseInitialization with data set "case for getValue"</name>
+    </test-case>
+    <test-case start="1729890295215" stop="1729890295218" status="passed">
+      <name>testBaseInitialization with data set "case for canApplyTierPrice"</name>
+    </test-case>
+    <test-case start="1729890295218" stop="1729890295225" status="passed">
+      <name>testGetterStoredTierPrices</name>
+    </test-case>
+    <test-case start="1729890295226" stop="1729890295230" status="passed">
+      <name>testGetterTierPriceList with data set "base case"</name>
+    </test-case>
+    <test-case start="1729890295232" stop="1729890295235" status="passed">
+      <name>testGetSavePercent with data set #0</name>
+    </test-case>
+    <test-case start="1729890295236" stop="1729890295240" status="passed">
+      <name>testGetSavePercent with data set #1</name>
+    </test-case>
+    <test-case start="1729890295240" stop="1729890295242" status="passed">
+      <name>testGetSavePercent with data set #2</name>
+    </test-case>
+    <test-case start="1729890295243" stop="1729890295245" status="passed">
+      <name>testGetSavePercent with data set #3</name>
+    </test-case>
+    <test-case start="1729890295246" stop="1729890295248" status="passed">
+      <name>testGetQuantity with data set #0</name>
+    </test-case>
+    <test-case start="1729890295249" stop="1729890295252" status="passed">
+      <name>testGetQuantity with data set #1</name>
+    </test-case>
+    <test-case start="1729890295253" stop="1729890295254" status="passed">
+      <name>testGetQuantity with data set #2</name>
+    </test-case>
+    <test-case start="1729890295255" stop="1729890295257" status="passed">
+      <name>testGetQuantity with data set #3</name>
+    </test-case>
+    <test-case start="1729890295258" stop="1729890295259" status="passed">
+      <name>testGetQuantity with data set #4</name>
+    </test-case>
+    <test-case start="1729890295260" stop="1729890295262" status="passed">
+      <name>testGetQuantity with data set #5</name>
+    </test-case>
+    <test-case start="1729890295263" stop="1729890295265" status="passed">
+      <name>testGetQuantity with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

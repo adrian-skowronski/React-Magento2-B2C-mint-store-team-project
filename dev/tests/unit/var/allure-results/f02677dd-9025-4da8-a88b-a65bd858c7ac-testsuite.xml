@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890443861" stop="1729890443885" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Form\Element\EditablemultiselectTest</name>
+  <test-cases>
+    <test-case start="1729890443864" stop="1729890443878" status="passed">
+      <name>testGetElementHtmlRendersDataAttributesWhenDisabled</name>
+    </test-case>
+    <test-case start="1729890443880" stop="1729890443885" status="passed">
+      <name>testGetElementHtmlRendersRelatedJsClassInitialization</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

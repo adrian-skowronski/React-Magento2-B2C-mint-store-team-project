@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461429" stop="1729890461431" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\File\FallbackContextTest</name>
+  <test-cases>
+    <test-case start="1729890461430" stop="1729890461430" status="passed">
+      <name>testGetConfigPath with data set "http"</name>
+    </test-case>
+    <test-case start="1729890461431" stop="1729890461431" status="passed">
+      <name>testGetConfigPath with data set "https"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

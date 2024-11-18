@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890385479" stop="1729890385519" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Payment\State\CaptureCommandTest</name>
+  <test-cases>
+    <test-case start="1729890385480" stop="1729890385491" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890385491" stop="1729890385502" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890385503" stop="1729890385510" status="passed">
+      <name>testExecute with data set #2</name>
+    </test-case>
+    <test-case start="1729890385510" stop="1729890385519" status="passed">
+      <name>testExecute with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319172" stop="1729890319180" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Console\InputValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890319172" stop="1729890319175" status="passed">
+      <name>testValidate</name>
+    </test-case>
+    <test-case start="1729890319175" stop="1729890319176" status="passed">
+      <name>testCheckAreasInputException</name>
+    </test-case>
+    <test-case start="1729890319176" stop="1729890319177" status="passed">
+      <name>testCheckThemesInputException</name>
+    </test-case>
+    <test-case start="1729890319178" stop="1729890319178" status="passed">
+      <name>testCheckLanguagesInputException</name>
+    </test-case>
+    <test-case start="1729890319179" stop="1729890319180" status="passed">
+      <name>testCheckVersionInputException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

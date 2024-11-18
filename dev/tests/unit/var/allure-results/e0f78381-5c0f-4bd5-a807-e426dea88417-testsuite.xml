@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442649" stop="1729890442652" version="1.4.0">
+  <name>Magento\Framework\DB\Test\Unit\Sql\LimitExpressionTest</name>
+  <test-cases>
+    <test-case start="1729890442650" stop="1729890442650" status="passed">
+      <name>testToStringExceptionCount</name>
+    </test-case>
+    <test-case start="1729890442651" stop="1729890442651" status="passed">
+      <name>testToStringExceptionOffset</name>
+    </test-case>
+    <test-case start="1729890442652" stop="1729890442652" status="passed">
+      <name>testToString</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

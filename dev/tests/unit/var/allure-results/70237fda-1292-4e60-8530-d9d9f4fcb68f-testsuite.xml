@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890455283" stop="1729890455322" version="1.4.0">
+  <name>Magento\Framework\Pricing\Test\Unit\Render\PriceBoxTest</name>
+  <test-cases>
+    <test-case start="1729890455284" stop="1729890455291" status="passed">
+      <name>testToHtml with data set #0</name>
+    </test-case>
+    <test-case start="1729890455291" stop="1729890455294" status="passed">
+      <name>testToHtml with data set #1</name>
+    </test-case>
+    <test-case start="1729890455294" stop="1729890455296" status="passed">
+      <name>testGetSaleableItem</name>
+    </test-case>
+    <test-case start="1729890455296" stop="1729890455298" status="passed">
+      <name>testGetPrice</name>
+    </test-case>
+    <test-case start="1729890455298" stop="1729890455300" status="passed">
+      <name>testGetPriceType</name>
+    </test-case>
+    <test-case start="1729890455300" stop="1729890455302" status="passed">
+      <name>testRenderAmount</name>
+    </test-case>
+    <test-case start="1729890455303" stop="1729890455305" status="passed">
+      <name>testGetPriceIdHasDataPriceId</name>
+    </test-case>
+    <test-case start="1729890455305" stop="1729890455307" status="passed">
+      <name>testGetPriceId with data set #0</name>
+    </test-case>
+    <test-case start="1729890455307" stop="1729890455308" status="passed">
+      <name>testGetPriceId with data set #1</name>
+    </test-case>
+    <test-case start="1729890455309" stop="1729890455311" status="passed">
+      <name>testGetPriceId with data set #2</name>
+    </test-case>
+    <test-case start="1729890455311" stop="1729890455313" status="passed">
+      <name>testGetPriceId with data set #3</name>
+    </test-case>
+    <test-case start="1729890455313" stop="1729890455315" status="passed">
+      <name>testGetPriceId with data set #4</name>
+    </test-case>
+    <test-case start="1729890455315" stop="1729890455317" status="passed">
+      <name>testGetPriceId with data set #5</name>
+    </test-case>
+    <test-case start="1729890455317" stop="1729890455319" status="passed">
+      <name>testGetPriceId with data set #6</name>
+    </test-case>
+    <test-case start="1729890455319" stop="1729890455321" status="passed">
+      <name>testGetRendererPool</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

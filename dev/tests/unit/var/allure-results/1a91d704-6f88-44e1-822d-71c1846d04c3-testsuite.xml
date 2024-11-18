@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890257797" stop="1729890257822" version="1.4.0">
+  <name>Magento\AdminNotification\Test\Unit\Model\System\Message\Media\Synchronization\ErrorTest</name>
+  <test-cases>
+    <test-case start="1729890257797" stop="1729890257807" status="passed">
+      <name>testGetText</name>
+    </test-case>
+    <test-case start="1729890257808" stop="1729890257809" status="passed">
+      <name>testIsDisplayed with data set #0</name>
+    </test-case>
+    <test-case start="1729890257810" stop="1729890257812" status="passed">
+      <name>testIsDisplayed with data set #1</name>
+    </test-case>
+    <test-case start="1729890257812" stop="1729890257814" status="passed">
+      <name>testIsDisplayed with data set #2</name>
+    </test-case>
+    <test-case start="1729890257814" stop="1729890257818" status="passed">
+      <name>testIsDisplayed with data set #3</name>
+    </test-case>
+    <test-case start="1729890257818" stop="1729890257820" status="passed">
+      <name>testGetIdentity</name>
+    </test-case>
+    <test-case start="1729890257821" stop="1729890257822" status="passed">
+      <name>testGetSeverity</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

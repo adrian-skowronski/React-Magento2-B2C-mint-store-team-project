@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890268989" stop="1729890268993" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Controller\Adminhtml\Bundle\Selection\SearchTest</name>
+  <test-cases>
+    <test-case start="1729890268989" stop="1729890268993" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

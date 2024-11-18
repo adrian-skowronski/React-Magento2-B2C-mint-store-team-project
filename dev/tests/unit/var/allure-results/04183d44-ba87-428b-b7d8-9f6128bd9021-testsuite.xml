@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890460048" stop="1729890460067" version="1.4.0">
+  <name>Magento\Framework\Url\Test\Unit\QueryParamsResolverTest</name>
+  <test-cases>
+    <test-case start="1729890460048" stop="1729890460051" status="passed">
+      <name>testGetQuery</name>
+    </test-case>
+    <test-case start="1729890460051" stop="1729890460057" status="passed">
+      <name>testGetQueryEscaped</name>
+    </test-case>
+    <test-case start="1729890460058" stop="1729890460058" status="passed">
+      <name>testSetQuery</name>
+    </test-case>
+    <test-case start="1729890460059" stop="1729890460063" status="passed">
+      <name>testSetQueryIdempotent</name>
+    </test-case>
+    <test-case start="1729890460063" stop="1729890460064" status="passed">
+      <name>testSetQueryParam</name>
+    </test-case>
+    <test-case start="1729890460064" stop="1729890460065" status="passed">
+      <name>testSetQueryParams</name>
+    </test-case>
+    <test-case start="1729890460065" stop="1729890460067" status="passed">
+      <name>testAddQueryParamsIdempotent</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

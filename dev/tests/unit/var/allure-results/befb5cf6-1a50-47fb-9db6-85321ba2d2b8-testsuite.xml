@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454503" stop="1729890454506" version="1.4.0">
+  <name>Magento\Framework\ObjectManager\Test\Unit\DefinitionFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890454503" stop="1729890454503" status="passed">
+      <name>testCreateClassDefinition</name>
+    </test-case>
+    <test-case start="1729890454504" stop="1729890454504" status="passed">
+      <name>testCreatePluginDefinition</name>
+    </test-case>
+    <test-case start="1729890454505" stop="1729890454505" status="passed">
+      <name>testCreateRelations</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

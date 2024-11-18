@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462279" stop="1729890462287" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Design\FileResolution\Fallback\Resolver\MinificationTest</name>
+  <test-cases>
+    <test-case start="1729890462280" stop="1729890462281" status="passed">
+      <name>testResolve with data set #0</name>
+    </test-case>
+    <test-case start="1729890462282" stop="1729890462283" status="passed">
+      <name>testResolve with data set #1</name>
+    </test-case>
+    <test-case start="1729890462284" stop="1729890462285" status="passed">
+      <name>testResolve with data set #2</name>
+    </test-case>
+    <test-case start="1729890462286" stop="1729890462287" status="passed">
+      <name>testResolve with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

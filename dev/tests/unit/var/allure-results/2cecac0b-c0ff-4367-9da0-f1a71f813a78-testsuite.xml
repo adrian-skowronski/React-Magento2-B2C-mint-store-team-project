@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297725" stop="1729890297758" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Helper\CartTest</name>
+  <test-cases>
+    <test-case start="1729890297725" stop="1729890297727" status="passed">
+      <name>testGetCart</name>
+    </test-case>
+    <test-case start="1729890297727" stop="1729890297730" status="passed">
+      <name>testGetRemoveUrl</name>
+    </test-case>
+    <test-case start="1729890297731" stop="1729890297732" status="passed">
+      <name>testGetCartUrl</name>
+    </test-case>
+    <test-case start="1729890297732" stop="1729890297734" status="passed">
+      <name>testGetQuote</name>
+    </test-case>
+    <test-case start="1729890297734" stop="1729890297735" status="passed">
+      <name>testGetItemsCount</name>
+    </test-case>
+    <test-case start="1729890297736" stop="1729890297737" status="passed">
+      <name>testGetItemsQty</name>
+    </test-case>
+    <test-case start="1729890297737" stop="1729890297739" status="passed">
+      <name>testGetSummaryCount</name>
+    </test-case>
+    <test-case start="1729890297739" stop="1729890297742" status="passed">
+      <name>testAddUrlWithUencPlaceholder</name>
+    </test-case>
+    <test-case start="1729890297743" stop="1729890297745" status="passed">
+      <name>testGetIsVirtualQuote</name>
+    </test-case>
+    <test-case start="1729890297745" stop="1729890297747" status="passed">
+      <name>testGetShouldRedirectToCart</name>
+    </test-case>
+    <test-case start="1729890297747" stop="1729890297751" status="passed">
+      <name>testGetAddUrl</name>
+    </test-case>
+    <test-case start="1729890297752" stop="1729890297754" status="passed">
+      <name>testGetDeletePostJson with data set #0</name>
+    </test-case>
+    <test-case start="1729890297755" stop="1729890297758" status="passed">
+      <name>testGetDeletePostJson with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319595" stop="1729890319616" version="1.4.0">
+  <name>Magento\Developer\Console\Command\DevTestsRunCommandTest</name>
+  <test-cases>
+    <test-case start="1729890319597" stop="1729890319603" status="passed">
+      <name>testExecuteBadType</name>
+    </test-case>
+    <test-case start="1729890319606" stop="1729890319611" status="passed">
+      <name>testPassArgumentsToPHPUnit</name>
+    </test-case>
+    <test-case start="1729890319614" stop="1729890319616" status="passed">
+      <name>testPassArgumentsToPHPUnitNegative</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

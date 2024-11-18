@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404515" stop="1729890404540" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\Filters\Type\InputTest</name>
+  <test-cases>
+    <test-case start="1729890404515" stop="1729890404516" status="passed">
+      <name>testGetComponentName</name>
+    </test-case>
+    <test-case start="1729890404517" stop="1729890404519" status="passed">
+      <name>testPrepare with data set #0</name>
+    </test-case>
+    <test-case start="1729890404520" stop="1729890404522" status="passed">
+      <name>testPrepare with data set #1</name>
+    </test-case>
+    <test-case start="1729890404522" stop="1729890404525" status="passed">
+      <name>testPrepare with data set #2</name>
+    </test-case>
+    <test-case start="1729890404526" stop="1729890404528" status="passed">
+      <name>testPrepare with data set #3</name>
+    </test-case>
+    <test-case start="1729890404528" stop="1729890404531" status="passed">
+      <name>testPrepare with data set #4</name>
+    </test-case>
+    <test-case start="1729890404531" stop="1729890404534" status="passed">
+      <name>testPrepare with data set #5</name>
+    </test-case>
+    <test-case start="1729890404535" stop="1729890404537" status="passed">
+      <name>testPrepare with data set #6</name>
+    </test-case>
+    <test-case start="1729890404538" stop="1729890404540" status="passed">
+      <name>testPrepare with data set #7</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

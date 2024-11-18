@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462249" stop="1729890462250" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Design\FileResolution\Fallback\LocaleFileTest</name>
+  <test-cases>
+    <test-case start="1729890462249" stop="1729890462250" status="passed">
+      <name>testGetFile</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

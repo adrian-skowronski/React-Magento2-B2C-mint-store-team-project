@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890300808" stop="1729890300814" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Model\ResourceModel\PageTest</name>
+  <test-cases>
+    <test-case start="1729890300809" stop="1729890300811" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890300811" stop="1729890300813" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

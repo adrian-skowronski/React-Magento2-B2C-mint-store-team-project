@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890453891" stop="1729890453974" version="1.4.0">
+  <name>Magento\Framework\Notification\Test\Unit\NotifierListTest</name>
+  <test-cases>
+    <test-case start="1729890453892" stop="1729890453970" status="passed">
+      <name>testAsArraySuccess</name>
+    </test-case>
+    <test-case start="1729890453971" stop="1729890453974" status="passed">
+      <name>testAsArrayException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

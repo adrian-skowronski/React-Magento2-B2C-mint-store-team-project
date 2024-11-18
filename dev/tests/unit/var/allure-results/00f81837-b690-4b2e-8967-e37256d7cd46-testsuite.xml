@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408825" stop="1729890408853" version="1.4.0">
+  <name>Magento\Webapi\Test\Unit\Model\Soap\ServerTest</name>
+  <test-cases>
+    <test-case start="1729890408825" stop="1729890408841" status="passed">
+      <name>testGetApiCharset</name>
+    </test-case>
+    <test-case start="1729890408841" stop="1729890408843" status="passed">
+      <name>testGetApiCharsetDefaultEncoding</name>
+    </test-case>
+    <test-case start="1729890408843" stop="1729890408846" status="passed">
+      <name>testGetEndpointUri</name>
+    </test-case>
+    <test-case start="1729890408846" stop="1729890408849" status="passed">
+      <name>testGenerateUriWithWsdlParam</name>
+    </test-case>
+    <test-case start="1729890408849" stop="1729890408853" status="passed">
+      <name>testGenerateUriWithNoWsdlParam</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328848" stop="1729890328885" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Model\Template\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890328848" stop="1729890328853" status="passed">
+      <name>testGetAvailableTemplates</name>
+    </test-case>
+    <test-case start="1729890328854" stop="1729890328855" status="passed">
+      <name>testGetThemeTemplates</name>
+    </test-case>
+    <test-case start="1729890328856" stop="1729890328857" status="passed">
+      <name>testParseTemplateIdParts with data set "Template ID with no theme"</name>
+    </test-case>
+    <test-case start="1729890328858" stop="1729890328859" status="passed">
+      <name>testParseTemplateIdParts with data set "Template ID with theme"</name>
+    </test-case>
+    <test-case start="1729890328859" stop="1729890328860" status="passed">
+      <name>testGetTemplateLabel</name>
+    </test-case>
+    <test-case start="1729890328860" stop="1729890328861" status="passed">
+      <name>testGetTemplateType</name>
+    </test-case>
+    <test-case start="1729890328862" stop="1729890328863" status="passed">
+      <name>testGetTemplateModule</name>
+    </test-case>
+    <test-case start="1729890328863" stop="1729890328864" status="passed">
+      <name>testGetTemplateArea</name>
+    </test-case>
+    <test-case start="1729890328865" stop="1729890328866" status="passed">
+      <name>testGetTemplateFilenameWithParams</name>
+    </test-case>
+    <test-case start="1729890328867" stop="1729890328868" status="passed">
+      <name>testGetTemplateFilenameWithNoParams</name>
+    </test-case>
+    <test-case start="1729890328868" stop="1729890328870" status="passed">
+      <name>testGetTemplateFilenameWrongFileName</name>
+    </test-case>
+    <test-case start="1729890328870" stop="1729890328871" status="passed">
+      <name>testGetterMethodUnknownTemplate with data set "label getter"</name>
+    </test-case>
+    <test-case start="1729890328872" stop="1729890328873" status="passed">
+      <name>testGetterMethodUnknownTemplate with data set "type getter"</name>
+    </test-case>
+    <test-case start="1729890328873" stop="1729890328875" status="passed">
+      <name>testGetterMethodUnknownTemplate with data set "module getter"</name>
+    </test-case>
+    <test-case start="1729890328875" stop="1729890328876" status="passed">
+      <name>testGetterMethodUnknownTemplate with data set "file getter"</name>
+    </test-case>
+    <test-case start="1729890328877" stop="1729890328878" status="passed">
+      <name>testGetterMethodUnknownField with data set "label getter"</name>
+    </test-case>
+    <test-case start="1729890328879" stop="1729890328880" status="passed">
+      <name>testGetterMethodUnknownField with data set "type getter"</name>
+    </test-case>
+    <test-case start="1729890328881" stop="1729890328882" status="passed">
+      <name>testGetterMethodUnknownField with data set "module getter"</name>
+    </test-case>
+    <test-case start="1729890328882" stop="1729890328884" status="passed">
+      <name>testGetterMethodUnknownField with data set "file getter, unknown module"</name>
+    </test-case>
+    <test-case start="1729890328884" stop="1729890328885" status="passed">
+      <name>testGetterMethodUnknownField with data set "file getter, unknown file"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

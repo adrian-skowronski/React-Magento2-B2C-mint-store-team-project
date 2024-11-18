@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442792" stop="1729890442802" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\AbstractSearchResultTest</name>
+  <test-cases>
+    <test-case start="1729890442792" stop="1729890442797" status="passed">
+      <name>testGetItems</name>
+    </test-case>
+    <test-case start="1729890442797" stop="1729890442798" status="passed">
+      <name>testGetTotalCount</name>
+    </test-case>
+    <test-case start="1729890442799" stop="1729890442800" status="passed">
+      <name>testGetSearchCriteria</name>
+    </test-case>
+    <test-case start="1729890442800" stop="1729890442802" status="passed">
+      <name>testGetSize</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

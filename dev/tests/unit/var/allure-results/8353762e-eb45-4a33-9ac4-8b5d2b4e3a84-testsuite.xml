@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890350330" stop="1729890350335" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Model\ResourceModel\Oauth\NonceTest</name>
+  <test-cases>
+    <test-case start="1729890350330" stop="1729890350332" status="passed">
+      <name>testDeleteOldEntries</name>
+    </test-case>
+    <test-case start="1729890350333" stop="1729890350335" status="passed">
+      <name>testSelectByCompositeKey</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

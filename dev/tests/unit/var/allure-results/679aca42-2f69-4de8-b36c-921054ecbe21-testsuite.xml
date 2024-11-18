@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890277926" stop="1729890277930" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Model\ResourceModel\SaveHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890277927" stop="1729890277930" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

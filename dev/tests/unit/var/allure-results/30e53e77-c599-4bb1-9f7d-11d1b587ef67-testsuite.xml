@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297077" stop="1729890297090" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Block\Cart\ShippingTest</name>
+  <test-cases>
+    <test-case start="1729890297078" stop="1729890297082" status="passed">
+      <name>testGetCheckoutConfig</name>
+    </test-case>
+    <test-case start="1729890297083" stop="1729890297085" status="passed">
+      <name>testGetJsLayout with data set #0</name>
+    </test-case>
+    <test-case start="1729890297085" stop="1729890297088" status="passed">
+      <name>testGetBaseUrl</name>
+    </test-case>
+    <test-case start="1729890297088" stop="1729890297090" status="passed">
+      <name>testGetSerializedCheckoutConfig with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

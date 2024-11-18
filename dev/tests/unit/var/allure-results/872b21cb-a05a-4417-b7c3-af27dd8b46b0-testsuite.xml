@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406960" stop="1729890406971" version="1.4.0">
+  <name>Magento\User\Test\Unit\Model\Backend\Config\ObserverConfigTest</name>
+  <test-cases>
+    <test-case start="1729890406961" stop="1729890406962" status="passed">
+      <name>testIsLatestPasswordExpiredWhenNoAdminLifeTime</name>
+    </test-case>
+    <test-case start="1729890406962" stop="1729890406963" status="passed">
+      <name>testIsLatestPasswordExpiredWhenHasAdminLifeTime</name>
+    </test-case>
+    <test-case start="1729890406963" stop="1729890406964" status="passed">
+      <name>testGetAdminLockThreshold</name>
+    </test-case>
+    <test-case start="1729890406965" stop="1729890406967" status="passed">
+      <name>testIsPasswordChangeForcedTrue</name>
+    </test-case>
+    <test-case start="1729890406967" stop="1729890406968" status="passed">
+      <name>testIsPasswordChangeForcedFalse</name>
+    </test-case>
+    <test-case start="1729890406968" stop="1729890406969" status="passed">
+      <name>testGetAdminPasswordLifetime</name>
+    </test-case>
+    <test-case start="1729890406970" stop="1729890406971" status="passed">
+      <name>testGetMaxFailures</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

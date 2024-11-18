@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310854" stop="1729890310856" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Ui\DataProvider\Product\Form\Modifier\ConfigurableQtyTest</name>
+  <test-cases>
+    <test-case start="1729890310854" stop="1729890310856" status="passed">
+      <name>testModifyMeta</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

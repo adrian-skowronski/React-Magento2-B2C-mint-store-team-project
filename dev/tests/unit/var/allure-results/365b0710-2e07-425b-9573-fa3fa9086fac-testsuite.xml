@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441389" stop="1729890441399" version="1.4.0">
+  <name>Magento\Framework\Controller\Test\Unit\Controller\NorouteTest</name>
+  <test-cases>
+    <test-case start="1729890441389" stop="1729890441392" status="passed">
+      <name>testIndexActionWhenStatusNotLoaded</name>
+    </test-case>
+    <test-case start="1729890441393" stop="1729890441396" status="passed">
+      <name>testIndexActionWhenStatusLoaded</name>
+    </test-case>
+    <test-case start="1729890441396" stop="1729890441399" status="passed">
+      <name>testIndexActionWhenStatusNotInstanceofMagentoObject</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319025" stop="1729890319028" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Console\Command\App\ConfigStatusCommandTest</name>
+  <test-cases>
+    <test-case start="1729890319026" stop="1729890319027" status="passed">
+      <name>testExecute with data set "Config is up to date"</name>
+    </test-case>
+    <test-case start="1729890319027" stop="1729890319028" status="passed">
+      <name>testExecute with data set "Config needs update"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

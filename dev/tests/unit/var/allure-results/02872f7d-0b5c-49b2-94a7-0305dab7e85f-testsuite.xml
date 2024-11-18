@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890458217" stop="1729890458247" version="1.4.0">
+  <name>Magento\Framework\Stdlib\Test\Unit\BooleanUtilsTest</name>
+  <test-cases>
+    <test-case start="1729890458217" stop="1729890458218" status="passed">
+      <name>testConstructor</name>
+    </test-case>
+    <test-case start="1729890458219" stop="1729890458220" status="passed">
+      <name>testToBoolean with data set "boolean "true""</name>
+    </test-case>
+    <test-case start="1729890458220" stop="1729890458222" status="passed">
+      <name>testToBoolean with data set "boolean "false""</name>
+    </test-case>
+    <test-case start="1729890458223" stop="1729890458225" status="passed">
+      <name>testToBoolean with data set "boolean string "true""</name>
+    </test-case>
+    <test-case start="1729890458225" stop="1729890458228" status="passed">
+      <name>testToBoolean with data set "boolean string "false""</name>
+    </test-case>
+    <test-case start="1729890458229" stop="1729890458230" status="passed">
+      <name>testToBoolean with data set "boolean numeric "1""</name>
+    </test-case>
+    <test-case start="1729890458231" stop="1729890458231" status="passed">
+      <name>testToBoolean with data set "boolean numeric "0""</name>
+    </test-case>
+    <test-case start="1729890458232" stop="1729890458232" status="passed">
+      <name>testToBoolean with data set "boolean string "1""</name>
+    </test-case>
+    <test-case start="1729890458233" stop="1729890458234" status="passed">
+      <name>testToBoolean with data set "boolean string "0""</name>
+    </test-case>
+    <test-case start="1729890458234" stop="1729890458235" status="passed">
+      <name>testToBooleanException with data set "boolean string "on""</name>
+    </test-case>
+    <test-case start="1729890458235" stop="1729890458236" status="passed">
+      <name>testToBooleanException with data set "boolean string "off""</name>
+    </test-case>
+    <test-case start="1729890458236" stop="1729890458237" status="passed">
+      <name>testToBooleanException with data set "boolean string "yes""</name>
+    </test-case>
+    <test-case start="1729890458237" stop="1729890458238" status="passed">
+      <name>testToBooleanException with data set "boolean string "no""</name>
+    </test-case>
+    <test-case start="1729890458238" stop="1729890458239" status="passed">
+      <name>testToBooleanException with data set "boolean string "TRUE""</name>
+    </test-case>
+    <test-case start="1729890458239" stop="1729890458239" status="passed">
+      <name>testToBooleanException with data set "boolean string "FALSE""</name>
+    </test-case>
+    <test-case start="1729890458240" stop="1729890458242" status="passed">
+      <name>testToBooleanException with data set "empty string"</name>
+    </test-case>
+    <test-case start="1729890458242" stop="1729890458243" status="passed">
+      <name>testToBooleanException with data set "null"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

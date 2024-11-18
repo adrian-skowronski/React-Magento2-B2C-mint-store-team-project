@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890322158" stop="1729890322805" version="1.4.0">
+  <name>Magento\Directory\Test\Unit\Model\CurrencyTest</name>
+  <test-cases>
+    <test-case start="1729890322159" stop="1729890322166" status="passed">
+      <name>testGetCurrencySymbol</name>
+    </test-case>
+    <test-case start="1729890322166" stop="1729890322171" status="passed">
+      <name>testGetOutputFormat with data set "en_US:USD"</name>
+    </test-case>
+    <test-case start="1729890322171" stop="1729890322176" status="passed">
+      <name>testGetOutputFormat with data set "en_US:PLN"</name>
+    </test-case>
+    <test-case start="1729890322177" stop="1729890322181" status="passed">
+      <name>testGetOutputFormat with data set "en_US:PKR"</name>
+    </test-case>
+    <test-case start="1729890322182" stop="1729890322186" status="passed">
+      <name>testGetOutputFormat with data set "af_ZA:VND"</name>
+    </test-case>
+    <test-case start="1729890322186" stop="1729890322195" status="failed">
+      <name>testGetOutputFormat with data set "ar_DZ:EGP"</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'ج.م.‏ %s'
++'‏%s ج.م.‏'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-directory/Test/Unit/Model/CurrencyTest.php(129): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Directory\Test\Unit\Model\CurrencyTest-&gt;testGetOutputFormat()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890322196" stop="1729890322199" status="failed">
+      <name>testGetOutputFormat with data set "ar_SA:USD"</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'%s US$'
++'‏%s US$'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-directory/Test/Unit/Model/CurrencyTest.php(129): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Directory\Test\Unit\Model\CurrencyTest-&gt;testGetOutputFormat()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890322199" stop="1729890322202" status="failed">
+      <name>testGetOutputFormat with data set "ar_SA:LBP"</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'%s ل.ل.‏'
++'‏%s ل.ل.‏'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-directory/Test/Unit/Model/CurrencyTest.php(129): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Directory\Test\Unit\Model\CurrencyTest-&gt;testGetOutputFormat()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890322203" stop="1729890322207" status="passed">
+      <name>testGetOutputFormat with data set "fa_IR:USD"</name>
+    </test-case>
+    <test-case start="1729890322208" stop="1729890322212" status="failed">
+      <name>testGetOutputFormat with data set "ar_KW:USD"</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'%s US$'
++'‏%s US$'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-directory/Test/Unit/Model/CurrencyTest.php(129): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Directory\Test\Unit\Model\CurrencyTest-&gt;testGetOutputFormat()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890322213" stop="1729890322216" status="passed">
+      <name>testGetOutputFormat with data set "bn_BD:IQD"</name>
+    </test-case>
+    <test-case start="1729890322217" stop="1729890322221" status="passed">
+      <name>testGetOutputFormat with data set "ca_ES:VND"</name>
+    </test-case>
+    <test-case start="1729890322222" stop="1729890322224" status="passed">
+      <name>testGetOutputFormat with data set "de_DE:USD"</name>
+    </test-case>
+    <test-case start="1729890322225" stop="1729890322228" status="passed">
+      <name>testGetOutputFormat with data set "de_DE:AED"</name>
+    </test-case>
+    <test-case start="1729890322228" stop="1729890322231" status="passed">
+      <name>testGetOutputFormat with data set "es_VE:VEF"</name>
+    </test-case>
+    <test-case start="1729890322232" stop="1729890322234" status="passed">
+      <name>testGetOutputFormat with data set "pl_PL:USD"</name>
+    </test-case>
+    <test-case start="1729890322235" stop="1729890322237" status="passed">
+      <name>testGetOutputFormat with data set "pl_PL:PLN"</name>
+    </test-case>
+    <test-case start="1729890322238" stop="1729890322240" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #0</name>
+    </test-case>
+    <test-case start="1729890322241" stop="1729890322243" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #1</name>
+    </test-case>
+    <test-case start="1729890322244" stop="1729890322246" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #2</name>
+    </test-case>
+    <test-case start="1729890322247" stop="1729890322250" status="failed">
+      <name>testFormatTxtWithNumberFormatter with data set #3</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'٩٫٠٠ US$'
++'‏9.00 US$'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-directory/Test/Unit/Model/CurrencyTest.php(192): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Directory\Test\Unit\Model\CurrencyTest-&gt;testFormatTxtWithNumberFormatter()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890322250" stop="1729890322253" status="failed">
+      <name>testFormatTxtWithNumberFormatter with data set #4</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'٩٫٠٠ د.إ.‏'
++'‏9.00 د.إ.‏'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-directory/Test/Unit/Model/CurrencyTest.php(192): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Directory\Test\Unit\Model\CurrencyTest-&gt;testFormatTxtWithNumberFormatter()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890322253" stop="1729890322256" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #5</name>
+    </test-case>
+    <test-case start="1729890322256" stop="1729890322259" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #6</name>
+    </test-case>
+    <test-case start="1729890322259" stop="1729890322262" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #7</name>
+    </test-case>
+    <test-case start="1729890322263" stop="1729890322265" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #8</name>
+    </test-case>
+    <test-case start="1729890322266" stop="1729890322269" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #9</name>
+    </test-case>
+    <test-case start="1729890322269" stop="1729890322272" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #10</name>
+    </test-case>
+    <test-case start="1729890322272" stop="1729890322275" status="failed">
+      <name>testFormatTxtWithNumberFormatter with data set #11</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'٩٬٩٩٩٫٠٠'
++'‏9,999.00'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-directory/Test/Unit/Model/CurrencyTest.php(192): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Directory\Test\Unit\Model\CurrencyTest-&gt;testFormatTxtWithNumberFormatter()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890322276" stop="1729890322278" status="failed">
+      <name>testFormatTxtWithNumberFormatter with data set #12</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'٩٬٩٩٩٫٠٠'
++'‏9,999.00'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-directory/Test/Unit/Model/CurrencyTest.php(192): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Directory\Test\Unit\Model\CurrencyTest-&gt;testFormatTxtWithNumberFormatter()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890322279" stop="1729890322281" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #13</name>
+    </test-case>
+    <test-case start="1729890322282" stop="1729890322284" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #14</name>
+    </test-case>
+    <test-case start="1729890322285" stop="1729890322287" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #15</name>
+    </test-case>
+    <test-case start="1729890322287" stop="1729890322290" status="passed">
+      <name>testFormatTxtWithNumberFormatter with data set #16</name>
+    </test-case>
+    <test-case start="1729890322291" stop="1729890322314" status="passed">
+      <name>testFormatTxtWithZendCurrency with data set #0</name>
+    </test-case>
+    <test-case start="1729890322314" stop="1729890322317" status="passed">
+      <name>testFormatTxtWithZendCurrency with data set #1</name>
+    </test-case>
+    <test-case start="1729890322318" stop="1729890322604" status="passed">
+      <name>testFormatTxtWithZendCurrency with data set #2</name>
+    </test-case>
+    <test-case start="1729890322604" stop="1729890322801" status="passed">
+      <name>testFormatTxtWithZendCurrency with data set #3</name>
+    </test-case>
+    <test-case start="1729890322801" stop="1729890322805" status="passed">
+      <name>testFormatTxtWithZendCurrency with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890260804" stop="1729890260816" version="1.4.0">
+  <name>Magento\AdobeStockImage\Test\Unit\Model\GetRelatedImagesTest</name>
+  <test-cases>
+    <test-case start="1729890260804" stop="1729890260813" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890260814" stop="1729890260816" status="passed">
+      <name>testExceptionThrownOnGetImageListExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

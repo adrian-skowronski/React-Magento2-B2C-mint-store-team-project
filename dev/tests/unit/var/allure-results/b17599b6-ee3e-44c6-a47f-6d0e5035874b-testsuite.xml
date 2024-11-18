@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890283978" stop="1729890283995" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Controller\Adminhtml\Product\MassStatusTest</name>
+  <test-cases>
+    <test-case start="1729890283979" stop="1729890283995" status="passed">
+      <name>testMassStatusAction</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

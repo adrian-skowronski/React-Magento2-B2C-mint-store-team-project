@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890333691" stop="1729890333696" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\Message\InvalidTest</name>
+  <test-cases>
+    <test-case start="1729890333691" stop="1729890333694" status="passed">
+      <name>testDisplayMessage</name>
+    </test-case>
+    <test-case start="1729890333694" stop="1729890333695" status="passed">
+      <name>testHideMessage</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

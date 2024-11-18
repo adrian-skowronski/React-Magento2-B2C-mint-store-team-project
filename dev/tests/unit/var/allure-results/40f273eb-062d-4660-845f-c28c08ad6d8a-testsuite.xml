@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890312371" stop="1729890312391" version="1.4.0">
+  <name>Magento\CustomerImportExport\Test\Unit\Model\Import\AbstractCustomerTest</name>
+  <test-cases>
+    <test-case start="1729890312372" stop="1729890312376" status="passed">
+      <name>testCheckUniqueKey with data set "valid"</name>
+    </test-case>
+    <test-case start="1729890312377" stop="1729890312378" status="passed">
+      <name>testCheckUniqueKey with data set "no website"</name>
+    </test-case>
+    <test-case start="1729890312379" stop="1729890312380" status="passed">
+      <name>testCheckUniqueKey with data set "empty website"</name>
+    </test-case>
+    <test-case start="1729890312380" stop="1729890312382" status="passed">
+      <name>testCheckUniqueKey with data set "no email"</name>
+    </test-case>
+    <test-case start="1729890312382" stop="1729890312383" status="passed">
+      <name>testCheckUniqueKey with data set "empty email"</name>
+    </test-case>
+    <test-case start="1729890312384" stop="1729890312385" status="passed">
+      <name>testCheckUniqueKey with data set "invalid email"</name>
+    </test-case>
+    <test-case start="1729890312386" stop="1729890312388" status="passed">
+      <name>testCheckUniqueKey with data set "invalid website"</name>
+    </test-case>
+    <test-case start="1729890312388" stop="1729890312389" status="passed">
+      <name>testValidateRowForUpdate</name>
+    </test-case>
+    <test-case start="1729890312389" stop="1729890312391" status="passed">
+      <name>testValidateRowForDelete</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

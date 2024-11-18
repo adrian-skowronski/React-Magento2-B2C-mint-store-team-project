@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890331439" stop="1729890331443" version="1.4.0">
+  <name>Magento\GroupedProduct\Test\Unit\Model\Sales\AdminOrder\Product\Quote\Plugin\InitializerTest</name>
+  <test-cases>
+    <test-case start="1729890331440" stop="1729890331443" status="passed">
+      <name>testAfterInit</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

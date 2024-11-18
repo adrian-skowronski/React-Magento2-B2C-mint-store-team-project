@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376346" stop="1729890376357" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\Rule\Action\Discount\ByPercentTest</name>
+  <test-cases>
+    <test-case start="1729890376346" stop="1729890376351" status="passed">
+      <name>testCalculate with data set #0</name>
+    </test-case>
+    <test-case start="1729890376351" stop="1729890376352" status="passed">
+      <name>testFixQuantity with data set #0</name>
+    </test-case>
+    <test-case start="1729890376353" stop="1729890376353" status="passed">
+      <name>testFixQuantity with data set #1</name>
+    </test-case>
+    <test-case start="1729890376354" stop="1729890376355" status="passed">
+      <name>testFixQuantity with data set #2</name>
+    </test-case>
+    <test-case start="1729890376355" stop="1729890376356" status="passed">
+      <name>testFixQuantity with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

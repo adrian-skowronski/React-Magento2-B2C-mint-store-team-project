@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890257755" stop="1729890257778" version="1.4.0">
+  <name>Magento\AdminNotification\Test\Unit\Model\System\Message\CacheOutdatedTest</name>
+  <test-cases>
+    <test-case start="1729890257756" stop="1729890257761" status="passed">
+      <name>testGetIdentity with data set #0</name>
+    </test-case>
+    <test-case start="1729890257762" stop="1729890257763" status="passed">
+      <name>testGetIdentity with data set #1</name>
+    </test-case>
+    <test-case start="1729890257764" stop="1729890257766" status="passed">
+      <name>testIsDisplayed with data set #0</name>
+    </test-case>
+    <test-case start="1729890257768" stop="1729890257769" status="passed">
+      <name>testIsDisplayed with data set #1</name>
+    </test-case>
+    <test-case start="1729890257770" stop="1729890257771" status="passed">
+      <name>testIsDisplayed with data set #2</name>
+    </test-case>
+    <test-case start="1729890257772" stop="1729890257773" status="passed">
+      <name>testIsDisplayed with data set #3</name>
+    </test-case>
+    <test-case start="1729890257773" stop="1729890257777" status="passed">
+      <name>testGetText</name>
+    </test-case>
+    <test-case start="1729890257777" stop="1729890257778" status="passed">
+      <name>testGetLink</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

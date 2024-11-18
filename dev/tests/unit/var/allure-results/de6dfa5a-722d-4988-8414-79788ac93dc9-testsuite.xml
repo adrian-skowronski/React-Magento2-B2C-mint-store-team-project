@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890401189" stop="1729890401193" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Block\Html\FooterTest</name>
+  <test-cases>
+    <test-case start="1729890401189" stop="1729890401191" status="passed">
+      <name>testGetIdentities</name>
+    </test-case>
+    <test-case start="1729890401191" stop="1729890401193" status="passed">
+      <name>testGetCacheLifetime</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

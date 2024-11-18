@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890298320" stop="1729890298333" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Model\Layout\DepersonalizePluginTest</name>
+  <test-cases>
+    <test-case start="1729890298321" stop="1729890298324" status="passed">
+      <name>testAfterGenerateElements</name>
+    </test-case>
+    <test-case start="1729890298325" stop="1729890298327" status="passed">
+      <name>testAfterGenerateElementsNoDepersonalize</name>
+    </test-case>
+    <test-case start="1729890298328" stop="1729890298330" status="passed">
+      <name>testBeforeGenerateXml</name>
+    </test-case>
+    <test-case start="1729890298331" stop="1729890298333" status="passed">
+      <name>testBeforeGenerateXmlNoDepersonalize</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

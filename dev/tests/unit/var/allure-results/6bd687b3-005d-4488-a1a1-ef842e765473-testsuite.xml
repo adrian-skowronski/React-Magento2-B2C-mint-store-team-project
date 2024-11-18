@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890417757" stop="1729890417768" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest</name>
+  <test-cases>
+    <test-case start="1729890417757" stop="1729890417758" status="passed">
+      <name>testInvalidFileThrowsException</name>
+    </test-case>
+    <test-case start="1729890417758" stop="1729890417760" status="passed">
+      <name>testEmptyArrayForFileWithoutNamespaceOrClass</name>
+    </test-case>
+    <test-case start="1729890417760" stop="1729890417760" status="passed">
+      <name>testGetClassName</name>
+    </test-case>
+    <test-case start="1729890417761" stop="1729890417761" status="passed">
+      <name>testGetClassNameAndSingleNamespace</name>
+    </test-case>
+    <test-case start="1729890417761" stop="1729890417762" status="passed">
+      <name>testGetClassNameAndMultiNamespace</name>
+    </test-case>
+    <test-case start="1729890417762" stop="1729890417763" status="passed">
+      <name>testGetMultiClassNameAndMultiNamespace</name>
+    </test-case>
+    <test-case start="1729890417763" stop="1729890417764" status="passed">
+      <name>testBracketedNamespacesAndClasses</name>
+    </test-case>
+    <test-case start="1729890417764" stop="1729890417765" status="passed">
+      <name>testMultipleClassKeywordsInMiddleOfFileWithStringVariableParsing</name>
+    </test-case>
+    <test-case start="1729890417765" stop="1729890417766" status="passed">
+      <name>testInvalidPHPCodeThrowsExceptionWhenCannotDetermineBraceOrSemiColon</name>
+    </test-case>
+    <test-case start="1729890417766" stop="1729890417767" status="passed">
+      <name>testFileContainsClassAliasFunction</name>
+    </test-case>
+    <test-case start="1729890417767" stop="1729890417768" status="passed">
+      <name>testFileContainsClassExistsFunction</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

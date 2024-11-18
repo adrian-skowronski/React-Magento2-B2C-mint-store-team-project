@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890351737" stop="1729890351891" version="1.4.0">
+  <name>Magento\InventorySales\Test\Unit\Model\ReturnProcessor\GetInvoicedItemsPerSourceByPriorityTest</name>
+  <test-cases>
+    <test-case start="1729890351741" stop="1729890351841" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890351845" stop="1729890351890" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

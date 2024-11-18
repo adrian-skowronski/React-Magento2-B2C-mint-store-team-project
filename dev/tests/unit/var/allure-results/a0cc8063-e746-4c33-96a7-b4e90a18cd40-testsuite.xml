@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890277165" stop="1729890277174" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Ui\Component\Product\Form\Element\UseConfigSettingsTest</name>
+  <test-cases>
+    <test-case start="1729890277165" stop="1729890277169" status="passed">
+      <name>testPrepare</name>
+    </test-case>
+    <test-case start="1729890277170" stop="1729890277172" status="passed">
+      <name>testPrepareSource with data set "valid"</name>
+    </test-case>
+    <test-case start="1729890277173" stop="1729890277174" status="passed">
+      <name>testPrepareSource with data set "serialized"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

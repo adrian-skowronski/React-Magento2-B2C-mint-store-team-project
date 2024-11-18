@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325868" stop="1729890325900" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\VersionControl\AbstractEntityTest</name>
+  <test-cases>
+    <test-case start="1729890325869" stop="1729890325876" status="passed">
+      <name>testSave with data set #0</name>
+    </test-case>
+    <test-case start="1729890325876" stop="1729890325882" status="passed">
+      <name>testSave with data set #1</name>
+    </test-case>
+    <test-case start="1729890325883" stop="1729890325888" status="passed">
+      <name>testSave with data set #2</name>
+    </test-case>
+    <test-case start="1729890325888" stop="1729890325890" status="passed">
+      <name>testSaveNotModified</name>
+    </test-case>
+    <test-case start="1729890325891" stop="1729890325892" status="passed">
+      <name>testCompareAttributes with data set "attribute1 bigger than attribute2"</name>
+    </test-case>
+    <test-case start="1729890325893" stop="1729890325894" status="passed">
+      <name>testCompareAttributes with data set "attribute1 smaller than attribute2"</name>
+    </test-case>
+    <test-case start="1729890325895" stop="1729890325896" status="passed">
+      <name>testCompareAttributes with data set "attribute1 equals to attribute2"</name>
+    </test-case>
+    <test-case start="1729890325897" stop="1729890325900" status="passed">
+      <name>testDuplicateExceptionProcessingOnSave</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

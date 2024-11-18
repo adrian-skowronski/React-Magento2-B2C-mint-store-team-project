@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374598" stop="1729890374615" version="1.4.0">
+  <name>Magento\Review\Test\Unit\Model\ResourceModel\Review\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890374599" stop="1729890374604" status="passed">
+      <name>testInitSelect</name>
+    </test-case>
+    <test-case start="1729890374604" stop="1729890374606" status="passed">
+      <name>testAddStoreFilter</name>
+    </test-case>
+    <test-case start="1729890374607" stop="1729890374609" status="passed">
+      <name>testAddEntityFilter with data set #0</name>
+    </test-case>
+    <test-case start="1729890374610" stop="1729890374612" status="passed">
+      <name>testAddEntityFilter with data set #1</name>
+    </test-case>
+    <test-case start="1729890374612" stop="1729890374615" status="passed">
+      <name>testAddReviewsTotalCount</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

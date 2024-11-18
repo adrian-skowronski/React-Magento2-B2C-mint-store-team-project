@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890419300" stop="1729890419307" version="1.4.0">
+  <name>PayPal\Braintree\Test\Unit\Gateway\Request\RefundDataBuilderTest</name>
+  <test-cases>
+    <test-case start="1729890419300" stop="1729890419302" status="passed">
+      <name>testBuild</name>
+    </test-case>
+    <test-case start="1729890419303" stop="1729890419305" status="passed">
+      <name>testBuildNullAmount</name>
+    </test-case>
+    <test-case start="1729890419305" stop="1729890419307" status="passed">
+      <name>testBuildCutOffLegacyTransactionIdPostfix</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

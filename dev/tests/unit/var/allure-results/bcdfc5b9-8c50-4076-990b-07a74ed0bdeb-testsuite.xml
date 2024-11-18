@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329144" stop="1729890329153" version="1.4.0">
+  <name>Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest</name>
+  <test-cases>
+    <test-case start="1729890329145" stop="1729890329147" status="passed">
+      <name>testGetFormFields with data set "get_request_valid"</name>
+    </test-case>
+    <test-case start="1729890329148" stop="1729890329149" status="passed">
+      <name>testGetFormFields with data set "get_request_valid_ignore_params"</name>
+    </test-case>
+    <test-case start="1729890329149" stop="1729890329150" status="passed">
+      <name>testGetFormFields with data set "post_request_valid"</name>
+    </test-case>
+    <test-case start="1729890329151" stop="1729890329152" status="passed">
+      <name>testGetFormFieldsMissingParameter with data set "get_request_missing_id"</name>
+    </test-case>
+    <test-case start="1729890329152" stop="1729890329153" status="passed">
+      <name>testGetFormFieldsMissingParameter with data set "post_request_missing_text"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

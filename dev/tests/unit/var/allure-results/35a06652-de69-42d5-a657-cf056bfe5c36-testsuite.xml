@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890286323" stop="1729890286328" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Category\Flat\Plugin\StoreViewTest</name>
+  <test-cases>
+    <test-case start="1729890286323" stop="1729890286325" status="passed">
+      <name>testAfterSaveNewObject</name>
+    </test-case>
+    <test-case start="1729890286326" stop="1729890286326" status="passed">
+      <name>testAfterSaveHasChanged</name>
+    </test-case>
+    <test-case start="1729890286327" stop="1729890286328" status="passed">
+      <name>testAfterSaveNoNeed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

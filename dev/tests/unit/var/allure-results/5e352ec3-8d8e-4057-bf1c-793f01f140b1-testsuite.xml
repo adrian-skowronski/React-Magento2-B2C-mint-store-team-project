@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890386795" stop="1729890386811" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Reorder\OrderProductAvailabilityCheckerTest</name>
+  <test-cases>
+    <test-case start="1729890386795" stop="1729890386802" status="passed">
+      <name>testIsAvailableTrue</name>
+    </test-case>
+    <test-case start="1729890386802" stop="1729890386805" status="passed">
+      <name>testIsAvailableFalse</name>
+    </test-case>
+    <test-case start="1729890386805" stop="1729890386808" status="passed">
+      <name>testIsAvailableException</name>
+    </test-case>
+    <test-case start="1729890386808" stop="1729890386811" status="passed">
+      <name>testIsAvailableTypeNotChecks</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

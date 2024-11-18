@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890300196" stop="1729890300220" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Model\BlockRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890300197" stop="1729890300206" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890300207" stop="1729890300210" status="passed">
+      <name>testDeleteById</name>
+    </test-case>
+    <test-case start="1729890300210" stop="1729890300212" status="passed">
+      <name>testSaveException</name>
+    </test-case>
+    <test-case start="1729890300212" stop="1729890300214" status="passed">
+      <name>testDeleteException</name>
+    </test-case>
+    <test-case start="1729890300215" stop="1729890300216" status="passed">
+      <name>testGetByIdException</name>
+    </test-case>
+    <test-case start="1729890300217" stop="1729890300220" status="passed">
+      <name>testGetList</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

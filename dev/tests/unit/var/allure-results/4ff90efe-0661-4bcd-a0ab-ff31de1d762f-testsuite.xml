@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890272527" stop="1729890272534" version="1.4.0">
+  <name>Magento\CatalogImportExport\Test\Unit\Model\Import\Product\Validator\LayoutUpdateTest</name>
+  <test-cases>
+    <test-case start="1729890272527" stop="1729890272531" status="passed">
+      <name>testValidationIsSkippedWithDataNotPresent</name>
+    </test-case>
+    <test-case start="1729890272531" stop="1729890272532" status="passed">
+      <name>testValidationFailsProperly</name>
+    </test-case>
+    <test-case start="1729890272533" stop="1729890272534" status="passed">
+      <name>testInvalidDataException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

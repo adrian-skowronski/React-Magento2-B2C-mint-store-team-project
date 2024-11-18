@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353912" stop="1729890353919" version="1.4.0">
+  <name>Magento\Multishipping\Test\Unit\Model\Cart\CartTotalRepositoryPluginTest</name>
+  <test-cases>
+    <test-case start="1729890353913" stop="1729890353919" status="passed">
+      <name>testAfterGetQuoteTotalAddedShippingPrice</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890281780" stop="1729890281800" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Adminhtml\Product\Edit\Tab\AlertsTest</name>
+  <test-cases>
+    <test-case start="1729890281782" stop="1729890281790" status="passed">
+      <name>testCanShowTab with data set "alert_price_and_stock_allow"</name>
+    </test-case>
+    <test-case start="1729890281791" stop="1729890281793" status="passed">
+      <name>testCanShowTab with data set "alert_price_is_allowed_and_stock_is_unallowed"</name>
+    </test-case>
+    <test-case start="1729890281794" stop="1729890281797" status="passed">
+      <name>testCanShowTab with data set "alert_price_is_unallowed_and_stock_is_allowed"</name>
+    </test-case>
+    <test-case start="1729890281797" stop="1729890281799" status="passed">
+      <name>testCanShowTab with data set "alert_price_is_unallowed_and_stock_is_unallowed"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

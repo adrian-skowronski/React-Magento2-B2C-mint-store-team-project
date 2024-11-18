@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890348555" stop="1729890348562" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Block\Adminhtml\Widget\Grid\Column\Renderer\NameTest</name>
+  <test-cases>
+    <test-case start="1729890348555" stop="1729890348560" status="passed">
+      <name>testRender with data set #0</name>
+    </test-case>
+    <test-case start="1729890348560" stop="1729890348562" status="passed">
+      <name>testRender with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

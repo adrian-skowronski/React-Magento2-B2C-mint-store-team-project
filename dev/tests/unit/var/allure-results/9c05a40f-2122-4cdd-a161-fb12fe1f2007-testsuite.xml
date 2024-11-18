@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330515" stop="1729890330543" version="1.4.0">
+  <name>Magento\GoogleOptimizer\Test\Unit\Observer\Product\SaveGoogleExperimentScriptObserverTest</name>
+  <test-cases>
+    <test-case start="1729890330515" stop="1729890330520" status="passed">
+      <name>testCreatingCodeIfRequestIsValid</name>
+    </test-case>
+    <test-case start="1729890330520" stop="1729890330522" status="passed">
+      <name>testCreatingCodeIfRequestIsEmpty</name>
+    </test-case>
+    <test-case start="1729890330522" stop="1729890330525" status="passed">
+      <name>testCreatingCodeIfRequestIsNotValid with data set #0</name>
+    </test-case>
+    <test-case start="1729890330526" stop="1729890330528" status="passed">
+      <name>testCreatingCodeIfRequestIsNotValid with data set #1</name>
+    </test-case>
+    <test-case start="1729890330528" stop="1729890330531" status="passed">
+      <name>testCreatingCodeIfRequestIsNotValid with data set #2</name>
+    </test-case>
+    <test-case start="1729890330531" stop="1729890330535" status="passed">
+      <name>testEditingCodeIfRequestIsValid</name>
+    </test-case>
+    <test-case start="1729890330535" stop="1729890330537" status="passed">
+      <name>testEditingCodeIfCodeModelIsNotFound</name>
+    </test-case>
+    <test-case start="1729890330538" stop="1729890330540" status="passed">
+      <name>testRemovingCode</name>
+    </test-case>
+    <test-case start="1729890330541" stop="1729890330543" status="passed">
+      <name>testManagingCodeIfGoogleExperimentIsDisabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376074" stop="1729890376080" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\Plugin\ResourceModel\RuleTest</name>
+  <test-cases>
+    <test-case start="1729890376075" stop="1729890376079" status="passed">
+      <name>testAroundLoadCustomerGroupIds</name>
+    </test-case>
+    <test-case start="1729890376079" stop="1729890376080" status="passed">
+      <name>testAroundLoadWebsiteIds</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

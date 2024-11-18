@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287788" stop="1729890287800" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\ActionTest</name>
+  <test-cases>
+    <test-case start="1729890287789" stop="1729890287795" status="passed">
+      <name>testUpdateAttributes</name>
+    </test-case>
+    <test-case start="1729890287795" stop="1729890287797" status="passed">
+      <name>testUpdateWebsites with data set #0</name>
+    </test-case>
+    <test-case start="1729890287798" stop="1729890287800" status="passed">
+      <name>testUpdateWebsites with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

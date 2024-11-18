@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890318916" stop="1729890318920" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Ui\Component\Listing\Filter\TextFilterConfigProviderTest</name>
+  <test-cases>
+    <test-case start="1729890318916" stop="1729890318917" status="passed">
+      <name>testGetConfig with data set #0</name>
+    </test-case>
+    <test-case start="1729890318918" stop="1729890318918" status="passed">
+      <name>testGetConfig with data set #1</name>
+    </test-case>
+    <test-case start="1729890318918" stop="1729890318919" status="passed">
+      <name>testGetConfig with data set #2</name>
+    </test-case>
+    <test-case start="1729890318919" stop="1729890318920" status="passed">
+      <name>testGetConfig with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

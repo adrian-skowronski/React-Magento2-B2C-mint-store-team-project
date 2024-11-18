@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890420207" stop="1729890420216" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\DB\Query\BatchRangeIteratorTest</name>
+  <test-cases>
+    <test-case start="1729890420207" stop="1729890420210" status="passed">
+      <name>testCurrent</name>
+    </test-case>
+    <test-case start="1729890420211" stop="1729890420215" status="passed">
+      <name>testIterations</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

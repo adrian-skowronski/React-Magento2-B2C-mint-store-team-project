@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890446022" stop="1729890446027" version="1.4.0">
+  <name>Magento\Framework\DataObject\Test\Unit\MapperTest</name>
+  <test-cases>
+    <test-case start="1729890446023" stop="1729890446024" status="passed">
+      <name>testAccumulateByMapWhenToIsArrayFromIsObject</name>
+    </test-case>
+    <test-case start="1729890446024" stop="1729890446025" status="passed">
+      <name>testAccumulateByMapWhenToAndFromAreObjects</name>
+    </test-case>
+    <test-case start="1729890446026" stop="1729890446026" status="passed">
+      <name>testAccumulateByMapWhenFromIsArrayToIsObject</name>
+    </test-case>
+    <test-case start="1729890446027" stop="1729890446027" status="passed">
+      <name>testAccumulateByMapFromAndToAreArrays</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

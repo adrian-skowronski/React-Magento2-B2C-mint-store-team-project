@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890366388" stop="1729890366503" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\CouponManagementTest</name>
+  <test-cases>
+    <test-case start="1729890366390" stop="1729890366418" status="passed">
+      <name>testGetCoupon</name>
+    </test-case>
+    <test-case start="1729890366418" stop="1729890366422" status="passed">
+      <name>testSetWhenCartDoesNotContainsProducts</name>
+    </test-case>
+    <test-case start="1729890366422" stop="1729890366426" status="passed">
+      <name>testSetWhenCouldNotApplyCoupon</name>
+    </test-case>
+    <test-case start="1729890366426" stop="1729890366429" status="passed">
+      <name>testSetWhenCouponCodeIsInvalid</name>
+    </test-case>
+    <test-case start="1729890366429" stop="1729890366435" status="passed">
+      <name>testSet</name>
+    </test-case>
+    <test-case start="1729890366435" stop="1729890366436" status="passed">
+      <name>testDeleteWhenCartDoesNotContainsProducts</name>
+    </test-case>
+    <test-case start="1729890366442" stop="1729890366451" status="passed">
+      <name>testDeleteWhenCouldNotDeleteCoupon</name>
+    </test-case>
+    <test-case start="1729890366459" stop="1729890366472" status="passed">
+      <name>testDeleteWhenCouponIsNotEmpty</name>
+    </test-case>
+    <test-case start="1729890366472" stop="1729890366499" status="passed">
+      <name>testDelete</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

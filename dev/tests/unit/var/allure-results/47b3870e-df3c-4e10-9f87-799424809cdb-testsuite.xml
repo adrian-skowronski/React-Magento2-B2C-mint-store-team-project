@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890318623" stop="1729890318636" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Observer\UpgradeOrderCustomerEmailObserverTest</name>
+  <test-cases>
+    <test-case start="1729890318624" stop="1729890318627" status="passed">
+      <name>testUpgradeOrderCustomerEmailWhenMailIsNotChanged</name>
+    </test-case>
+    <test-case start="1729890318627" stop="1729890318636" status="passed">
+      <name>testUpgradeOrderCustomerEmail</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

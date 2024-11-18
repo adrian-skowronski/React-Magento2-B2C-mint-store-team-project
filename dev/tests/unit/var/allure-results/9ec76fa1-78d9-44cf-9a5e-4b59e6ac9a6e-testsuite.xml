@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890277622" stop="1729890277640" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Model\Indexer\IndexerTableSwapperTest</name>
+  <test-cases>
+    <test-case start="1729890277623" stop="1729890277633" status="passed">
+      <name>testGetWorkingTableNameWithExistingTemporaryTable</name>
+    </test-case>
+    <test-case start="1729890277633" stop="1729890277635" status="passed">
+      <name>testGetWorkingTableNameWithoutExistingTemporaryTable</name>
+    </test-case>
+    <test-case start="1729890277636" stop="1729890277640" status="passed">
+      <name>testSwapIndexTables</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

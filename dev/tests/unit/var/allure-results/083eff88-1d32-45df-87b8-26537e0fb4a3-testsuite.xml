@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890362335" stop="1729890362362" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\PayflowConfigTest</name>
+  <test-cases>
+    <test-case start="1729890362336" stop="1729890362338" status="passed">
+      <name>testGetTrxType with data set #0</name>
+    </test-case>
+    <test-case start="1729890362338" stop="1729890362339" status="passed">
+      <name>testGetTrxType with data set #1</name>
+    </test-case>
+    <test-case start="1729890362340" stop="1729890362341" status="passed">
+      <name>testGetTrxType with data set #2</name>
+    </test-case>
+    <test-case start="1729890362342" stop="1729890362344" status="passed">
+      <name>testGetPaymentAction with data set #0</name>
+    </test-case>
+    <test-case start="1729890362344" stop="1729890362346" status="passed">
+      <name>testGetPaymentAction with data set #1</name>
+    </test-case>
+    <test-case start="1729890362346" stop="1729890362348" status="passed">
+      <name>testGetPaymentAction with data set #2</name>
+    </test-case>
+    <test-case start="1729890362348" stop="1729890362350" status="passed">
+      <name>testGetTransactionUrlWithTestModeOn</name>
+    </test-case>
+    <test-case start="1729890362350" stop="1729890362352" status="passed">
+      <name>testGetTransactionUrlWithTestModeOff</name>
+    </test-case>
+    <test-case start="1729890362352" stop="1729890362354" status="passed">
+      <name>testGetTransactionUrlWithTestModeEmptyAndSandboxOn</name>
+    </test-case>
+    <test-case start="1729890362354" stop="1729890362356" status="passed">
+      <name>testGetTransactionUrlWithTestModeEmptyAndSandboxOff</name>
+    </test-case>
+    <test-case start="1729890362357" stop="1729890362358" status="passed">
+      <name>testIsMethodActive with data set #0</name>
+    </test-case>
+    <test-case start="1729890362359" stop="1729890362360" status="passed">
+      <name>testIsMethodActive with data set #1</name>
+    </test-case>
+    <test-case start="1729890362361" stop="1729890362362" status="passed">
+      <name>testIsMethodActive with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

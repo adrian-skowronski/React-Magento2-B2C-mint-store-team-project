@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890423383" stop="1729890423390" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Config\DataTest</name>
+  <test-cases>
+    <test-case start="1729890423384" stop="1729890423386" status="passed">
+      <name>testSetValue with data set "simple value"</name>
+    </test-case>
+    <test-case start="1729890423387" stop="1729890423388" status="passed">
+      <name>testSetValue with data set "complex value"</name>
+    </test-case>
+    <test-case start="1729890423389" stop="1729890423390" status="passed">
+      <name>testGetData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

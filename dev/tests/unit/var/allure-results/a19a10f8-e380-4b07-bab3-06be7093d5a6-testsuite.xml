@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422717" stop="1729890422728" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\AreaListTest</name>
+  <test-cases>
+    <test-case start="1729890422717" stop="1729890422719" status="passed">
+      <name>testGetCodeByFrontNameWhenAreaDoesNotContainFrontName</name>
+    </test-case>
+    <test-case start="1729890422720" stop="1729890422720" status="passed">
+      <name>testGetCodeByFrontNameReturnsAreaCode</name>
+    </test-case>
+    <test-case start="1729890422721" stop="1729890422722" status="passed">
+      <name>testGetFrontNameWhenAreaCodeAndFrontNameAreSet</name>
+    </test-case>
+    <test-case start="1729890422722" stop="1729890422723" status="passed">
+      <name>testGetFrontNameWhenAreaCodeAndFrontNameArentSet</name>
+    </test-case>
+    <test-case start="1729890422723" stop="1729890422724" status="passed">
+      <name>testGetFrontNameWhenFrontNameIsInvalid</name>
+    </test-case>
+    <test-case start="1729890422724" stop="1729890422725" status="passed">
+      <name>testGetCodes</name>
+    </test-case>
+    <test-case start="1729890422725" stop="1729890422726" status="passed">
+      <name>testGetDefaultRouter</name>
+    </test-case>
+    <test-case start="1729890422726" stop="1729890422727" status="passed">
+      <name>testGetArea</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

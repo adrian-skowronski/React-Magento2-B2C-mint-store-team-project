@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890314306" stop="1729890314315" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Controller\Adminhtml\Index\MassUnsubscribeTest</name>
+  <test-cases>
+    <test-case start="1729890314307" stop="1729890314311" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890314312" stop="1729890314315" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

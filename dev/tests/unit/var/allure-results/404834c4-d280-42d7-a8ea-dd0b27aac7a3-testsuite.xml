@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890453125" stop="1729890453185" version="1.4.0">
+  <name>Magento\Framework\Mview\Test\Unit\View\ChangelogTest</name>
+  <test-cases>
+    <test-case start="1729890453125" stop="1729890453127" status="passed">
+      <name>testInstanceOf</name>
+    </test-case>
+    <test-case start="1729890453127" stop="1729890453129" status="passed">
+      <name>testCheckConnectionException</name>
+    </test-case>
+    <test-case start="1729890453129" stop="1729890453130" status="passed">
+      <name>testGetName</name>
+    </test-case>
+    <test-case start="1729890453131" stop="1729890453134" status="passed">
+      <name>testGetViewId</name>
+    </test-case>
+    <test-case start="1729890453134" stop="1729890453136" status="passed">
+      <name>testGetNameWithException</name>
+    </test-case>
+    <test-case start="1729890453136" stop="1729890453137" status="passed">
+      <name>testGetColumnName</name>
+    </test-case>
+    <test-case start="1729890453138" stop="1729890453145" status="passed">
+      <name>testGetVersion</name>
+    </test-case>
+    <test-case start="1729890453145" stop="1729890453153" status="passed">
+      <name>testGetVersionEmptyChangelog</name>
+    </test-case>
+    <test-case start="1729890453153" stop="1729890453160" status="passed">
+      <name>testGetVersionWithExceptionNoAutoincrement</name>
+    </test-case>
+    <test-case start="1729890453160" stop="1729890453163" status="passed">
+      <name>testGetVersionWithExceptionNoTable</name>
+    </test-case>
+    <test-case start="1729890453163" stop="1729890453166" status="passed">
+      <name>testDrop</name>
+    </test-case>
+    <test-case start="1729890453167" stop="1729890453170" status="passed">
+      <name>testDropWithException</name>
+    </test-case>
+    <test-case start="1729890453170" stop="1729890453173" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890453173" stop="1729890453176" status="passed">
+      <name>testCreateWithExistingTable</name>
+    </test-case>
+    <test-case start="1729890453176" stop="1729890453179" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890453180" stop="1729890453182" status="passed">
+      <name>testGetListWithException</name>
+    </test-case>
+    <test-case start="1729890453182" stop="1729890453185" status="passed">
+      <name>testClearWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

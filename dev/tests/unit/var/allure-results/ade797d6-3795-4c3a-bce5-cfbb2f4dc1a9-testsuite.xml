@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890312249" stop="1729890312263" version="1.4.0">
+  <name>Magento\CustomerGraphQl\Test\Unit\Model\Resolver\IsSubscribedTest</name>
+  <test-cases>
+    <test-case start="1729890312250" stop="1729890312261" status="passed">
+      <name>testCustomerIsSubscribed</name>
+    </test-case>
+    <test-case start="1729890312261" stop="1729890312262" status="passed">
+      <name>testCustomerIsSubscribedWithoutStore</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

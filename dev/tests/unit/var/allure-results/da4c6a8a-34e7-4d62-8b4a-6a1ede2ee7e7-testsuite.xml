@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890290571" stop="1729890290619" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Price\SpecialPriceStorageTest</name>
+  <test-cases>
+    <test-case start="1729890290572" stop="1729890290589" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890290589" stop="1729890290593" status="passed">
+      <name>testUpdate</name>
+    </test-case>
+    <test-case start="1729890290593" stop="1729890290599" status="passed">
+      <name>testUpdateWithInvalidSku</name>
+    </test-case>
+    <test-case start="1729890290600" stop="1729890290604" status="passed">
+      <name>testUpdateWithoutPrice</name>
+    </test-case>
+    <test-case start="1729890290604" stop="1729890290608" status="passed">
+      <name>testUpdateWithException</name>
+    </test-case>
+    <test-case start="1729890290608" stop="1729890290614" status="passed">
+      <name>testUpdateWithIncorrectPriceFrom</name>
+    </test-case>
+    <test-case start="1729890290614" stop="1729890290619" status="passed">
+      <name>testUpdateWithIncorrectPriceTo</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

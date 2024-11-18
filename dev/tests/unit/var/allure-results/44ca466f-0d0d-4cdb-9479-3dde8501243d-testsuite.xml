@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890399111" stop="1729890399116" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Model\ClassModelRegistryTest</name>
+  <test-cases>
+    <test-case start="1729890399111" stop="1729890399114" status="passed">
+      <name>testUpdateTaxClassNotExistingEntity</name>
+    </test-case>
+    <test-case start="1729890399114" stop="1729890399116" status="passed">
+      <name>testGetTaxClass</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

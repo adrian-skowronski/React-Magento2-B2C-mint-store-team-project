@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890289484" stop="1729890289515" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\LinkTypeProviderTest</name>
+  <test-cases>
+    <test-case start="1729890289485" stop="1729890289504" status="passed">
+      <name>testGetItems</name>
+    </test-case>
+    <test-case start="1729890289506" stop="1729890289513" status="passed">
+      <name>testGetItemAttributes with data set #0</name>
+    </test-case>
+    <test-case start="1729890289514" stop="1729890289515" status="passed">
+      <name>testGetItemAttributes with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

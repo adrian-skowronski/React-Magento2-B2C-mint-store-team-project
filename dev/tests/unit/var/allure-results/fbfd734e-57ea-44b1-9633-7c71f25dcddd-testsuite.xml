@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441043" stop="1729890441051" version="1.4.0">
+  <name>Magento\Framework\Config\Test\Unit\Reader\FilesystemTest</name>
+  <test-cases>
+    <test-case start="1729890441043" stop="1729890441045" status="passed">
+      <name>testRead</name>
+    </test-case>
+    <test-case start="1729890441046" stop="1729890441046" status="passed">
+      <name>testReadWithoutFiles</name>
+    </test-case>
+    <test-case start="1729890441047" stop="1729890441048" status="passed">
+      <name>testReadWithInvalidDom</name>
+    </test-case>
+    <test-case start="1729890441048" stop="1729890441050" status="passed">
+      <name>testReadWithInvalidXml</name>
+    </test-case>
+    <test-case start="1729890441050" stop="1729890441051" status="passed">
+      <name>testReadException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

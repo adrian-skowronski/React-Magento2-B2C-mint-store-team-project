@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408716" stop="1729890408719" version="1.4.0">
+  <name>Magento\Webapi\Test\Unit\Model\Plugin\Store\Model\Validation\StoreCodeValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890408716" stop="1729890408718" status="passed">
+      <name>testAfterIsValidStore</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

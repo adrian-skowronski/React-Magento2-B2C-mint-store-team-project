@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403065" stop="1729890403077" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Theme\StoreDefaultThemeResolverTest</name>
+  <test-cases>
+    <test-case start="1729890403066" stop="1729890403069" status="passed">
+      <name>testGetThemes with data set #0</name>
+    </test-case>
+    <test-case start="1729890403069" stop="1729890403071" status="passed">
+      <name>testGetThemes with data set #1</name>
+    </test-case>
+    <test-case start="1729890403072" stop="1729890403074" status="passed">
+      <name>testGetThemes with data set #2</name>
+    </test-case>
+    <test-case start="1729890403075" stop="1729890403077" status="passed">
+      <name>testGetThemes with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

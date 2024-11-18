@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890281742" stop="1729890281745" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Adminhtml\Product\Edit\Button\GenericTest</name>
+  <test-cases>
+    <test-case start="1729890281742" stop="1729890281743" status="passed">
+      <name>testGetUrl</name>
+    </test-case>
+    <test-case start="1729890281743" stop="1729890281744" status="passed">
+      <name>testGetProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

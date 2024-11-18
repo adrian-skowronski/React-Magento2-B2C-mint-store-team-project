@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327704" stop="1729890327709" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Indexer\Plugin\DependencyUpdaterPluginTest</name>
+  <test-cases>
+    <test-case start="1729890327705" stop="1729890327707" status="passed">
+      <name>testAfterGetIndexerIdsToRunBefore</name>
+    </test-case>
+    <test-case start="1729890327708" stop="1729890327708" status="passed">
+      <name>testAfterGetIndexerIdsToRunAfter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

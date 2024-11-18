@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890383194" stop="1729890383199" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Invoice\Grid\Row\UrlGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890383195" stop="1729890383198" status="passed">
+      <name>testGetUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890383198" stop="1729890383199" status="passed">
+      <name>testGetUrl with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

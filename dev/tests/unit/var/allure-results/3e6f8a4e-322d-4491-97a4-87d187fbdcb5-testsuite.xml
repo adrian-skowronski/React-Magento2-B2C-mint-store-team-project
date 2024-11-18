@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418900" stop="1729890418907" version="1.4.0">
+  <name>PayPal\Braintree\Test\Unit\Controller\Payment\GetNonceTest</name>
+  <test-cases>
+    <test-case start="1729890418900" stop="1729890418905" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+    <test-case start="1729890418905" stop="1729890418907" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

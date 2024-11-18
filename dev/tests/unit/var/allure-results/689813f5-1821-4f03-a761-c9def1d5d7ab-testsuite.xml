@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330684" stop="1729890330696" version="1.4.0">
+  <name>Magento\GraphQlCache\Test\Unit\Model\CacheId\CacheIdCalculatorTest</name>
+  <test-cases>
+    <test-case start="1729890330684" stop="1729890330688" status="passed">
+      <name>testNoProviders</name>
+    </test-case>
+    <test-case start="1729890330688" stop="1729890330689" status="passed">
+      <name>testFailedToGenerate</name>
+    </test-case>
+    <test-case start="1729890330690" stop="1729890330691" status="passed">
+      <name>testExistingSalt</name>
+    </test-case>
+    <test-case start="1729890330691" stop="1729890330692" status="passed">
+      <name>testIdEncrypted</name>
+    </test-case>
+    <test-case start="1729890330693" stop="1729890330694" status="passed">
+      <name>testFactorsSorted</name>
+    </test-case>
+    <test-case start="1729890330694" stop="1729890330696" status="passed">
+      <name>testSaltSaves</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

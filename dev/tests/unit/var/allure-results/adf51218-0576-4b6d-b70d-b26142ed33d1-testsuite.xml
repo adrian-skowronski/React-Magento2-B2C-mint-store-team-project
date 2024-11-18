@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890419921" stop="1729890419930" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\App\ResourceConnectionTest</name>
+  <test-cases>
+    <test-case start="1729890419921" stop="1729890419923" status="passed">
+      <name>testGetTablePrefixWithInjectedPrefix</name>
+    </test-case>
+    <test-case start="1729890419923" stop="1729890419924" status="passed">
+      <name>testGetTablePrefix</name>
+    </test-case>
+    <test-case start="1729890419924" stop="1729890419925" status="passed">
+      <name>testGetConnectionByName</name>
+    </test-case>
+    <test-case start="1729890419926" stop="1729890419926" status="passed">
+      <name>testGetExistingConnectionByName</name>
+    </test-case>
+    <test-case start="1729890419927" stop="1729890419928" status="passed">
+      <name>testCloseConnection</name>
+    </test-case>
+    <test-case start="1729890419928" stop="1729890419929" status="passed">
+      <name>testGetTableNameWithBoolParam</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

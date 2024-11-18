@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406834" stop="1729890406840" version="1.4.0">
+  <name>Magento\User\Test\Unit\Block\User\Edit\Tab\RolesTest</name>
+  <test-cases>
+    <test-case start="1729890406834" stop="1729890406837" status="passed">
+      <name>testSelectedRolesCorrectUserRoles</name>
+    </test-case>
+    <test-case start="1729890406838" stop="1729890406840" status="passed">
+      <name>testSelectedRolesIncorrectUserRoles</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

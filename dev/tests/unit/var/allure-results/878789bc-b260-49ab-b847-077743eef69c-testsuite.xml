@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890281967" stop="1729890281974" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Adminhtml\Product\Helper\Form\WeightTest</name>
+  <test-cases>
+    <test-case start="1729890281968" stop="1729890281972" status="passed">
+      <name>testSetForm</name>
+    </test-case>
+    <test-case start="1729890281972" stop="1729890281974" status="passed">
+      <name>testGetEscapedValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

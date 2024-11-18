@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890323775" stop="1729890323784" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Model\Product\CopyConstructor\DownloadableTest</name>
+  <test-cases>
+    <test-case start="1729890323775" stop="1729890323779" status="passed">
+      <name>testBuildWithNonDownloadableProductType</name>
+    </test-case>
+    <test-case start="1729890323779" stop="1729890323784" status="passed">
+      <name>testBuild</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

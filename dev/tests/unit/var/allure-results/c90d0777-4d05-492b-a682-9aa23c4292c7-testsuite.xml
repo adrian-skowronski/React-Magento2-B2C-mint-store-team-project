@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890286960" stop="1729890286970" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Product\Flat\Action\RowsTest</name>
+  <test-cases>
+    <test-case start="1729890286960" stop="1729890286963" status="passed">
+      <name>testEmptyIds</name>
+    </test-case>
+    <test-case start="1729890286963" stop="1729890286966" status="passed">
+      <name>testExecuteWithNonExistingFlatTablesCreatesTables</name>
+    </test-case>
+    <test-case start="1729890286966" stop="1729890286970" status="passed">
+      <name>testExecuteWithExistingFlatTablesCreatesTables</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

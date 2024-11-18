@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890318174" stop="1729890318188" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\StoreSwitcher\RedirectDataPostprocessorTest</name>
+  <test-cases>
+    <test-case start="1729890318174" stop="1729890318179" status="passed">
+      <name>testProcessShouldLoginCustomerIfCustomerIsRegisteredInTargetStore</name>
+    </test-case>
+    <test-case start="1729890318180" stop="1729890318184" status="passed">
+      <name>testProcessShouldNotLoginCustomerIfNotRegisteredInTargetStore</name>
+    </test-case>
+    <test-case start="1729890318184" stop="1729890318186" status="passed">
+      <name>testProcessShouldThrowExceptionIfCustomerDoesNotExist</name>
+    </test-case>
+    <test-case start="1729890318187" stop="1729890318188" status="passed">
+      <name>testProcessShouldThrowExceptionIfAnErrorOccur</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395297" stop="1729890395321" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\ScopeTypeNormalizerTest</name>
+  <test-cases>
+    <test-case start="1729890395297" stop="1729890395298" status="passed">
+      <name>testNormalize with data set #0</name>
+    </test-case>
+    <test-case start="1729890395298" stop="1729890395299" status="passed">
+      <name>testNormalize with data set #1</name>
+    </test-case>
+    <test-case start="1729890395299" stop="1729890395300" status="passed">
+      <name>testNormalize with data set #2</name>
+    </test-case>
+    <test-case start="1729890395301" stop="1729890395302" status="passed">
+      <name>testNormalize with data set #3</name>
+    </test-case>
+    <test-case start="1729890395302" stop="1729890395303" status="passed">
+      <name>testNormalize with data set #4</name>
+    </test-case>
+    <test-case start="1729890395303" stop="1729890395304" status="passed">
+      <name>testNormalize with data set #5</name>
+    </test-case>
+    <test-case start="1729890395305" stop="1729890395305" status="passed">
+      <name>testNormalize with data set #6</name>
+    </test-case>
+    <test-case start="1729890395306" stop="1729890395306" status="passed">
+      <name>testNormalize with data set #7</name>
+    </test-case>
+    <test-case start="1729890395307" stop="1729890395307" status="passed">
+      <name>testNormalize with data set #8</name>
+    </test-case>
+    <test-case start="1729890395308" stop="1729890395308" status="passed">
+      <name>testNormalize with data set #9</name>
+    </test-case>
+    <test-case start="1729890395309" stop="1729890395309" status="passed">
+      <name>testNormalize with data set #10</name>
+    </test-case>
+    <test-case start="1729890395310" stop="1729890395311" status="passed">
+      <name>testNormalize with data set #11</name>
+    </test-case>
+    <test-case start="1729890395311" stop="1729890395312" status="passed">
+      <name>testNormalize with data set #12</name>
+    </test-case>
+    <test-case start="1729890395312" stop="1729890395313" status="passed">
+      <name>testNormalize with data set #13</name>
+    </test-case>
+    <test-case start="1729890395314" stop="1729890395314" status="passed">
+      <name>testNormalizeDefault with data set #0</name>
+    </test-case>
+    <test-case start="1729890395315" stop="1729890395315" status="passed">
+      <name>testNormalizeDefault with data set #1</name>
+    </test-case>
+    <test-case start="1729890395316" stop="1729890395316" status="passed">
+      <name>testNormalizeDefault with data set #2</name>
+    </test-case>
+    <test-case start="1729890395317" stop="1729890395317" status="passed">
+      <name>testNormalizeDefault with data set #3</name>
+    </test-case>
+    <test-case start="1729890395318" stop="1729890395319" status="passed">
+      <name>testNormalizeDefault with data set #4</name>
+    </test-case>
+    <test-case start="1729890395319" stop="1729890395320" status="passed">
+      <name>testNormalizeDefault with data set #5</name>
+    </test-case>
+    <test-case start="1729890395320" stop="1729890395321" status="passed">
+      <name>testNormalizeDefault with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

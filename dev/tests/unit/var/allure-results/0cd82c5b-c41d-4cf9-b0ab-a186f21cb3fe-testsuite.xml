@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890354532" stop="1729890354561" version="1.4.0">
+  <name>Magento\NewRelicReporting\Test\Unit\Model\Module\CollectTest</name>
+  <test-cases>
+    <test-case start="1729890354532" stop="1729890354546" status="passed">
+      <name>testGetModuleDataWithoutRefresh</name>
+    </test-case>
+    <test-case start="1729890354546" stop="1729890354549" status="passed">
+      <name>testGetModuleDataRefresh with data set #0</name>
+    </test-case>
+    <test-case start="1729890354549" stop="1729890354551" status="passed">
+      <name>testGetModuleDataRefresh with data set #1</name>
+    </test-case>
+    <test-case start="1729890354552" stop="1729890354554" status="passed">
+      <name>testGetModuleDataRefresh with data set #2</name>
+    </test-case>
+    <test-case start="1729890354555" stop="1729890354557" status="passed">
+      <name>testGetModuleDataRefreshOrStatement with data set #0</name>
+    </test-case>
+    <test-case start="1729890354557" stop="1729890354559" status="passed">
+      <name>testGetModuleDataRefreshOrStatement with data set #1</name>
+    </test-case>
+    <test-case start="1729890354559" stop="1729890354561" status="passed">
+      <name>testGetModuleDataRefreshOrStatement with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

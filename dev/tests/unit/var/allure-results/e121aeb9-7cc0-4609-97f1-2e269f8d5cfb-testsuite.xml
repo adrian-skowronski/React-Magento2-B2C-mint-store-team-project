@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329833" stop="1729890329836" version="1.4.0">
+  <name>Magento\GiftMessage\Test\Unit\Model\Plugin\QuoteItemTest</name>
+  <test-cases>
+    <test-case start="1729890329833" stop="1729890329836" status="passed">
+      <name>testAfterItemToOrderItem</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890283017" stop="1729890283093" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Widget\LinkTest</name>
+  <test-cases>
+    <test-case start="1729890283018" stop="1729890283027" status="passed">
+      <name>testGetHrefWithoutSetIdPath</name>
+    </test-case>
+    <test-case start="1729890283027" stop="1729890283029" status="passed">
+      <name>testGetHrefIfSetWrongIdPath</name>
+    </test-case>
+    <test-case start="1729890283029" stop="1729890283031" status="passed">
+      <name>testGetHrefWithSetStoreId</name>
+    </test-case>
+    <test-case start="1729890283032" stop="1729890283034" status="passed">
+      <name>testGetHrefIfRewriteIsNotFound</name>
+    </test-case>
+    <test-case start="1729890283035" stop="1729890283050" status="passed">
+      <name>testStoreCodeShouldBeIncludedInURLOnlyIfItIsConfiguredSo with data set #0</name>
+    </test-case>
+    <test-case start="1729890283051" stop="1729890283056" status="passed">
+      <name>testStoreCodeShouldBeIncludedInURLOnlyIfItIsConfiguredSo with data set #1</name>
+    </test-case>
+    <test-case start="1729890283057" stop="1729890283061" status="passed">
+      <name>testStoreCodeShouldBeIncludedInURLOnlyIfItIsConfiguredSo with data set #2</name>
+    </test-case>
+    <test-case start="1729890283061" stop="1729890283065" status="passed">
+      <name>testStoreCodeShouldBeIncludedInURLOnlyIfItIsConfiguredSo with data set #3</name>
+    </test-case>
+    <test-case start="1729890283066" stop="1729890283071" status="passed">
+      <name>testStoreCodeShouldBeIncludedInURLOnlyIfItIsConfiguredSo with data set #4</name>
+    </test-case>
+    <test-case start="1729890283072" stop="1729890283077" status="passed">
+      <name>testStoreCodeShouldBeIncludedInURLOnlyIfItIsConfiguredSo with data set #5</name>
+    </test-case>
+    <test-case start="1729890283077" stop="1729890283083" status="passed">
+      <name>testStoreCodeShouldBeIncludedInURLOnlyIfItIsConfiguredSo with data set #6</name>
+    </test-case>
+    <test-case start="1729890283083" stop="1729890283085" status="passed">
+      <name>testGetLabelWithCustomText</name>
+    </test-case>
+    <test-case start="1729890283086" stop="1729890283090" status="passed">
+      <name>testGetLabelWithoutCustomText</name>
+    </test-case>
+    <test-case start="1729890283090" stop="1729890283093" status="passed">
+      <name>testGetHrefWithForProductWithCategoryIdParameter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

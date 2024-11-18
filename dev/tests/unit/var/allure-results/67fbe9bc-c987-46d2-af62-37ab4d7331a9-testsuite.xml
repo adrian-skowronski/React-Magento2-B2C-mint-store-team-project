@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890298722" stop="1729890298766" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Model\Type\OnepageTest</name>
+  <test-cases>
+    <test-case start="1729890298722" stop="1729890298733" status="passed">
+      <name>testGetQuote</name>
+    </test-case>
+    <test-case start="1729890298733" stop="1729890298735" status="passed">
+      <name>testSetQuote</name>
+    </test-case>
+    <test-case start="1729890298736" stop="1729890298740" status="passed">
+      <name>testInitCheckout with data set #0</name>
+    </test-case>
+    <test-case start="1729890298740" stop="1729890298743" status="passed">
+      <name>testInitCheckout with data set #1</name>
+    </test-case>
+    <test-case start="1729890298744" stop="1729890298746" status="passed">
+      <name>testInitCheckout with data set #2</name>
+    </test-case>
+    <test-case start="1729890298747" stop="1729890298750" status="passed">
+      <name>testGetCheckoutMethod with data set #0</name>
+    </test-case>
+    <test-case start="1729890298750" stop="1729890298753" status="passed">
+      <name>testGetCheckoutMethod with data set #1</name>
+    </test-case>
+    <test-case start="1729890298753" stop="1729890298756" status="passed">
+      <name>testGetCheckoutMethod with data set #2</name>
+    </test-case>
+    <test-case start="1729890298756" stop="1729890298759" status="passed">
+      <name>testGetCheckoutMethod with data set #3</name>
+    </test-case>
+    <test-case start="1729890298760" stop="1729890298763" status="passed">
+      <name>testSaveCheckoutMethod</name>
+    </test-case>
+    <test-case start="1729890298763" stop="1729890298765" status="passed">
+      <name>testGetLastOrderId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

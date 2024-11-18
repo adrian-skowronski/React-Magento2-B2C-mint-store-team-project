@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404882" stop="1729890404894" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\FormTest</name>
+  <test-cases>
+    <test-case start="1729890404883" stop="1729890404884" status="passed">
+      <name>testGetComponentName</name>
+    </test-case>
+    <test-case start="1729890404884" stop="1729890404887" status="passed">
+      <name>testGetDataSourceData</name>
+    </test-case>
+    <test-case start="1729890404887" stop="1729890404889" status="passed">
+      <name>testGetDataSourceDataWithoutData</name>
+    </test-case>
+    <test-case start="1729890404889" stop="1729890404891" status="passed">
+      <name>testGetDataSourceDataWithoutId</name>
+    </test-case>
+    <test-case start="1729890404891" stop="1729890404894" status="passed">
+      <name>testGetDataSourceDataWithAbstractDataProvider</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

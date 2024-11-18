@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890291223" stop="1729890291474" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\TierPriceManagementTest</name>
+  <test-cases>
+    <test-case start="1729890291224" stop="1729890291234" status="passed">
+      <name>testGetList with data set #0</name>
+    </test-case>
+    <test-case start="1729890291241" stop="1729890291245" status="passed">
+      <name>testGetList with data set #1</name>
+    </test-case>
+    <test-case start="1729890291251" stop="1729890291253" status="passed">
+      <name>testGetList with data set #2</name>
+    </test-case>
+    <test-case start="1729890291254" stop="1729890291256" status="passed">
+      <name>testSuccessDeleteTierPrice</name>
+    </test-case>
+    <test-case start="1729890291257" stop="1729890291258" status="passed">
+      <name>testDeleteTierPriceFromNonExistingProduct</name>
+    </test-case>
+    <test-case start="1729890291258" stop="1729890291261" status="passed">
+      <name>testSuccessDeleteTierPriceFromWebsiteLevel</name>
+    </test-case>
+    <test-case start="1729890291261" stop="1729890291265" status="passed">
+      <name>testSetNewPriceWithGlobalPriceScopeAll</name>
+    </test-case>
+    <test-case start="1729890291266" stop="1729890291268" status="passed">
+      <name>testSetNewPriceWithGlobalPriceScope</name>
+    </test-case>
+    <test-case start="1729890291269" stop="1729890291273" status="passed">
+      <name>testSetUpdatedPriceWithGlobalPriceScope</name>
+    </test-case>
+    <test-case start="1729890291274" stop="1729890291281" status="passed">
+      <name>testSetThrowsExceptionIfDoesntValidate</name>
+    </test-case>
+    <test-case start="1729890291281" stop="1729890291287" status="passed">
+      <name>testSetThrowsExceptionIfCantSave</name>
+    </test-case>
+    <test-case start="1729890291287" stop="1729890291298" status="passed">
+      <name>testAddRethrowsTemporaryStateExceptionIfRecoverableErrorOccurred</name>
+    </test-case>
+    <test-case start="1729890291300" stop="1729890291465" status="passed">
+      <name>testAddWithInvalidData with data set #0</name>
+    </test-case>
+    <test-case start="1729890291466" stop="1729890291470" status="passed">
+      <name>testAddWithInvalidData with data set #1</name>
+    </test-case>
+    <test-case start="1729890291471" stop="1729890291473" status="passed">
+      <name>testAddWithInvalidData with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

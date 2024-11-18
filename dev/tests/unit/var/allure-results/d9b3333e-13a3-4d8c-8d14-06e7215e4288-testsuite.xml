@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462343" stop="1729890462357" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Design\FileResolution\Fallback\TemplateFileTest</name>
+  <test-cases>
+    <test-case start="1729890462343" stop="1729890462345" status="passed">
+      <name>testGetFileWhenStateDeveloper</name>
+    </test-case>
+    <test-case start="1729890462346" stop="1729890462347" status="passed">
+      <name>testGetFileWhenModifiedNeeded with data set "default with on demand"</name>
+    </test-case>
+    <test-case start="1729890462348" stop="1729890462349" status="passed">
+      <name>testGetFileWhenModifiedNeeded with data set "default without on demand"</name>
+    </test-case>
+    <test-case start="1729890462350" stop="1729890462352" status="passed">
+      <name>testGetFileWhenModifiedNeeded with data set "production with on demand"</name>
+    </test-case>
+    <test-case start="1729890462352" stop="1729890462354" status="passed">
+      <name>testGetFileWhenModifiedNeeded with data set "production without on demand"</name>
+    </test-case>
+    <test-case start="1729890462354" stop="1729890462355" status="passed">
+      <name>testGetFileWhenModifiedNeeded with data set "production without on demand with minified"</name>
+    </test-case>
+    <test-case start="1729890462356" stop="1729890462357" status="passed">
+      <name>testGetFileIfMinificationIsDisabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

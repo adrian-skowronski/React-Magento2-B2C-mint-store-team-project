@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449149" stop="1729890449168" version="1.4.0">
+  <name>Magento\Framework\Filesystem\Test\Unit\File\ReadTest</name>
+  <test-cases>
+    <test-case start="1729890449150" stop="1729890449151" status="passed">
+      <name>testInstanceFileNotExists</name>
+    </test-case>
+    <test-case start="1729890449152" stop="1729890449153" status="passed">
+      <name>testRead</name>
+    </test-case>
+    <test-case start="1729890449153" stop="1729890449154" status="passed">
+      <name>testReadAll</name>
+    </test-case>
+    <test-case start="1729890449155" stop="1729890449156" status="passed">
+      <name>testReadLine</name>
+    </test-case>
+    <test-case start="1729890449156" stop="1729890449158" status="passed">
+      <name>testReadCsv</name>
+    </test-case>
+    <test-case start="1729890449158" stop="1729890449160" status="passed">
+      <name>testTell</name>
+    </test-case>
+    <test-case start="1729890449160" stop="1729890449162" status="passed">
+      <name>testEof</name>
+    </test-case>
+    <test-case start="1729890449162" stop="1729890449164" status="passed">
+      <name>testClose</name>
+    </test-case>
+    <test-case start="1729890449164" stop="1729890449165" status="passed">
+      <name>testStat</name>
+    </test-case>
+    <test-case start="1729890449166" stop="1729890449168" status="passed">
+      <name>testSeek</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

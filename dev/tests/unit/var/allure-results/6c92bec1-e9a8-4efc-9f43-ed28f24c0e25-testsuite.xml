@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264297" stop="1729890264302" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\Widget\Button\SplitTest</name>
+  <test-cases>
+    <test-case start="1729890264298" stop="1729890264302" status="passed">
+      <name>testHasSplit</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

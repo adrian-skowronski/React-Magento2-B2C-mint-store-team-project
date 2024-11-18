@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356405" stop="1729890356427" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\App\CacheIdentifierPluginTest</name>
+  <test-cases>
+    <test-case start="1729890356406" stop="1729890356415" status="passed">
+      <name>testAfterGetValue with data set "Varnish + PageCache enabled"</name>
+    </test-case>
+    <test-case start="1729890356416" stop="1729890356417" status="passed">
+      <name>testAfterGetValue with data set "Built-in + PageCache disabled"</name>
+    </test-case>
+    <test-case start="1729890356418" stop="1729890356419" status="passed">
+      <name>testAfterGetValue with data set "Built-in + PageCache enabled"</name>
+    </test-case>
+    <test-case start="1729890356420" stop="1729890356421" status="passed">
+      <name>testAfterGetValue with data set "Built-in, PageCache enabled, no user-agent exceptions"</name>
+    </test-case>
+    <test-case start="1729890356423" stop="1729890356425" status="passed">
+      <name>testAfterGetValue with data set "Built-in, PageCache enabled, with design exception"</name>
+    </test-case>
+    <test-case start="1729890356426" stop="1729890356427" status="passed">
+      <name>testAfterGetValueRunParamsCauseDifferentIdentifiers</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

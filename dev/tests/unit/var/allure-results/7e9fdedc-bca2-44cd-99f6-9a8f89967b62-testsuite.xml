@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890311158" stop="1729890311169" version="1.4.0">
+  <name>Magento\Contact\Test\Unit\Plugin\UserDataProvider\ViewModelTest</name>
+  <test-cases>
+    <test-case start="1729890311159" stop="1729890311166" status="passed">
+      <name>testBeforeToHtml with data set "view model was not preset before"</name>
+    </test-case>
+    <test-case start="1729890311167" stop="1729890311168" status="passed">
+      <name>testBeforeToHtml with data set "view model was pre-installed before"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

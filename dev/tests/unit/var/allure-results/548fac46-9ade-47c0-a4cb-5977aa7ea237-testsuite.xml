@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890379503" stop="1729890379509" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Controller\Guest\ViewTest</name>
+  <test-cases>
+    <test-case start="1729890379503" stop="1729890379507" status="passed">
+      <name>testExecuteOrderLoaded</name>
+    </test-case>
+    <test-case start="1729890379507" stop="1729890379508" status="passed">
+      <name>testExecuteOrderNotFound</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

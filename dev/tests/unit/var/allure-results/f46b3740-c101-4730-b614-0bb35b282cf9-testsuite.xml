@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890465150" stop="1729890465152" version="1.4.0">
+  <name>Magento\Framework\Webapi\Test\Unit\Rest\Response\Renderer\JsonTest</name>
+  <test-cases>
+    <test-case start="1729890465150" stop="1729890465151" status="passed">
+      <name>testRender</name>
+    </test-case>
+    <test-case start="1729890465151" stop="1729890465152" status="passed">
+      <name>testGetMimeType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

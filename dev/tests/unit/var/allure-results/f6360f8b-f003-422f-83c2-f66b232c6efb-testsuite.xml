@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325420" stop="1729890325426" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\Attribute\SetTest</name>
+  <test-cases>
+    <test-case start="1729890325421" stop="1729890325422" status="passed">
+      <name>testValidateWithExistingName with data set #0</name>
+    </test-case>
+    <test-case start="1729890325423" stop="1729890325424" status="passed">
+      <name>testValidateWithExistingName with data set #1</name>
+    </test-case>
+    <test-case start="1729890325425" stop="1729890325426" status="passed">
+      <name>testValidateWithNonexistentValidName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890419487" stop="1729890419490" version="1.4.0">
+  <name>PayPal\Braintree\Test\Unit\Gateway\Response\VoidHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890419488" stop="1729890419490" status="passed">
+      <name>testHandle</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

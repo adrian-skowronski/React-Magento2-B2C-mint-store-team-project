@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376830" stop="1729890376847" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\RuleRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890376831" stop="1729890376837" status="passed">
+      <name>testDeleteById</name>
+    </test-case>
+    <test-case start="1729890376837" stop="1729890376843" status="passed">
+      <name>testGetById</name>
+    </test-case>
+    <test-case start="1729890376843" stop="1729890376845" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890376845" stop="1729890376847" status="passed">
+      <name>testGetList</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

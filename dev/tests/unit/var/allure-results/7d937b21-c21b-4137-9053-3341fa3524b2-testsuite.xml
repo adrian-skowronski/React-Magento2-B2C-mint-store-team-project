@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890357168" stop="1729890357175" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Model\Layout\DepersonalizePluginTest</name>
+  <test-cases>
+    <test-case start="1729890357169" stop="1729890357172" status="passed">
+      <name>testAfterGenerateElements</name>
+    </test-case>
+    <test-case start="1729890357174" stop="1729890357175" status="passed">
+      <name>testAfterGenerateElementsNoDepersonalize</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

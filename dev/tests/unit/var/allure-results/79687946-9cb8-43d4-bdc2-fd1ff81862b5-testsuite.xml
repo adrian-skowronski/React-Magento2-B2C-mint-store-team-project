@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890394928" stop="1729890394941" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\HeaderProvider\UpgradeInsecureTest</name>
+  <test-cases>
+    <test-case start="1729890394928" stop="1729890394929" status="passed">
+      <name>testGetName</name>
+    </test-case>
+    <test-case start="1729890394929" stop="1729890394930" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+    <test-case start="1729890394931" stop="1729890394932" status="passed">
+      <name>testCanApply with data set #0</name>
+    </test-case>
+    <test-case start="1729890394933" stop="1729890394934" status="passed">
+      <name>testCanApply with data set #1</name>
+    </test-case>
+    <test-case start="1729890394934" stop="1729890394935" status="passed">
+      <name>testCanApply with data set #2</name>
+    </test-case>
+    <test-case start="1729890394935" stop="1729890394936" status="passed">
+      <name>testCanApply with data set #3</name>
+    </test-case>
+    <test-case start="1729890394937" stop="1729890394937" status="passed">
+      <name>testCanApply with data set #4</name>
+    </test-case>
+    <test-case start="1729890394938" stop="1729890394939" status="passed">
+      <name>testCanApply with data set #5</name>
+    </test-case>
+    <test-case start="1729890394939" stop="1729890394940" status="passed">
+      <name>testCanApply with data set #6</name>
+    </test-case>
+    <test-case start="1729890394940" stop="1729890394941" status="passed">
+      <name>testCanApply with data set #7</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

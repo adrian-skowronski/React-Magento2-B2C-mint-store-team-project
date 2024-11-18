@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890312186" stop="1729890312203" version="1.4.0">
+  <name>Magento\CurrencySymbol\Test\Unit\Model\System\CurrencysymbolTest</name>
+  <test-cases>
+    <test-case start="1729890312186" stop="1729890312193" status="passed">
+      <name>testGetCurrencySymbolData</name>
+    </test-case>
+    <test-case start="1729890312194" stop="1729890312197" status="passed">
+      <name>testSetCurrencySymbolData</name>
+    </test-case>
+    <test-case start="1729890312198" stop="1729890312199" status="passed">
+      <name>testGetCurrencySymbol with data set "existent custom symbol"</name>
+    </test-case>
+    <test-case start="1729890312199" stop="1729890312201" status="passed">
+      <name>testGetCurrencySymbol with data set "nonexistent custom symbol"</name>
+    </test-case>
+    <test-case start="1729890312201" stop="1729890312203" status="passed">
+      <name>testGetCurrencySymbolWithNoSymbolsConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

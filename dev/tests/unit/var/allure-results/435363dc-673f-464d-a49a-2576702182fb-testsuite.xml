@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890460849" stop="1729890460852" version="1.4.0">
+  <name>Magento\Framework\Validator\Test\Unit\Constraint\OptionTest</name>
+  <test-cases>
+    <test-case start="1729890460850" stop="1729890460852" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

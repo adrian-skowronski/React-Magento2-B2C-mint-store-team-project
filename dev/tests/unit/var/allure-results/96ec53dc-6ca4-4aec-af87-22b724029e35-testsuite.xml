@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442576" stop="1729890442577" version="1.4.0">
+  <name>Magento\Framework\DB\Test\Unit\Select\UnionRendererTest</name>
+  <test-cases>
+    <test-case start="1729890442576" stop="1729890442577" status="passed">
+      <name>testRender</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

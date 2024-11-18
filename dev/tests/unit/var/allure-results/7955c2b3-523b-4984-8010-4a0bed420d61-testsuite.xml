@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461099" stop="1729890461101" version="1.4.0">
+  <name>Magento\Framework\Validator\Test\Unit\ExceptionTest</name>
+  <test-cases>
+    <test-case start="1729890461100" stop="1729890461100" status="passed">
+      <name>testGetMessage</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

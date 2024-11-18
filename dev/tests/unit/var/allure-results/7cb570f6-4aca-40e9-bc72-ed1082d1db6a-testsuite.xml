@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890315676" stop="1729890315684" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Attribute\Data\PostcodeTest</name>
+  <test-cases>
+    <test-case start="1729890315677" stop="1729890315679" status="passed">
+      <name>testValidateValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890315680" stop="1729890315681" status="passed">
+      <name>testValidateValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890315682" stop="1729890315683" status="passed">
+      <name>testValidateValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890315683" stop="1729890315684" status="passed">
+      <name>testValidateValue with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

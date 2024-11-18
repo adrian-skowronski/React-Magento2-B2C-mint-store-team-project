@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285030" stop="1729890285094" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Category\Attribute\Backend\ImageTest</name>
+  <test-cases>
+    <test-case start="1729890285031" stop="1729890285034" status="passed">
+      <name>testBeforeSaveValueDeletion with data set #0</name>
+    </test-case>
+    <test-case start="1729890285034" stop="1729890285037" status="passed">
+      <name>testBeforeSaveValueDeletion with data set #1</name>
+    </test-case>
+    <test-case start="1729890285037" stop="1729890285040" status="passed">
+      <name>testBeforeSaveValueInvalid with data set #0</name>
+    </test-case>
+    <test-case start="1729890285040" stop="1729890285042" status="passed">
+      <name>testBeforeSaveValueInvalid with data set #1</name>
+    </test-case>
+    <test-case start="1729890285043" stop="1729890285045" status="passed">
+      <name>testBeforeSaveValueInvalid with data set #2</name>
+    </test-case>
+    <test-case start="1729890285045" stop="1729890285048" status="passed">
+      <name>testBeforeSaveValueInvalid with data set #3</name>
+    </test-case>
+    <test-case start="1729890285048" stop="1729890285050" status="passed">
+      <name>testBeforeSaveValueInvalid with data set #4</name>
+    </test-case>
+    <test-case start="1729890285051" stop="1729890285055" status="passed">
+      <name>testBeforeSaveAttributeFileName</name>
+    </test-case>
+    <test-case start="1729890285055" stop="1729890285058" status="passed">
+      <name>testBeforeSaveAttributeFileNameOutsideOfCategoryDir</name>
+    </test-case>
+    <test-case start="1729890285058" stop="1729890285062" status="passed">
+      <name>testBeforeSaveTemporaryAttribute</name>
+    </test-case>
+    <test-case start="1729890285062" stop="1729890285066" status="passed">
+      <name>testBeforeSaveAttributeStringValue</name>
+    </test-case>
+    <test-case start="1729890285066" stop="1729890285069" status="passed">
+      <name>testBeforeSaveWithAdditionalData with data set #0</name>
+    </test-case>
+    <test-case start="1729890285069" stop="1729890285071" status="passed">
+      <name>testBeforeSaveWithAdditionalData with data set #1</name>
+    </test-case>
+    <test-case start="1729890285072" stop="1729890285074" status="passed">
+      <name>testBeforeSaveWithAdditionalData with data set #2</name>
+    </test-case>
+    <test-case start="1729890285075" stop="1729890285077" status="passed">
+      <name>testBeforeSaveWithAdditionalData with data set #3</name>
+    </test-case>
+    <test-case start="1729890285077" stop="1729890285080" status="passed">
+      <name>testBeforeSaveWithoutAdditionalData with data set #0</name>
+    </test-case>
+    <test-case start="1729890285081" stop="1729890285084" status="passed">
+      <name>testBeforeSaveWithoutAdditionalData with data set #1</name>
+    </test-case>
+    <test-case start="1729890285084" stop="1729890285087" status="passed">
+      <name>testBeforeSaveWithoutAdditionalData with data set #2</name>
+    </test-case>
+    <test-case start="1729890285087" stop="1729890285090" status="passed">
+      <name>testBeforeSaveWithoutAdditionalData with data set #3</name>
+    </test-case>
+    <test-case start="1729890285090" stop="1729890285093" status="passed">
+      <name>testBeforeSaveWithExceptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

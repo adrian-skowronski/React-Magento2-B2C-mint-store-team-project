@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464797" stop="1729890464805" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Template\Html\MinifierTest</name>
+  <test-cases>
+    <test-case start="1729890464798" stop="1729890464800" status="passed">
+      <name>testGetPathToMinified</name>
+    </test-case>
+    <test-case start="1729890464800" stop="1729890464803" status="passed">
+      <name>testMinify</name>
+    </test-case>
+    <test-case start="1729890464803" stop="1729890464805" status="passed">
+      <name>testGetMinified</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890366657" stop="1729890366686" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\GuestCart\GuestBillingAddressManagementTest</name>
+  <test-cases>
+    <test-case start="1729890366659" stop="1729890366673" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890366676" stop="1729890366684" status="passed">
+      <name>testAssign</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

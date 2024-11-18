@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262221" stop="1729890262226" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\Connector\Http\JsonConverterTest</name>
+  <test-cases>
+    <test-case start="1729890262222" stop="1729890262222" status="passed">
+      <name>testConverterContainsHeader</name>
+    </test-case>
+    <test-case start="1729890262223" stop="1729890262224" status="passed">
+      <name>testConvertBody with data set #0</name>
+    </test-case>
+    <test-case start="1729890262224" stop="1729890262225" status="passed">
+      <name>testConvertBody with data set #1</name>
+    </test-case>
+    <test-case start="1729890262225" stop="1729890262226" status="passed">
+      <name>testConvertData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

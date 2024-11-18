@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449897" stop="1729890449900" version="1.4.0">
+  <name>Magento\Framework\HTTP\Test\Unit\Client\CurlTest</name>
+  <test-cases>
+    <test-case start="1729890449898" stop="1729890449898" status="passed">
+      <name>testInvalidProtocol</name>
+    </test-case>
+    <test-case start="1729890449899" stop="1729890449900" status="passed">
+      <name>testParseHeaders</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

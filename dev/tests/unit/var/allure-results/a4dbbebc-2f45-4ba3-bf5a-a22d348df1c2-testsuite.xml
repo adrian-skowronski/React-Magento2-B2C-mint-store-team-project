@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890323864" stop="1729890323881" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Model\Product\TypeTransitionManager\Plugin\DownloadableTest</name>
+  <test-cases>
+    <test-case start="1729890323865" stop="1729890323867" status="passed">
+      <name>testAroundProcessProductWithProductThatCanBeTransformedToDownloadable with data set #0</name>
+    </test-case>
+    <test-case start="1729890323868" stop="1729890323869" status="passed">
+      <name>testAroundProcessProductWithProductThatCanBeTransformedToDownloadable with data set #1</name>
+    </test-case>
+    <test-case start="1729890323870" stop="1729890323871" status="passed">
+      <name>testAroundProcessProductWithProductThatCanBeTransformedToDownloadable with data set #2</name>
+    </test-case>
+    <test-case start="1729890323871" stop="1729890323873" status="passed">
+      <name>testAroundProcessProductWithProductThatCannotBeTransformedToDownloadable with data set #0</name>
+    </test-case>
+    <test-case start="1729890323874" stop="1729890323875" status="passed">
+      <name>testAroundProcessProductWithProductThatCannotBeTransformedToDownloadable with data set #1</name>
+    </test-case>
+    <test-case start="1729890323876" stop="1729890323877" status="passed">
+      <name>testAroundProcessProductWithProductThatCannotBeTransformedToDownloadable with data set #2</name>
+    </test-case>
+    <test-case start="1729890323878" stop="1729890323879" status="passed">
+      <name>testAroundProcessProductWithProductThatCannotBeTransformedToDownloadable with data set #3</name>
+    </test-case>
+    <test-case start="1729890323880" stop="1729890323881" status="passed">
+      <name>testAroundProcessProductWithProductThatCannotBeTransformedToDownloadable with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

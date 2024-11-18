@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890380613" stop="1729890380619" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Admin\ItemTest</name>
+  <test-cases>
+    <test-case start="1729890380613" stop="1729890380614" status="passed">
+      <name>testGetSku</name>
+    </test-case>
+    <test-case start="1729890380615" stop="1729890380616" status="passed">
+      <name>testGetName</name>
+    </test-case>
+    <test-case start="1729890380616" stop="1729890380618" status="passed">
+      <name>testGetProductId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890412954" stop="1729890412959" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Console\Command\DbDataUpgradeCommandTest</name>
+  <test-cases>
+    <test-case start="1729890412954" stop="1729890412958" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890412958" stop="1729890412959" status="passed">
+      <name>testExecuteNoConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

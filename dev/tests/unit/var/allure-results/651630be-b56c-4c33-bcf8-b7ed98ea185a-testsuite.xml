@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448054" stop="1729890448062" version="1.4.0">
+  <name>Magento\Framework\Event\Test\Unit\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890448055" stop="1729890448056" status="passed">
+      <name>testGetAllEvents</name>
+    </test-case>
+    <test-case start="1729890448056" stop="1729890448056" status="passed">
+      <name>testGetGlobalObservers</name>
+    </test-case>
+    <test-case start="1729890448057" stop="1729890448057" status="passed">
+      <name>testGetEventByName</name>
+    </test-case>
+    <test-case start="1729890448057" stop="1729890448058" status="passed">
+      <name>testGetEventByNameNotSet</name>
+    </test-case>
+    <test-case start="1729890448059" stop="1729890448059" status="passed">
+      <name>testAddEvent</name>
+    </test-case>
+    <test-case start="1729890448060" stop="1729890448060" status="passed">
+      <name>testAddObserver</name>
+    </test-case>
+    <test-case start="1729890448061" stop="1729890448061" status="passed">
+      <name>testAddObserverNoEventName</name>
+    </test-case>
+    <test-case start="1729890448061" stop="1729890448062" status="passed">
+      <name>testDispatch</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

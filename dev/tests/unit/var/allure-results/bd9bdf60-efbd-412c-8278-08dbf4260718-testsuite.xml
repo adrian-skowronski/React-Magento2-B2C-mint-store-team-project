@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461966" stop="1729890461969" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\BlockPoolTest</name>
+  <test-cases>
+    <test-case start="1729890461966" stop="1729890461968" status="passed">
+      <name>testAdd</name>
+    </test-case>
+    <test-case start="1729890461968" stop="1729890461969" status="passed">
+      <name>testAddWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

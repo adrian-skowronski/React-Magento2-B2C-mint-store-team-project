@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890407152" stop="1729890407163" version="1.4.0">
+  <name>Magento\User\Test\Unit\Observer\Backend\AuthObserverTest</name>
+  <test-cases>
+    <test-case start="1729890407152" stop="1729890407158" status="passed">
+      <name>testAdminAuthenticate</name>
+    </test-case>
+    <test-case start="1729890407159" stop="1729890407161" status="passed">
+      <name>testAdminAuthenticateThrowsException</name>
+    </test-case>
+    <test-case start="1729890407161" stop="1729890407163" status="passed">
+      <name>testAdminAuthenticateUpdateLockingInfo</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

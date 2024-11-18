@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890415849" stop="1729890415880" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\AdminAccountTest</name>
+  <test-cases>
+    <test-case start="1729890415850" stop="1729890415853" status="passed">
+      <name>testSaveUserExistsAdminRoleExists</name>
+    </test-case>
+    <test-case start="1729890415854" stop="1729890415857" status="passed">
+      <name>testSaveUserExistsNewAdminRole</name>
+    </test-case>
+    <test-case start="1729890415857" stop="1729890415860" status="passed">
+      <name>testSaveNewUserAdminRoleExists</name>
+    </test-case>
+    <test-case start="1729890415860" stop="1729890415864" status="passed">
+      <name>testSaveNewUserNewAdminRole</name>
+    </test-case>
+    <test-case start="1729890415865" stop="1729890415868" status="passed">
+      <name>testSaveExceptionUsernameNotMatch</name>
+    </test-case>
+    <test-case start="1729890415869" stop="1729890415872" status="passed">
+      <name>testSaveExceptionEmailNotMatch</name>
+    </test-case>
+    <test-case start="1729890415872" stop="1729890415875" status="passed">
+      <name>testSaveExceptionSpecialAdminRoleNotFound</name>
+    </test-case>
+    <test-case start="1729890415875" stop="1729890415877" status="passed">
+      <name>testSaveExceptionPasswordEmpty</name>
+    </test-case>
+    <test-case start="1729890415878" stop="1729890415880" status="passed">
+      <name>testSaveExceptionPasswordAndUsernameEqual</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

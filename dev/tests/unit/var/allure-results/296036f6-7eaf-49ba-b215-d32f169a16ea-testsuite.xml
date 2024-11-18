@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890455850" stop="1729890455879" version="1.4.0">
+  <name>Magento\Framework\Reflection\Test\Unit\MethodsMapTest</name>
+  <test-cases>
+    <test-case start="1729890455850" stop="1729890455853" status="passed">
+      <name>testGetMethodReturnType</name>
+    </test-case>
+    <test-case start="1729890455854" stop="1729890455856" status="passed">
+      <name>testGetMethodsMap</name>
+    </test-case>
+    <test-case start="1729890455857" stop="1729890455860" status="passed">
+      <name>testIsMethodValidForDataField with data set "MethodsMap#isMethodValidForDataField"</name>
+    </test-case>
+    <test-case start="1729890455860" stop="1729890455864" status="passed">
+      <name>testIsMethodValidForDataField with data set "DataObject#getAttrName"</name>
+    </test-case>
+    <test-case start="1729890455864" stop="1729890455868" status="passed">
+      <name>testIsMethodValidForDataField with data set "DataObject#isActive"</name>
+    </test-case>
+    <test-case start="1729890455869" stop="1729890455871" status="passed">
+      <name>testIsMethodReturnValueRequired with data set "DataObject#getAttrName"</name>
+    </test-case>
+    <test-case start="1729890455872" stop="1729890455876" status="passed">
+      <name>testIsMethodReturnValueRequired with data set "DataObject#isActive"</name>
+    </test-case>
+    <test-case start="1729890455876" stop="1729890455878" status="passed">
+      <name>testIsMethodReturnValueRequired with data set "FieldNamer#getFieldNameForMethodName"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

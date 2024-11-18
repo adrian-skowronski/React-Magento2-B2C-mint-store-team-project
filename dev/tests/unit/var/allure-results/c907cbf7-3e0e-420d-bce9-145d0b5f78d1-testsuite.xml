@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890311238" stop="1729890311250" version="1.4.0">
+  <name>Magento\Cookie\Test\Unit\Helper\CookieTest</name>
+  <test-cases>
+    <test-case start="1729890311239" stop="1729890311244" status="passed">
+      <name>testIsUserNotAllowSaveCookieAllowed</name>
+    </test-case>
+    <test-case start="1729890311245" stop="1729890311246" status="passed">
+      <name>testIsUserNotAllowSaveCookieNotAllowed</name>
+    </test-case>
+    <test-case start="1729890311246" stop="1729890311248" status="passed">
+      <name>testGetAcceptedSaveCookiesWebsiteIds</name>
+    </test-case>
+    <test-case start="1729890311248" stop="1729890311250" status="passed">
+      <name>testGetCookieRestrictionLifetime</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

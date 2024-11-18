@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328432" stop="1729890328439" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Block\Adminhtml\Template\Grid\Renderer\ActionTest</name>
+  <test-cases>
+    <test-case start="1729890328432" stop="1729890328437" status="passed">
+      <name>testRenderNoActions</name>
+    </test-case>
+    <test-case start="1729890328437" stop="1729890328439" status="passed">
+      <name>testRender</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

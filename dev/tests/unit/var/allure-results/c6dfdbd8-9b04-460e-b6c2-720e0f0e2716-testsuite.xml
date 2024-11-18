@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890365972" stop="1729890366034" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\Cart\CartTotalRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890365973" stop="1729890366023" status="passed">
+      <name>testGetCartTotal with data set "Virtual Quote"</name>
+    </test-case>
+    <test-case start="1729890366023" stop="1729890366034" status="passed">
+      <name>testGetCartTotal with data set "Non-virtual Quote"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

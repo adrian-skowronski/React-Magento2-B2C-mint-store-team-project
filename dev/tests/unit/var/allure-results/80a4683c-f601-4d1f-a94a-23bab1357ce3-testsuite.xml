@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441410" stop="1729890441416" version="1.4.0">
+  <name>Magento\Framework\Controller\Test\Unit\Result\ForwardTest</name>
+  <test-cases>
+    <test-case start="1729890441411" stop="1729890441411" status="passed">
+      <name>testSetModule</name>
+    </test-case>
+    <test-case start="1729890441411" stop="1729890441412" status="passed">
+      <name>testSetController</name>
+    </test-case>
+    <test-case start="1729890441412" stop="1729890441413" status="passed">
+      <name>testSetParams</name>
+    </test-case>
+    <test-case start="1729890441413" stop="1729890441414" status="passed">
+      <name>testForward</name>
+    </test-case>
+    <test-case start="1729890441415" stop="1729890441416" status="passed">
+      <name>testForwardWithParams</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352723" stop="1729890352736" version="1.4.0">
+  <name>Magento\MediaGallery\Test\Unit\Model\Keyword\Command\GetAssetKeywordsTest</name>
+  <test-cases>
+    <test-case start="1729890352723" stop="1729890352729" status="passed">
+      <name>testFind with data set "not_found"</name>
+    </test-case>
+    <test-case start="1729890352730" stop="1729890352732" status="passed">
+      <name>testFind with data set "find_one_keyword"</name>
+    </test-case>
+    <test-case start="1729890352732" stop="1729890352735" status="passed">
+      <name>testFind with data set "find_several_keywords"</name>
+    </test-case>
+    <test-case start="1729890352735" stop="1729890352736" status="passed">
+      <name>testNotFoundBecauseOfError</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

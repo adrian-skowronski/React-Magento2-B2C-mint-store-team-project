@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297410" stop="1729890297416" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Block\Shipping\PriceTest</name>
+  <test-cases>
+    <test-case start="1729890297410" stop="1729890297415" status="passed">
+      <name>testGetShippingPrice</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

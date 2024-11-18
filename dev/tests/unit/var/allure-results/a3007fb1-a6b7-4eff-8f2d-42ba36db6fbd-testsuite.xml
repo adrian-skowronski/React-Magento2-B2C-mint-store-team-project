@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890306469" stop="1729890306496" version="1.4.0">
+  <name>Magento\ConfigurableProductSales\Test\Unit\ViewModel\ItemRendererTypeResolverTest</name>
+  <test-cases>
+    <test-case start="1729890306471" stop="1729890306482" status="passed">
+      <name>testResolveConfigurableOrderItem with data set #0</name>
+    </test-case>
+    <test-case start="1729890306487" stop="1729890306491" status="passed">
+      <name>testResolveConfigurableOrderItem with data set #1</name>
+    </test-case>
+    <test-case start="1729890306492" stop="1729890306496" status="passed">
+      <name>testResolveSimpleOrderItem</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

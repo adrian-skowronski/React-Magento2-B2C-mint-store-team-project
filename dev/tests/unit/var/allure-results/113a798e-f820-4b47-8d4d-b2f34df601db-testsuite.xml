@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301333" stop="1729890301368" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Block\System\Config\EditTest</name>
+  <test-cases>
+    <test-case start="1729890301333" stop="1729890301338" status="passed">
+      <name>testGetSaveButtonHtml</name>
+    </test-case>
+    <test-case start="1729890301339" stop="1729890301341" status="passed">
+      <name>testGetSaveUrl</name>
+    </test-case>
+    <test-case start="1729890301341" stop="1729890301350" status="passed">
+      <name>testPrepareLayout</name>
+    </test-case>
+    <test-case start="1729890301350" stop="1729890301354" status="passed">
+      <name>testGetConfigSearchParamsJson with data set #0</name>
+    </test-case>
+    <test-case start="1729890301355" stop="1729890301359" status="passed">
+      <name>testGetConfigSearchParamsJson with data set #1</name>
+    </test-case>
+    <test-case start="1729890301359" stop="1729890301364" status="passed">
+      <name>testGetConfigSearchParamsJson with data set #2</name>
+    </test-case>
+    <test-case start="1729890301364" stop="1729890301368" status="passed">
+      <name>testGetConfigSearchParamsJson with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

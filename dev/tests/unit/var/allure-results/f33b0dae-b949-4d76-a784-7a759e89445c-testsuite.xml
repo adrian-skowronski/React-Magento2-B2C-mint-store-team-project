@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890409531" stop="1729890409573" version="1.4.0">
+  <name>Magento\Weee\Test\Unit\Model\TaxTest</name>
+  <test-cases>
+    <test-case start="1729890409532" stop="1729890409543" status="passed">
+      <name>testGetProductWeeeAttributes with data set "store_label_defined"</name>
+    </test-case>
+    <test-case start="1729890409544" stop="1729890409551" status="passed">
+      <name>testGetProductWeeeAttributes with data set "store_label_not_defined"</name>
+    </test-case>
+    <test-case start="1729890409552" stop="1729890409561" status="passed">
+      <name>testGetProductWeeeAttributes with data set "website_not_passed"</name>
+    </test-case>
+    <test-case start="1729890409562" stop="1729890409564" status="passed">
+      <name>testGetWeeeAmountExclTax with data set #0</name>
+    </test-case>
+    <test-case start="1729890409565" stop="1729890409568" status="passed">
+      <name>testGetWeeeAmountExclTax with data set #1</name>
+    </test-case>
+    <test-case start="1729890409568" stop="1729890409571" status="passed">
+      <name>testGetWeeeAmountExclTax with data set #2</name>
+    </test-case>
+    <test-case start="1729890409571" stop="1729890409573" status="passed">
+      <name>testGetWeeeAmountExclTaxForDynamicBundleProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450545" stop="1729890450550" version="1.4.0">
+  <name>Magento\Framework\Indexer\Test\Unit\GridStructureTest</name>
+  <test-cases>
+    <test-case start="1729890450545" stop="1729890450547" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890450547" stop="1729890450549" status="passed">
+      <name>testCreate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

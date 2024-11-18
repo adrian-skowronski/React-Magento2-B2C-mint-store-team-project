@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890281145" stop="1729890281177" version="1.4.0">
+  <name>Magento\CatalogWidget\Test\Unit\Block\Product\Widget\ConditionsTest</name>
+  <test-cases>
+    <test-case start="1729890281145" stop="1729890281156" status="passed">
+      <name>testConstructWithEmptyData</name>
+    </test-case>
+    <test-case start="1729890281156" stop="1729890281165" status="passed">
+      <name>testConstructWithWidgetInstance</name>
+    </test-case>
+    <test-case start="1729890281166" stop="1729890281168" status="passed">
+      <name>testConstructWithParamsFromBlock</name>
+    </test-case>
+    <test-case start="1729890281168" stop="1729890281177" status="passed">
+      <name>testRender</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

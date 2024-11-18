@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441497" stop="1729890441505" version="1.4.0">
+  <name>Magento\Framework\Convert\Test\Unit\ConvertArrayTest</name>
+  <test-cases>
+    <test-case start="1729890441497" stop="1729890441499" status="passed">
+      <name>testAssocToXml</name>
+    </test-case>
+    <test-case start="1729890441499" stop="1729890441499" status="passed">
+      <name>testAssocToXmlExceptionByKey</name>
+    </test-case>
+    <test-case start="1729890441500" stop="1729890441501" status="passed">
+      <name>testAssocToXmlException with data set #0</name>
+    </test-case>
+    <test-case start="1729890441501" stop="1729890441502" status="passed">
+      <name>testAssocToXmlException with data set #1</name>
+    </test-case>
+    <test-case start="1729890441502" stop="1729890441503" status="passed">
+      <name>testAssocToXmlException with data set #2</name>
+    </test-case>
+    <test-case start="1729890441504" stop="1729890441504" status="passed">
+      <name>testAssocToXmlException with data set #3</name>
+    </test-case>
+    <test-case start="1729890441505" stop="1729890441505" status="passed">
+      <name>testToFlatArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

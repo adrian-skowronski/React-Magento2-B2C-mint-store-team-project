@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294494" stop="1729890294502" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ResourceModel\Product\Indexer\TemporaryTableStrategyTest</name>
+  <test-cases>
+    <test-case start="1729890294495" stop="1729890294496" status="passed">
+      <name>testGetUseIdxTable</name>
+    </test-case>
+    <test-case start="1729890294497" stop="1729890294498" status="passed">
+      <name>testSetUseIdxTable</name>
+    </test-case>
+    <test-case start="1729890294498" stop="1729890294499" status="passed">
+      <name>testGetTableName</name>
+    </test-case>
+    <test-case start="1729890294499" stop="1729890294502" status="passed">
+      <name>testPrepareTableName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

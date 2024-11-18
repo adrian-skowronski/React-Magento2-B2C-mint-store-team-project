@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890429669" stop="1729890429688" version="1.4.0">
+  <name>Magento\Framework\Cache\Test\Unit\Frontend\Decorator\BareTest</name>
+  <test-cases>
+    <test-case start="1729890429671" stop="1729890429674" status="passed">
+      <name>testProxyMethod with data set #0</name>
+    </test-case>
+    <test-case start="1729890429676" stop="1729890429677" status="passed">
+      <name>testProxyMethod with data set #1</name>
+    </test-case>
+    <test-case start="1729890429678" stop="1729890429679" status="passed">
+      <name>testProxyMethod with data set #2</name>
+    </test-case>
+    <test-case start="1729890429681" stop="1729890429683" status="passed">
+      <name>testProxyMethod with data set #3</name>
+    </test-case>
+    <test-case start="1729890429684" stop="1729890429685" status="passed">
+      <name>testProxyMethod with data set #4</name>
+    </test-case>
+    <test-case start="1729890429685" stop="1729890429686" status="passed">
+      <name>testProxyMethod with data set #5</name>
+    </test-case>
+    <test-case start="1729890429687" stop="1729890429688" status="passed">
+      <name>testProxyMethod with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

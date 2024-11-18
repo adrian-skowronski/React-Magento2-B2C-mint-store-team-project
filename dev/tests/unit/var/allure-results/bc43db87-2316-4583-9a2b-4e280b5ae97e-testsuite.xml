@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890313108" stop="1729890313112" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Block\CustomerDataTest</name>
+  <test-cases>
+    <test-case start="1729890313109" stop="1729890313110" status="passed">
+      <name>testGetExpirableSectionLifetimeReturnsConfigurationValue</name>
+    </test-case>
+    <test-case start="1729890313111" stop="1729890313112" status="passed">
+      <name>testGetExpirableSectionNames</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

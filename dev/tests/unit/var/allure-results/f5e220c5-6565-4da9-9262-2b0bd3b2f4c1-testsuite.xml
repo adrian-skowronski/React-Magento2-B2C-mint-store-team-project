@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890415420" stop="1729890415435" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Fixtures\CartPriceRulesFixtureTest</name>
+  <test-cases>
+    <test-case start="1729890415420" stop="1729890415427" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890415427" stop="1729890415428" status="passed">
+      <name>testNoFixtureConfigValue</name>
+    </test-case>
+    <test-case start="1729890415429" stop="1729890415432" status="passed">
+      <name>testGenerateAdvancedCondition with data set #0</name>
+    </test-case>
+    <test-case start="1729890415432" stop="1729890415433" status="passed">
+      <name>testGenerateAdvancedCondition with data set #1</name>
+    </test-case>
+    <test-case start="1729890415433" stop="1729890415434" status="passed">
+      <name>testGetActionTitle</name>
+    </test-case>
+    <test-case start="1729890415434" stop="1729890415434" status="passed">
+      <name>testIntroduceParamLabels</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

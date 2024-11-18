@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890459238" stop="1729890459239" version="1.4.0">
+  <name>Magento\Framework\TestFramework\Test\Unit\Unit\Matcher\MethodInvokedAtIndexTest</name>
+  <test-cases>
+    <test-case start="1729890459238" stop="1729890459238" status="passed">
+      <name>testMatches</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

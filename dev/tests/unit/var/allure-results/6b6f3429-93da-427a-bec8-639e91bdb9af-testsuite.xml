@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890296001" stop="1729890296021" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Ui\DataProvider\Product\Form\Modifier\GeneralTest</name>
+  <test-cases>
+    <test-case start="1729890296002" stop="1729890296003" status="passed">
+      <name>testModifyMeta</name>
+    </test-case>
+    <test-case start="1729890296004" stop="1729890296006" status="passed">
+      <name>testModifyDataNewProduct with data set "With default status value"</name>
+    </test-case>
+    <test-case start="1729890296007" stop="1729890296008" status="passed">
+      <name>testModifyDataNewProduct with data set "Without default status value"</name>
+    </test-case>
+    <test-case start="1729890296009" stop="1729890296011" status="passed">
+      <name>testModifyDataOfExistingProduct with data set "With enable status value"</name>
+    </test-case>
+    <test-case start="1729890296012" stop="1729890296015" status="passed">
+      <name>testModifyDataOfExistingProduct with data set "Without disable status value"</name>
+    </test-case>
+    <test-case start="1729890296015" stop="1729890296018" status="passed">
+      <name>testModifyDataOfExistingProduct with data set "With enable status value with empty modelId"</name>
+    </test-case>
+    <test-case start="1729890296019" stop="1729890296021" status="passed">
+      <name>testModifyDataOfExistingProduct with data set "Without disable status value with empty modelId"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

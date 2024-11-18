@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890288361" stop="1729890288373" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\CartConfigurationTest</name>
+  <test-cases>
+    <test-case start="1729890288362" stop="1729890288365" status="passed">
+      <name>testIsProductConfigured with data set "simple"</name>
+    </test-case>
+    <test-case start="1729890288366" stop="1729890288368" status="passed">
+      <name>testIsProductConfigured with data set "virtual"</name>
+    </test-case>
+    <test-case start="1729890288368" stop="1729890288370" status="passed">
+      <name>testIsProductConfigured with data set "bundle"</name>
+    </test-case>
+    <test-case start="1729890288371" stop="1729890288373" status="passed">
+      <name>testIsProductConfigured with data set "some_option_type"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

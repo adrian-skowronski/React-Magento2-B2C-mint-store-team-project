@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328377" stop="1729890328388" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Block\Adminhtml\Template\Edit\FormTest</name>
+  <test-cases>
+    <test-case start="1729890328377" stop="1729890328385" status="passed">
+      <name>testGetVariables</name>
+    </test-case>
+    <test-case start="1729890328386" stop="1729890328388" status="passed">
+      <name>testGetEmailTemplate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

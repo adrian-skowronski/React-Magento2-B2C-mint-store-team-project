@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890373705" stop="1729890373709" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Model\ResourceModel\Report\Collection\AbstractCollectionTest</name>
+  <test-cases>
+    <test-case start="1729890373706" stop="1729890373707" status="passed">
+      <name>testIsSubtotalsGetDefault</name>
+    </test-case>
+    <test-case start="1729890373708" stop="1729890373709" status="passed">
+      <name>testSetIsSubtotals</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

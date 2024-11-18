@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890439940" stop="1729890439943" version="1.4.0">
+  <name>Magento\Framework\Code\Test\Unit\Generator\DefinedClassesTest</name>
+  <test-cases>
+    <test-case start="1729890439940" stop="1729890439941" status="passed">
+      <name>testClassLoadableFromMemory</name>
+    </test-case>
+    <test-case start="1729890439941" stop="1729890439942" status="passed">
+      <name>testClassLoadableFromDisc</name>
+    </test-case>
+    <test-case start="1729890439942" stop="1729890439943" status="passed">
+      <name>testClassNotLoadable</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890331656" stop="1729890331664" version="1.4.0">
+  <name>Magento\ImportExport\Test\Unit\Block\Adminhtml\Import\Frame\ResultTest</name>
+  <test-cases>
+    <test-case start="1729890331657" stop="1729890331659" status="passed">
+      <name>testAddError</name>
+    </test-case>
+    <test-case start="1729890331660" stop="1729890331662" status="passed">
+      <name>testAddSuccess</name>
+    </test-case>
+    <test-case start="1729890331662" stop="1729890331664" status="passed">
+      <name>testAddNotice</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

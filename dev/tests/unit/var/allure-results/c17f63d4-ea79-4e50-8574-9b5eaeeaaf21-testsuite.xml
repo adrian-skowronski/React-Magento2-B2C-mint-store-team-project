@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262103" stop="1729890262109" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\Config\MapperTest</name>
+  <test-cases>
+    <test-case start="1729890262104" stop="1729890262105" status="passed">
+      <name>testExecution with data set "wrongConfig"</name>
+    </test-case>
+    <test-case start="1729890262105" stop="1729890262106" status="passed">
+      <name>testExecution with data set "validConfigWithFileNodes"</name>
+    </test-case>
+    <test-case start="1729890262107" stop="1729890262108" status="passed">
+      <name>testExecution with data set "validConfigWithProvidersNode"</name>
+    </test-case>
+    <test-case start="1729890262108" stop="1729890262109" status="passed">
+      <name>testExecution with data set "validConfigWithParametersNode"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

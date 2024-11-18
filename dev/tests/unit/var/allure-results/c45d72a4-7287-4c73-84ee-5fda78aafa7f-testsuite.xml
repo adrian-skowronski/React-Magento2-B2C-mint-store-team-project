@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356151" stop="1729890356166" version="1.4.0">
+  <name>Magento\OfflineShipping\Test\Unit\Model\ResourceModel\Carrier\Tablerate\CSV\ColumnResolverTest</name>
+  <test-cases>
+    <test-case start="1729890356152" stop="1729890356153" status="passed">
+      <name>testGetColumnValueByPosition with data set "Country"</name>
+    </test-case>
+    <test-case start="1729890356153" stop="1729890356154" status="passed">
+      <name>testGetColumnValueByPosition with data set "Region/State"</name>
+    </test-case>
+    <test-case start="1729890356154" stop="1729890356155" status="passed">
+      <name>testGetColumnValueByPosition with data set "Zip/Postal Code"</name>
+    </test-case>
+    <test-case start="1729890356155" stop="1729890356156" status="passed">
+      <name>testGetColumnValueByPosition with data set "Weight (and above)"</name>
+    </test-case>
+    <test-case start="1729890356156" stop="1729890356157" status="passed">
+      <name>testGetColumnValueByPosition with data set "Shipping Price"</name>
+    </test-case>
+    <test-case start="1729890356158" stop="1729890356158" status="passed">
+      <name>testGetColumnValueByHeader with data set "Country"</name>
+    </test-case>
+    <test-case start="1729890356159" stop="1729890356159" status="passed">
+      <name>testGetColumnValueByHeader with data set "Region/State"</name>
+    </test-case>
+    <test-case start="1729890356160" stop="1729890356160" status="passed">
+      <name>testGetColumnValueByHeader with data set "Zip/Postal Code"</name>
+    </test-case>
+    <test-case start="1729890356161" stop="1729890356161" status="passed">
+      <name>testGetColumnValueByHeader with data set "Weight (and above)"</name>
+    </test-case>
+    <test-case start="1729890356162" stop="1729890356162" status="passed">
+      <name>testGetColumnValueByHeader with data set "Shipping Price"</name>
+    </test-case>
+    <test-case start="1729890356163" stop="1729890356163" status="passed">
+      <name>testGetColumnValueByHeader with data set "custom_field"</name>
+    </test-case>
+    <test-case start="1729890356163" stop="1729890356164" status="passed">
+      <name>testGetColumnValueWithUnknownColumn</name>
+    </test-case>
+    <test-case start="1729890356165" stop="1729890356165" status="passed">
+      <name>testGetColumnValueWithUndefinedValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

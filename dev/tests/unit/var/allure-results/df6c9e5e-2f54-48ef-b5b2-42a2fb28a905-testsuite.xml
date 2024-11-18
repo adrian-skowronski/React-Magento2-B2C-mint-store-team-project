@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890369623" stop="1729890369684" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\Quote\Item\RepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890369624" stop="1729890369650" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890369650" stop="1729890369662" status="passed">
+      <name>testDeleteWithInvalidQuoteItem</name>
+    </test-case>
+    <test-case start="1729890369664" stop="1729890369671" status="passed">
+      <name>testDeleteWithCouldNotSaveException</name>
+    </test-case>
+    <test-case start="1729890369672" stop="1729890369677" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890369679" stop="1729890369683" status="passed">
+      <name>testDeleteById</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404053" stop="1729890404063" version="1.4.0">
+  <name>Magento\TwoFactorAuth\Test\Unit\Model\Provider\Engine\DuoSecurityTest</name>
+  <test-cases>
+    <test-case start="1729890404054" stop="1729890404055" status="passed">
+      <name>testIsEnabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890404056" stop="1729890404057" status="passed">
+      <name>testIsEnabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890404057" stop="1729890404058" status="passed">
+      <name>testIsEnabled with data set #2</name>
+    </test-case>
+    <test-case start="1729890404059" stop="1729890404059" status="passed">
+      <name>testIsEnabled with data set #3</name>
+    </test-case>
+    <test-case start="1729890404060" stop="1729890404061" status="passed">
+      <name>testIsEnabled with data set #4</name>
+    </test-case>
+    <test-case start="1729890404062" stop="1729890404062" status="passed">
+      <name>testIsEnabled with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

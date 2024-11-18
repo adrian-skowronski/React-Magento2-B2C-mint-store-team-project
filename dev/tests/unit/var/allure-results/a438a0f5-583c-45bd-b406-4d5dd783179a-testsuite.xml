@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890276930" stop="1729890276978" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\StockManagementTest</name>
+  <test-cases>
+    <test-case start="1729890276935" stop="1729890276958" status="passed">
+      <name>testRegisterProductsSale with data set #0</name>
+    </test-case>
+    <test-case start="1729890276959" stop="1729890276964" status="passed">
+      <name>testRegisterProductsSale with data set #1</name>
+    </test-case>
+    <test-case start="1729890276966" stop="1729890276971" status="passed">
+      <name>testRegisterProductsSale with data set #2</name>
+    </test-case>
+    <test-case start="1729890276973" stop="1729890276977" status="passed">
+      <name>testRegisterProductsSaleException with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

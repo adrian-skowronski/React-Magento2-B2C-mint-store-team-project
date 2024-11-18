@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890415901" stop="1729890415911" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\BasePackageInfoTest</name>
+  <test-cases>
+    <test-case start="1729890415902" stop="1729890415906" status="passed">
+      <name>testBaseComposerJsonFileNotFound</name>
+    </test-case>
+    <test-case start="1729890415906" stop="1729890415907" status="passed">
+      <name>testBaseComposerJsonFileNotReadable</name>
+    </test-case>
+    <test-case start="1729890415907" stop="1729890415909" status="passed">
+      <name>testBaseNoExtraMapSectionInComposerJsonFile</name>
+    </test-case>
+    <test-case start="1729890415909" stop="1729890415910" status="passed">
+      <name>testBasePackageInfo</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

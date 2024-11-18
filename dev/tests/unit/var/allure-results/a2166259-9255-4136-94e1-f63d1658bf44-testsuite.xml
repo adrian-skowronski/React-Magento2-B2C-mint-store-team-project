@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890290832" stop="1729890290845" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\PriceModifier\CompositeTest</name>
+  <test-cases>
+    <test-case start="1729890290832" stop="1729890290841" status="passed">
+      <name>testModifyPriceIfModifierExists</name>
+    </test-case>
+    <test-case start="1729890290841" stop="1729890290845" status="passed">
+      <name>testModifyPriceIfModifierNotExists</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

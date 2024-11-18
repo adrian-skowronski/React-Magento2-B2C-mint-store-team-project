@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353294" stop="1729890353313" version="1.4.0">
+  <name>Magento\MessageQueue\Test\Unit\Console\StartConsumerCommandTest</name>
+  <test-cases>
+    <test-case start="1729890353295" stop="1729890353301" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890353302" stop="1729890353303" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890353304" stop="1729890353306" status="passed">
+      <name>testExecute with data set #2</name>
+    </test-case>
+    <test-case start="1729890353307" stop="1729890353308" status="passed">
+      <name>testExecute with data set #3</name>
+    </test-case>
+    <test-case start="1729890353309" stop="1729890353311" status="passed">
+      <name>testExecute with data set #4</name>
+    </test-case>
+    <test-case start="1729890353312" stop="1729890353313" status="passed">
+      <name>testConfigure</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890282302" stop="1729890282346" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Product\ListProductTest</name>
+  <test-cases>
+    <test-case start="1729890282302" stop="1729890282337" status="passed">
+      <name>testGetIdentities</name>
+    </test-case>
+    <test-case start="1729890282337" stop="1729890282342" status="passed">
+      <name>testGetAddToCartPostParams</name>
+    </test-case>
+    <test-case start="1729890282342" stop="1729890282346" status="passed">
+      <name>testSetIsProductListFlagOnGetProductPrice</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

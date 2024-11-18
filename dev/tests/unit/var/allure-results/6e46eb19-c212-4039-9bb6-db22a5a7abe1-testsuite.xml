@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890424866" stop="1729890424958" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\DeploymentConfigTest</name>
+  <test-cases>
+    <test-case start="1729890424897" stop="1729890424903" status="passed">
+      <name>testGetters</name>
+    </test-case>
+    <test-case start="1729890424905" stop="1729890424909" status="passed">
+      <name>testIsAvailable</name>
+    </test-case>
+    <test-case start="1729890424914" stop="1729890424919" status="passed">
+      <name>testNotAvailable</name>
+    </test-case>
+    <test-case start="1729890424919" stop="1729890424923" status="passed">
+      <name>testNotAvailableThenAvailable</name>
+    </test-case>
+    <test-case start="1729890424925" stop="1729890424928" status="passed">
+      <name>testKeyCollision with data set #0</name>
+    </test-case>
+    <test-case start="1729890424929" stop="1729890424933" status="passed">
+      <name>testResetData</name>
+    </test-case>
+    <test-case start="1729890424934" stop="1729890424937" status="passed">
+      <name>testIsDbAvailable</name>
+    </test-case>
+    <test-case start="1729890424938" stop="1729890424941" status="passed">
+      <name>testNoEnvVariables</name>
+    </test-case>
+    <test-case start="1729890424942" stop="1729890424947" status="passed">
+      <name>testEnvVariables</name>
+    </test-case>
+    <test-case start="1729890424949" stop="1729890424953" status="passed">
+      <name>testEnvVariablesWithNoBaseConfig</name>
+    </test-case>
+    <test-case start="1729890424954" stop="1729890424958" status="passed">
+      <name>testEnvVariablesSubstitution</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

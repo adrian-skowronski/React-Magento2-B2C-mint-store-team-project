@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449699" stop="1729890449708" version="1.4.0">
+  <name>Magento\Framework\Filter\Test\Unit\TranslitUrlTest</name>
+  <test-cases>
+    <test-case start="1729890449700" stop="1729890449701" status="passed">
+      <name>testFilter with data set #0</name>
+    </test-case>
+    <test-case start="1729890449702" stop="1729890449703" status="passed">
+      <name>testFilter with data set #1</name>
+    </test-case>
+    <test-case start="1729890449704" stop="1729890449705" status="passed">
+      <name>testFilter with data set #2</name>
+    </test-case>
+    <test-case start="1729890449706" stop="1729890449706" status="passed">
+      <name>testFilter with data set #3</name>
+    </test-case>
+    <test-case start="1729890449707" stop="1729890449708" status="passed">
+      <name>testFilter with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

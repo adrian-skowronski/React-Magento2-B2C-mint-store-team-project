@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890298898" stop="1729890298913" version="1.4.0">
+  <name>Magento\CmsUrlRewrite\Test\Unit\Model\CmsPageUrlRewriteGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890298899" stop="1729890298910" status="passed">
+      <name>testGenerateForAllStores</name>
+    </test-case>
+    <test-case start="1729890298910" stop="1729890298913" status="passed">
+      <name>testGenerateForSpecificStores</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

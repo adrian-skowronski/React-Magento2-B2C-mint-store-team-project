@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890323484" stop="1729890323492" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Helper\Catalog\Product\ConfigurationTest</name>
+  <test-cases>
+    <test-case start="1729890323484" stop="1729890323487" status="passed">
+      <name>testGetLinksTitle</name>
+    </test-case>
+    <test-case start="1729890323487" stop="1729890323489" status="passed">
+      <name>testGetLinksTitleWithoutTitle</name>
+    </test-case>
+    <test-case start="1729890323489" stop="1729890323492" status="passed">
+      <name>testGetOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

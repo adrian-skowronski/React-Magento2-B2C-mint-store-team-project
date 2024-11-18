@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403423" stop="1729890403463" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Wysiwyg\StorageTest</name>
+  <test-cases>
+    <test-case start="1729890403423" stop="1729890403431" status="passed">
+      <name>testUploadFile</name>
+    </test-case>
+    <test-case start="1729890403431" stop="1729890403433" status="passed">
+      <name>testUploadInvalidFile</name>
+    </test-case>
+    <test-case start="1729890403434" stop="1729890403436" status="passed">
+      <name>testCreateFolder with data set #0</name>
+    </test-case>
+    <test-case start="1729890403437" stop="1729890403438" status="passed">
+      <name>testCreateFolder with data set #1</name>
+    </test-case>
+    <test-case start="1729890403438" stop="1729890403440" status="passed">
+      <name>testCreateFolderWithInvalidName</name>
+    </test-case>
+    <test-case start="1729890403440" stop="1729890403442" status="passed">
+      <name>testCreateFolderDirectoryAlreadyExist</name>
+    </test-case>
+    <test-case start="1729890403442" stop="1729890403444" status="passed">
+      <name>testGetDirsCollection</name>
+    </test-case>
+    <test-case start="1729890403445" stop="1729890403446" status="passed">
+      <name>testGetDirsCollectionWrongDirName</name>
+    </test-case>
+    <test-case start="1729890403447" stop="1729890403449" status="passed">
+      <name>testGetFilesCollection</name>
+    </test-case>
+    <test-case start="1729890403449" stop="1729890403452" status="passed">
+      <name>testGetFilesCollectionImageType</name>
+    </test-case>
+    <test-case start="1729890403452" stop="1729890403455" status="passed">
+      <name>testTreeArray</name>
+    </test-case>
+    <test-case start="1729890403456" stop="1729890403457" status="passed">
+      <name>testDeleteFile</name>
+    </test-case>
+    <test-case start="1729890403458" stop="1729890403459" status="passed">
+      <name>testDeleteDirectory</name>
+    </test-case>
+    <test-case start="1729890403460" stop="1729890403461" status="passed">
+      <name>testDeleteRootDirectory</name>
+    </test-case>
+    <test-case start="1729890403462" stop="1729890403463" status="passed">
+      <name>testDeleteRootDirectoryRelative</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

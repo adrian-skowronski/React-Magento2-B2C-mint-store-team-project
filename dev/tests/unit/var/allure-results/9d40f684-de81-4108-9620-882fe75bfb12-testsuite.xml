@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890350807" stop="1729890350827" version="1.4.0">
+  <name>Magento\InventoryImportExport\Test\Unit\Model\Import\SourceItemConvertTest</name>
+  <test-cases>
+    <test-case start="1729890350808" stop="1729890350819" status="passed">
+      <name>testConvert with data set #0</name>
+    </test-case>
+    <test-case start="1729890350820" stop="1729890350821" status="passed">
+      <name>testConvert with data set #1</name>
+    </test-case>
+    <test-case start="1729890350822" stop="1729890350823" status="passed">
+      <name>testConvert with data set #2</name>
+    </test-case>
+    <test-case start="1729890350824" stop="1729890350825" status="passed">
+      <name>testConvert with data set #3</name>
+    </test-case>
+    <test-case start="1729890350825" stop="1729890350827" status="passed">
+      <name>testConvert with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890362435" stop="1729890362441" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\PayflowadvancedTest</name>
+  <test-cases>
+    <test-case start="1729890362435" stop="1729890362440" status="passed">
+      <name>testGetInfoBlockType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

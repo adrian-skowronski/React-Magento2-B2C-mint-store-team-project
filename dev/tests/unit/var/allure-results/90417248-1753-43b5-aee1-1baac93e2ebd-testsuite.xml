@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301103" stop="1729890301120" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Ui\Component\Listing\Column\Cms\OptionsTest</name>
+  <test-cases>
+    <test-case start="1729890301103" stop="1729890301120" status="passed">
+      <name>testToOptionArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

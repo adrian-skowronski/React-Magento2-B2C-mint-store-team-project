@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353823" stop="1729890353835" version="1.4.0">
+  <name>Magento\Multishipping\Test\Unit\Controller\Checkout\Address\NewShippingTest</name>
+  <test-cases>
+    <test-case start="1729890353824" stop="1729890353828" status="passed">
+      <name>testExecute with data set "shipping_address_exists"</name>
+    </test-case>
+    <test-case start="1729890353828" stop="1729890353832" status="passed">
+      <name>testExecute with data set "shipping_address_not_exist"</name>
+    </test-case>
+    <test-case start="1729890353832" stop="1729890353835" status="passed">
+      <name>testExecuteWhenCustomerAddressBlockNotExist</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

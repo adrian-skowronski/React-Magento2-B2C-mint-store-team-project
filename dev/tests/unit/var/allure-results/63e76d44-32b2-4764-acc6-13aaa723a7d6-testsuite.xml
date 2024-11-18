@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890326163" stop="1729890326196" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\ResourceModel\ReadHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890326163" stop="1729890326168" status="passed">
+      <name>testExecute with data set "null entity type"</name>
+    </test-case>
+    <test-case start="1729890326168" stop="1729890326171" status="passed">
+      <name>testExecute with data set "static attribute"</name>
+    </test-case>
+    <test-case start="1729890326172" stop="1729890326177" status="passed">
+      <name>testExecute with data set "non-static attribute"</name>
+    </test-case>
+    <test-case start="1729890326178" stop="1729890326181" status="passed">
+      <name>testExecuteGlobalScope with data set "null entity type"</name>
+    </test-case>
+    <test-case start="1729890326182" stop="1729890326185" status="passed">
+      <name>testExecuteGlobalScope with data set "static attribute"</name>
+    </test-case>
+    <test-case start="1729890326186" stop="1729890326190" status="passed">
+      <name>testExecuteGlobalScope with data set "non-static attribute"</name>
+    </test-case>
+    <test-case start="1729890326191" stop="1729890326194" status="passed">
+      <name>testExecuteGlobalScope with data set "non-static attribute2"</name>
+    </test-case>
+    <test-case start="1729890326195" stop="1729890326196" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

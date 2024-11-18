@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890384104" stop="1729890384694" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Invoice\Total\ShippingTest</name>
+  <test-cases>
+    <test-case start="1729890384110" stop="1729890384672" status="passed">
+      <name>testCollectWithNoOrZeroPrevInvoice with data set "no previous invoices"</name>
+    </test-case>
+    <test-case start="1729890384672" stop="1729890384686" status="passed">
+      <name>testCollectWithNoOrZeroPrevInvoice with data set "zero shipping in previous invoices"</name>
+    </test-case>
+    <test-case start="1729890384686" stop="1729890384694" status="passed">
+      <name>testCollectWithPreviousInvoice</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

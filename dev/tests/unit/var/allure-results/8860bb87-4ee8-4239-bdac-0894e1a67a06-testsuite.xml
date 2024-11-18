@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890357338" stop="1729890357345" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Observer\FlushAllCacheTest</name>
+  <test-cases>
+    <test-case start="1729890357338" stop="1729890357343" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890357343" stop="1729890357345" status="passed">
+      <name>testExecuteWithVarnish</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

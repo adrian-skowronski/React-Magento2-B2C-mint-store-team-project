@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890295598" stop="1729890295608" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Ui\Component\FilterFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890295598" stop="1729890295608" status="passed">
+      <name>testCreateWithUseSourceAttribute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

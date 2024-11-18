@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890281533" stop="1729890281576" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Adminhtml\Product\Composite\Fieldset\OptionsTest</name>
+  <test-cases>
+    <test-case start="1729890281535" stop="1729890281576" status="passed">
+      <name>testGetOptionHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

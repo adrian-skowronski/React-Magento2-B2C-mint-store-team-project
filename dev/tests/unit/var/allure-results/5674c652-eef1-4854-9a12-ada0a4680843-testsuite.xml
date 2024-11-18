@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456406" stop="1729890456423" version="1.4.0">
+  <name>Magento\Framework\Serialize\Test\Unit\JsonValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890456407" stop="1729890456407" status="passed">
+      <name>testIsValid with data set #0</name>
+    </test-case>
+    <test-case start="1729890456408" stop="1729890456408" status="passed">
+      <name>testIsValid with data set #1</name>
+    </test-case>
+    <test-case start="1729890456409" stop="1729890456410" status="passed">
+      <name>testIsValid with data set #2</name>
+    </test-case>
+    <test-case start="1729890456410" stop="1729890456410" status="passed">
+      <name>testIsValid with data set #3</name>
+    </test-case>
+    <test-case start="1729890456411" stop="1729890456412" status="passed">
+      <name>testIsValid with data set #4</name>
+    </test-case>
+    <test-case start="1729890456412" stop="1729890456412" status="passed">
+      <name>testIsValid with data set #5</name>
+    </test-case>
+    <test-case start="1729890456413" stop="1729890456413" status="passed">
+      <name>testIsValid with data set #6</name>
+    </test-case>
+    <test-case start="1729890456414" stop="1729890456414" status="passed">
+      <name>testIsValid with data set #7</name>
+    </test-case>
+    <test-case start="1729890456415" stop="1729890456415" status="passed">
+      <name>testIsValid with data set #8</name>
+    </test-case>
+    <test-case start="1729890456416" stop="1729890456416" status="passed">
+      <name>testIsValid with data set #9</name>
+    </test-case>
+    <test-case start="1729890456416" stop="1729890456417" status="passed">
+      <name>testIsValid with data set #10</name>
+    </test-case>
+    <test-case start="1729890456417" stop="1729890456418" status="passed">
+      <name>testIsValid with data set #11</name>
+    </test-case>
+    <test-case start="1729890456418" stop="1729890456419" status="passed">
+      <name>testIsValid with data set #12</name>
+    </test-case>
+    <test-case start="1729890456419" stop="1729890456420" status="passed">
+      <name>testIsValid with data set #13</name>
+    </test-case>
+    <test-case start="1729890456420" stop="1729890456421" status="passed">
+      <name>testIsValid with data set #14</name>
+    </test-case>
+    <test-case start="1729890456421" stop="1729890456422" status="passed">
+      <name>testIsValid with data set #15</name>
+    </test-case>
+    <test-case start="1729890456422" stop="1729890456423" status="passed">
+      <name>testIsValid with data set #16</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890313650" stop="1729890313663" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Block\Widget\TaxvatTest</name>
+  <test-cases>
+    <test-case start="1729890313651" stop="1729890313653" status="passed">
+      <name>testIsEnabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890313654" stop="1729890313655" status="passed">
+      <name>testIsEnabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890313656" stop="1729890313657" status="passed">
+      <name>testIsEnabledWithException</name>
+    </test-case>
+    <test-case start="1729890313658" stop="1729890313660" status="passed">
+      <name>testIsRequired with data set #0</name>
+    </test-case>
+    <test-case start="1729890313660" stop="1729890313662" status="passed">
+      <name>testIsRequired with data set #1</name>
+    </test-case>
+    <test-case start="1729890313662" stop="1729890313663" status="passed">
+      <name>testIsRequiredWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

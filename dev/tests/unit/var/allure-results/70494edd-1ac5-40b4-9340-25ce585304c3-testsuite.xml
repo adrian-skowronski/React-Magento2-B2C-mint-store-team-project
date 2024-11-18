@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890370645" stop="1729890370704" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\QuoteRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890370646" stop="1729890370658" status="passed">
+      <name>testGetWithExceptionById</name>
+    </test-case>
+    <test-case start="1729890370658" stop="1729890370661" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890370661" stop="1729890370665" status="passed">
+      <name>testGetForCustomerAfterGet with data set #0</name>
+    </test-case>
+    <test-case start="1729890370665" stop="1729890370670" status="passed">
+      <name>testGetForCustomerAfterGet with data set #1</name>
+    </test-case>
+    <test-case start="1729890370670" stop="1729890370673" status="passed">
+      <name>testGetWithSharedStoreIds</name>
+    </test-case>
+    <test-case start="1729890370674" stop="1729890370676" status="passed">
+      <name>testGetForCustomer with data set #0</name>
+    </test-case>
+    <test-case start="1729890370677" stop="1729890370679" status="passed">
+      <name>testGetForCustomer with data set #1</name>
+    </test-case>
+    <test-case start="1729890370679" stop="1729890370682" status="passed">
+      <name>testGetActiveWithExceptionById</name>
+    </test-case>
+    <test-case start="1729890370682" stop="1729890370685" status="passed">
+      <name>testGetActiveWithExceptionByIsActive</name>
+    </test-case>
+    <test-case start="1729890370685" stop="1729890370687" status="passed">
+      <name>testGetActive</name>
+    </test-case>
+    <test-case start="1729890370688" stop="1729890370690" status="passed">
+      <name>testGetActiveWithSharedStoreIds</name>
+    </test-case>
+    <test-case start="1729890370690" stop="1729890370693" status="passed">
+      <name>testGetActiveForCustomer</name>
+    </test-case>
+    <test-case start="1729890370693" stop="1729890370697" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890370697" stop="1729890370699" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890370699" stop="1729890370704" status="passed">
+      <name>testGetList</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454596" stop="1729890454604" version="1.4.0">
+  <name>Magento\Framework\ObjectManager\Test\Unit\Helper\SortItemsTest</name>
+  <test-cases>
+    <test-case start="1729890454596" stop="1729890454597" status="passed">
+      <name>testSortItems with data set "empty array items"</name>
+    </test-case>
+    <test-case start="1729890454597" stop="1729890454598" status="passed">
+      <name>testSortItems with data set "absent array items"</name>
+    </test-case>
+    <test-case start="1729890454598" stop="1729890454599" status="passed">
+      <name>testSortItems with data set "present array items"</name>
+    </test-case>
+    <test-case start="1729890454599" stop="1729890454600" status="passed">
+      <name>testSortItems with data set "sorted array items"</name>
+    </test-case>
+    <test-case start="1729890454600" stop="1729890454601" status="passed">
+      <name>testSortItems with data set "multi sorted array items"</name>
+    </test-case>
+    <test-case start="1729890454602" stop="1729890454602" status="passed">
+      <name>testSortItems with data set "pre-sorted array items"</name>
+    </test-case>
+    <test-case start="1729890454603" stop="1729890454604" status="passed">
+      <name>testSortItems with data set "sort order edge case values"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

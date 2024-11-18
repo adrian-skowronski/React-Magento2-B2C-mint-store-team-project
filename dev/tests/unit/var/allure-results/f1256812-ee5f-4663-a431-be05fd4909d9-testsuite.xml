@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329564" stop="1729890329573" version="1.4.0">
+  <name>Magento\GiftMessage\Test\Unit\Block\Cart\Item\Renderer\Actions\ItemIdProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890329564" stop="1729890329566" status="passed">
+      <name>testProcess with data set #0</name>
+    </test-case>
+    <test-case start="1729890329567" stop="1729890329569" status="passed">
+      <name>testProcess with data set #1</name>
+    </test-case>
+    <test-case start="1729890329569" stop="1729890329570" status="passed">
+      <name>testProcess with data set #2</name>
+    </test-case>
+    <test-case start="1729890329571" stop="1729890329572" status="passed">
+      <name>testProcess with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

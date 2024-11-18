@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890420340" stop="1729890420465" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\EscaperTest</name>
+  <test-cases>
+    <test-case start="1729890420341" stop="1729890420348" status="passed">
+      <name>testEscapeJsEscapesOwaspRecommendedRanges</name>
+    </test-case>
+    <test-case start="1729890420349" stop="1729890420350" status="passed">
+      <name>testEscapeJs with data set "zero length string"</name>
+    </test-case>
+    <test-case start="1729890420351" stop="1729890420352" status="passed">
+      <name>testEscapeJs with data set "null as string"</name>
+    </test-case>
+    <test-case start="1729890420352" stop="1729890420353" status="passed">
+      <name>testEscapeJs with data set "Magento\Framework\Phrase as string"</name>
+    </test-case>
+    <test-case start="1729890420354" stop="1729890420355" status="passed">
+      <name>testEscapeJs with data set "only digits"</name>
+    </test-case>
+    <test-case start="1729890420356" stop="1729890420357" status="passed">
+      <name>testEscapeJs with data set "&lt;"</name>
+    </test-case>
+    <test-case start="1729890420357" stop="1729890420358" status="passed">
+      <name>testEscapeJs with data set "&gt;"</name>
+    </test-case>
+    <test-case start="1729890420359" stop="1729890420360" status="passed">
+      <name>testEscapeJs with data set "'"</name>
+    </test-case>
+    <test-case start="1729890420361" stop="1729890420362" status="passed">
+      <name>testEscapeJs with data set """</name>
+    </test-case>
+    <test-case start="1729890420362" stop="1729890420363" status="passed">
+      <name>testEscapeJs with data set "&amp;"</name>
+    </test-case>
+    <test-case start="1729890420364" stop="1729890420365" status="passed">
+      <name>testEscapeJs with data set "Characters beyond ASCII value 255 to unicode escape"</name>
+    </test-case>
+    <test-case start="1729890420365" stop="1729890420366" status="passed">
+      <name>testEscapeJs with data set "Characters beyond Unicode BMP to unicode escape"</name>
+    </test-case>
+    <test-case start="1729890420367" stop="1729890420368" status="passed">
+      <name>testEscapeJs with data set ","</name>
+    </test-case>
+    <test-case start="1729890420369" stop="1729890420370" status="passed">
+      <name>testEscapeJs with data set "."</name>
+    </test-case>
+    <test-case start="1729890420370" stop="1729890420371" status="passed">
+      <name>testEscapeJs with data set "_"</name>
+    </test-case>
+    <test-case start="1729890420372" stop="1729890420373" status="passed">
+      <name>testEscapeJs with data set "a"</name>
+    </test-case>
+    <test-case start="1729890420373" stop="1729890420375" status="passed">
+      <name>testEscapeJs with data set "A"</name>
+    </test-case>
+    <test-case start="1729890420375" stop="1729890420376" status="passed">
+      <name>testEscapeJs with data set "z"</name>
+    </test-case>
+    <test-case start="1729890420376" stop="1729890420378" status="passed">
+      <name>testEscapeJs with data set "Z"</name>
+    </test-case>
+    <test-case start="1729890420378" stop="1729890420379" status="passed">
+      <name>testEscapeJs with data set #0</name>
+    </test-case>
+    <test-case start="1729890420380" stop="1729890420381" status="passed">
+      <name>testEscapeJs with data set #1</name>
+    </test-case>
+    <test-case start="1729890420381" stop="1729890420382" status="passed">
+      <name>testEscapeJs with data set "&#13;"</name>
+    </test-case>
+    <test-case start="1729890420383" stop="1729890420384" status="passed">
+      <name>testEscapeJs with data set "
+"</name>
+    </test-case>
+    <test-case start="1729890420385" stop="1729890420386" status="passed">
+      <name>testEscapeJs with data set "	"</name>
+    </test-case>
+    <test-case start="1729890420386" stop="1729890420387" status="passed">
+      <name>testEscapeJs with data set "</name>
+    </test-case>
+    <test-case start="1729890420388" stop="1729890420389" status="passed">
+      <name>testEscapeJs with data set "Encode spaces for quoteless attribute protection"</name>
+    </test-case>
+    <test-case start="1729890420390" stop="1729890420391" status="passed">
+      <name>testEscapeHtml with data set "array -&gt; [text with no tags, text with no allowed tags]"</name>
+    </test-case>
+    <test-case start="1729890420391" stop="1729890420392" status="passed">
+      <name>testEscapeHtml with data set "text with special characters"</name>
+    </test-case>
+    <test-case start="1729890420392" stop="1729890420394" status="passed">
+      <name>testEscapeHtml with data set "text with special characters and allowed tag"</name>
+    </test-case>
+    <test-case start="1729890420394" stop="1729890420396" status="passed">
+      <name>testEscapeHtml with data set "text with multiple allowed tags, includes self closing tag"</name>
+    </test-case>
+    <test-case start="1729890420396" stop="1729890420397" status="passed">
+      <name>testEscapeHtml with data set "text with multiple allowed tags and allowed attribute in double quotes"</name>
+    </test-case>
+    <test-case start="1729890420398" stop="1729890420399" status="passed">
+      <name>testEscapeHtml with data set "text with multiple allowed tags and allowed attribute in single quotes"</name>
+    </test-case>
+    <test-case start="1729890420399" stop="1729890420401" status="passed">
+      <name>testEscapeHtml with data set "text with multiple allowed tags with allowed attribute"</name>
+    </test-case>
+    <test-case start="1729890420402" stop="1729890420403" status="passed">
+      <name>testEscapeHtml with data set "text with not allowed attribute in single quotes"</name>
+    </test-case>
+    <test-case start="1729890420403" stop="1729890420405" status="passed">
+      <name>testEscapeHtml with data set "text with allowed and not allowed tags"</name>
+    </test-case>
+    <test-case start="1729890420405" stop="1729890420407" status="passed">
+      <name>testEscapeHtml with data set "text with allowed and not allowed tags, with allowed and not allowed attributes"</name>
+    </test-case>
+    <test-case start="1729890420407" stop="1729890420408" status="passed">
+      <name>testEscapeHtml with data set "text with html comment"</name>
+    </test-case>
+    <test-case start="1729890420409" stop="1729890420410" status="passed">
+      <name>testEscapeHtml with data set "text with multi-line html comment"</name>
+    </test-case>
+    <test-case start="1729890420410" stop="1729890420411" status="passed">
+      <name>testEscapeHtml with data set "text with non ascii characters"</name>
+    </test-case>
+    <test-case start="1729890420412" stop="1729890420413" status="passed">
+      <name>testEscapeHtml with data set "html and body tags"</name>
+    </test-case>
+    <test-case start="1729890420413" stop="1729890420415" status="passed">
+      <name>testEscapeHtml with data set "invalid tag"</name>
+    </test-case>
+    <test-case start="1729890420415" stop="1729890420417" status="passed">
+      <name>testEscapeHtmlAttributeWithInlineTranslateEnabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890420418" stop="1729890420419" status="passed">
+      <name>testEscapeHtmlAttributeWithInlineTranslateEnabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890420420" stop="1729890420421" status="passed">
+      <name>testEscapeHtmlAttributeWithInlineTranslateEnabled with data set #2</name>
+    </test-case>
+    <test-case start="1729890420421" stop="1729890420423" status="passed">
+      <name>testEscapeHtmlWithInvalidData with data set "text with allowed script tag"</name>
+    </test-case>
+    <test-case start="1729890420423" stop="1729890420424" status="passed">
+      <name>testEscapeHtmlWithInvalidData with data set "text with invalid html"</name>
+    </test-case>
+    <test-case start="1729890420425" stop="1729890420426" status="passed">
+      <name>testEscapeUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890420427" stop="1729890420428" status="passed">
+      <name>testEscapeUrl with data set #1</name>
+    </test-case>
+    <test-case start="1729890420428" stop="1729890420429" status="passed">
+      <name>testEscapeUrl with data set #2</name>
+    </test-case>
+    <test-case start="1729890420430" stop="1729890420431" status="passed">
+      <name>testEscapeCss with data set #0</name>
+    </test-case>
+    <test-case start="1729890420432" stop="1729890420433" status="passed">
+      <name>testEscapeCss with data set #1</name>
+    </test-case>
+    <test-case start="1729890420434" stop="1729890420435" status="passed">
+      <name>testEncodeUrlParam with data set #0</name>
+    </test-case>
+    <test-case start="1729890420435" stop="1729890420436" status="passed">
+      <name>testEncodeUrlParam with data set #1</name>
+    </test-case>
+    <test-case start="1729890420437" stop="1729890420438" status="passed">
+      <name>testEncodeUrlParam with data set #2</name>
+    </test-case>
+    <test-case start="1729890420438" stop="1729890420439" status="passed">
+      <name>testEncodeUrlParam with data set #3</name>
+    </test-case>
+    <test-case start="1729890420439" stop="1729890420441" status="passed">
+      <name>testEscapeJsQuote</name>
+    </test-case>
+    <test-case start="1729890420441" stop="1729890420442" status="passed">
+      <name>testEscapeQuote</name>
+    </test-case>
+    <test-case start="1729890420443" stop="1729890420444" status="passed">
+      <name>testEscapeXssInUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890420444" stop="1729890420445" status="passed">
+      <name>testEscapeXssInUrl with data set #1</name>
+    </test-case>
+    <test-case start="1729890420446" stop="1729890420447" status="passed">
+      <name>testEscapeXssInUrl with data set #2</name>
+    </test-case>
+    <test-case start="1729890420448" stop="1729890420449" status="passed">
+      <name>testEscapeXssInUrl with data set #3</name>
+    </test-case>
+    <test-case start="1729890420450" stop="1729890420451" status="passed">
+      <name>testEscapeXssInUrl with data set #4</name>
+    </test-case>
+    <test-case start="1729890420451" stop="1729890420453" status="passed">
+      <name>testEscapeXssInUrl with data set #5</name>
+    </test-case>
+    <test-case start="1729890420454" stop="1729890420455" status="passed">
+      <name>testEscapeXssInUrl with data set #6</name>
+    </test-case>
+    <test-case start="1729890420455" stop="1729890420457" status="passed">
+      <name>testEscapeXssInUrl with data set #7</name>
+    </test-case>
+    <test-case start="1729890420457" stop="1729890420458" status="passed">
+      <name>testEscapeXssInUrl with data set #8</name>
+    </test-case>
+    <test-case start="1729890420459" stop="1729890420460" status="passed">
+      <name>testEscapeXssInUrl with data set #9</name>
+    </test-case>
+    <test-case start="1729890420460" stop="1729890420462" status="passed">
+      <name>testEscapeXssInUrl with data set #10</name>
+    </test-case>
+    <test-case start="1729890420462" stop="1729890420463" status="passed">
+      <name>testEscapeXssInUrl with data set #11</name>
+    </test-case>
+    <test-case start="1729890420464" stop="1729890420465" status="passed">
+      <name>testEscapeXssInUrl with data set #12</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

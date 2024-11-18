@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890313067" stop="1729890313070" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Block\Adminhtml\Form\Element\Address\ImageTest</name>
+  <test-cases>
+    <test-case start="1729890313068" stop="1729890313070" status="passed">
+      <name>testGetElementHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

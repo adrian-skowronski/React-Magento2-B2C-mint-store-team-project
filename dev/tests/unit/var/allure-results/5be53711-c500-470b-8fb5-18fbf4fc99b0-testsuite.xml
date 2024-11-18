@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890312033" stop="1729890312038" version="1.4.0">
+  <name>Magento\Csp\Test\Unit\Model\PolicyRendererPoolTest</name>
+  <test-cases>
+    <test-case start="1729890312033" stop="1729890312037" status="passed">
+      <name>testThrownExceptionForNotFoundPolicyRenders</name>
+    </test-case>
+    <test-case start="1729890312038" stop="1729890312038" status="passed">
+      <name>testReturningThePolicyRender</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

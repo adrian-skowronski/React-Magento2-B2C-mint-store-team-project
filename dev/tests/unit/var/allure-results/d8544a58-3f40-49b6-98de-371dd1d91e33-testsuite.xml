@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352815" stop="1729890352844" version="1.4.0">
+  <name>Magento\MediaStorage\Test\Unit\App\MediaTest</name>
+  <test-cases>
+    <test-case start="1729890352815" stop="1729890352831" status="passed">
+      <name>testProcessRequestCreatesConfigFileMediaDirectoryIsNotProvided</name>
+    </test-case>
+    <test-case start="1729890352831" stop="1729890352834" status="passed">
+      <name>testProcessRequestReturnsFileIfItsProperlySynchronized</name>
+    </test-case>
+    <test-case start="1729890352834" stop="1729890352836" status="passed">
+      <name>testProcessRequestReturnsNotFoundIfFileIsNotSynchronized</name>
+    </test-case>
+    <test-case start="1729890352836" stop="1729890352839" status="passed">
+      <name>testCatchException with data set "default mode"</name>
+    </test-case>
+    <test-case start="1729890352839" stop="1729890352841" status="passed">
+      <name>testCatchException with data set "developer mode"</name>
+    </test-case>
+    <test-case start="1729890352841" stop="1729890352844" status="passed">
+      <name>testExceptionWhenIsAllowedReturnsFalse</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

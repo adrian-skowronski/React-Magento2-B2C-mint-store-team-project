@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890405805" stop="1729890405838" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Controller\Index\RenderTest</name>
+  <test-cases>
+    <test-case start="1729890405805" stop="1729890405810" status="passed">
+      <name>testExecuteException</name>
+    </test-case>
+    <test-case start="1729890405810" stop="1729890405818" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890405819" stop="1729890405824" status="passed">
+      <name>testExecuteWithoutPermissions with data set #0</name>
+    </test-case>
+    <test-case start="1729890405825" stop="1729890405829" status="passed">
+      <name>testExecuteWithoutPermissions with data set #1</name>
+    </test-case>
+    <test-case start="1729890405830" stop="1729890405837" status="passed">
+      <name>testExecuteWithoutPermissions with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

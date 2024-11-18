@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890326206" stop="1729890326213" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\TypeLocatorTest</name>
+  <test-cases>
+    <test-case start="1729890326207" stop="1729890326211" status="passed">
+      <name>testGetType with data set #0</name>
+    </test-case>
+    <test-case start="1729890326212" stop="1729890326213" status="passed">
+      <name>testGetType with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

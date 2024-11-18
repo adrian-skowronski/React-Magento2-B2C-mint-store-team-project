@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330087" stop="1729890330121" version="1.4.0">
+  <name>Magento\GoogleAdwords\Test\Unit\Observer\SetConversionValueObserverTest</name>
+  <test-cases>
+    <test-case start="1729890330087" stop="1729890330095" status="passed">
+      <name>testSetConversionValueWhenAdwordsDisabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890330096" stop="1729890330097" status="passed">
+      <name>testSetConversionValueWhenAdwordsDisabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890330097" stop="1729890330098" status="passed">
+      <name>testSetConversionValueWhenAdwordsDisabled with data set #2</name>
+    </test-case>
+    <test-case start="1729890330099" stop="1729890330101" status="passed">
+      <name>testSetConversionValueWhenAdwordsActiveWithoutOrdersIds with data set #0</name>
+    </test-case>
+    <test-case start="1729890330101" stop="1729890330102" status="passed">
+      <name>testSetConversionValueWhenAdwordsActiveWithoutOrdersIds with data set #1</name>
+    </test-case>
+    <test-case start="1729890330103" stop="1729890330121" status="passed">
+      <name>testSetConversionValueWhenAdwordsActiveWithOrdersIds</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

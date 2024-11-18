@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352704" stop="1729890352713" version="1.4.0">
+  <name>Magento\MediaGallery\Test\Unit\Model\Asset\Command\SaveTest</name>
+  <test-cases>
+    <test-case start="1729890352705" stop="1729890352709" status="passed">
+      <name>testSuccessfulExecute</name>
+    </test-case>
+    <test-case start="1729890352709" stop="1729890352713" status="passed">
+      <name>testExceptionExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

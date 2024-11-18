@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280639" stop="1729890280651" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Observer\CategoryProcessUrlRewriteSavingObserverTest</name>
+  <test-cases>
+    <test-case start="1729890280640" stop="1729890280644" status="passed">
+      <name>testExecuteForRootDirectory</name>
+    </test-case>
+    <test-case start="1729890280644" stop="1729890280646" status="passed">
+      <name>testExecuteHasStoreId</name>
+    </test-case>
+    <test-case start="1729890280646" stop="1729890280648" status="passed">
+      <name>testExecuteHasNotChanges</name>
+    </test-case>
+    <test-case start="1729890280648" stop="1729890280651" status="passed">
+      <name>testExecuteHasChanges</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

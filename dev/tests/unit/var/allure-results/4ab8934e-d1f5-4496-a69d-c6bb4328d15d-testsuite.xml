@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890421668" stop="1729890421713" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\Validator\HTML\ConfigurableWYSIWYGValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890421669" stop="1729890421672" status="passed">
+      <name>testConfigurations with data set "no-html"</name>
+    </test-case>
+    <test-case start="1729890421673" stop="1729890421674" status="passed">
+      <name>testConfigurations with data set "allowed-tag"</name>
+    </test-case>
+    <test-case start="1729890421675" stop="1729890421676" status="passed">
+      <name>testConfigurations with data set "restricted-tag"</name>
+    </test-case>
+    <test-case start="1729890421678" stop="1729890421678" status="passed">
+      <name>testConfigurations with data set "restricted-tag-wtih-attr"</name>
+    </test-case>
+    <test-case start="1729890421680" stop="1729890421681" status="passed">
+      <name>testConfigurations with data set "allowed-tag-with-attr"</name>
+    </test-case>
+    <test-case start="1729890421682" stop="1729890421683" status="passed">
+      <name>testConfigurations with data set "multiple-tags"</name>
+    </test-case>
+    <test-case start="1729890421684" stop="1729890421685" status="passed">
+      <name>testConfigurations with data set "tags-with-attrs"</name>
+    </test-case>
+    <test-case start="1729890421686" stop="1729890421687" status="passed">
+      <name>testConfigurations with data set "tags-with-restricted-attrs"</name>
+    </test-case>
+    <test-case start="1729890421688" stop="1729890421690" status="passed">
+      <name>testConfigurations with data set "tags-with-specific-attrs"</name>
+    </test-case>
+    <test-case start="1729890421691" stop="1729890421692" status="passed">
+      <name>testConfigurations with data set "tags-with-specific-restricted-attrs"</name>
+    </test-case>
+    <test-case start="1729890421693" stop="1729890421695" status="passed">
+      <name>testConfigurations with data set "invalid-tag-with-full-config"</name>
+    </test-case>
+    <test-case start="1729890421696" stop="1729890421697" status="passed">
+      <name>testConfigurations with data set "invalid-html"</name>
+    </test-case>
+    <test-case start="1729890421698" stop="1729890421699" status="passed">
+      <name>testConfigurations with data set "invalid-html-with-violations"</name>
+    </test-case>
+    <test-case start="1729890421700" stop="1729890421701" status="passed">
+      <name>testConfigurations with data set "invalid-html-attributes"</name>
+    </test-case>
+    <test-case start="1729890421702" stop="1729890421703" status="passed">
+      <name>testConfigurations with data set "ignored-html-attributes"</name>
+    </test-case>
+    <test-case start="1729890421705" stop="1729890421706" status="passed">
+      <name>testConfigurations with data set "valid-html-attributes"</name>
+    </test-case>
+    <test-case start="1729890421707" stop="1729890421710" status="passed">
+      <name>testConfigurations with data set "invalid-allowed-tag"</name>
+    </test-case>
+    <test-case start="1729890421711" stop="1729890421712" status="passed">
+      <name>testConfigurations with data set "valid-allowed-tag"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

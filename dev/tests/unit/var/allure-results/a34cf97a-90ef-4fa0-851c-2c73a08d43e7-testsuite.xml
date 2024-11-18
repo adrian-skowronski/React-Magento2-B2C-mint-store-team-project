@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890401750" stop="1729890401764" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Controller\Result\AsyncCssPluginTest</name>
+  <test-cases>
+    <test-case start="1729890401750" stop="1729890401752" status="passed">
+      <name>testAfterRenderResult with data set #0</name>
+    </test-case>
+    <test-case start="1729890401753" stop="1729890401754" status="passed">
+      <name>testAfterRenderResult with data set #1</name>
+    </test-case>
+    <test-case start="1729890401755" stop="1729890401756" status="passed">
+      <name>testAfterRenderResult with data set #2</name>
+    </test-case>
+    <test-case start="1729890401757" stop="1729890401758" status="passed">
+      <name>testAfterRenderResult with data set #3</name>
+    </test-case>
+    <test-case start="1729890401759" stop="1729890401760" status="passed">
+      <name>testAfterRenderResult with data set #4</name>
+    </test-case>
+    <test-case start="1729890401761" stop="1729890401762" status="passed">
+      <name>testAfterRenderResult with data set #5</name>
+    </test-case>
+    <test-case start="1729890401763" stop="1729890401764" status="passed">
+      <name>testAfterRenderResultIfGetContentIsNotAString with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352157" stop="1729890352180" version="1.4.0">
+  <name>Magento\JwtFrameworkAdapter\Test\Unit\Model\JwsFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890352158" stop="1729890352168" status="passed">
+      <name>testCreate with data set "compact-arbitrary"</name>
+    </test-case>
+    <test-case start="1729890352169" stop="1729890352169" status="passed">
+      <name>testCreate with data set "compact-claims"</name>
+    </test-case>
+    <test-case start="1729890352173" stop="1729890352174" status="passed">
+      <name>testCreate with data set "compact-nested"</name>
+    </test-case>
+    <test-case start="1729890352175" stop="1729890352176" status="passed">
+      <name>testCreate with data set "json-arbitrary"</name>
+    </test-case>
+    <test-case start="1729890352176" stop="1729890352180" status="passed">
+      <name>testCreate with data set "json-claims"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

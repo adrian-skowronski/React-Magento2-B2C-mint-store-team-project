@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890371069" stop="1729890371090" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\ResourceModel\Quote\ItemTest</name>
+  <test-cases>
+    <test-case start="1729890371069" stop="1729890371072" status="passed">
+      <name>testInstanceOf</name>
+    </test-case>
+    <test-case start="1729890371072" stop="1729890371073" status="passed">
+      <name>testSaveNotModifiedItem</name>
+    </test-case>
+    <test-case start="1729890371074" stop="1729890371076" status="passed">
+      <name>testSaveSavedBeforeItem</name>
+    </test-case>
+    <test-case start="1729890371076" stop="1729890371078" status="passed">
+      <name>testSaveModifiedItem</name>
+    </test-case>
+    <test-case start="1729890371078" stop="1729890371081" status="passed">
+      <name>testSaveWithNewOption</name>
+    </test-case>
+    <test-case start="1729890371082" stop="1729890371090" status="passed">
+      <name>testSaveWithModifiedOption</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

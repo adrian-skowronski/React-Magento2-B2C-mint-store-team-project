@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890417717" stop="1729890417723" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\Di\Code\Reader\ClassReaderDecoratorTest</name>
+  <test-cases>
+    <test-case start="1729890417718" stop="1729890417720" status="passed">
+      <name>testGetConstructor with data set #0</name>
+    </test-case>
+    <test-case start="1729890417721" stop="1729890417722" status="passed">
+      <name>testGetConstructor with data set #1</name>
+    </test-case>
+    <test-case start="1729890417722" stop="1729890417723" status="passed">
+      <name>testGetParents</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

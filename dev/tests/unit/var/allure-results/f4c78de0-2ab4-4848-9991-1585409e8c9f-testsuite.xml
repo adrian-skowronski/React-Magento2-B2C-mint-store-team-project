@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890275373" stop="1729890275384" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\Plugin\AfterProductLoadTest</name>
+  <test-cases>
+    <test-case start="1729890275374" stop="1729890275384" status="passed">
+      <name>testAfterLoad</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

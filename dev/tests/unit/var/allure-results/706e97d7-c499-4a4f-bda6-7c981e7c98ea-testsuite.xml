@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361615" stop="1729890361709" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Hostedpro\RequestTest</name>
+  <test-cases>
+    <test-case start="1729890361616" stop="1729890361626" status="passed">
+      <name>testSetOrderAddresses with data set #0</name>
+    </test-case>
+    <test-case start="1729890361626" stop="1729890361628" status="passed">
+      <name>testSetOrderAddresses with data set #1</name>
+    </test-case>
+    <test-case start="1729890361629" stop="1729890361642" status="passed">
+      <name>testSetPaymentMethod</name>
+    </test-case>
+    <test-case start="1729890361642" stop="1729890361649" status="passed">
+      <name>testSetOrder</name>
+    </test-case>
+    <test-case start="1729890361650" stop="1729890361667" status="passed">
+      <name>testSetAmountWithoutTax with data set #0</name>
+    </test-case>
+    <test-case start="1729890361668" stop="1729890361682" status="passed">
+      <name>testSetAmountWithoutTax with data set #1</name>
+    </test-case>
+    <test-case start="1729890361683" stop="1729890361699" status="passed">
+      <name>testSetAmountWithoutTaxZeroSubtotal with data set #0</name>
+    </test-case>
+    <test-case start="1729890361700" stop="1729890361709" status="passed">
+      <name>testSetAmountWithIncludedTax</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

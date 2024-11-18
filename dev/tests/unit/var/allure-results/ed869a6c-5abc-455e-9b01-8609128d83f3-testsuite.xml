@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890311340" stop="1729890311347" version="1.4.0">
+  <name>Magento\Cron\Test\Unit\Console\Command\CronInstallCommandTest</name>
+  <test-cases>
+    <test-case start="1729890311340" stop="1729890311342" status="passed">
+      <name>testExecuteAlreadyInstalled</name>
+    </test-case>
+    <test-case start="1729890311343" stop="1729890311344" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+    <test-case start="1729890311344" stop="1729890311345" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890311346" stop="1729890311347" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

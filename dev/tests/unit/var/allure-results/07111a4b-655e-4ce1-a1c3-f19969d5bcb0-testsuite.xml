@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890266212" stop="1729890266245" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Model\AdminPathConfigTest</name>
+  <test-cases>
+    <test-case start="1729890266212" stop="1729890266227" status="passed">
+      <name>testGetCurrentSecureUrl</name>
+    </test-case>
+    <test-case start="1729890266228" stop="1729890266230" status="passed">
+      <name>testShouldBeSecure with data set #0</name>
+    </test-case>
+    <test-case start="1729890266231" stop="1729890266233" status="passed">
+      <name>testShouldBeSecure with data set #1</name>
+    </test-case>
+    <test-case start="1729890266235" stop="1729890266236" status="passed">
+      <name>testShouldBeSecure with data set #2</name>
+    </test-case>
+    <test-case start="1729890266236" stop="1729890266237" status="passed">
+      <name>testShouldBeSecure with data set #3</name>
+    </test-case>
+    <test-case start="1729890266238" stop="1729890266239" status="passed">
+      <name>testShouldBeSecure with data set #4</name>
+    </test-case>
+    <test-case start="1729890266240" stop="1729890266241" status="passed">
+      <name>testShouldBeSecure with data set #5</name>
+    </test-case>
+    <test-case start="1729890266242" stop="1729890266243" status="passed">
+      <name>testShouldBeSecure with data set #6</name>
+    </test-case>
+    <test-case start="1729890266244" stop="1729890266245" status="passed">
+      <name>testGetDefaultPath</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

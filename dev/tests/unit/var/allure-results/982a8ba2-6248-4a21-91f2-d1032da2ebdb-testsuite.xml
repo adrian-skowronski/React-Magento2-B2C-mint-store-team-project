@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375125" stop="1729890375132" version="1.4.0">
+  <name>Magento\Rss\Test\Unit\Model\RssTest</name>
+  <test-cases>
+    <test-case start="1729890375126" stop="1729890375128" status="passed">
+      <name>testGetFeeds</name>
+    </test-case>
+    <test-case start="1729890375129" stop="1729890375130" status="passed">
+      <name>testGetFeedsWithCache</name>
+    </test-case>
+    <test-case start="1729890375130" stop="1729890375131" status="passed">
+      <name>testCreateRssXml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

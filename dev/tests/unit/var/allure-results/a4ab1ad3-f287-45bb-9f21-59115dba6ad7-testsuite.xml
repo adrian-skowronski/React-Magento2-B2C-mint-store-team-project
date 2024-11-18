@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271492" stop="1729890271497" version="1.4.0">
+  <name>Magento\Captcha\Test\Unit\Observer\CaptchaStringResolverTest</name>
+  <test-cases>
+    <test-case start="1729890271492" stop="1729890271495" status="passed">
+      <name>testResolveWithFormIdSet</name>
+    </test-case>
+    <test-case start="1729890271495" stop="1729890271497" status="passed">
+      <name>testResolveWithNoFormIdInRequest</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

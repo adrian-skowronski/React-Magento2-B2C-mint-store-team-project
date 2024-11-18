@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890263440" stop="1729890263450" version="1.4.0">
+  <name>Magento\AsynchronousOperations\Test\Unit\Model\MessageControllerDecoratorTest</name>
+  <test-cases>
+    <test-case start="1729890263440" stop="1729890263450" status="passed">
+      <name>testLock</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

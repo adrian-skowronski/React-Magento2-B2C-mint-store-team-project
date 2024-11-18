@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890416224" stop="1729890416229" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\Customer\CustomerDataGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890416224" stop="1729890416226" status="passed">
+      <name>testEmail</name>
+    </test-case>
+    <test-case start="1729890416226" stop="1729890416227" status="passed">
+      <name>testAddressGeneration</name>
+    </test-case>
+    <test-case start="1729890416227" stop="1729890416228" status="passed">
+      <name>testCustomerGroup</name>
+    </test-case>
+    <test-case start="1729890416228" stop="1729890416229" status="passed">
+      <name>testCustomerStructure</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

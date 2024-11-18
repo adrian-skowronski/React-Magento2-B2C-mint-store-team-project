@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280478" stop="1729890280511" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Model\ProductUrlPathGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890280479" stop="1729890280482" status="passed">
+      <name>testGetUrlPath with data set "path based on url key uppercase"</name>
+    </test-case>
+    <test-case start="1729890280483" stop="1729890280485" status="passed">
+      <name>testGetUrlPath with data set "path based on url key"</name>
+    </test-case>
+    <test-case start="1729890280485" stop="1729890280487" status="passed">
+      <name>testGetUrlPath with data set "path based on product name 1"</name>
+    </test-case>
+    <test-case start="1729890280488" stop="1729890280489" status="passed">
+      <name>testGetUrlPath with data set "path based on product name 2"</name>
+    </test-case>
+    <test-case start="1729890280490" stop="1729890280492" status="passed">
+      <name>testGetUrlPath with data set "path based on product name 3"</name>
+    </test-case>
+    <test-case start="1729890280493" stop="1729890280494" status="passed">
+      <name>testGetUrlKey with data set "URL Key use default"</name>
+    </test-case>
+    <test-case start="1729890280495" stop="1729890280496" status="passed">
+      <name>testGetUrlKey with data set "URL Key empty"</name>
+    </test-case>
+    <test-case start="1729890280497" stop="1729890280499" status="passed">
+      <name>testGetUrlPathDefaultUrlKey with data set #0</name>
+    </test-case>
+    <test-case start="1729890280499" stop="1729890280501" status="passed">
+      <name>testGetUrlPathDefaultUrlKey with data set #1</name>
+    </test-case>
+    <test-case start="1729890280502" stop="1729890280503" status="passed">
+      <name>testGetUrlPathWithCategory</name>
+    </test-case>
+    <test-case start="1729890280503" stop="1729890280505" status="passed">
+      <name>testGetUrlPathWithSuffix</name>
+    </test-case>
+    <test-case start="1729890280506" stop="1729890280507" status="passed">
+      <name>testGetUrlPathWithSuffixAndCategoryAndStore</name>
+    </test-case>
+    <test-case start="1729890280508" stop="1729890280509" status="passed">
+      <name>testGetCanonicalUrlPath</name>
+    </test-case>
+    <test-case start="1729890280509" stop="1729890280511" status="passed">
+      <name>testGetCanonicalUrlPathWithCategory</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

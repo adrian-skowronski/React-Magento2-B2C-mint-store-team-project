@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890323810" stop="1729890323818" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Model\Product\TypeHandler\SampleTest</name>
+  <test-cases>
+    <test-case start="1729890323811" stop="1729890323816" status="passed">
+      <name>testSave with data set #0</name>
+    </test-case>
+    <test-case start="1729890323817" stop="1729890323818" status="passed">
+      <name>testDelete with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

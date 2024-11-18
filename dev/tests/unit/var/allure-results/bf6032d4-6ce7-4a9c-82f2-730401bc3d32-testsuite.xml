@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890379225" stop="1729890379246" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Controller\Adminhtml\Order\Invoice\CaptureTest</name>
+  <test-cases>
+    <test-case start="1729890379226" stop="1729890379232" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890379232" stop="1729890379235" status="passed">
+      <name>testExecuteNoInvoice</name>
+    </test-case>
+    <test-case start="1729890379235" stop="1729890379241" status="passed">
+      <name>testExecuteModelException</name>
+    </test-case>
+    <test-case start="1729890379241" stop="1729890379245" status="passed">
+      <name>testExecuteException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

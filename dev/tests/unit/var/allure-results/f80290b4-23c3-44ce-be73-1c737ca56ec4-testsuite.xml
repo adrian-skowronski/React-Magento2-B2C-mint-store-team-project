@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890313801" stop="1729890313812" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Controller\Account\ForgotPasswordPostTest</name>
+  <test-cases>
+    <test-case start="1729890313801" stop="1729890313804" status="passed">
+      <name>testExecuteEmptyEmail</name>
+    </test-case>
+    <test-case start="1729890313804" stop="1729890313806" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890313806" stop="1729890313809" status="passed">
+      <name>testExecuteNoSuchEntityException</name>
+    </test-case>
+    <test-case start="1729890313809" stop="1729890313812" status="passed">
+      <name>testExecuteException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

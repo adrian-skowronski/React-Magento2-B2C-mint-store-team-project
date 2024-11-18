@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462613" stop="1729890462696" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\AbstractBlockTest</name>
+  <test-cases>
+    <test-case start="1729890462614" stop="1729890462617" status="passed">
+      <name>testGetUiId with data set #0</name>
+    </test-case>
+    <test-case start="1729890462618" stop="1729890462621" status="passed">
+      <name>testGetUiId with data set #1</name>
+    </test-case>
+    <test-case start="1729890462622" stop="1729890462625" status="passed">
+      <name>testGetUiId with data set #2</name>
+    </test-case>
+    <test-case start="1729890462625" stop="1729890462627" status="passed">
+      <name>testGetUiId with data set #3</name>
+    </test-case>
+    <test-case start="1729890462628" stop="1729890462631" status="passed">
+      <name>testGetUiId with data set #4</name>
+    </test-case>
+    <test-case start="1729890462631" stop="1729890462634" status="passed">
+      <name>testGetUiId with data set #5</name>
+    </test-case>
+    <test-case start="1729890462635" stop="1729890462638" status="passed">
+      <name>testGetUiId with data set #6</name>
+    </test-case>
+    <test-case start="1729890462639" stop="1729890462642" status="passed">
+      <name>testGetUiId with data set #7</name>
+    </test-case>
+    <test-case start="1729890462643" stop="1729890462646" status="passed">
+      <name>testGetUiId with data set #8</name>
+    </test-case>
+    <test-case start="1729890462647" stop="1729890462650" status="passed">
+      <name>testGetUiId with data set #9</name>
+    </test-case>
+    <test-case start="1729890462651" stop="1729890462654" status="passed">
+      <name>testGetUiId with data set #10</name>
+    </test-case>
+    <test-case start="1729890462655" stop="1729890462660" status="passed">
+      <name>testGetVar</name>
+    </test-case>
+    <test-case start="1729890462660" stop="1729890462663" status="passed">
+      <name>testIsScopePrivate</name>
+    </test-case>
+    <test-case start="1729890462663" stop="1729890462666" status="passed">
+      <name>testGetCacheKey</name>
+    </test-case>
+    <test-case start="1729890462667" stop="1729890462669" status="passed">
+      <name>testGetCacheKeyByName</name>
+    </test-case>
+    <test-case start="1729890462669" stop="1729890462672" status="passed">
+      <name>testToHtmlWhenModuleIsDisabled</name>
+    </test-case>
+    <test-case start="1729890462673" stop="1729890462677" status="passed">
+      <name>testGetCacheLifetimeViaToHtml with data set #0</name>
+    </test-case>
+    <test-case start="1729890462677" stop="1729890462680" status="passed">
+      <name>testGetCacheLifetimeViaToHtml with data set #1</name>
+    </test-case>
+    <test-case start="1729890462681" stop="1729890462684" status="passed">
+      <name>testGetCacheLifetimeViaToHtml with data set #2</name>
+    </test-case>
+    <test-case start="1729890462684" stop="1729890462688" status="passed">
+      <name>testGetCacheLifetimeViaToHtml with data set #3</name>
+    </test-case>
+    <test-case start="1729890462689" stop="1729890462693" status="passed">
+      <name>testGetCacheLifetimeViaToHtml with data set #4</name>
+    </test-case>
+    <test-case start="1729890462693" stop="1729890462696" status="passed">
+      <name>testExtractModuleName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

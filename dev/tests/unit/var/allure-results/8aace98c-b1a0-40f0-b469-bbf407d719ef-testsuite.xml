@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393547" stop="1729890393566" version="1.4.0">
+  <name>Magento\Sitemap\Test\Unit\Controller\Adminhtml\Sitemap\SaveTest</name>
+  <test-cases>
+    <test-case start="1729890393547" stop="1729890393559" status="passed">
+      <name>testSaveEmptyDataShouldRedirectToDefault</name>
+    </test-case>
+    <test-case start="1729890393559" stop="1729890393562" status="passed">
+      <name>testTryToSaveInvalidDataShouldFailWithErrors</name>
+    </test-case>
+    <test-case start="1729890393562" stop="1729890393565" status="passed">
+      <name>testTryToSaveInvalidFileNameShouldFailWithErrors</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

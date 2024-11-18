@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418606" stop="1729890418608" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\SetupFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890418606" stop="1729890418607" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890418607" stop="1729890418608" status="passed">
+      <name>testCreateWithParam</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

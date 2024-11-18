@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404765" stop="1729890404771" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\Form\Element\RadioSetTest</name>
+  <test-cases>
+    <test-case start="1729890404765" stop="1729890404766" status="passed">
+      <name>testGetComponentName</name>
+    </test-case>
+    <test-case start="1729890404766" stop="1729890404767" status="passed">
+      <name>testGetHtmlId</name>
+    </test-case>
+    <test-case start="1729890404767" stop="1729890404768" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+    <test-case start="1729890404768" stop="1729890404769" status="passed">
+      <name>testGetFormInputName</name>
+    </test-case>
+    <test-case start="1729890404770" stop="1729890404770" status="passed">
+      <name>testIsReadonly</name>
+    </test-case>
+    <test-case start="1729890404771" stop="1729890404771" status="passed">
+      <name>testGetCssClasses</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

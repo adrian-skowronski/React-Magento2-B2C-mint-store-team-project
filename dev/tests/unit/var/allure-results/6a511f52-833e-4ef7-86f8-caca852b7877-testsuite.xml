@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890298541" stop="1729890298569" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest</name>
+  <test-cases>
+    <test-case start="1729890298541" stop="1729890298553" status="passed">
+      <name>testSaveAddressInformationIfCartIsEmpty</name>
+    </test-case>
+    <test-case start="1729890298553" stop="1729890298555" status="passed">
+      <name>testSaveAddressInformationIfShippingAddressNotSet</name>
+    </test-case>
+    <test-case start="1729890298555" stop="1729890298559" status="broken">
+      <name>testSaveAddressInformationWithLocalizedException</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtension". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-checkout/Test/Unit/Model/ShippingInformationManagementTest.php(635): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-checkout/Test/Unit/Model/ShippingInformationManagementTest.php(243): Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest-&gt;getCartExtensionMock()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-checkout/Test/Unit/Model/ShippingInformationManagementTest.php(362): Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest-&gt;setShippingAssignmentsMocks()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest-&gt;testSaveAddressInformationWithLocalizedException()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#14 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890298560" stop="1729890298562" status="broken">
+      <name>testSaveAddressInformationIfCanNotSaveQuote</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtension". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-checkout/Test/Unit/Model/ShippingInformationManagementTest.php(635): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-checkout/Test/Unit/Model/ShippingInformationManagementTest.php(243): Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest-&gt;getCartExtensionMock()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-checkout/Test/Unit/Model/ShippingInformationManagementTest.php(428): Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest-&gt;setShippingAssignmentsMocks()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest-&gt;testSaveAddressInformationIfCanNotSaveQuote()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#14 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890298563" stop="1729890298566" status="broken">
+      <name>testSaveAddressInformationIfCarrierCodeIsInvalid</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtension". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-checkout/Test/Unit/Model/ShippingInformationManagementTest.php(635): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-checkout/Test/Unit/Model/ShippingInformationManagementTest.php(243): Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest-&gt;getCartExtensionMock()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-checkout/Test/Unit/Model/ShippingInformationManagementTest.php(491): Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest-&gt;setShippingAssignmentsMocks()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest-&gt;testSaveAddressInformationIfCarrierCodeIsInvalid()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#14 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890298566" stop="1729890298569" status="broken">
+      <name>testSaveAddressInformation</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtension". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-checkout/Test/Unit/Model/ShippingInformationManagementTest.php(635): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-checkout/Test/Unit/Model/ShippingInformationManagementTest.php(243): Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest-&gt;getCartExtensionMock()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-checkout/Test/Unit/Model/ShippingInformationManagementTest.php(566): Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest-&gt;setShippingAssignmentsMocks()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Checkout\Test\Unit\Model\ShippingInformationManagementTest-&gt;testSaveAddressInformation()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#14 {main}</stack-trace>
+      </failure>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890429710" stop="1729890429724" version="1.4.0">
+  <name>Magento\Framework\Cache\Test\Unit\Frontend\Decorator\ProfilerTest</name>
+  <test-cases>
+    <test-case start="1729890429711" stop="1729890429714" status="passed">
+      <name>testProxyMethod with data set #0</name>
+    </test-case>
+    <test-case start="1729890429715" stop="1729890429716" status="passed">
+      <name>testProxyMethod with data set #1</name>
+    </test-case>
+    <test-case start="1729890429717" stop="1729890429718" status="passed">
+      <name>testProxyMethod with data set #2</name>
+    </test-case>
+    <test-case start="1729890429719" stop="1729890429721" status="passed">
+      <name>testProxyMethod with data set #3</name>
+    </test-case>
+    <test-case start="1729890429722" stop="1729890429724" status="passed">
+      <name>testProxyMethod with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

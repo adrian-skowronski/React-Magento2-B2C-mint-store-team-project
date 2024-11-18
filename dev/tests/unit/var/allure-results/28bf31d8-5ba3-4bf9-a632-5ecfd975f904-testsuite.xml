@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890278305" stop="1729890278311" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Plugin\Indexer\CustomerGroupTest</name>
+  <test-cases>
+    <test-case start="1729890278305" stop="1729890278310" status="passed">
+      <name>testAfterDelete</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

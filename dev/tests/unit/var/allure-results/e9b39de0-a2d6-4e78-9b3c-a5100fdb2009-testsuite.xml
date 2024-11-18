@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328534" stop="1729890328537" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Block\Adminhtml\Template\Render\TypeTest</name>
+  <test-cases>
+    <test-case start="1729890328534" stop="1729890328535" status="passed">
+      <name>testRenderWithSupportedTemplateTextType</name>
+    </test-case>
+    <test-case start="1729890328535" stop="1729890328536" status="passed">
+      <name>testRenderWithSupportedTemplateHtmlType</name>
+    </test-case>
+    <test-case start="1729890328536" stop="1729890328537" status="passed">
+      <name>testRenderWithUnsupportedTemplateType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

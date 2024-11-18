@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450971" stop="1729890450979" version="1.4.0">
+  <name>Magento\Framework\Jwt\Test\Unit\Jws\JwsSignatureJwksTest</name>
+  <test-cases>
+    <test-case start="1729890450972" stop="1729890450973" status="passed">
+      <name>testConstruct with data set "valid-jwk"</name>
+    </test-case>
+    <test-case start="1729890450974" stop="1729890450974" status="passed">
+      <name>testConstruct with data set "valid-jwks"</name>
+    </test-case>
+    <test-case start="1729890450975" stop="1729890450976" status="passed">
+      <name>testConstruct with data set "invalid-jwk"</name>
+    </test-case>
+    <test-case start="1729890450976" stop="1729890450977" status="passed">
+      <name>testConstruct with data set "invalid-jwks"</name>
+    </test-case>
+    <test-case start="1729890450977" stop="1729890450978" status="passed">
+      <name>testGetAlgorithmName with data set "one-algo"</name>
+    </test-case>
+    <test-case start="1729890450979" stop="1729890450979" status="passed">
+      <name>testGetAlgorithmName with data set "json"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

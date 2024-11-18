@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890365768" stop="1729890365795" version="1.4.0">
+  <name>Magento\QuoteGraphQl\Test\Unit\Model\Resolver\CartPricesTest</name>
+  <test-cases>
+    <test-case start="1729890365769" stop="1729890365793" status="passed">
+      <name>testResolveWithoutModelInValueParameter</name>
+    </test-case>
+    <test-case start="1729890365793" stop="1729890365795" status="passed">
+      <name>testResolve</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890389301" stop="1729890389366" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\ResourceModel\Order\Handler\StateTest</name>
+  <test-cases>
+    <test-case start="1729890389303" stop="1729890389307" status="passed">
+      <name>testCheck with data set "processing - !canCreditmemo!canShip -&gt; closed"</name>
+    </test-case>
+    <test-case start="1729890389309" stop="1729890389311" status="passed">
+      <name>testCheck with data set "complete - !canCreditmemo,!canShip -&gt; closed"</name>
+    </test-case>
+    <test-case start="1729890389313" stop="1729890389315" status="passed">
+      <name>testCheck with data set "processing - !canCreditmemo,canShip -&gt; processing"</name>
+    </test-case>
+    <test-case start="1729890389317" stop="1729890389319" status="passed">
+      <name>testCheck with data set "complete - !canCreditmemo,canShip -&gt; complete"</name>
+    </test-case>
+    <test-case start="1729890389320" stop="1729890389323" status="passed">
+      <name>testCheck with data set "processing - canCreditmemo,!canShip -&gt; complete"</name>
+    </test-case>
+    <test-case start="1729890389325" stop="1729890389327" status="passed">
+      <name>testCheck with data set "complete - canCreditmemo,!canShip -&gt; complete"</name>
+    </test-case>
+    <test-case start="1729890389328" stop="1729890389330" status="passed">
+      <name>testCheck with data set "processing - canCreditmemo, canShip -&gt; processing"</name>
+    </test-case>
+    <test-case start="1729890389332" stop="1729890389334" status="passed">
+      <name>testCheck with data set "complete - canCreditmemo, canShip -&gt; complete"</name>
+    </test-case>
+    <test-case start="1729890389337" stop="1729890389339" status="passed">
+      <name>testCheck with data set "new - canCreditmemo, canShip, IsInProcess -&gt; processing"</name>
+    </test-case>
+    <test-case start="1729890389340" stop="1729890389343" status="passed">
+      <name>testCheck with data set "new - canCreditmemo, !canShip, IsInProcess -&gt; processing"</name>
+    </test-case>
+    <test-case start="1729890389344" stop="1729890389347" status="passed">
+      <name>testCheck with data set "new - canCreditmemo, canShip, !IsInProcess -&gt; new"</name>
+    </test-case>
+    <test-case start="1729890389348" stop="1729890389350" status="passed">
+      <name>testCheck with data set "hold - canUnhold -&gt; hold"</name>
+    </test-case>
+    <test-case start="1729890389351" stop="1729890389354" status="passed">
+      <name>testCheck with data set "payment_review - canUnhold -&gt; payment_review"</name>
+    </test-case>
+    <test-case start="1729890389355" stop="1729890389357" status="passed">
+      <name>testCheck with data set "pending_payment - canUnhold -&gt; pending_payment"</name>
+    </test-case>
+    <test-case start="1729890389360" stop="1729890389362" status="passed">
+      <name>testCheck with data set "cancelled - isCanceled -&gt; cancelled"</name>
+    </test-case>
+    <test-case start="1729890389363" stop="1729890389366" status="passed">
+      <name>testCheck with data set "processing - !canCreditmemo!canShip -&gt; complete(virtual product)"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

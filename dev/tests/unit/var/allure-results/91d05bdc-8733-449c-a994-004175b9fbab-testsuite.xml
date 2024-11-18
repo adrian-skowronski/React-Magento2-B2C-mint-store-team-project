@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890350165" stop="1729890350203" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Model\OauthServiceTest</name>
+  <test-cases>
+    <test-case start="1729890350165" stop="1729890350174" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890350174" stop="1729890350176" status="passed">
+      <name>testDeleteException</name>
+    </test-case>
+    <test-case start="1729890350177" stop="1729890350180" status="passed">
+      <name>testCreateAccessTokenAndClearExisting</name>
+    </test-case>
+    <test-case start="1729890350180" stop="1729890350182" status="passed">
+      <name>testCreateAccessTokenWithoutClearingExisting</name>
+    </test-case>
+    <test-case start="1729890350182" stop="1729890350184" status="passed">
+      <name>testCreateAccessTokenInvalidConsumerId</name>
+    </test-case>
+    <test-case start="1729890350185" stop="1729890350187" status="passed">
+      <name>testLoadConsumer</name>
+    </test-case>
+    <test-case start="1729890350187" stop="1729890350189" status="passed">
+      <name>testLoadConsumerException</name>
+    </test-case>
+    <test-case start="1729890350189" stop="1729890350191" status="passed">
+      <name>testLoadConsumerByKey</name>
+    </test-case>
+    <test-case start="1729890350191" stop="1729890350193" status="passed">
+      <name>testLoadConsumerByKeyException</name>
+    </test-case>
+    <test-case start="1729890350193" stop="1729890350196" status="passed">
+      <name>testDeleteToken</name>
+    </test-case>
+    <test-case start="1729890350196" stop="1729890350198" status="passed">
+      <name>testDeleteTokenNegative</name>
+    </test-case>
+    <test-case start="1729890350199" stop="1729890350201" status="passed">
+      <name>testGetAccessTokenNoAccess</name>
+    </test-case>
+    <test-case start="1729890350201" stop="1729890350203" status="passed">
+      <name>testGetAccessSuccess</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

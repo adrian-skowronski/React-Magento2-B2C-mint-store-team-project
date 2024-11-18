@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890420755" stop="1729890420762" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\PhraseTest</name>
+  <test-cases>
+    <test-case start="1729890420756" stop="1729890420756" status="passed">
+      <name>testRendering</name>
+    </test-case>
+    <test-case start="1729890420757" stop="1729890420757" status="passed">
+      <name>testDefersRendering</name>
+    </test-case>
+    <test-case start="1729890420758" stop="1729890420758" status="passed">
+      <name>testThatToStringIsAliasToRender</name>
+    </test-case>
+    <test-case start="1729890420759" stop="1729890420759" status="passed">
+      <name>testGetText</name>
+    </test-case>
+    <test-case start="1729890420760" stop="1729890420760" status="passed">
+      <name>testGetArguments</name>
+    </test-case>
+    <test-case start="1729890420760" stop="1729890420761" status="passed">
+      <name>testToStringWithExceptionOnRender</name>
+    </test-case>
+    <test-case start="1729890420761" stop="1729890420762" status="passed">
+      <name>testDefaultRenderer</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890258213" stop="1729890258222" version="1.4.0">
+  <name>Magento\AdobeIms\Test\Unit\Model\GetImageTest</name>
+  <test-cases>
+    <test-case start="1729890258214" stop="1729890258219" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890258220" stop="1729890258222" status="passed">
+      <name>testGetImageWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

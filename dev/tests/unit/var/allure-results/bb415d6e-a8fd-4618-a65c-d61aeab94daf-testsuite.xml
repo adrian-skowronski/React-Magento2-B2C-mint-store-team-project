@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452828" stop="1729890452837" version="1.4.0">
+  <name>Magento\Framework\Module\Test\Unit\ModuleListTest</name>
+  <test-cases>
+    <test-case start="1729890452829" stop="1729890452830" status="passed">
+      <name>testGetAll</name>
+    </test-case>
+    <test-case start="1729890452830" stop="1729890452831" status="passed">
+      <name>testGetAllNoData</name>
+    </test-case>
+    <test-case start="1729890452831" stop="1729890452832" status="passed">
+      <name>testGetOne</name>
+    </test-case>
+    <test-case start="1729890452833" stop="1729890452833" status="passed">
+      <name>testGetNames</name>
+    </test-case>
+    <test-case start="1729890452834" stop="1729890452835" status="passed">
+      <name>testHas</name>
+    </test-case>
+    <test-case start="1729890452835" stop="1729890452836" status="passed">
+      <name>testIsModuleInfoAvailable</name>
+    </test-case>
+    <test-case start="1729890452836" stop="1729890452837" status="passed">
+      <name>testIsModuleInfoAvailableNoConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890396598" stop="1729890396726" version="1.4.0">
+  <name>Magento\Swatches\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890396598" stop="1729890396608" status="passed">
+      <name>testAssembleAdditionalDataEavAttribute with data set #0</name>
+    </test-case>
+    <test-case start="1729890396609" stop="1729890396611" status="passed">
+      <name>testAssembleAdditionalDataEavAttribute with data set #1</name>
+    </test-case>
+    <test-case start="1729890396611" stop="1729890396621" status="passed">
+      <name>testLoadFirstVariationWithSwatchImage with data set #0</name>
+    </test-case>
+    <test-case start="1729890396622" stop="1729890396629" status="passed">
+      <name>testLoadFirstVariationWithSwatchImage with data set #1</name>
+    </test-case>
+    <test-case start="1729890396630" stop="1729890396639" status="passed">
+      <name>testLoadVariationByFallback</name>
+    </test-case>
+    <test-case start="1729890396639" stop="1729890396648" status="passed">
+      <name>testLoadFirstVariationWithImage with data set #0</name>
+    </test-case>
+    <test-case start="1729890396648" stop="1729890396655" status="passed">
+      <name>testLoadFirstVariationWithImage with data set #1</name>
+    </test-case>
+    <test-case start="1729890396656" stop="1729890396658" status="passed">
+      <name>testLoadFirstVariationWithImageNoProduct</name>
+    </test-case>
+    <test-case start="1729890396658" stop="1729890396660" status="passed">
+      <name>testLoadVariationByFallbackWithoutProduct</name>
+    </test-case>
+    <test-case start="1729890396661" stop="1729890396668" status="passed">
+      <name>testGetProductMediaGallery with data set #0</name>
+    </test-case>
+    <test-case start="1729890396668" stop="1729890396674" status="passed">
+      <name>testGetProductMediaGallery with data set #1</name>
+    </test-case>
+    <test-case start="1729890396675" stop="1729890396678" status="passed">
+      <name>testGetProductMediaGallery with data set #2</name>
+    </test-case>
+    <test-case start="1729890396678" stop="1729890396682" status="passed">
+      <name>testGetSwatchAttributesAsArray with data set #0</name>
+    </test-case>
+    <test-case start="1729890396682" stop="1729890396686" status="passed">
+      <name>testGetSwatchAttributesAsArray with data set #1</name>
+    </test-case>
+    <test-case start="1729890396686" stop="1729890396712" status="passed">
+      <name>testGetSwatchesByOptionsIdIf1</name>
+    </test-case>
+    <test-case start="1729890396712" stop="1729890396717" status="passed">
+      <name>testGetSwatchesByOptionsIdIf2</name>
+    </test-case>
+    <test-case start="1729890396718" stop="1729890396722" status="passed">
+      <name>testGetSwatchesByOptionsIdIf3</name>
+    </test-case>
+    <test-case start="1729890396722" stop="1729890396726" status="passed">
+      <name>testIsProductHasSwatch</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

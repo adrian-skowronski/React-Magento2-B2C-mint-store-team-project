@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325206" stop="1729890325218" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\Attribute\Backend\ArrayBackendTest</name>
+  <test-cases>
+    <test-case start="1729890325207" stop="1729890325209" status="passed">
+      <name>testValidate with data set #0</name>
+    </test-case>
+    <test-case start="1729890325210" stop="1729890325211" status="passed">
+      <name>testValidate with data set #1</name>
+    </test-case>
+    <test-case start="1729890325212" stop="1729890325213" status="passed">
+      <name>testValidate with data set #2</name>
+    </test-case>
+    <test-case start="1729890325213" stop="1729890325214" status="passed">
+      <name>testValidate with data set #3</name>
+    </test-case>
+    <test-case start="1729890325215" stop="1729890325216" status="passed">
+      <name>testBeforeSave with data set #0</name>
+    </test-case>
+    <test-case start="1729890325216" stop="1729890325217" status="passed">
+      <name>testBeforeSave with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

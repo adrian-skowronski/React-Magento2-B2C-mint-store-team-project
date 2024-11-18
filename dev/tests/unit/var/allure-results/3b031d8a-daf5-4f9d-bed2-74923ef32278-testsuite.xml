@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890364902" stop="1729890364907" version="1.4.0">
+  <name>Magento\ProductAlert\Test\Unit\Block\Product\ViewTest</name>
+  <test-cases>
+    <test-case start="1729890364903" stop="1729890364907" status="passed">
+      <name>testGetPostAction</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

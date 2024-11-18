@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325462" stop="1729890325498" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\Attribute\Source\TableTest</name>
+  <test-cases>
+    <test-case start="1729890325462" stop="1729890325466" status="passed">
+      <name>testGetFlatColumns</name>
+    </test-case>
+    <test-case start="1729890325467" stop="1729890325469" status="passed">
+      <name>testGetSpecificOptions with data set #0</name>
+    </test-case>
+    <test-case start="1729890325470" stop="1729890325472" status="passed">
+      <name>testGetSpecificOptions with data set #1</name>
+    </test-case>
+    <test-case start="1729890325473" stop="1729890325475" status="passed">
+      <name>testGetOptionText with data set #0</name>
+    </test-case>
+    <test-case start="1729890325476" stop="1729890325478" status="passed">
+      <name>testGetOptionText with data set #1</name>
+    </test-case>
+    <test-case start="1729890325479" stop="1729890325481" status="passed">
+      <name>testGetOptionText with data set #2</name>
+    </test-case>
+    <test-case start="1729890325481" stop="1729890325488" status="passed">
+      <name>testAddValueSortToCollection</name>
+    </test-case>
+    <test-case start="1729890325489" stop="1729890325491" status="passed">
+      <name>testGetAllOptions with data set #0</name>
+    </test-case>
+    <test-case start="1729890325491" stop="1729890325494" status="passed">
+      <name>testGetAllOptions with data set #1</name>
+    </test-case>
+    <test-case start="1729890325495" stop="1729890325497" status="passed">
+      <name>testGetAllOptions with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

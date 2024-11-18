@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463165" stop="1729890463187" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\UiComponent\ContextTest</name>
+  <test-cases>
+    <test-case start="1729890463165" stop="1729890463170" status="passed">
+      <name>testAddButtonWithoutAclResource</name>
+    </test-case>
+    <test-case start="1729890463171" stop="1729890463172" status="passed">
+      <name>testAddButtonWithAclResourceAllowed</name>
+    </test-case>
+    <test-case start="1729890463172" stop="1729890463173" status="passed">
+      <name>testAddButtonWithAclResourceDenied</name>
+    </test-case>
+    <test-case start="1729890463174" stop="1729890463176" status="passed">
+      <name>testAddComponentDefinition with data set #0</name>
+    </test-case>
+    <test-case start="1729890463177" stop="1729890463178" status="passed">
+      <name>testGetAcceptType with data set #0</name>
+    </test-case>
+    <test-case start="1729890463178" stop="1729890463180" status="passed">
+      <name>testGetAcceptType with data set #1</name>
+    </test-case>
+    <test-case start="1729890463180" stop="1729890463181" status="passed">
+      <name>testGetAcceptType with data set #2</name>
+    </test-case>
+    <test-case start="1729890463182" stop="1729890463184" status="passed">
+      <name>testGetAcceptType with data set #3</name>
+    </test-case>
+    <test-case start="1729890463184" stop="1729890463185" status="passed">
+      <name>testGetAcceptType with data set #4</name>
+    </test-case>
+    <test-case start="1729890463186" stop="1729890463187" status="passed">
+      <name>testGetAcceptType with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

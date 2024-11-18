@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450603" stop="1729890450604" version="1.4.0">
+  <name>Magento\Framework\Indexer\Test\Unit\IndexerRegistryTest</name>
+  <test-cases>
+    <test-case start="1729890450603" stop="1729890450604" status="passed">
+      <name>testGetCreatesIndexerInstancesAndReusesExistingOnes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

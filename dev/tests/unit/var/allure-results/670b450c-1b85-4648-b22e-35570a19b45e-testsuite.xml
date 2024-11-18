@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406209" stop="1729890406332" version="1.4.0">
+  <name>Magento\Ups\Test\Unit\Model\CarrierTest</name>
+  <test-cases>
+    <test-case start="1729890406209" stop="1729890406214" status="passed">
+      <name>testGetMethodPrice with data set #0</name>
+    </test-case>
+    <test-case start="1729890406215" stop="1729890406217" status="passed">
+      <name>testGetMethodPrice with data set #1</name>
+    </test-case>
+    <test-case start="1729890406218" stop="1729890406220" status="passed">
+      <name>testGetMethodPrice with data set #2</name>
+    </test-case>
+    <test-case start="1729890406221" stop="1729890406223" status="passed">
+      <name>testGetMethodPrice with data set #3</name>
+    </test-case>
+    <test-case start="1729890406224" stop="1729890406226" status="passed">
+      <name>testGetMethodPrice with data set #4</name>
+    </test-case>
+    <test-case start="1729890406227" stop="1729890406229" status="passed">
+      <name>testGetMethodPrice with data set #5</name>
+    </test-case>
+    <test-case start="1729890406230" stop="1729890406232" status="passed">
+      <name>testGetMethodPrice with data set #6</name>
+    </test-case>
+    <test-case start="1729890406233" stop="1729890406235" status="passed">
+      <name>testGetMethodPrice with data set #7</name>
+    </test-case>
+    <test-case start="1729890406236" stop="1729890406237" status="passed">
+      <name>testGetMethodPrice with data set #8</name>
+    </test-case>
+    <test-case start="1729890406238" stop="1729890406241" status="passed">
+      <name>testGetMethodPrice with data set #9</name>
+    </test-case>
+    <test-case start="1729890406242" stop="1729890406244" status="passed">
+      <name>testGetMethodPrice with data set #10</name>
+    </test-case>
+    <test-case start="1729890406245" stop="1729890406248" status="passed">
+      <name>testGetMethodPrice with data set #11</name>
+    </test-case>
+    <test-case start="1729890406248" stop="1729890406250" status="passed">
+      <name>testGetMethodPrice with data set #12</name>
+    </test-case>
+    <test-case start="1729890406251" stop="1729890406253" status="passed">
+      <name>testGetMethodPrice with data set #13</name>
+    </test-case>
+    <test-case start="1729890406254" stop="1729890406256" status="passed">
+      <name>testGetMethodPrice with data set #14</name>
+    </test-case>
+    <test-case start="1729890406256" stop="1729890406259" status="passed">
+      <name>testGetMethodPrice with data set #15</name>
+    </test-case>
+    <test-case start="1729890406259" stop="1729890406262" status="passed">
+      <name>testGetMethodPrice with data set #16</name>
+    </test-case>
+    <test-case start="1729890406263" stop="1729890406266" status="passed">
+      <name>testGetMethodPrice with data set #17</name>
+    </test-case>
+    <test-case start="1729890406267" stop="1729890406268" status="passed">
+      <name>testGetMethodPrice with data set #18</name>
+    </test-case>
+    <test-case start="1729890406269" stop="1729890406271" status="passed">
+      <name>testGetMethodPrice with data set #19</name>
+    </test-case>
+    <test-case start="1729890406271" stop="1729890406273" status="passed">
+      <name>testGetMethodPrice with data set #20</name>
+    </test-case>
+    <test-case start="1729890406274" stop="1729890406276" status="passed">
+      <name>testGetMethodPrice with data set #21</name>
+    </test-case>
+    <test-case start="1729890406276" stop="1729890406278" status="passed">
+      <name>testGetMethodPrice with data set #22</name>
+    </test-case>
+    <test-case start="1729890406279" stop="1729890406281" status="passed">
+      <name>testGetMethodPrice with data set #23</name>
+    </test-case>
+    <test-case start="1729890406281" stop="1729890406283" status="passed">
+      <name>testCollectRatesErrorMessage</name>
+    </test-case>
+    <test-case start="1729890406284" stop="1729890406286" status="passed">
+      <name>testFilterDebugData with data set #0</name>
+    </test-case>
+    <test-case start="1729890406286" stop="1729890406289" status="passed">
+      <name>testFilterDebugData with data set #1</name>
+    </test-case>
+    <test-case start="1729890406289" stop="1729890406292" status="passed">
+      <name>testSetRequest with data set #0</name>
+    </test-case>
+    <test-case start="1729890406292" stop="1729890406296" status="passed">
+      <name>testSetRequest with data set #1</name>
+    </test-case>
+    <test-case start="1729890406296" stop="1729890406299" status="passed">
+      <name>testSetRequest with data set #2</name>
+    </test-case>
+    <test-case start="1729890406300" stop="1729890406314" status="passed">
+      <name>testRequestToShipment with data set #0</name>
+    </test-case>
+    <test-case start="1729890406315" stop="1729890406318" status="passed">
+      <name>testRequestToShipment with data set #1</name>
+    </test-case>
+    <test-case start="1729890406319" stop="1729890406322" status="passed">
+      <name>testRequestToShipment with data set #2</name>
+    </test-case>
+    <test-case start="1729890406323" stop="1729890406325" status="passed">
+      <name>testGetAllowedMethods with data set #0</name>
+    </test-case>
+    <test-case start="1729890406326" stop="1729890406328" status="passed">
+      <name>testGetAllowedMethods with data set #1</name>
+    </test-case>
+    <test-case start="1729890406329" stop="1729890406331" status="passed">
+      <name>testGetAllowedMethods with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

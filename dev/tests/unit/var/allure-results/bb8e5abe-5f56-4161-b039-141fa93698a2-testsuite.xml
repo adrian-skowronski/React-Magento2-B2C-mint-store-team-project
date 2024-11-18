@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890365191" stop="1729890365212" version="1.4.0">
+  <name>Magento\ProductVideo\Test\Unit\Block\Product\View\GalleryTest</name>
+  <test-cases>
+    <test-case start="1729890365191" stop="1729890365206" status="passed">
+      <name>testGetMediaGalleryDataJson</name>
+    </test-case>
+    <test-case start="1729890365206" stop="1729890365209" status="passed">
+      <name>testGetMediaEmptyGalleryDataJson</name>
+    </test-case>
+    <test-case start="1729890365210" stop="1729890365212" status="passed">
+      <name>testGetVideoSettingsJson</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890396139" stop="1729890396163" version="1.4.0">
+  <name>Magento\Swatches\Test\Unit\Block\Adminhtml\Attribute\Edit\Options\AbstractSwatchTest</name>
+  <test-cases>
+    <test-case start="1729890396139" stop="1729890396154" status="passed">
+      <name>testGetStoreOptionValues with data set #0</name>
+    </test-case>
+    <test-case start="1729890396154" stop="1729890396163" status="passed">
+      <name>testGetStoreOptionValues with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

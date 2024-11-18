@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393669" stop="1729890393676" version="1.4.0">
+  <name>Magento\Sitemap\Test\Unit\Model\ItemProvider\ProductTest</name>
+  <test-cases>
+    <test-case start="1729890393670" stop="1729890393673" status="passed">
+      <name>testGetItemsEmpty</name>
+    </test-case>
+    <test-case start="1729890393674" stop="1729890393675" status="passed">
+      <name>testGetItems with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

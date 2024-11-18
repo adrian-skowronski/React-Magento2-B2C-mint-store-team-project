@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284797" stop="1729890284802" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Api\SearchCriteria\CollectionProcessor\FilterProcessor\ProductCategoryFilterTest</name>
+  <test-cases>
+    <test-case start="1729890284797" stop="1729890284800" status="passed">
+      <name>testApply</name>
+    </test-case>
+    <test-case start="1729890284801" stop="1729890284802" status="passed">
+      <name>testApplyWithoutCondition</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

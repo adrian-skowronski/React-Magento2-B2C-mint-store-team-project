@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890261128" stop="1729890261147" version="1.4.0">
+  <name>Magento\AdvancedPricingImportExport\Test\Unit\Model\Import\AdvancedPricing\Validator\WebsiteTest</name>
+  <test-cases>
+    <test-case start="1729890261128" stop="1729890261132" status="passed">
+      <name>testInit</name>
+    </test-case>
+    <test-case start="1729890261133" stop="1729890261134" status="passed">
+      <name>testIsValidReturn with data set #0</name>
+    </test-case>
+    <test-case start="1729890261135" stop="1729890261136" status="passed">
+      <name>testIsValidReturn with data set #1</name>
+    </test-case>
+    <test-case start="1729890261137" stop="1729890261138" status="passed">
+      <name>testIsValidReturn with data set #2</name>
+    </test-case>
+    <test-case start="1729890261139" stop="1729890261140" status="passed">
+      <name>testIsValidReturn with data set #3</name>
+    </test-case>
+    <test-case start="1729890261141" stop="1729890261142" status="passed">
+      <name>testIsValidReturn with data set #4</name>
+    </test-case>
+    <test-case start="1729890261143" stop="1729890261144" status="passed">
+      <name>testIsValidReturn with data set #5</name>
+    </test-case>
+    <test-case start="1729890261144" stop="1729890261145" status="passed">
+      <name>testIsValidReturnAddMessagesCall</name>
+    </test-case>
+    <test-case start="1729890261145" stop="1729890261147" status="passed">
+      <name>testGetAllWebsitesValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

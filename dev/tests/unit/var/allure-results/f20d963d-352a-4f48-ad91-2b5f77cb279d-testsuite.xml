@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890424724" stop="1729890424768" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\DeploymentConfig\Writer\PhpFormatterTest</name>
+  <test-cases>
+    <test-case start="1729890424725" stop="1729890424747" status="passed">
+      <name>testFormat with data set #0</name>
+    </test-case>
+    <test-case start="1729890424749" stop="1729890424751" status="passed">
+      <name>testFormat with data set #1</name>
+    </test-case>
+    <test-case start="1729890424753" stop="1729890424755" status="passed">
+      <name>testFormat with data set #2</name>
+    </test-case>
+    <test-case start="1729890424757" stop="1729890424763" status="passed">
+      <name>testFormat with data set #3</name>
+    </test-case>
+    <test-case start="1729890424765" stop="1729890424767" status="passed">
+      <name>testFormat with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

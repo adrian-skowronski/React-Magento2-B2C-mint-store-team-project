@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395034" stop="1729890395044" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest</name>
+  <test-cases>
+    <test-case start="1729890395035" stop="1729890395038" status="passed">
+      <name>testBeforeDispatchNoSuchEntity</name>
+    </test-case>
+    <test-case start="1729890395038" stop="1729890395040" status="passed">
+      <name>testBeforeDispatchStoreIsInactive</name>
+    </test-case>
+    <test-case start="1729890395040" stop="1729890395042" status="passed">
+      <name>testBeforeDispatchInvalidArgument</name>
+    </test-case>
+    <test-case start="1729890395042" stop="1729890395043" status="passed">
+      <name>testBeforeDispatchNoStoreCookie</name>
+    </test-case>
+    <test-case start="1729890395043" stop="1729890395044" status="passed">
+      <name>testBeforeDispatchWithStoreRequestParam</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

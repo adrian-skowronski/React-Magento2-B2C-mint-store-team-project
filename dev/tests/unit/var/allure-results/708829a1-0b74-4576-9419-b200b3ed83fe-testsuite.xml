@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890326965" stop="1729890326970" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Adapter\Document\BuilderTest</name>
+  <test-cases>
+    <test-case start="1729890326965" stop="1729890326965" status="passed">
+      <name>testBuildWithSimpleField</name>
+    </test-case>
+    <test-case start="1729890326966" stop="1729890326966" status="passed">
+      <name>testBuildWithTwoSimpleFields</name>
+    </test-case>
+    <test-case start="1729890326967" stop="1729890326967" status="passed">
+      <name>testBuildWithSimpleFieldAndFieldsArray</name>
+    </test-case>
+    <test-case start="1729890326968" stop="1729890326968" status="passed">
+      <name>testBuildWithArrayField</name>
+    </test-case>
+    <test-case start="1729890326968" stop="1729890326969" status="passed">
+      <name>testBuildWithEmptyArrayField</name>
+    </test-case>
+    <test-case start="1729890326969" stop="1729890326970" status="passed">
+      <name>testBuildTwoDocuments</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

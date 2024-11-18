@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463982" stop="1729890464004" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Layout\Reader\BlockTest</name>
+  <test-cases>
+    <test-case start="1729890463983" stop="1729890463988" status="passed">
+      <name>testProcessBlock with data set #0</name>
+    </test-case>
+    <test-case start="1729890463989" stop="1729890463992" status="passed">
+      <name>testProcessBlock with data set #1</name>
+    </test-case>
+    <test-case start="1729890463993" stop="1729890463994" status="passed">
+      <name>testProcessBlock with data set #2</name>
+    </test-case>
+    <test-case start="1729890463995" stop="1729890463998" status="passed">
+      <name>testProcessReference with data set #0</name>
+    </test-case>
+    <test-case start="1729890463999" stop="1729890464000" status="passed">
+      <name>testProcessReference with data set #1</name>
+    </test-case>
+    <test-case start="1729890464001" stop="1729890464002" status="passed">
+      <name>testProcessReference with data set #2</name>
+    </test-case>
+    <test-case start="1729890464002" stop="1729890464004" status="passed">
+      <name>testProcessReference with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456718" stop="1729890456733" version="1.4.0">
+  <name>Magento\Framework\Session\Test\Unit\SaveHandler\DbTableTest</name>
+  <test-cases>
+    <test-case start="1729890456718" stop="1729890456721" status="passed">
+      <name>testCheckConnection</name>
+    </test-case>
+    <test-case start="1729890456721" stop="1729890456722" status="passed">
+      <name>testCheckConnectionNoConnection</name>
+    </test-case>
+    <test-case start="1729890456722" stop="1729890456723" status="passed">
+      <name>testCheckConnectionNoTable</name>
+    </test-case>
+    <test-case start="1729890456724" stop="1729890456726" status="passed">
+      <name>testRead with data set "session_encoded"</name>
+    </test-case>
+    <test-case start="1729890456727" stop="1729890456728" status="passed">
+      <name>testRead with data set "session_not_encoded"</name>
+    </test-case>
+    <test-case start="1729890456729" stop="1729890456731" status="passed">
+      <name>testWrite with data set "session_exists"</name>
+    </test-case>
+    <test-case start="1729890456731" stop="1729890456733" status="passed">
+      <name>testWrite with data set "session_not_exists"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

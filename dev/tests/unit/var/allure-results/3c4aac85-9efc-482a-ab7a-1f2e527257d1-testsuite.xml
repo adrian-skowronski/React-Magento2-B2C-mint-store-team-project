@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316567" stop="1729890316574" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\ForgotPasswordToken\GetCustomerByTokenTest</name>
+  <test-cases>
+    <test-case start="1729890316568" stop="1729890316570" status="passed">
+      <name>testExecuteReturnWhenOneItemAvailable</name>
+    </test-case>
+    <test-case start="1729890316571" stop="1729890316572" status="passed">
+      <name>testExecuteWithNoSuchEntityException</name>
+    </test-case>
+    <test-case start="1729890316572" stop="1729890316574" status="passed">
+      <name>testExecuteWithExpireException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

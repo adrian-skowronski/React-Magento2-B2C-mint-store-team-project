@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284335" stop="1729890284354" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Cron\DeleteOutdatedPriceValuesTest</name>
+  <test-cases>
+    <test-case start="1729890284336" stop="1729890284351" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890284352" stop="1729890284353" status="passed">
+      <name>testExecutePriceConfigIsNotSetToGlobal</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

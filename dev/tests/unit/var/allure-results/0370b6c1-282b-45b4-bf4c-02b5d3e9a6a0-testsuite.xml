@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376280" stop="1729890376285" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\ResourceModel\SaveHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890376281" stop="1729890376282" status="passed">
+      <name>testExecuteNoData</name>
+    </test-case>
+    <test-case start="1729890376282" stop="1729890376283" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890376283" stop="1729890376285" status="passed">
+      <name>testExecuteWithString</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

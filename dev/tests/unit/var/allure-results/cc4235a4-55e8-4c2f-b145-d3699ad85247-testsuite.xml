@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890373947" stop="1729890373956" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Observer\CheckoutCartAddProductObserverTest</name>
+  <test-cases>
+    <test-case start="1729890373947" stop="1729890373950" status="passed">
+      <name>testExecuteExpectsSaveCalledWhenNewProductAdded</name>
+    </test-case>
+    <test-case start="1729890373950" stop="1729890373951" status="passed">
+      <name>testExecuteWhenReportsDisabled</name>
+    </test-case>
+    <test-case start="1729890373951" stop="1729890373954" status="passed">
+      <name>testExecuteWithQuoteItemIdSet</name>
+    </test-case>
+    <test-case start="1729890373954" stop="1729890373956" status="passed">
+      <name>testExecuteWithQuoteParentItemIdSet</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

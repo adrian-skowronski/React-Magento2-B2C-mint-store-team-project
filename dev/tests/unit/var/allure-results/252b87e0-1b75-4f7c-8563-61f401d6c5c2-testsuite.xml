@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376419" stop="1729890376426" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\Rule\Action\Discount\ToPercentTest</name>
+  <test-cases>
+    <test-case start="1729890376420" stop="1729890376426" status="failed">
+      <name>testCalculate with data set #0</name>
+      <failure>
+        <message>Expectation failed for method name is "setBaseAmount" when invoked 1 time(s)
+Parameter 0 for invocation Magento\SalesRule\Model\Rule\Action\Discount\Data::setBaseAmount(59.49999999999999) does not match expected value.
+Failed asserting that 59.49999999999999 matches expected 59.5.</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/MockObject/InvocationHandler.php(122): PHPUnit\Framework\MockObject\Matcher-&gt;invoked()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/MockObject/MockClass.php(51) : eval()'d code(46): PHPUnit\Framework\MockObject\InvocationHandler-&gt;invoke()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Model/Rule/Action/Discount/ByPercent.php(58): Mock_Data_7e5bd329-&gt;setBaseAmount()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Model/Rule/Action/Discount/ToPercent.php(19): Magento\SalesRule\Model\Rule\Action\Discount\ByPercent-&gt;_calculate()
+#4 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/Rule/Action/Discount/ToPercentTest.php(204): Magento\SalesRule\Model\Rule\Action\Discount\ToPercent-&gt;calculate()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\SalesRule\Test\Unit\Model\Rule\Action\Discount\ToPercentTest-&gt;testCalculate()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#16 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#17 {main}</stack-trace>
+      </failure>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

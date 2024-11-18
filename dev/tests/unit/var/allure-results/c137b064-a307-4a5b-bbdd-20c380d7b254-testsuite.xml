@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264008" stop="1729890264012" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\App\Area\Request\PathInfoProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890264008" stop="1729890264010" status="passed">
+      <name>testProcessIfStoreCodeEqualToAreaFrontName</name>
+    </test-case>
+    <test-case start="1729890264011" stop="1729890264012" status="passed">
+      <name>testProcessIfStoreCodeNotEqualToAreaFrontName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

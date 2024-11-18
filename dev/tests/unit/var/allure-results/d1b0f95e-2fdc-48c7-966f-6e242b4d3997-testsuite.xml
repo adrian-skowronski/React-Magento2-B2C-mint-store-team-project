@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284910" stop="1729890284923" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Attribute\Backend\TierPrice\UpdateHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890284910" stop="1729890284916" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890284917" stop="1729890284920" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890284921" stop="1729890284923" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

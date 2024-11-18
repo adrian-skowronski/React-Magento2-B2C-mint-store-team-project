@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406395" stop="1729890406401" version="1.4.0">
+  <name>Magento\Ups\Test\Unit\Plugin\Block\DataProviders\Tracking\ChangeTitleTest</name>
+  <test-cases>
+    <test-case start="1729890406396" stop="1729890406398" status="passed">
+      <name>testAfterGetTitle with data set #0</name>
+    </test-case>
+    <test-case start="1729890406399" stop="1729890406400" status="passed">
+      <name>testAfterGetTitle with data set #1</name>
+    </test-case>
+    <test-case start="1729890406400" stop="1729890406401" status="passed">
+      <name>testAfterGetTitleDataProvider</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

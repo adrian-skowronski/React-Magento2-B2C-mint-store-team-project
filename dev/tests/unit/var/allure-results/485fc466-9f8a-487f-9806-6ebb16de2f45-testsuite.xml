@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302924" stop="1729890302936" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Structure\Element\GroupTest</name>
+  <test-cases>
+    <test-case start="1729890302925" stop="1729890302927" status="passed">
+      <name>testShouldCloneFields</name>
+    </test-case>
+    <test-case start="1729890302927" stop="1729890302928" status="passed">
+      <name>testGetCloneModelThrowsExceptionIfNoSourceModelIsSet</name>
+    </test-case>
+    <test-case start="1729890302928" stop="1729890302930" status="passed">
+      <name>testGetCloneModelCreatesCloneModel</name>
+    </test-case>
+    <test-case start="1729890302930" stop="1729890302931" status="passed">
+      <name>testGetFieldsetSetsOnlyNonArrayValuesToFieldset</name>
+    </test-case>
+    <test-case start="1729890302932" stop="1729890302933" status="passed">
+      <name>testIsExpanded</name>
+    </test-case>
+    <test-case start="1729890302933" stop="1729890302934" status="passed">
+      <name>testGetFieldsetCss</name>
+    </test-case>
+    <test-case start="1729890302934" stop="1729890302935" status="passed">
+      <name>testGetDependenciesWithoutDependencies</name>
+    </test-case>
+    <test-case start="1729890302935" stop="1729890302936" status="passed">
+      <name>testGetDependenciesWithDependencies</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

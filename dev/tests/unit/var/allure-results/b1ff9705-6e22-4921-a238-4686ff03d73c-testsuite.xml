@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890419232" stop="1729890419239" version="1.4.0">
+  <name>PayPal\Braintree\Test\Unit\Gateway\Request\DescriptorDataBuilderTest</name>
+  <test-cases>
+    <test-case start="1729890419233" stop="1729890419234" status="passed">
+      <name>testBuild with data set #0</name>
+    </test-case>
+    <test-case start="1729890419235" stop="1729890419236" status="passed">
+      <name>testBuild with data set #1</name>
+    </test-case>
+    <test-case start="1729890419236" stop="1729890419237" status="passed">
+      <name>testBuild with data set #2</name>
+    </test-case>
+    <test-case start="1729890419238" stop="1729890419238" status="passed">
+      <name>testBuild with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406167" stop="1729890406178" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\TemplateEngine\Xhtml\ResultTest</name>
+  <test-cases>
+    <test-case start="1729890406167" stop="1729890406173" status="passed">
+      <name>testToStringWithException</name>
+    </test-case>
+    <test-case start="1729890406173" stop="1729890406178" status="passed">
+      <name>testToString</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

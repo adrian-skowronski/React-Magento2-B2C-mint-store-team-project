@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330322" stop="1729890330325" version="1.4.0">
+  <name>Magento\GoogleOptimizer\Test\Unit\Block\Code\ProductTest</name>
+  <test-cases>
+    <test-case start="1729890330322" stop="1729890330325" status="passed">
+      <name>testGetIdentities</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358947" stop="1729890358957" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Model\Cart\SalesModel\OrderTest</name>
+  <test-cases>
+    <test-case start="1729890358947" stop="1729890358950" status="passed">
+      <name>testGetDataUsingMethod</name>
+    </test-case>
+    <test-case start="1729890358950" stop="1729890358951" status="passed">
+      <name>testGetTaxContainer</name>
+    </test-case>
+    <test-case start="1729890358951" stop="1729890358957" status="passed">
+      <name>testGetAllItems</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

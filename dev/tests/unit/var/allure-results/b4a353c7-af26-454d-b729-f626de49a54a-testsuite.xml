@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890420651" stop="1729890420655" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\FilesystemTest</name>
+  <test-cases>
+    <test-case start="1729890420651" stop="1729890420652" status="passed">
+      <name>testGetDirectoryRead</name>
+    </test-case>
+    <test-case start="1729890420652" stop="1729890420653" status="passed">
+      <name>testGetDirectoryReadByPath</name>
+    </test-case>
+    <test-case start="1729890420653" stop="1729890420654" status="passed">
+      <name>testGetDirectoryWrite</name>
+    </test-case>
+    <test-case start="1729890420654" stop="1729890420655" status="passed">
+      <name>testGetUri</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264915" stop="1729890265016" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\Widget\Grid\MassactionTest</name>
+  <test-cases>
+    <test-case start="1729890264915" stop="1729890264923" status="passed">
+      <name>testMassactionDefaultValues</name>
+    </test-case>
+    <test-case start="1729890264923" stop="1729890264928" status="passed">
+      <name>testItemsProcessing with data set #0</name>
+    </test-case>
+    <test-case start="1729890264929" stop="1729890264935" status="passed">
+      <name>testItemsProcessing with data set #1</name>
+    </test-case>
+    <test-case start="1729890264936" stop="1729890264940" status="passed">
+      <name>testItemsProcessing with data set #2</name>
+    </test-case>
+    <test-case start="1729890264940" stop="1729890264944" status="passed">
+      <name>testItemsProcessing with data set #3</name>
+    </test-case>
+    <test-case start="1729890264945" stop="1729890264948" status="passed">
+      <name>testSelected with data set #0</name>
+    </test-case>
+    <test-case start="1729890264949" stop="1729890264953" status="passed">
+      <name>testSelected with data set #1</name>
+    </test-case>
+    <test-case start="1729890264954" stop="1729890264958" status="passed">
+      <name>testUseSelectAll</name>
+    </test-case>
+    <test-case start="1729890264958" stop="1729890264962" status="passed">
+      <name>testGetGridIdsJsonWithoutUseSelectAll</name>
+    </test-case>
+    <test-case start="1729890264962" stop="1729890264967" status="passed">
+      <name>testGetGridIdsJsonWithUseSelectAll</name>
+    </test-case>
+    <test-case start="1729890264968" stop="1729890264973" status="passed">
+      <name>testAddItem with data set #0</name>
+    </test-case>
+    <test-case start="1729890264974" stop="1729890264977" status="passed">
+      <name>testAddItem with data set #1</name>
+    </test-case>
+    <test-case start="1729890264978" stop="1729890264984" status="passed">
+      <name>testAddItem with data set #2</name>
+    </test-case>
+    <test-case start="1729890264985" stop="1729890264991" status="passed">
+      <name>testAddItem with data set #3</name>
+    </test-case>
+    <test-case start="1729890264992" stop="1729890264997" status="passed">
+      <name>testAddItem with data set #4</name>
+    </test-case>
+    <test-case start="1729890264998" stop="1729890265005" status="passed">
+      <name>testAddItem with data set #5</name>
+    </test-case>
+    <test-case start="1729890265006" stop="1729890265011" status="passed">
+      <name>testAddItem with data set #6</name>
+    </test-case>
+    <test-case start="1729890265012" stop="1729890265016" status="passed">
+      <name>testAddItem with data set #7</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

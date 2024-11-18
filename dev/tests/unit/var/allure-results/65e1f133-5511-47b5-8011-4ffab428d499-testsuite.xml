@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890333284" stop="1729890333290" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\Indexer\CacheCleanerTest</name>
+  <test-cases>
+    <test-case start="1729890333284" stop="1729890333286" status="passed">
+      <name>testBeforeExecuteFull</name>
+    </test-case>
+    <test-case start="1729890333286" stop="1729890333286" status="passed">
+      <name>testAfterExecuteFull</name>
+    </test-case>
+    <test-case start="1729890333287" stop="1729890333287" status="passed">
+      <name>testBeforeExecuteList</name>
+    </test-case>
+    <test-case start="1729890333288" stop="1729890333288" status="passed">
+      <name>testAfterExecuteList</name>
+    </test-case>
+    <test-case start="1729890333288" stop="1729890333289" status="passed">
+      <name>testBeforeExecuteRow</name>
+    </test-case>
+    <test-case start="1729890333289" stop="1729890333290" status="passed">
+      <name>testAfterExecuteRow</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

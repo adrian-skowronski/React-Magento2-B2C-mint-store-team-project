@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890363177" stop="1729890363184" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Observer\RestrictAdminBillingAgreementUsageObserverTest</name>
+  <test-cases>
+    <test-case start="1729890363178" stop="1729890363180" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890363181" stop="1729890363182" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890363183" stop="1729890363184" status="passed">
+      <name>testExecute with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

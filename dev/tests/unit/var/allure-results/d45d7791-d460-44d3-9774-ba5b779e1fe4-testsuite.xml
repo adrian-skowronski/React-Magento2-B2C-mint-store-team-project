@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890440185" stop="1729890440189" version="1.4.0">
+  <name>Magento\Framework\Code\Test\Unit\Validator\ArgumentSequenceTest</name>
+  <test-cases>
+    <test-case start="1729890440185" stop="1729890440187" status="passed">
+      <name>testValidSequence</name>
+    </test-case>
+    <test-case start="1729890440187" stop="1729890440188" status="passed">
+      <name>testInvalidSequence</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

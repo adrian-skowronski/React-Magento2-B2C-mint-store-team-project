@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395907" stop="1729890395913" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\Validation\StoreNameValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890395908" stop="1729890395911" status="passed">
+      <name>testIsValid with data set "true"</name>
+    </test-case>
+    <test-case start="1729890395911" stop="1729890395913" status="passed">
+      <name>testIsValid with data set "false"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

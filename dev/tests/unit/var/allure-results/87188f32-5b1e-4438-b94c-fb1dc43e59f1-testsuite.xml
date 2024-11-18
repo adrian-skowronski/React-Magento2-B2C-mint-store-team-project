@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262640" stop="1729890262648" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\ReportUrlProviderTest</name>
+  <test-cases>
+    <test-case start="1729890262641" stop="1729890262643" status="passed">
+      <name>testGetUrl with data set "TokenDoesNotExist"</name>
+    </test-case>
+    <test-case start="1729890262643" stop="1729890262644" status="passed">
+      <name>testGetUrl with data set "TokenExistAndOtpEmpty"</name>
+    </test-case>
+    <test-case start="1729890262645" stop="1729890262646" status="passed">
+      <name>testGetUrl with data set "TokenExistAndOtpValid"</name>
+    </test-case>
+    <test-case start="1729890262646" stop="1729890262647" status="passed">
+      <name>testGetUrlWhenSubscriptionUpdateRunning</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

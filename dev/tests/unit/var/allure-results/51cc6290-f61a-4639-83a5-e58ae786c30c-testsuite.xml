@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463929" stop="1729890463941" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Layout\Generator\ContainerTest</name>
+  <test-cases>
+    <test-case start="1729890463929" stop="1729890463931" status="passed">
+      <name>testProcess with data set "sample_data"</name>
+    </test-case>
+    <test-case start="1729890463932" stop="1729890463933" status="passed">
+      <name>testProcess with data set "sample_data2"</name>
+    </test-case>
+    <test-case start="1729890463934" stop="1729890463935" status="passed">
+      <name>testProcess with data set "Article as allowed container tag"</name>
+    </test-case>
+    <test-case start="1729890463936" stop="1729890463937" status="passed">
+      <name>testProcessWithException with data set "wrong_html_tag"</name>
+    </test-case>
+    <test-case start="1729890463938" stop="1729890463939" status="passed">
+      <name>testProcessWithException with data set "html_id_without_tag"</name>
+    </test-case>
+    <test-case start="1729890463940" stop="1729890463941" status="passed">
+      <name>testProcessWithException with data set "html_class_without_tag"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

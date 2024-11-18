@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890283740" stop="1729890283755" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Controller\Adminhtml\Product\Initialization\Helper\AttributeFilterTest</name>
+  <test-cases>
+    <test-case start="1729890283741" stop="1729890283743" status="passed">
+      <name>testPrepareProductAttributes with data set "create_new_product"</name>
+    </test-case>
+    <test-case start="1729890283743" stop="1729890283744" status="passed">
+      <name>testPrepareProductAttributes with data set "update_product_without_use_defaults"</name>
+    </test-case>
+    <test-case start="1729890283745" stop="1729890283746" status="passed">
+      <name>testPrepareProductAttributes with data set "update_product_without_use_defaults_2"</name>
+    </test-case>
+    <test-case start="1729890283747" stop="1729890283748" status="passed">
+      <name>testPrepareProductAttributes with data set "update_product_with_use_defaults"</name>
+    </test-case>
+    <test-case start="1729890283748" stop="1729890283750" status="passed">
+      <name>testPrepareProductAttributes with data set "update_product_with_use_defaults_2"</name>
+    </test-case>
+    <test-case start="1729890283751" stop="1729890283753" status="passed">
+      <name>testPrepareProductAttributes with data set "update_product_with_use_defaults_3"</name>
+    </test-case>
+    <test-case start="1729890283754" stop="1729890283754" status="passed">
+      <name>testPrepareProductAttributes with data set "update_product_with_empty_string_attribute"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

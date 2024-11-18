@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890282532" stop="1729890282555" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Product\View\GalleryOptionsTest</name>
+  <test-cases>
+    <test-case start="1729890282533" stop="1729890282545" status="passed">
+      <name>testGetOptionsJson</name>
+    </test-case>
+    <test-case start="1729890282546" stop="1729890282549" status="passed">
+      <name>testGetFSOptionsJson</name>
+    </test-case>
+    <test-case start="1729890282549" stop="1729890282552" status="passed">
+      <name>testGetOptionsJsonOptionals</name>
+    </test-case>
+    <test-case start="1729890282552" stop="1729890282555" status="passed">
+      <name>testGetFSOptionsJsonOptionals</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

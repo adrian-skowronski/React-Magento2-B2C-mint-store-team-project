@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890267482" stop="1729890267511" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Model\Validator\IpValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890267483" stop="1729890267484" status="passed">
+      <name>testValidateIpsNoneAllowed with data set #0</name>
+    </test-case>
+    <test-case start="1729890267485" stop="1729890267485" status="passed">
+      <name>testValidateIpsNoneAllowed with data set #1</name>
+    </test-case>
+    <test-case start="1729890267486" stop="1729890267487" status="passed">
+      <name>testValidateIpsNoneAllowed with data set #2</name>
+    </test-case>
+    <test-case start="1729890267487" stop="1729890267488" status="passed">
+      <name>testValidateIpsNoneAllowed with data set #3</name>
+    </test-case>
+    <test-case start="1729890267489" stop="1729890267489" status="passed">
+      <name>testValidateIpsNoneAllowed with data set #4</name>
+    </test-case>
+    <test-case start="1729890267490" stop="1729890267491" status="passed">
+      <name>testValidateIpsNoneAllowed with data set #5</name>
+    </test-case>
+    <test-case start="1729890267491" stop="1729890267492" status="passed">
+      <name>testValidateIpsNoneAllowed with data set #6</name>
+    </test-case>
+    <test-case start="1729890267494" stop="1729890267496" status="passed">
+      <name>testValidateIpsNoneAllowed with data set #7</name>
+    </test-case>
+    <test-case start="1729890267496" stop="1729890267498" status="passed">
+      <name>testValidateIpsNoneNotAllowed with data set #0</name>
+    </test-case>
+    <test-case start="1729890267499" stop="1729890267500" status="passed">
+      <name>testValidateIpsNoneNotAllowed with data set #1</name>
+    </test-case>
+    <test-case start="1729890267501" stop="1729890267501" status="passed">
+      <name>testValidateIpsNoneNotAllowed with data set #2</name>
+    </test-case>
+    <test-case start="1729890267502" stop="1729890267503" status="passed">
+      <name>testValidateIpsNoneNotAllowed with data set #3</name>
+    </test-case>
+    <test-case start="1729890267503" stop="1729890267504" status="passed">
+      <name>testValidateIpsNoneNotAllowed with data set #4</name>
+    </test-case>
+    <test-case start="1729890267505" stop="1729890267506" status="passed">
+      <name>testValidateIpsNoneNotAllowed with data set #5</name>
+    </test-case>
+    <test-case start="1729890267508" stop="1729890267509" status="passed">
+      <name>testValidateIpsNoneNotAllowed with data set #6</name>
+    </test-case>
+    <test-case start="1729890267510" stop="1729890267510" status="passed">
+      <name>testValidateIpsNoneNotAllowed with data set #7</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

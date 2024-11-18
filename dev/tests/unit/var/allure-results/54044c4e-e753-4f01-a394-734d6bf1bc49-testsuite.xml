@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890360683" stop="1729890360687" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\CustomerData\BillingAgreementTest</name>
+  <test-cases>
+    <test-case start="1729890360683" stop="1729890360685" status="passed">
+      <name>testGetSectionData</name>
+    </test-case>
+    <test-case start="1729890360685" stop="1729890360687" status="passed">
+      <name>testGetSectionDataNotNeedToCreateBillingAgreement</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

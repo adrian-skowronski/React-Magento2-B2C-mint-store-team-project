@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463640" stop="1729890463645" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\FileTest</name>
+  <test-cases>
+    <test-case start="1729890463640" stop="1729890463641" status="passed">
+      <name>testGetFilename</name>
+    </test-case>
+    <test-case start="1729890463641" stop="1729890463642" status="passed">
+      <name>testGetName</name>
+    </test-case>
+    <test-case start="1729890463642" stop="1729890463643" status="passed">
+      <name>testGetModule</name>
+    </test-case>
+    <test-case start="1729890463643" stop="1729890463644" status="passed">
+      <name>testGetTheme</name>
+    </test-case>
+    <test-case start="1729890463644" stop="1729890463645" status="passed">
+      <name>testGetFileIdentifier</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

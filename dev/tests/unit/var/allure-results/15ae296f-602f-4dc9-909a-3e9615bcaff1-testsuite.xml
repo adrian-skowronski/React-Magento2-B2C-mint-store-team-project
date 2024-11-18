@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422915" stop="1729890422944" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Cache\Frontend\PoolTest</name>
+  <test-cases>
+    <test-case start="1729890422915" stop="1729890422917" status="passed">
+      <name>testConstructorNoInitialization</name>
+    </test-case>
+    <test-case start="1729890422918" stop="1729890422919" status="passed">
+      <name>testInitializationParams with data set "no deployment config, default settings"</name>
+    </test-case>
+    <test-case start="1729890422920" stop="1729890422922" status="passed">
+      <name>testInitializationParams with data set "deployment config, default settings"</name>
+    </test-case>
+    <test-case start="1729890422922" stop="1729890422924" status="passed">
+      <name>testInitializationParams with data set "deployment config, overridden settings"</name>
+    </test-case>
+    <test-case start="1729890422925" stop="1729890422927" status="passed">
+      <name>testInitializationParams with data set "deployment config, default settings, overridden settings"</name>
+    </test-case>
+    <test-case start="1729890422927" stop="1729890422929" status="passed">
+      <name>testInitializationParams with data set "custom deployent config, default settings"</name>
+    </test-case>
+    <test-case start="1729890422930" stop="1729890422932" status="passed">
+      <name>testInitializationParams with data set "custom deployent config, default settings, overridden settings"</name>
+    </test-case>
+    <test-case start="1729890422932" stop="1729890422933" status="passed">
+      <name>testCurrent</name>
+    </test-case>
+    <test-case start="1729890422934" stop="1729890422935" status="passed">
+      <name>testKey</name>
+    </test-case>
+    <test-case start="1729890422935" stop="1729890422937" status="passed">
+      <name>testNext</name>
+    </test-case>
+    <test-case start="1729890422937" stop="1729890422939" status="passed">
+      <name>testRewind</name>
+    </test-case>
+    <test-case start="1729890422939" stop="1729890422940" status="passed">
+      <name>testValid</name>
+    </test-case>
+    <test-case start="1729890422941" stop="1729890422942" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890422943" stop="1729890422944" status="passed">
+      <name>testFallbackOnDefault</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

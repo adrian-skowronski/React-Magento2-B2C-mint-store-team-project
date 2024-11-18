@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890360026" stop="1729890360049" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Block\Adminhtml\System\Config\Multiselect\DisabledFundingOptionsTest</name>
+  <test-cases>
+    <test-case start="1729890360027" stop="1729890360033" status="passed">
+      <name>testIsPaypalCreditAvailable with data set #0</name>
+    </test-case>
+    <test-case start="1729890360034" stop="1729890360036" status="passed">
+      <name>testIsPaypalCreditAvailable with data set #1</name>
+    </test-case>
+    <test-case start="1729890360037" stop="1729890360040" status="passed">
+      <name>testIsPaypalCreditAvailable with data set #2</name>
+    </test-case>
+    <test-case start="1729890360040" stop="1729890360043" status="passed">
+      <name>testIsPaypalCreditAvailable with data set #3</name>
+    </test-case>
+    <test-case start="1729890360043" stop="1729890360046" status="passed">
+      <name>testIsPaypalCreditAvailable with data set #4</name>
+    </test-case>
+    <test-case start="1729890360046" stop="1729890360048" status="passed">
+      <name>testIsPaypalCreditAvailable with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

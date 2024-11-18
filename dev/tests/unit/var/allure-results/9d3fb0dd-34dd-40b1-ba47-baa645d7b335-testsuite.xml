@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890445383" stop="1729890445388" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Form\Element\TextareaTest</name>
+  <test-cases>
+    <test-case start="1729890445384" stop="1729890445385" status="passed">
+      <name>testConstruct</name>
+    </test-case>
+    <test-case start="1729890445385" stop="1729890445386" status="passed">
+      <name>testGetElementHtml</name>
+    </test-case>
+    <test-case start="1729890445386" stop="1729890445387" status="passed">
+      <name>testGetHtmlAttributes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448348" stop="1729890448357" version="1.4.0">
+  <name>Magento\Framework\Event\Test\Unit\ObserverTest</name>
+  <test-cases>
+    <test-case start="1729890448348" stop="1729890448348" status="passed">
+      <name>testIsValidFor</name>
+    </test-case>
+    <test-case start="1729890448349" stop="1729890448349" status="passed">
+      <name>testGetName</name>
+    </test-case>
+    <test-case start="1729890448349" stop="1729890448350" status="passed">
+      <name>testSetName</name>
+    </test-case>
+    <test-case start="1729890448350" stop="1729890448351" status="passed">
+      <name>testGetEventName</name>
+    </test-case>
+    <test-case start="1729890448351" stop="1729890448352" status="passed">
+      <name>testSetEventName</name>
+    </test-case>
+    <test-case start="1729890448352" stop="1729890448352" status="passed">
+      <name>testGetCallback</name>
+    </test-case>
+    <test-case start="1729890448353" stop="1729890448353" status="passed">
+      <name>testSetCallback</name>
+    </test-case>
+    <test-case start="1729890448353" stop="1729890448354" status="passed">
+      <name>testGetEvent</name>
+    </test-case>
+    <test-case start="1729890448354" stop="1729890448355" status="passed">
+      <name>testSetEvent</name>
+    </test-case>
+    <test-case start="1729890448355" stop="1729890448356" status="passed">
+      <name>testDispatch</name>
+    </test-case>
+    <test-case start="1729890448356" stop="1729890448357" status="passed">
+      <name>testDispatchNotValidEvent</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

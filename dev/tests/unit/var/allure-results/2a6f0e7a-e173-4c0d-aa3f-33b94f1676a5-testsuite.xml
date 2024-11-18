@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890290321" stop="1729890290350" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Price\CostStorageTest</name>
+  <test-cases>
+    <test-case start="1729890290322" stop="1729890290334" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890290335" stop="1729890290338" status="passed">
+      <name>testUpdate</name>
+    </test-case>
+    <test-case start="1729890290338" stop="1729890290347" status="passed">
+      <name>testUpdateWithNegativeCostAndWithoutSku</name>
+    </test-case>
+    <test-case start="1729890290348" stop="1729890290349" status="passed">
+      <name>testDelete</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890440126" stop="1729890440159" version="1.4.0">
+  <name>Magento\Framework\Code\Test\Unit\Reader\ArgumentsReaderTest</name>
+  <test-cases>
+    <test-case start="1729890440126" stop="1729890440134" status="passed">
+      <name>testGetConstructorArgumentsClassWithAllArgumentsType</name>
+    </test-case>
+    <test-case start="1729890440134" stop="1729890440135" status="passed">
+      <name>testGetConstructorArgumentsClassWithoutOwnConstructorInheritedFalse</name>
+    </test-case>
+    <test-case start="1729890440135" stop="1729890440144" status="passed">
+      <name>testGetConstructorArgumentsClassWithoutOwnConstructorInheritedTrue</name>
+    </test-case>
+    <test-case start="1729890440144" stop="1729890440144" status="passed">
+      <name>testGetConstructorArgumentsClassWithoutConstructInheridetFalse</name>
+    </test-case>
+    <test-case start="1729890440144" stop="1729890440145" status="passed">
+      <name>testGetConstructorArgumentsClassWithoutConstructInheridetTrue</name>
+    </test-case>
+    <test-case start="1729890440145" stop="1729890440146" status="passed">
+      <name>testGetConstructorArgumentsClassExtendsDefaultPhpTypeInheridetFalse</name>
+    </test-case>
+    <test-case start="1729890440146" stop="1729890440147" status="passed">
+      <name>testGetConstructorArgumentsClassExtendsDefaultPhpTypeInheridetTrue</name>
+    </test-case>
+    <test-case start="1729890440148" stop="1729890440148" status="passed">
+      <name>testGetParentCallWithRightArgumentsOrder</name>
+    </test-case>
+    <test-case start="1729890440149" stop="1729890440149" status="passed">
+      <name>testGetParentCallWithWrongArgumentsOrder</name>
+    </test-case>
+    <test-case start="1729890440150" stop="1729890440150" status="passed">
+      <name>testGetParentCallWithSeparateLineFormat</name>
+    </test-case>
+    <test-case start="1729890440151" stop="1729890440151" status="passed">
+      <name>testIsCompatibleType with data set #0</name>
+    </test-case>
+    <test-case start="1729890440152" stop="1729890440152" status="passed">
+      <name>testIsCompatibleType with data set #1</name>
+    </test-case>
+    <test-case start="1729890440153" stop="1729890440153" status="passed">
+      <name>testIsCompatibleType with data set #2</name>
+    </test-case>
+    <test-case start="1729890440154" stop="1729890440154" status="passed">
+      <name>testIsCompatibleType with data set #3</name>
+    </test-case>
+    <test-case start="1729890440155" stop="1729890440156" status="passed">
+      <name>testIsCompatibleType with data set #4</name>
+    </test-case>
+    <test-case start="1729890440156" stop="1729890440157" status="passed">
+      <name>testIsCompatibleType with data set #5</name>
+    </test-case>
+    <test-case start="1729890440157" stop="1729890440158" status="passed">
+      <name>testIsCompatibleTypeDataProvider</name>
+    </test-case>
+    <test-case start="1729890440158" stop="1729890440159" status="passed">
+      <name>testGetAnnotations</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

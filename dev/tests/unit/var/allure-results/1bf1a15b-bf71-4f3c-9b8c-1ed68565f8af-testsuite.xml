@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329904" stop="1729890329912" version="1.4.0">
+  <name>Magento\GiftMessage\Test\Unit\Observer\SalesEventOrderItemToQuoteItemObserverTest</name>
+  <test-cases>
+    <test-case start="1729890329905" stop="1729890329907" status="passed">
+      <name>testReorder</name>
+    </test-case>
+    <test-case start="1729890329907" stop="1729890329909" status="passed">
+      <name>testNewOrderWhenGiftMessageIsNotAllowed</name>
+    </test-case>
+    <test-case start="1729890329909" stop="1729890329912" status="passed">
+      <name>testNewOrderWhenGiftMessageIsAllowed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

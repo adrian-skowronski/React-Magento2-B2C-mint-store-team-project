@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262148" stop="1729890262155" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890262149" stop="1729890262155" status="passed">
+      <name>testGet</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

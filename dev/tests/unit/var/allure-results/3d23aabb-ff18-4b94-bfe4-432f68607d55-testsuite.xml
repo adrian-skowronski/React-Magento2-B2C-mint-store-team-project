@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890299353" stop="1729890299396" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Block\BlockByIdentifierTest</name>
+  <test-cases>
+    <test-case start="1729890299354" stop="1729890299364" status="passed">
+      <name>testBlockThrowsInvalidArgumentExceptionWhenNoIdentifierProvided</name>
+    </test-case>
+    <test-case start="1729890299364" stop="1729890299368" status="passed">
+      <name>testBlockReturnsEmptyStringWhenIdentifierProvidedNotFound</name>
+    </test-case>
+    <test-case start="1729890299369" stop="1729890299376" status="passed">
+      <name>testBlockReturnsCmsContentsWhenIdentifierFound</name>
+    </test-case>
+    <test-case start="1729890299377" stop="1729890299396" status="passed">
+      <name>testBlockCacheIdentitiesContainCmsBlockIdentities</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

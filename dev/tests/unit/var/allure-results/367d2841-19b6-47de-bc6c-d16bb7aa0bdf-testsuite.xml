@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442994" stop="1729890443001" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Collection\Db\FetchStrategy\CacheTest</name>
+  <test-cases>
+    <test-case start="1729890442994" stop="1729890442998" status="passed">
+      <name>testFetchCached</name>
+    </test-case>
+    <test-case start="1729890442998" stop="1729890443001" status="passed">
+      <name>testFetchNotCached</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375194" stop="1729890375347" version="1.4.0">
+  <name>Magento\Rule\Test\Unit\Model\Condition\AbstractConditionTest</name>
+  <test-cases>
+    <test-case start="1729890375194" stop="1729890375195" status="passed">
+      <name>testGetjointTables</name>
+    </test-case>
+    <test-case start="1729890375195" stop="1729890375196" status="passed">
+      <name>testGetMappedSqlField</name>
+    </test-case>
+    <test-case start="1729890375196" stop="1729890375197" status="passed">
+      <name>testValidateAttribute with data set #0</name>
+    </test-case>
+    <test-case start="1729890375198" stop="1729890375198" status="passed">
+      <name>testValidateAttribute with data set #1</name>
+    </test-case>
+    <test-case start="1729890375199" stop="1729890375199" status="passed">
+      <name>testValidateAttribute with data set #2</name>
+    </test-case>
+    <test-case start="1729890375200" stop="1729890375201" status="passed">
+      <name>testValidateAttribute with data set #3</name>
+    </test-case>
+    <test-case start="1729890375201" stop="1729890375202" status="passed">
+      <name>testValidateAttribute with data set #4</name>
+    </test-case>
+    <test-case start="1729890375203" stop="1729890375203" status="passed">
+      <name>testValidateAttribute with data set #5</name>
+    </test-case>
+    <test-case start="1729890375204" stop="1729890375205" status="passed">
+      <name>testValidateAttribute with data set #6</name>
+    </test-case>
+    <test-case start="1729890375205" stop="1729890375206" status="passed">
+      <name>testValidateAttribute with data set #7</name>
+    </test-case>
+    <test-case start="1729890375207" stop="1729890375207" status="passed">
+      <name>testValidateAttribute with data set #8</name>
+    </test-case>
+    <test-case start="1729890375208" stop="1729890375209" status="passed">
+      <name>testValidateAttribute with data set #9</name>
+    </test-case>
+    <test-case start="1729890375209" stop="1729890375210" status="passed">
+      <name>testValidateAttribute with data set #10</name>
+    </test-case>
+    <test-case start="1729890375210" stop="1729890375211" status="passed">
+      <name>testValidateAttribute with data set #11</name>
+    </test-case>
+    <test-case start="1729890375212" stop="1729890375212" status="passed">
+      <name>testValidateAttribute with data set #12</name>
+    </test-case>
+    <test-case start="1729890375213" stop="1729890375213" status="passed">
+      <name>testValidateAttribute with data set #13</name>
+    </test-case>
+    <test-case start="1729890375214" stop="1729890375215" status="passed">
+      <name>testValidateAttribute with data set #14</name>
+    </test-case>
+    <test-case start="1729890375215" stop="1729890375216" status="passed">
+      <name>testValidateAttribute with data set #15</name>
+    </test-case>
+    <test-case start="1729890375216" stop="1729890375217" status="passed">
+      <name>testValidateAttribute with data set #16</name>
+    </test-case>
+    <test-case start="1729890375218" stop="1729890375218" status="passed">
+      <name>testValidateAttribute with data set #17</name>
+    </test-case>
+    <test-case start="1729890375219" stop="1729890375220" status="passed">
+      <name>testValidateAttribute with data set #18</name>
+    </test-case>
+    <test-case start="1729890375221" stop="1729890375221" status="passed">
+      <name>testValidateAttribute with data set #19</name>
+    </test-case>
+    <test-case start="1729890375222" stop="1729890375222" status="passed">
+      <name>testValidateAttribute with data set #20</name>
+    </test-case>
+    <test-case start="1729890375223" stop="1729890375224" status="passed">
+      <name>testValidateAttribute with data set #21</name>
+    </test-case>
+    <test-case start="1729890375224" stop="1729890375225" status="passed">
+      <name>testValidateAttribute with data set #22</name>
+    </test-case>
+    <test-case start="1729890375226" stop="1729890375226" status="passed">
+      <name>testValidateAttribute with data set #23</name>
+    </test-case>
+    <test-case start="1729890375227" stop="1729890375228" status="passed">
+      <name>testValidateAttribute with data set #24</name>
+    </test-case>
+    <test-case start="1729890375228" stop="1729890375229" status="passed">
+      <name>testValidateAttribute with data set #25</name>
+    </test-case>
+    <test-case start="1729890375229" stop="1729890375230" status="passed">
+      <name>testValidateAttribute with data set #26</name>
+    </test-case>
+    <test-case start="1729890375231" stop="1729890375231" status="passed">
+      <name>testValidateAttribute with data set #27</name>
+    </test-case>
+    <test-case start="1729890375232" stop="1729890375233" status="passed">
+      <name>testValidateAttribute with data set #28</name>
+    </test-case>
+    <test-case start="1729890375233" stop="1729890375234" status="passed">
+      <name>testValidateAttribute with data set #29</name>
+    </test-case>
+    <test-case start="1729890375235" stop="1729890375236" status="passed">
+      <name>testValidateAttribute with data set #30</name>
+    </test-case>
+    <test-case start="1729890375236" stop="1729890375237" status="passed">
+      <name>testValidateAttribute with data set #31</name>
+    </test-case>
+    <test-case start="1729890375238" stop="1729890375238" status="passed">
+      <name>testValidateAttribute with data set #32</name>
+    </test-case>
+    <test-case start="1729890375240" stop="1729890375242" status="passed">
+      <name>testValidate with data set #0</name>
+    </test-case>
+    <test-case start="1729890375242" stop="1729890375244" status="passed">
+      <name>testValidate with data set #1</name>
+    </test-case>
+    <test-case start="1729890375244" stop="1729890375246" status="passed">
+      <name>testValidate with data set #2</name>
+    </test-case>
+    <test-case start="1729890375246" stop="1729890375248" status="passed">
+      <name>testValidate with data set #3</name>
+    </test-case>
+    <test-case start="1729890375249" stop="1729890375250" status="passed">
+      <name>testValidate with data set #4</name>
+    </test-case>
+    <test-case start="1729890375251" stop="1729890375252" status="passed">
+      <name>testValidate with data set #5</name>
+    </test-case>
+    <test-case start="1729890375253" stop="1729890375254" status="passed">
+      <name>testValidate with data set #6</name>
+    </test-case>
+    <test-case start="1729890375255" stop="1729890375256" status="passed">
+      <name>testValidate with data set #7</name>
+    </test-case>
+    <test-case start="1729890375257" stop="1729890375258" status="passed">
+      <name>testValidate with data set #8</name>
+    </test-case>
+    <test-case start="1729890375259" stop="1729890375260" status="passed">
+      <name>testValidate with data set #9</name>
+    </test-case>
+    <test-case start="1729890375260" stop="1729890375262" status="passed">
+      <name>testValidate with data set #10</name>
+    </test-case>
+    <test-case start="1729890375263" stop="1729890375264" status="passed">
+      <name>testValidate with data set #11</name>
+    </test-case>
+    <test-case start="1729890375265" stop="1729890375266" status="passed">
+      <name>testValidate with data set #12</name>
+    </test-case>
+    <test-case start="1729890375266" stop="1729890375268" status="passed">
+      <name>testValidate with data set #13</name>
+    </test-case>
+    <test-case start="1729890375268" stop="1729890375270" status="passed">
+      <name>testValidate with data set #14</name>
+    </test-case>
+    <test-case start="1729890375270" stop="1729890375272" status="passed">
+      <name>testValidate with data set #15</name>
+    </test-case>
+    <test-case start="1729890375273" stop="1729890375274" status="passed">
+      <name>testValidate with data set #16</name>
+    </test-case>
+    <test-case start="1729890375275" stop="1729890375276" status="passed">
+      <name>testValidate with data set #17</name>
+    </test-case>
+    <test-case start="1729890375276" stop="1729890375278" status="passed">
+      <name>testValidate with data set #18</name>
+    </test-case>
+    <test-case start="1729890375278" stop="1729890375279" status="passed">
+      <name>testValidate with data set #19</name>
+    </test-case>
+    <test-case start="1729890375280" stop="1729890375281" status="passed">
+      <name>testValidate with data set #20</name>
+    </test-case>
+    <test-case start="1729890375282" stop="1729890375283" status="passed">
+      <name>testValidate with data set #21</name>
+    </test-case>
+    <test-case start="1729890375284" stop="1729890375285" status="passed">
+      <name>testValidate with data set #22</name>
+    </test-case>
+    <test-case start="1729890375285" stop="1729890375287" status="passed">
+      <name>testValidate with data set #23</name>
+    </test-case>
+    <test-case start="1729890375287" stop="1729890375289" status="passed">
+      <name>testValidate with data set #24</name>
+    </test-case>
+    <test-case start="1729890375289" stop="1729890375291" status="passed">
+      <name>testValidate with data set #25</name>
+    </test-case>
+    <test-case start="1729890375291" stop="1729890375293" status="passed">
+      <name>testValidate with data set #26</name>
+    </test-case>
+    <test-case start="1729890375293" stop="1729890375295" status="passed">
+      <name>testValidate with data set #27</name>
+    </test-case>
+    <test-case start="1729890375295" stop="1729890375297" status="passed">
+      <name>testValidate with data set #28</name>
+    </test-case>
+    <test-case start="1729890375297" stop="1729890375299" status="passed">
+      <name>testValidate with data set #29</name>
+    </test-case>
+    <test-case start="1729890375299" stop="1729890375300" status="passed">
+      <name>testValidate with data set #30</name>
+    </test-case>
+    <test-case start="1729890375301" stop="1729890375302" status="passed">
+      <name>testValidate with data set #31</name>
+    </test-case>
+    <test-case start="1729890375303" stop="1729890375305" status="passed">
+      <name>testValidate with data set #32</name>
+    </test-case>
+    <test-case start="1729890375306" stop="1729890375307" status="passed">
+      <name>testValidateArrayOperatorType with data set #0</name>
+    </test-case>
+    <test-case start="1729890375307" stop="1729890375308" status="passed">
+      <name>testValidateArrayOperatorType with data set #1</name>
+    </test-case>
+    <test-case start="1729890375309" stop="1729890375310" status="passed">
+      <name>testValidateArrayOperatorType with data set #2</name>
+    </test-case>
+    <test-case start="1729890375311" stop="1729890375312" status="passed">
+      <name>testValidateArrayOperatorType with data set #3</name>
+    </test-case>
+    <test-case start="1729890375312" stop="1729890375313" status="passed">
+      <name>testValidateArrayOperatorType with data set #4</name>
+    </test-case>
+    <test-case start="1729890375314" stop="1729890375315" status="passed">
+      <name>testValidateArrayOperatorType with data set #5</name>
+    </test-case>
+    <test-case start="1729890375316" stop="1729890375317" status="passed">
+      <name>testValidateArrayOperatorType with data set #6</name>
+    </test-case>
+    <test-case start="1729890375317" stop="1729890375318" status="passed">
+      <name>testValidateArrayOperatorType with data set #7</name>
+    </test-case>
+    <test-case start="1729890375319" stop="1729890375320" status="passed">
+      <name>testValidateArrayOperatorType with data set #8</name>
+    </test-case>
+    <test-case start="1729890375321" stop="1729890375322" status="passed">
+      <name>testValidateArrayOperatorType with data set #9</name>
+    </test-case>
+    <test-case start="1729890375322" stop="1729890375323" status="passed">
+      <name>testValidateArrayOperatorType with data set #10</name>
+    </test-case>
+    <test-case start="1729890375324" stop="1729890375324" status="passed">
+      <name>testValidateArrayOperatorType with data set #11</name>
+    </test-case>
+    <test-case start="1729890375325" stop="1729890375326" status="passed">
+      <name>testValidateArrayOperatorType with data set #12</name>
+    </test-case>
+    <test-case start="1729890375327" stop="1729890375327" status="passed">
+      <name>testValidateArrayOperatorType with data set #13</name>
+    </test-case>
+    <test-case start="1729890375328" stop="1729890375329" status="passed">
+      <name>testValidateArrayOperatorType with data set #14</name>
+    </test-case>
+    <test-case start="1729890375330" stop="1729890375331" status="passed">
+      <name>testValidateArrayOperatorType with data set #15</name>
+    </test-case>
+    <test-case start="1729890375332" stop="1729890375332" status="passed">
+      <name>testValidateArrayOperatorType with data set #16</name>
+    </test-case>
+    <test-case start="1729890375333" stop="1729890375334" status="passed">
+      <name>testValidateArrayOperatorType with data set #17</name>
+    </test-case>
+    <test-case start="1729890375335" stop="1729890375336" status="passed">
+      <name>testValidateArrayOperatorType with data set #18</name>
+    </test-case>
+    <test-case start="1729890375336" stop="1729890375337" status="passed">
+      <name>testValidateArrayOperatorType with data set #19</name>
+    </test-case>
+    <test-case start="1729890375338" stop="1729890375339" status="passed">
+      <name>testValidateArrayOperatorType with data set #20</name>
+    </test-case>
+    <test-case start="1729890375340" stop="1729890375340" status="passed">
+      <name>testValidateArrayOperatorType with data set #21</name>
+    </test-case>
+    <test-case start="1729890375341" stop="1729890375342" status="passed">
+      <name>testValidateArrayOperatorType with data set #22</name>
+    </test-case>
+    <test-case start="1729890375342" stop="1729890375343" status="passed">
+      <name>testValidateArrayOperatorType with data set #23</name>
+    </test-case>
+    <test-case start="1729890375344" stop="1729890375344" status="passed">
+      <name>testValidateArrayOperatorType with data set #24</name>
+    </test-case>
+    <test-case start="1729890375345" stop="1729890375346" status="passed">
+      <name>testValidateArrayOperatorType with data set #25</name>
+    </test-case>
+    <test-case start="1729890375346" stop="1729890375347" status="passed">
+      <name>testGetValueParsed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

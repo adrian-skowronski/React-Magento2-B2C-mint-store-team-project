@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448226" stop="1729890448238" version="1.4.0">
+  <name>Magento\Framework\Event\Test\Unit\Observer\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890448226" stop="1729890448227" status="passed">
+      <name>testAddObserver</name>
+    </test-case>
+    <test-case start="1729890448228" stop="1729890448229" status="passed">
+      <name>testGetAllObservers</name>
+    </test-case>
+    <test-case start="1729890448230" stop="1729890448230" status="passed">
+      <name>testGetObserverByName with data set #0</name>
+    </test-case>
+    <test-case start="1729890448231" stop="1729890448232" status="passed">
+      <name>testGetObserverByName with data set #1</name>
+    </test-case>
+    <test-case start="1729890448232" stop="1729890448233" status="passed">
+      <name>testGetObserverByName with data set #2</name>
+    </test-case>
+    <test-case start="1729890448233" stop="1729890448234" status="passed">
+      <name>testGetObserverByName with data set #3</name>
+    </test-case>
+    <test-case start="1729890448234" stop="1729890448236" status="passed">
+      <name>testRemoveObserverByName</name>
+    </test-case>
+    <test-case start="1729890448236" stop="1729890448237" status="passed">
+      <name>testDispatch</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

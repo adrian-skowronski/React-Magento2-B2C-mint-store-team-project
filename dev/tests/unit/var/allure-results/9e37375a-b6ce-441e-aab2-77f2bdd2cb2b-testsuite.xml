@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329784" stop="1729890329788" version="1.4.0">
+  <name>Magento\GiftMessage\Test\Unit\Model\Plugin\MergeQuoteItemsTest</name>
+  <test-cases>
+    <test-case start="1729890329784" stop="1729890329787" status="passed">
+      <name>testAfterMergeExpectsSetGiftMessageIdCalled</name>
+    </test-case>
+    <test-case start="1729890329787" stop="1729890329788" status="passed">
+      <name>testAfterMergeWithoutGiftMessageId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

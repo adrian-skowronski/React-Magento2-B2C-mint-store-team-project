@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418083" stop="1729890418096" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\I18n\ContextTest</name>
+  <test-cases>
+    <test-case start="1729890418084" stop="1729890418085" status="passed">
+      <name>testGetContextByPath with data set #0</name>
+    </test-case>
+    <test-case start="1729890418085" stop="1729890418086" status="passed">
+      <name>testGetContextByPath with data set #1</name>
+    </test-case>
+    <test-case start="1729890418087" stop="1729890418088" status="passed">
+      <name>testGetContextByPath with data set #2</name>
+    </test-case>
+    <test-case start="1729890418088" stop="1729890418089" status="passed">
+      <name>testGetContextByPathWithInvalidPath</name>
+    </test-case>
+    <test-case start="1729890418089" stop="1729890418090" status="passed">
+      <name>testBuildPathToLocaleDirectoryByContext with data set #0</name>
+    </test-case>
+    <test-case start="1729890418091" stop="1729890418091" status="passed">
+      <name>testBuildPathToLocaleDirectoryByContext with data set #1</name>
+    </test-case>
+    <test-case start="1729890418092" stop="1729890418093" status="passed">
+      <name>testBuildPathToLocaleDirectoryByContext with data set #2</name>
+    </test-case>
+    <test-case start="1729890418093" stop="1729890418094" status="passed">
+      <name>testBuildPathToLocaleDirectoryByContext with data set #3</name>
+    </test-case>
+    <test-case start="1729890418094" stop="1729890418095" status="passed">
+      <name>testBuildPathToLocaleDirectoryByContext with data set #4</name>
+    </test-case>
+    <test-case start="1729890418095" stop="1729890418096" status="passed">
+      <name>testBuildPathToLocaleDirectoryByContextWithInvalidType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

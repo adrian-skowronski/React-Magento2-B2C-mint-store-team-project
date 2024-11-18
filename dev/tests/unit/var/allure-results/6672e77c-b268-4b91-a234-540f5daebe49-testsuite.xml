@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461032" stop="1729890461036" version="1.4.0">
+  <name>Magento\Framework\Validator\Test\Unit\EmailAddressTest</name>
+  <test-cases>
+    <test-case start="1729890461033" stop="1729890461034" status="passed">
+      <name>testDefaultValidateIgnoresTLD</name>
+    </test-case>
+    <test-case start="1729890461035" stop="1729890461036" status="passed">
+      <name>testCanValidateTLD</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

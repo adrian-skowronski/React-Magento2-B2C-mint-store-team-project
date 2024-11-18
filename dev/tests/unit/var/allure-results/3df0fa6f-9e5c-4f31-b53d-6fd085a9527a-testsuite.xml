@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890278319" stop="1729890278321" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Plugin\Indexer\ImportExportTest</name>
+  <test-cases>
+    <test-case start="1729890278320" stop="1729890278321" status="passed">
+      <name>testAfterImportSource</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

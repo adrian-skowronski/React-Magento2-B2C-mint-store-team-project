@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890417159" stop="1729890417166" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\StoreConfigurationDataMapperTest</name>
+  <test-cases>
+    <test-case start="1729890417160" stop="1729890417160" status="passed">
+      <name>testGetConfigData with data set "valid"</name>
+    </test-case>
+    <test-case start="1729890417161" stop="1729890417162" status="passed">
+      <name>testGetConfigData with data set "valid alphabet url"</name>
+    </test-case>
+    <test-case start="1729890417163" stop="1729890417164" status="passed">
+      <name>testGetConfigData with data set "no trailing slash"</name>
+    </test-case>
+    <test-case start="1729890417164" stop="1729890417166" status="passed">
+      <name>testGetConfigData with data set "no trailing slash, alphabet url"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

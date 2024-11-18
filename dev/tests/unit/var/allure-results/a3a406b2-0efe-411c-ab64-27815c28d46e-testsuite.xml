@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316694" stop="1729890316700" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Metadata\AddressMetadataManagementTest</name>
+  <test-cases>
+    <test-case start="1729890316694" stop="1729890316698" status="passed">
+      <name>testCanBeSearchableInGrid</name>
+    </test-case>
+    <test-case start="1729890316698" stop="1729890316699" status="passed">
+      <name>testCanBeFilterableInGrid</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

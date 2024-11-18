@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890377907" stop="1729890377927" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Block\Adminhtml\Order\Create\TotalsTest</name>
+  <test-cases>
+    <test-case start="1729890377908" stop="1729890377912" status="passed">
+      <name>testGetNoteNotify with data set #0</name>
+    </test-case>
+    <test-case start="1729890377913" stop="1729890377915" status="passed">
+      <name>testGetNoteNotify with data set #1</name>
+    </test-case>
+    <test-case start="1729890377915" stop="1729890377917" status="passed">
+      <name>testGetNoteNotify with data set #2</name>
+    </test-case>
+    <test-case start="1729890377918" stop="1729890377922" status="passed">
+      <name>testGetNoteNotify with data set #3</name>
+    </test-case>
+    <test-case start="1729890377923" stop="1729890377927" status="passed">
+      <name>testGetNoteNotify with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

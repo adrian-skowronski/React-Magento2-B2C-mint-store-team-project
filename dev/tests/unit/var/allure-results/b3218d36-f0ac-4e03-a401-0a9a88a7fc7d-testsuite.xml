@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890399126" stop="1729890399131" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Model\Config\TaxClassTest</name>
+  <test-cases>
+    <test-case start="1729890399127" stop="1729890399130" status="passed">
+      <name>testAfterSave</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

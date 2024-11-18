@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890390908" stop="1729890390915" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Setup\SerializedDataConverterTest</name>
+  <test-cases>
+    <test-case start="1729890390908" stop="1729890390909" status="passed">
+      <name>testConvert</name>
+    </test-case>
+    <test-case start="1729890390910" stop="1729890390911" status="passed">
+      <name>testConvertBundleAttributes</name>
+    </test-case>
+    <test-case start="1729890390911" stop="1729890390912" status="passed">
+      <name>testConvertCustomOptionsTypeFile</name>
+    </test-case>
+    <test-case start="1729890390912" stop="1729890390913" status="passed">
+      <name>testConvertCorruptedData</name>
+    </test-case>
+    <test-case start="1729890390914" stop="1729890390915" status="passed">
+      <name>testConvertSkipConversion</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

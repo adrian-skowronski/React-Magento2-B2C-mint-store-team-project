@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890332382" stop="1729890332392" version="1.4.0">
+  <name>Magento\ImportExport\Test\Unit\Model\Import\Source\CsvTest</name>
+  <test-cases>
+    <test-case start="1729890332382" stop="1729890332383" status="passed">
+      <name>testConstructException</name>
+    </test-case>
+    <test-case start="1729890332384" stop="1729890332384" status="canceled">
+      <name>testConstructStream</name>
+      <failure>
+        <message>MAGETWO-17084: Replace PHP native calls</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-import-export/Test/Unit/Model/Import/Source/CsvTest.php(57): PHPUnit\Framework\Assert::markTestSkipped()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\ImportExport\Test\Unit\Model\Import\Source\CsvTest-&gt;testConstructStream()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#12 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890332385" stop="1729890332387" status="passed">
+      <name>testOptionalArgs with data set #0</name>
+    </test-case>
+    <test-case start="1729890332387" stop="1729890332389" status="passed">
+      <name>testOptionalArgs with data set #1</name>
+    </test-case>
+    <test-case start="1729890332389" stop="1729890332390" status="passed">
+      <name>testOptionalArgs with data set #2</name>
+    </test-case>
+    <test-case start="1729890332391" stop="1729890332392" status="passed">
+      <name>testRewind</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

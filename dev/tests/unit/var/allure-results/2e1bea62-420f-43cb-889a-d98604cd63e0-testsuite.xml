@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890311400" stop="1729890311403" version="1.4.0">
+  <name>Magento\Cron\Test\Unit\Model\Config\DataTest</name>
+  <test-cases>
+    <test-case start="1729890311400" stop="1729890311403" status="passed">
+      <name>testGetJobs</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

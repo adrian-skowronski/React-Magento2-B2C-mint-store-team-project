@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890270081" stop="1729890270095" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Model\ResourceModel\Indexer\PriceTest</name>
+  <test-cases>
+    <test-case start="1729890270081" stop="1729890270091" status="passed">
+      <name>testGetBundlePriceTable</name>
+    </test-case>
+    <test-case start="1729890270091" stop="1729890270093" status="passed">
+      <name>testGetBundleSelectionTable</name>
+    </test-case>
+    <test-case start="1729890270093" stop="1729890270094" status="passed">
+      <name>testGetBundleOptionTable</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

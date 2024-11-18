@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890362103" stop="1729890362121" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Payflow\Service\Response\TransactionTest</name>
+  <test-cases>
+    <test-case start="1729890362103" stop="1729890362111" status="passed">
+      <name>testGetResponseObject with data set "Input data is a string"</name>
+    </test-case>
+    <test-case start="1729890362111" stop="1729890362114" status="passed">
+      <name>testGetResponseObject with data set "Input data is an object"</name>
+    </test-case>
+    <test-case start="1729890362114" stop="1729890362117" status="passed">
+      <name>testGetResponseObject with data set "Input data is an array"</name>
+    </test-case>
+    <test-case start="1729890362117" stop="1729890362120" status="passed">
+      <name>testSavePaymentInQuote</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

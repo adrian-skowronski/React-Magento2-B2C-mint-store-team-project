@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890320875" stop="1729890321308" version="1.4.0">
+  <name>Magento\Dhl\Test\Unit\Model\CarrierTest</name>
+  <test-cases>
+    <test-case start="1729890320875" stop="1729890320941" status="passed">
+      <name>testPrepareShippingLabelContent</name>
+    </test-case>
+    <test-case start="1729890320944" stop="1729890320953" status="passed">
+      <name>testPrepareShippingLabelContentException with data set #0</name>
+    </test-case>
+    <test-case start="1729890320955" stop="1729890320965" status="passed">
+      <name>testPrepareShippingLabelContentException with data set #1</name>
+    </test-case>
+    <test-case start="1729890320966" stop="1729890320976" status="passed">
+      <name>testPrepareShippingLabelContentException with data set #2</name>
+    </test-case>
+    <test-case start="1729890320979" stop="1729890320990" status="passed">
+      <name>testCollectRatesErrorMessage</name>
+    </test-case>
+    <test-case start="1729890320993" stop="1729890321008" status="passed">
+      <name>testGetDhlProducts with data set "doc"</name>
+    </test-case>
+    <test-case start="1729890321009" stop="1729890321020" status="passed">
+      <name>testGetDhlProducts with data set "non-doc"</name>
+    </test-case>
+    <test-case start="1729890321023" stop="1729890321031" status="passed">
+      <name>testBuildMessageReference with data set "quote_prefix"</name>
+    </test-case>
+    <test-case start="1729890321036" stop="1729890321045" status="passed">
+      <name>testBuildMessageReference with data set "shipval_prefix"</name>
+    </test-case>
+    <test-case start="1729890321047" stop="1729890321055" status="passed">
+      <name>testBuildMessageReference with data set "tracking_prefix"</name>
+    </test-case>
+    <test-case start="1729890321056" stop="1729890321061" status="passed">
+      <name>testBuildMessageReferenceInvalidPrefix</name>
+    </test-case>
+    <test-case start="1729890321062" stop="1729890321242" status="passed">
+      <name>testBuildSoftwareName with data set "valid_length"</name>
+    </test-case>
+    <test-case start="1729890321243" stop="1729890321249" status="passed">
+      <name>testBuildSoftwareName with data set "exceeds_length"</name>
+    </test-case>
+    <test-case start="1729890321250" stop="1729890321262" status="passed">
+      <name>testBuildSoftwareVersion with data set "valid_length"</name>
+    </test-case>
+    <test-case start="1729890321262" stop="1729890321272" status="passed">
+      <name>testBuildSoftwareVersion with data set "exceeds_length"</name>
+    </test-case>
+    <test-case start="1729890321276" stop="1729890321295" status="passed">
+      <name>testGetGatewayURL with data set "standard_url"</name>
+    </test-case>
+    <test-case start="1729890321295" stop="1729890321304" status="passed">
+      <name>testGetGatewayURL with data set "sandbox_url"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

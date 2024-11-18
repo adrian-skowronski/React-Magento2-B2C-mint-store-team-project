@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890318872" stop="1729890318881" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Ui\Component\Listing\Column\ValidationRulesTest</name>
+  <test-cases>
+    <test-case start="1729890318873" stop="1729890318874" status="passed">
+      <name>testGetValidationRules with data set #0</name>
+    </test-case>
+    <test-case start="1729890318874" stop="1729890318875" status="passed">
+      <name>testGetValidationRules with data set #1</name>
+    </test-case>
+    <test-case start="1729890318876" stop="1729890318876" status="passed">
+      <name>testGetValidationRules with data set #2</name>
+    </test-case>
+    <test-case start="1729890318877" stop="1729890318878" status="passed">
+      <name>testGetValidationRules with data set #3</name>
+    </test-case>
+    <test-case start="1729890318878" stop="1729890318879" status="passed">
+      <name>testGetValidationRules with data set #4</name>
+    </test-case>
+    <test-case start="1729890318879" stop="1729890318880" status="passed">
+      <name>testGetValidationRules with data set #5</name>
+    </test-case>
+    <test-case start="1729890318880" stop="1729890318881" status="passed">
+      <name>testGetValidationRulesWithOnlyRequiredRule</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

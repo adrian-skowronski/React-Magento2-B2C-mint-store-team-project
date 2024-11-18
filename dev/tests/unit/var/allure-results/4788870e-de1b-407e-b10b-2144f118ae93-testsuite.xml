@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448167" stop="1729890448198" version="1.4.0">
+  <name>Magento\Framework\Event\Test\Unit\Invoker\InvokerDefaultTest</name>
+  <test-cases>
+    <test-case start="1729890448167" stop="1729890448187" status="passed">
+      <name>testDispatchWithDisabledObserver</name>
+    </test-case>
+    <test-case start="1729890448187" stop="1729890448188" status="passed">
+      <name>testDispatchWithNonSharedInstance</name>
+    </test-case>
+    <test-case start="1729890448188" stop="1729890448189" status="passed">
+      <name>testDispatchWithSharedInstance</name>
+    </test-case>
+    <test-case start="1729890448190" stop="1729890448192" status="passed">
+      <name>testWrongInterfaceCallWithEnabledDeveloperMode with data set "shared"</name>
+    </test-case>
+    <test-case start="1729890448192" stop="1729890448194" status="passed">
+      <name>testWrongInterfaceCallWithEnabledDeveloperMode with data set "non shared"</name>
+    </test-case>
+    <test-case start="1729890448194" stop="1729890448196" status="passed">
+      <name>testWrongInterfaceCallWithDisabledDeveloperMode with data set "shared"</name>
+    </test-case>
+    <test-case start="1729890448197" stop="1729890448198" status="passed">
+      <name>testWrongInterfaceCallWithDisabledDeveloperMode with data set "non shared"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

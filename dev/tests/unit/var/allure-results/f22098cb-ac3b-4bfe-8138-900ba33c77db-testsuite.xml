@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890457583" stop="1729890457587" version="1.4.0">
+  <name>Magento\Framework\Setup\Test\Unit\Declaration\Schema\Dto\Factories\TableTest</name>
+  <test-cases>
+    <test-case start="1729890457584" stop="1729890457586" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890457586" stop="1729890457587" status="passed">
+      <name>testCreateWithPrefix</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

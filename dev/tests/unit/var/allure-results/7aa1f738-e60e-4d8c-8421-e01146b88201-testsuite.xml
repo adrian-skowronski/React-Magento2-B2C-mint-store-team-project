@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301037" stop="1729890301043" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Model\Wysiwyg\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890301038" stop="1729890301039" status="passed">
+      <name>testValidate with data set "invalid-exception"</name>
+    </test-case>
+    <test-case start="1729890301040" stop="1729890301041" status="passed">
+      <name>testValidate with data set "invalid-warning"</name>
+    </test-case>
+    <test-case start="1729890301042" stop="1729890301043" status="passed">
+      <name>testValidate with data set "valid"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

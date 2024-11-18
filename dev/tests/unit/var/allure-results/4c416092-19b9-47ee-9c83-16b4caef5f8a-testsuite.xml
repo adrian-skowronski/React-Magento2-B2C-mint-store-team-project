@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408397" stop="1729890408404" version="1.4.0">
+  <name>Magento\Webapi\Test\Unit\Controller\RestTest</name>
+  <test-cases>
+    <test-case start="1729890408397" stop="1729890408401" status="passed">
+      <name>testDispatchSchemaRequest</name>
+    </test-case>
+    <test-case start="1729890408401" stop="1729890408404" status="passed">
+      <name>testDispatchAllSchemaRequest</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

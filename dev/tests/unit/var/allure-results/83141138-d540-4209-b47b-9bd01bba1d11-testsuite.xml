@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890457703" stop="1729890457732" version="1.4.0">
+  <name>Magento\Framework\Setup\Test\Unit\FilePermissionsTest</name>
+  <test-cases>
+    <test-case start="1729890457703" stop="1729890457704" status="passed">
+      <name>testGetInstallationWritableDirectories with data set #0</name>
+    </test-case>
+    <test-case start="1729890457705" stop="1729890457706" status="passed">
+      <name>testGetInstallationWritableDirectories with data set #1</name>
+    </test-case>
+    <test-case start="1729890457706" stop="1729890457707" status="passed">
+      <name>testGetInstallationWritableDirectoriesInProduction</name>
+    </test-case>
+    <test-case start="1729890457707" stop="1729890457708" status="passed">
+      <name>testGetApplicationNonWritableDirectories</name>
+    </test-case>
+    <test-case start="1729890457708" stop="1729890457712" status="passed">
+      <name>testGetInstallationCurrentWritableDirectories</name>
+    </test-case>
+    <test-case start="1729890457712" stop="1729890457714" status="passed">
+      <name>testGetApplicationCurrentNonWritableDirectories with data set #0</name>
+    </test-case>
+    <test-case start="1729890457714" stop="1729890457715" status="passed">
+      <name>testGetApplicationCurrentNonWritableDirectories with data set #1</name>
+    </test-case>
+    <test-case start="1729890457716" stop="1729890457717" status="passed">
+      <name>testGetApplicationCurrentNonWritableDirectories with data set #2</name>
+    </test-case>
+    <test-case start="1729890457718" stop="1729890457719" status="passed">
+      <name>testGetApplicationCurrentNonWritableDirectories with data set #3</name>
+    </test-case>
+    <test-case start="1729890457720" stop="1729890457721" status="passed">
+      <name>testGetMissingWritableDirectoriesAndPathsForInstallation with data set #0</name>
+    </test-case>
+    <test-case start="1729890457722" stop="1729890457723" status="passed">
+      <name>testGetMissingWritableDirectoriesAndPathsForInstallation with data set #1</name>
+    </test-case>
+    <test-case start="1729890457724" stop="1729890457726" status="passed">
+      <name>testGetMissingWritableDirectoriesAndPathsForInstallationInProduction</name>
+    </test-case>
+    <test-case start="1729890457726" stop="1729890457728" status="passed">
+      <name>testGetMissingWritableDirectoriesForDbUpgrade</name>
+    </test-case>
+    <test-case start="1729890457729" stop="1729890457730" status="passed">
+      <name>testGetUnnecessaryWritableDirectoriesForApplication with data set #0</name>
+    </test-case>
+    <test-case start="1729890457731" stop="1729890457732" status="passed">
+      <name>testGetUnnecessaryWritableDirectoriesForApplication with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

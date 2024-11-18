@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890425413" stop="1729890425422" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\ObjectManager\ConfigLoaderTest</name>
+  <test-cases>
+    <test-case start="1729890425413" stop="1729890425416" status="passed">
+      <name>testLoadNotCached with data set "global files"</name>
+    </test-case>
+    <test-case start="1729890425416" stop="1729890425418" status="passed">
+      <name>testLoadNotCached with data set "adminhtml files"</name>
+    </test-case>
+    <test-case start="1729890425418" stop="1729890425420" status="passed">
+      <name>testLoadNotCached with data set "any area files"</name>
+    </test-case>
+    <test-case start="1729890425420" stop="1729890425421" status="passed">
+      <name>testLoadCached</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

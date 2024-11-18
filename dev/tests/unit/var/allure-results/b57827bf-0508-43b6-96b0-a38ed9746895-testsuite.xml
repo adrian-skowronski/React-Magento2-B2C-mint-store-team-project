@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393576" stop="1729890393586" version="1.4.0">
+  <name>Magento\Sitemap\Test\Unit\Model\Config\Backend\PriorityTest</name>
+  <test-cases>
+    <test-case start="1729890393576" stop="1729890393578" status="passed">
+      <name>testBeforeSaveIsChainable with data set #0</name>
+    </test-case>
+    <test-case start="1729890393578" stop="1729890393579" status="passed">
+      <name>testBeforeSaveIsChainable with data set #1</name>
+    </test-case>
+    <test-case start="1729890393580" stop="1729890393580" status="passed">
+      <name>testBeforeSaveIsChainable with data set #2</name>
+    </test-case>
+    <test-case start="1729890393581" stop="1729890393581" status="passed">
+      <name>testBeforeSaveIsChainable with data set #3</name>
+    </test-case>
+    <test-case start="1729890393582" stop="1729890393583" status="passed">
+      <name>testBeforeSaveValueOutOfRange with data set #0</name>
+    </test-case>
+    <test-case start="1729890393583" stop="1729890393584" status="passed">
+      <name>testBeforeSaveValueOutOfRange with data set #1</name>
+    </test-case>
+    <test-case start="1729890393584" stop="1729890393585" status="passed">
+      <name>testBeforeSaveValueOutOfRange with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

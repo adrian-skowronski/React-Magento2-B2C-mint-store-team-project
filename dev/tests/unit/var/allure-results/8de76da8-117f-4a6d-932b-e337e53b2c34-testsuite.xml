@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402744" stop="1729890402746" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\ResourceModel\Design\Config\Scope\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890402744" stop="1729890402746" status="passed">
+      <name>testLoadData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

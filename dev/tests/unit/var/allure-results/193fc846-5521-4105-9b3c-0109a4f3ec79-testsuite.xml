@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402830" stop="1729890402838" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Theme\DataTest</name>
+  <test-cases>
+    <test-case start="1729890402830" stop="1729890402838" status="passed">
+      <name>testGetArea</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

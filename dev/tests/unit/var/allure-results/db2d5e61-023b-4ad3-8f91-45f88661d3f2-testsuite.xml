@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310467" stop="1729890310471" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Plugin\Product\Initialization\CleanConfigurationTmpImagesTest</name>
+  <test-cases>
+    <test-case start="1729890310467" stop="1729890310469" status="passed">
+      <name>testAfterInitialize</name>
+    </test-case>
+    <test-case start="1729890310469" stop="1729890310470" status="passed">
+      <name>testAfterInitializeEmptyMatrix</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

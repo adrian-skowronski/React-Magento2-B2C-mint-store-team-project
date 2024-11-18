@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890257165" stop="1729890257196" version="1.4.0">
+  <name>Magento\AdminAdobeIms\Test\Unit\Model\ImsConnectionTest</name>
+  <test-cases>
+    <test-case start="1729890257165" stop="1729890257194" status="passed">
+      <name>testAuthThrowsExceptionWhenResponseCodeIs200</name>
+    </test-case>
+    <test-case start="1729890257194" stop="1729890257196" status="passed">
+      <name>testAuthThrowsExceptionWhenResponseContainsError</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

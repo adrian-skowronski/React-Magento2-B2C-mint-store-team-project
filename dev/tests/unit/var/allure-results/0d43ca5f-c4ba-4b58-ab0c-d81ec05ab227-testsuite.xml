@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393994" stop="1729890394008" version="1.4.0">
+  <name>Magento\Store\Test\Unit\App\FrontController\Plugin\RequestPreprocessorTest</name>
+  <test-cases>
+    <test-case start="1729890393995" stop="1729890394001" status="passed">
+      <name>testAroundDispatchIfRedirectCodeNotExist</name>
+    </test-case>
+    <test-case start="1729890394001" stop="1729890394005" status="passed">
+      <name>testAroundDispatchIfRedirectCodeExist</name>
+    </test-case>
+    <test-case start="1729890394005" stop="1729890394008" status="passed">
+      <name>testAroundDispatchIfBaseUrlNotExists</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

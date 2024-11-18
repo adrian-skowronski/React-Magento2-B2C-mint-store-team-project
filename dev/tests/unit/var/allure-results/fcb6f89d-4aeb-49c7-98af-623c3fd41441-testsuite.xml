@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890351932" stop="1729890351937" version="1.4.0">
+  <name>Magento\Inventory\Test\Unit\Model\SourceItem\Command\GetSourceItemsBySkuCacheTest</name>
+  <test-cases>
+    <test-case start="1729890351933" stop="1729890351937" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

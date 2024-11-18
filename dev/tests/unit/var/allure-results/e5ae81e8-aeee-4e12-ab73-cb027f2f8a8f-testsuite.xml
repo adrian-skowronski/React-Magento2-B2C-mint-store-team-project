@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271957" stop="1729890271968" version="1.4.0">
+  <name>Magento\CatalogGraphQl\Test\Unit\Model\Resolver\Products\Query\SearchTest</name>
+  <test-cases>
+    <test-case start="1729890271957" stop="1729890271968" status="passed">
+      <name>testPopulateSearchQueryStats</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

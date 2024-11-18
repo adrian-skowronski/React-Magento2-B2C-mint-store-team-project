@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890295859" stop="1729890295871" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Ui\DataProvider\Product\Form\Modifier\CustomOptionsTest</name>
+  <test-cases>
+    <test-case start="1729890295860" stop="1729890295865" status="passed">
+      <name>testModifyData</name>
+    </test-case>
+    <test-case start="1729890295865" stop="1729890295868" status="passed">
+      <name>testModifyMeta</name>
+    </test-case>
+    <test-case start="1729890295868" stop="1729890295870" status="passed">
+      <name>testFileExtensionRequired</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

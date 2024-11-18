@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890313573" stop="1729890313637" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Block\Widget\NameTest</name>
+  <test-cases>
+    <test-case start="1729890313573" stop="1729890313577" status="passed">
+      <name>testShowPrefix</name>
+    </test-case>
+    <test-case start="1729890313577" stop="1729890313579" status="passed">
+      <name>testShowPrefixWithException</name>
+    </test-case>
+    <test-case start="1729890313579" stop="1729890313581" status="passed">
+      <name>testMethodWithNoSuchEntityException with data set "showPrefix"</name>
+    </test-case>
+    <test-case start="1729890313582" stop="1729890313584" status="passed">
+      <name>testMethodWithNoSuchEntityException with data set "isPrefixRequired"</name>
+    </test-case>
+    <test-case start="1729890313584" stop="1729890313586" status="passed">
+      <name>testMethodWithNoSuchEntityException with data set "showMiddlename"</name>
+    </test-case>
+    <test-case start="1729890313586" stop="1729890313588" status="passed">
+      <name>testMethodWithNoSuchEntityException with data set "isMiddlenameRequired"</name>
+    </test-case>
+    <test-case start="1729890313588" stop="1729890313590" status="passed">
+      <name>testMethodWithNoSuchEntityException with data set "showSuffix"</name>
+    </test-case>
+    <test-case start="1729890313590" stop="1729890313593" status="passed">
+      <name>testMethodWithNoSuchEntityException with data set "isSuffixRequired"</name>
+    </test-case>
+    <test-case start="1729890313593" stop="1729890313595" status="passed">
+      <name>testIsPrefixRequired</name>
+    </test-case>
+    <test-case start="1729890313596" stop="1729890313598" status="passed">
+      <name>testShowMiddlename</name>
+    </test-case>
+    <test-case start="1729890313598" stop="1729890313600" status="passed">
+      <name>testIsMiddlenameRequired</name>
+    </test-case>
+    <test-case start="1729890313600" stop="1729890313602" status="passed">
+      <name>testShowSuffix</name>
+    </test-case>
+    <test-case start="1729890313602" stop="1729890313604" status="passed">
+      <name>testIsSuffixRequired</name>
+    </test-case>
+    <test-case start="1729890313604" stop="1729890313606" status="passed">
+      <name>testGetPrefixOptionsNotEmpty</name>
+    </test-case>
+    <test-case start="1729890313607" stop="1729890313608" status="passed">
+      <name>testGetPrefixOptionsEmpty</name>
+    </test-case>
+    <test-case start="1729890313609" stop="1729890313611" status="passed">
+      <name>testGetSuffixOptionsNotEmpty</name>
+    </test-case>
+    <test-case start="1729890313612" stop="1729890313614" status="passed">
+      <name>testGetSuffixOptionsEmpty</name>
+    </test-case>
+    <test-case start="1729890313614" stop="1729890313616" status="passed">
+      <name>testGetClassName</name>
+    </test-case>
+    <test-case start="1729890313617" stop="1729890313618" status="passed">
+      <name>testGetContainerClassName with data set #0</name>
+    </test-case>
+    <test-case start="1729890313619" stop="1729890313620" status="passed">
+      <name>testGetContainerClassName with data set #1</name>
+    </test-case>
+    <test-case start="1729890313621" stop="1729890313623" status="passed">
+      <name>testGetContainerClassName with data set #2</name>
+    </test-case>
+    <test-case start="1729890313623" stop="1729890313626" status="passed">
+      <name>testGetContainerClassName with data set #3</name>
+    </test-case>
+    <test-case start="1729890313627" stop="1729890313629" status="passed">
+      <name>testGetContainerClassName with data set #4</name>
+    </test-case>
+    <test-case start="1729890313630" stop="1729890313632" status="passed">
+      <name>testGetStoreLabel with data set #0</name>
+    </test-case>
+    <test-case start="1729890313632" stop="1729890313635" status="passed">
+      <name>testGetStoreLabel with data set #1</name>
+    </test-case>
+    <test-case start="1729890313636" stop="1729890313637" status="passed">
+      <name>testGetStoreLabelWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

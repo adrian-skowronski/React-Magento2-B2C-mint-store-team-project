@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890320484" stop="1729890320500" version="1.4.0">
+  <name>Magento\Developer\Test\Unit\Model\Logger\Handler\SyslogTest</name>
+  <test-cases>
+    <test-case start="1729890320485" stop="1729890320495" status="passed">
+      <name>testIsHandling</name>
+    </test-case>
+    <test-case start="1729890320497" stop="1729890320498" status="passed">
+      <name>testIsHandlingNotInstalled</name>
+    </test-case>
+    <test-case start="1729890320498" stop="1729890320500" status="passed">
+      <name>testIsHandlingDisabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

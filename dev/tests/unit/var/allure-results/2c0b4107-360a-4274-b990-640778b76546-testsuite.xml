@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890293957" stop="1729890293983" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ResourceModel\Product\ActionTest</name>
+  <test-cases>
+    <test-case start="1729890293957" stop="1729890293968" status="passed">
+      <name>testUpdateProductHasWeightAttributes with data set #0</name>
+    </test-case>
+    <test-case start="1729890293968" stop="1729890293973" status="passed">
+      <name>testUpdateProductHasWeightAttributes with data set #1</name>
+    </test-case>
+    <test-case start="1729890293974" stop="1729890293982" status="passed">
+      <name>testUpdateProductHasWeightAttributes with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

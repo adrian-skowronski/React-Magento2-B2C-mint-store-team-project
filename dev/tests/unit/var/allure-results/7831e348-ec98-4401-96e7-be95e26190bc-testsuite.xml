@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264196" stop="1729890264207" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\MenuItemCheckerTest</name>
+  <test-cases>
+    <test-case start="1729890264197" stop="1729890264201" status="passed">
+      <name>testIsItemActive with data set "outputItemEquals"</name>
+    </test-case>
+    <test-case start="1729890264202" stop="1729890264203" status="passed">
+      <name>testIsItemActive with data set "outputItemIsChild"</name>
+    </test-case>
+    <test-case start="1729890264204" stop="1729890264206" status="passed">
+      <name>testIsItemActive with data set "outputItemIsChildNull"</name>
+    </test-case>
+    <test-case start="1729890264206" stop="1729890264207" status="passed">
+      <name>testIsItemActiveLevelNotZero</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

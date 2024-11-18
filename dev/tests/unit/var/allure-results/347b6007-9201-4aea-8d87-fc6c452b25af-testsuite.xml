@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890371603" stop="1729890371620" version="1.4.0">
+  <name>Magento\ReCaptchaWebapiRest\Test\Unit\Plugin\RestValidationPluginTest</name>
+  <test-cases>
+    <test-case start="1729890371604" stop="1729890371615" status="passed">
+      <name>testPlugin with data set "unprotected-endpoint"</name>
+    </test-case>
+    <test-case start="1729890371616" stop="1729890371617" status="passed">
+      <name>testPlugin with data set "protected-endpoint-no-token"</name>
+    </test-case>
+    <test-case start="1729890371618" stop="1729890371620" status="passed">
+      <name>testPlugin with data set "protected-endpoint-valid-token"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

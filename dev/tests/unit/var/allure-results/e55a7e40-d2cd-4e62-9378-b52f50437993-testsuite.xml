@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392582" stop="1729890392589" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Model\SecurityManagerTest</name>
+  <test-cases>
+    <test-case start="1729890392582" stop="1729890392586" status="passed">
+      <name>testConstructorException</name>
+    </test-case>
+    <test-case start="1729890392586" stop="1729890392587" status="passed">
+      <name>testPerformSecurityCheck</name>
+    </test-case>
+    <test-case start="1729890392588" stop="1729890392589" status="passed">
+      <name>testCleanExpiredRecords</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

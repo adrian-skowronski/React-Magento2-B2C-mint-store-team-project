@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271075" stop="1729890271076" version="1.4.0">
+  <name>Magento\CacheInvalidate\Test\Unit\Model\SocketFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890271075" stop="1729890271076" status="passed">
+      <name>testCreate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376107" stop="1729890376118" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\Quote\Address\Total\ShippingDiscountTest</name>
+  <test-cases>
+    <test-case start="1729890376108" stop="1729890376112" status="passed">
+      <name>testCollectNoShippingAmount</name>
+    </test-case>
+    <test-case start="1729890376112" stop="1729890376116" status="passed">
+      <name>testCollectWithShippingAmountDiscount</name>
+    </test-case>
+    <test-case start="1729890376116" stop="1729890376118" status="passed">
+      <name>testFetch</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

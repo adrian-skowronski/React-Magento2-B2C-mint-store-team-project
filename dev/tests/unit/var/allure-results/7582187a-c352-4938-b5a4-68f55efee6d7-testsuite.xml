@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890317032" stop="1729890317107" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Metadata\Form\FileTest</name>
+  <test-cases>
+    <test-case start="1729890317032" stop="1729890317034" status="passed">
+      <name>testExtractValueNoRequestScope with data set "no_file"</name>
+    </test-case>
+    <test-case start="1729890317035" stop="1729890317036" status="passed">
+      <name>testExtractValueNoRequestScope with data set "delete"</name>
+    </test-case>
+    <test-case start="1729890317037" stop="1729890317038" status="passed">
+      <name>testExtractValueNoRequestScope with data set "file_delete"</name>
+    </test-case>
+    <test-case start="1729890317039" stop="1729890317040" status="passed">
+      <name>testExtractValueNoRequestScope with data set "file_!delete"</name>
+    </test-case>
+    <test-case start="1729890317041" stop="1729890317043" status="passed">
+      <name>testExtractValueWithRequestScope with data set "requestScope"</name>
+    </test-case>
+    <test-case start="1729890317044" stop="1729890317045" status="passed">
+      <name>testExtractValueWithRequestScope with data set "mainScope"</name>
+    </test-case>
+    <test-case start="1729890317046" stop="1729890317048" status="passed">
+      <name>testExtractValueWithRequestScope with data set "mainScope/scopeName"</name>
+    </test-case>
+    <test-case start="1729890317048" stop="1729890317050" status="passed">
+      <name>testValidateValueNotToUpload with data set "emptyValue"</name>
+    </test-case>
+    <test-case start="1729890317050" stop="1729890317052" status="passed">
+      <name>testValidateValueNotToUpload with data set "someValue"</name>
+    </test-case>
+    <test-case start="1729890317053" stop="1729890317054" status="passed">
+      <name>testValidateValueNotToUpload with data set "delete_someValue"</name>
+    </test-case>
+    <test-case start="1729890317055" stop="1729890317057" status="passed">
+      <name>testValidateValueNotToUpload with data set "null"</name>
+    </test-case>
+    <test-case start="1729890317058" stop="1729890317060" status="passed">
+      <name>testValidateValueToUpload with data set "notValid"</name>
+    </test-case>
+    <test-case start="1729890317060" stop="1729890317062" status="passed">
+      <name>testValidateValueToUpload with data set "notUploaded"</name>
+    </test-case>
+    <test-case start="1729890317063" stop="1729890317065" status="passed">
+      <name>testValidateValueToUpload with data set "isValid"</name>
+    </test-case>
+    <test-case start="1729890317066" stop="1729890317067" status="passed">
+      <name>testCompactValueIsAjax</name>
+    </test-case>
+    <test-case start="1729890317068" stop="1729890317069" status="passed">
+      <name>testCompactValueNoDelete</name>
+    </test-case>
+    <test-case start="1729890317070" stop="1729890317071" status="passed">
+      <name>testCompactValueDelete</name>
+    </test-case>
+    <test-case start="1729890317072" stop="1729890317075" status="passed">
+      <name>testCompactValueTmpFile</name>
+    </test-case>
+    <test-case start="1729890317075" stop="1729890317077" status="passed">
+      <name>testRestoreValue</name>
+    </test-case>
+    <test-case start="1729890317078" stop="1729890317079" status="passed">
+      <name>testOutputValueNonJson with data set "text"</name>
+    </test-case>
+    <test-case start="1729890317080" stop="1729890317081" status="passed">
+      <name>testOutputValueNonJson with data set "array"</name>
+    </test-case>
+    <test-case start="1729890317081" stop="1729890317083" status="passed">
+      <name>testOutputValueNonJson with data set "html"</name>
+    </test-case>
+    <test-case start="1729890317084" stop="1729890317085" status="passed">
+      <name>testOutputValueNonJson with data set "oneline"</name>
+    </test-case>
+    <test-case start="1729890317086" stop="1729890317087" status="passed">
+      <name>testOutputValueNonJson with data set "pdf"</name>
+    </test-case>
+    <test-case start="1729890317088" stop="1729890317089" status="passed">
+      <name>testOutputValueJson</name>
+    </test-case>
+    <test-case start="1729890317089" stop="1729890317091" status="passed">
+      <name>testExtractValueFileUploaderUIComponent</name>
+    </test-case>
+    <test-case start="1729890317092" stop="1729890317093" status="passed">
+      <name>testCompactValueRemoveUiComponentValue</name>
+    </test-case>
+    <test-case start="1729890317094" stop="1729890317095" status="passed">
+      <name>testCompactValueNoAction</name>
+    </test-case>
+    <test-case start="1729890317095" stop="1729890317097" status="passed">
+      <name>testCompactValueUiComponent</name>
+    </test-case>
+    <test-case start="1729890317097" stop="1729890317102" status="passed">
+      <name>testCompactValueInputField</name>
+    </test-case>
+    <test-case start="1729890317103" stop="1729890317105" status="passed">
+      <name>testCompactValueInputFieldWithException</name>
+    </test-case>
+    <test-case start="1729890317105" stop="1729890317107" status="passed">
+      <name>testCompactValueWithProtectedExtension</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

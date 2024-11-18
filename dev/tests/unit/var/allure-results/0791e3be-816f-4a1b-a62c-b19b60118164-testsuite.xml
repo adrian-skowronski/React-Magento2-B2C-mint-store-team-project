@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297951" stop="1729890297964" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Model\Cart\RequestQuantityProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890297952" stop="1729890297953" status="passed">
+      <name>testProcess with data set "empty_array"</name>
+    </test-case>
+    <test-case start="1729890297954" stop="1729890297957" status="passed">
+      <name>testProcess with data set "strings_array"</name>
+    </test-case>
+    <test-case start="1729890297957" stop="1729890297959" status="passed">
+      <name>testProcess with data set "integer_array"</name>
+    </test-case>
+    <test-case start="1729890297960" stop="1729890297961" status="passed">
+      <name>testProcess with data set "array_of arrays"</name>
+    </test-case>
+    <test-case start="1729890297962" stop="1729890297964" status="passed">
+      <name>testProcess with data set "strings_array_spain_locale"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

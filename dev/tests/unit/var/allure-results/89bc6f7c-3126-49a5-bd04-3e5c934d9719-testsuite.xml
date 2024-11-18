@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890390970" stop="1729890390988" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Ui\Component\Listing\Column\PriceTest</name>
+  <test-cases>
+    <test-case start="1729890390970" stop="1729890390973" status="passed">
+      <name>testPrepareDataSource with data set #0</name>
+    </test-case>
+    <test-case start="1729890390973" stop="1729890390975" status="passed">
+      <name>testPrepareDataSource with data set #1</name>
+    </test-case>
+    <test-case start="1729890390976" stop="1729890390978" status="passed">
+      <name>testPrepareDataSource with data set #2</name>
+    </test-case>
+    <test-case start="1729890390979" stop="1729890390981" status="passed">
+      <name>testPrepareDataSource with data set #3</name>
+    </test-case>
+    <test-case start="1729890390982" stop="1729890390985" status="passed">
+      <name>testPrepareDataSource with data set #4</name>
+    </test-case>
+    <test-case start="1729890390985" stop="1729890390987" status="passed">
+      <name>testPrepareDataSourceDataProvider</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

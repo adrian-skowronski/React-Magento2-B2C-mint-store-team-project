@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408101" stop="1729890408111" version="1.4.0">
+  <name>Magento\WebapiAsync\Test\Unit\Controller\PathProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890408102" stop="1729890408104" status="passed">
+      <name>testAllStoreCode with data set "All store code"</name>
+    </test-case>
+    <test-case start="1729890408105" stop="1729890408106" status="passed">
+      <name>testAllStoreCode with data set "Default store code"</name>
+    </test-case>
+    <test-case start="1729890408107" stop="1729890408109" status="passed">
+      <name>testAllStoreCode with data set "Arbitrary store code"</name>
+    </test-case>
+    <test-case start="1729890408109" stop="1729890408111" status="passed">
+      <name>testAllStoreCode with data set "Explicit default store code"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

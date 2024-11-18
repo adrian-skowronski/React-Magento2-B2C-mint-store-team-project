@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461314" stop="1729890461329" version="1.4.0">
+  <name>Magento\Framework\Validator\Test\Unit\UrlTest</name>
+  <test-cases>
+    <test-case start="1729890461315" stop="1729890461317" status="passed">
+      <name>testIsValid with data set #0</name>
+    </test-case>
+    <test-case start="1729890461318" stop="1729890461318" status="passed">
+      <name>testIsValid with data set #1</name>
+    </test-case>
+    <test-case start="1729890461320" stop="1729890461320" status="passed">
+      <name>testIsValid with data set #2</name>
+    </test-case>
+    <test-case start="1729890461322" stop="1729890461322" status="passed">
+      <name>testIsValid with data set #3</name>
+    </test-case>
+    <test-case start="1729890461323" stop="1729890461324" status="passed">
+      <name>testIsValid with data set #4</name>
+    </test-case>
+    <test-case start="1729890461325" stop="1729890461326" status="passed">
+      <name>testIsValid with data set #5</name>
+    </test-case>
+    <test-case start="1729890461327" stop="1729890461328" status="passed">
+      <name>testIsValid with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

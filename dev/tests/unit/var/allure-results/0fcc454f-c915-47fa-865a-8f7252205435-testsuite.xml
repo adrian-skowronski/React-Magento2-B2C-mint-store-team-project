@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462261" stop="1729890462267" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Design\FileResolution\Fallback\Resolver\AlternativeTest</name>
+  <test-cases>
+    <test-case start="1729890462262" stop="1729890462264" status="passed">
+      <name>testConstructorException with data set "numerical keys"</name>
+    </test-case>
+    <test-case start="1729890462264" stop="1729890462265" status="passed">
+      <name>testConstructorException with data set "non-array values"</name>
+    </test-case>
+    <test-case start="1729890462266" stop="1729890462267" status="passed">
+      <name>testResolve</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

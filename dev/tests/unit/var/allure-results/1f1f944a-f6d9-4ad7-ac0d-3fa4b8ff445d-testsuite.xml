@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358501" stop="1729890358530" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Gateway\Data\Order\OrderAdapterTest</name>
+  <test-cases>
+    <test-case start="1729890358501" stop="1729890358507" status="passed">
+      <name>testGetCurrencyCode</name>
+    </test-case>
+    <test-case start="1729890358507" stop="1729890358510" status="passed">
+      <name>testGetOrderIncrementId</name>
+    </test-case>
+    <test-case start="1729890358511" stop="1729890358514" status="passed">
+      <name>testGetCustomerId</name>
+    </test-case>
+    <test-case start="1729890358514" stop="1729890358517" status="passed">
+      <name>testGetBillingAddressIsNull</name>
+    </test-case>
+    <test-case start="1729890358517" stop="1729890358522" status="passed">
+      <name>testGetBillingAddress</name>
+    </test-case>
+    <test-case start="1729890358522" stop="1729890358526" status="passed">
+      <name>testGetShippingAddressIsNull</name>
+    </test-case>
+    <test-case start="1729890358526" stop="1729890358530" status="passed">
+      <name>testGetShippingAddress</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

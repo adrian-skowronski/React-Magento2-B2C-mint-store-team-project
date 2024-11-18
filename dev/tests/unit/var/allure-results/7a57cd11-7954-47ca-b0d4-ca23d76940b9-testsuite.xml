@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319051" stop="1729890319055" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Console\Command\App\SensitiveConfigSet\InteractiveCollectorTest</name>
+  <test-cases>
+    <test-case start="1729890319052" stop="1729890319055" status="passed">
+      <name>testGetValues</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

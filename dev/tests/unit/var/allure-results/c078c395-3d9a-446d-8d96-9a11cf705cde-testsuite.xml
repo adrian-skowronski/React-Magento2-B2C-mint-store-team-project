@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890363563" stop="1729890363575" version="1.4.0">
+  <name>Magento\Persistent\Test\Unit\Model\Customer\AuthorizationTest</name>
+  <test-cases>
+    <test-case start="1729890363564" stop="1729890363571" status="passed">
+      <name>testIsAuthorized with data set "Emulated persistent Customer ID#1 should not be authorized"</name>
+    </test-case>
+    <test-case start="1729890363571" stop="1729890363572" status="passed">
+      <name>testIsAuthorized with data set "Logged-in persistent Customer ID#1 should be authorized"</name>
+    </test-case>
+    <test-case start="1729890363573" stop="1729890363574" status="passed">
+      <name>testIsAuthorized with data set "Logged-in Customer ID#1 without persistency should be authorized"</name>
+    </test-case>
+    <test-case start="1729890363574" stop="1729890363575" status="passed">
+      <name>testIsAuthorized with data set "Persistent Customer ID/ isCustomerEmulated = null (API Request) should be authorized"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

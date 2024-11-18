@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890459414" stop="1729890459440" version="1.4.0">
+  <name>Magento\Framework\Translate\Test\Unit\Inline\ProxyTest</name>
+  <test-cases>
+    <test-case start="1729890459418" stop="1729890459426" status="passed">
+      <name>testIsAllowed</name>
+    </test-case>
+    <test-case start="1729890459427" stop="1729890459431" status="passed">
+      <name>testGetParser</name>
+    </test-case>
+    <test-case start="1729890459431" stop="1729890459432" status="passed">
+      <name>testProcessResponseBody</name>
+    </test-case>
+    <test-case start="1729890459433" stop="1729890459438" status="passed">
+      <name>testGetAdditionalHtmlAttribute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

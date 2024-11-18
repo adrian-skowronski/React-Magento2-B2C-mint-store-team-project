@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442813" stop="1729890442824" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Argument\Interpreter\ArrayTypeTest</name>
+  <test-cases>
+    <test-case start="1729890442814" stop="1729890442815" status="passed">
+      <name>testEvaluateException with data set "non-array item"</name>
+    </test-case>
+    <test-case start="1729890442816" stop="1729890442817" status="passed">
+      <name>testEvaluate with data set "empty array items"</name>
+    </test-case>
+    <test-case start="1729890442817" stop="1729890442818" status="passed">
+      <name>testEvaluate with data set "absent array items"</name>
+    </test-case>
+    <test-case start="1729890442819" stop="1729890442819" status="passed">
+      <name>testEvaluate with data set "present array items"</name>
+    </test-case>
+    <test-case start="1729890442820" stop="1729890442821" status="passed">
+      <name>testEvaluate with data set "sorted array items"</name>
+    </test-case>
+    <test-case start="1729890442821" stop="1729890442822" status="passed">
+      <name>testEvaluate with data set "pre-sorted array items"</name>
+    </test-case>
+    <test-case start="1729890442822" stop="1729890442823" status="passed">
+      <name>testEvaluate with data set "sort order edge case values"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

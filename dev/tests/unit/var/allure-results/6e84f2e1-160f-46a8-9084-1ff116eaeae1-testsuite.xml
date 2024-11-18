@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890357196" stop="1729890357261" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Model\Layout\LayoutPluginTest</name>
+  <test-cases>
+    <test-case start="1729890357197" stop="1729890357209" status="passed">
+      <name>testAfterGenerateElements with data set "Full_cache state is true, Layout is cache-able"</name>
+    </test-case>
+    <test-case start="1729890357210" stop="1729890357211" status="passed">
+      <name>testAfterGenerateElements with data set "Full_cache state is true, Layout is not cache-able"</name>
+    </test-case>
+    <test-case start="1729890357213" stop="1729890357214" status="passed">
+      <name>testAfterGenerateElements with data set "Full_cache state is false, Layout is not cache-able"</name>
+    </test-case>
+    <test-case start="1729890357215" stop="1729890357217" status="passed">
+      <name>testAfterGenerateElements with data set "Full_cache state is false, Layout is cache-able"</name>
+    </test-case>
+    <test-case start="1729890357218" stop="1729890357221" status="passed">
+      <name>testAfterGenerateElements with data set "Full_cache state is true, Layout is cache-able, Maintenance mode is enabled"</name>
+    </test-case>
+    <test-case start="1729890357222" stop="1729890357226" status="passed">
+      <name>testAfterGetOutput with data set "Cacheable layout, Full_cache state is true"</name>
+    </test-case>
+    <test-case start="1729890357228" stop="1729890357230" status="passed">
+      <name>testAfterGetOutput with data set "Non-cacheable layout"</name>
+    </test-case>
+    <test-case start="1729890357231" stop="1729890357233" status="passed">
+      <name>testAfterGetOutput with data set "Cacheable layout with Varnish"</name>
+    </test-case>
+    <test-case start="1729890357234" stop="1729890357237" status="passed">
+      <name>testAfterGetOutput with data set "Cacheable layout with Varnish, Full_cache state is false"</name>
+    </test-case>
+    <test-case start="1729890357238" stop="1729890357243" status="passed">
+      <name>testAfterGetOutput with data set "Cacheable layout with Varnish and esi"</name>
+    </test-case>
+    <test-case start="1729890357245" stop="1729890357250" status="passed">
+      <name>testAfterGetOutput with data set "Cacheable layout with Builtin"</name>
+    </test-case>
+    <test-case start="1729890357251" stop="1729890357253" status="passed">
+      <name>testAfterGetOutput with data set "Cacheable layout with Builtin, Full_cache state is false"</name>
+    </test-case>
+    <test-case start="1729890357255" stop="1729890357261" status="passed">
+      <name>testAfterGetOutput with data set "Cacheable layout with Builtin and esi"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

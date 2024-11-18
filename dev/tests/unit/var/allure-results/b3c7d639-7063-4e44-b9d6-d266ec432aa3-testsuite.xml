@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319038" stop="1729890319042" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Console\Command\App\SensitiveConfigSet\CollectorFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890319038" stop="1729890319040" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890319040" stop="1729890319041" status="passed">
+      <name>testCreateNonExisted</name>
+    </test-case>
+    <test-case start="1729890319041" stop="1729890319042" status="passed">
+      <name>testCreateWrongImplementation</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463209" stop="1729890463216" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\UiComponent\DataProvider\FulltextFilterTest</name>
+  <test-cases>
+    <test-case start="1729890463209" stop="1729890463212" status="passed">
+      <name>testApply</name>
+    </test-case>
+    <test-case start="1729890463213" stop="1729890463216" status="passed">
+      <name>testApplyWrongCollectionType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

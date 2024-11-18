@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392859" stop="1729890392878" version="1.4.0">
+  <name>Magento\Shipping\Test\Unit\Controller\Adminhtml\Order\Shipment\PrintLabelTest</name>
+  <test-cases>
+    <test-case start="1729890392859" stop="1729890392863" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890392863" stop="1729890392868" status="passed">
+      <name>testExecuteFromImageString</name>
+    </test-case>
+    <test-case start="1729890392869" stop="1729890392874" status="passed">
+      <name>testExecuteImageStringFail</name>
+    </test-case>
+    <test-case start="1729890392875" stop="1729890392878" status="passed">
+      <name>testExecuteLoadShipmentFail</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

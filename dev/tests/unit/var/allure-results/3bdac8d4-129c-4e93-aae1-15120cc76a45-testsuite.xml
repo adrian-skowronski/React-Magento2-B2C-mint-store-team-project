@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890274374" stop="1729890274403" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Block\Plugin\ProductViewTest</name>
+  <test-cases>
+    <test-case start="1729890274375" stop="1729890274402" status="passed">
+      <name>testAfterGetQuantityValidators</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

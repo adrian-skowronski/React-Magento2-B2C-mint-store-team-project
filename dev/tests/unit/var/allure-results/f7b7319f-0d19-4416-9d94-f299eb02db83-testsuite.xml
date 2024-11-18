@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890396002" stop="1729890396013" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Ui\Component\Listing\Column\StoreTest</name>
+  <test-cases>
+    <test-case start="1729890396002" stop="1729890396005" status="passed">
+      <name>testPrepare</name>
+    </test-case>
+    <test-case start="1729890396005" stop="1729890396007" status="passed">
+      <name>testPrepareWithSingleStore</name>
+    </test-case>
+    <test-case start="1729890396007" stop="1729890396009" status="passed">
+      <name>testPrepareDataSource with data set "withoutStore"</name>
+    </test-case>
+    <test-case start="1729890396009" stop="1729890396011" status="passed">
+      <name>testPrepareDataSource with data set "allStores"</name>
+    </test-case>
+    <test-case start="1729890396011" stop="1729890396013" status="passed">
+      <name>testPrepareDataSource with data set "Stores"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

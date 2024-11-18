@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890381239" stop="1729890381245" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\CreditmemoFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890381240" stop="1729890381245" status="passed">
+      <name>testCanRefundItem</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

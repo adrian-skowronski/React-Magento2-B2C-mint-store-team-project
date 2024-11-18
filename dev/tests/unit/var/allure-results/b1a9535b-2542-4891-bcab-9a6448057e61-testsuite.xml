@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302074" stop="1729890302079" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Backend\Image\LogoTest</name>
+  <test-cases>
+    <test-case start="1729890302074" stop="1729890302079" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

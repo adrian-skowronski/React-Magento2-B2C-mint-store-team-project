@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310147" stop="1729890310157" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Model\ResourceModel\Product\StockStatusBaseSelectProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890310147" stop="1729890310155" status="passed">
+      <name>testProcess with data set "Out of stock products are being displayed"</name>
+    </test-case>
+    <test-case start="1729890310155" stop="1729890310157" status="passed">
+      <name>testProcess with data set "Out of stock products are NOT being displayed"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

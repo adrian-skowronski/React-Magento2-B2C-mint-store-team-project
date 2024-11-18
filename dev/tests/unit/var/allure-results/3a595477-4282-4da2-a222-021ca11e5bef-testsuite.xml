@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301286" stop="1729890301289" version="1.4.0">
+  <name>Magento\Config\Test\Unit\App\Config\Type\System\ReaderTest</name>
+  <test-cases>
+    <test-case start="1729890301286" stop="1729890301289" status="passed">
+      <name>testGetCachedWithLoadDefaultScopeData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

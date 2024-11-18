@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890407948" stop="1729890407962" version="1.4.0">
+  <name>Magento\Vault\Test\Unit\Observer\AfterPaymentSaveObserverTest</name>
+  <test-cases>
+    <test-case start="1729890407949" stop="1729890407956" status="passed">
+      <name>testPositiveCase with data set #0</name>
+    </test-case>
+    <test-case start="1729890407956" stop="1729890407958" status="passed">
+      <name>testPositiveCase with data set #1</name>
+    </test-case>
+    <test-case start="1729890407959" stop="1729890407960" status="passed">
+      <name>testPositiveCase with data set #2</name>
+    </test-case>
+    <test-case start="1729890407961" stop="1729890407962" status="passed">
+      <name>testPositiveCase with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

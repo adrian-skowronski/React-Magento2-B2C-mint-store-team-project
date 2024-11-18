@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890415076" stop="1729890415080" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Console\Command\UninstallCommandTest</name>
+  <test-cases>
+    <test-case start="1729890415076" stop="1729890415078" status="passed">
+      <name>testExecuteInteractionYes</name>
+    </test-case>
+    <test-case start="1729890415079" stop="1729890415080" status="passed">
+      <name>testExecuteInteractionNo</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

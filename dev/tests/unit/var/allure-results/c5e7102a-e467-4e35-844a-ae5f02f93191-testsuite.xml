@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463762" stop="1729890463765" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Layout\Argument\Interpreter\OptionsTest</name>
+  <test-cases>
+    <test-case start="1729890463762" stop="1729890463763" status="passed">
+      <name>testEvaluate</name>
+    </test-case>
+    <test-case start="1729890463763" stop="1729890463764" status="passed">
+      <name>testEvaluateWrongModel with data set "no model"</name>
+    </test-case>
+    <test-case start="1729890463765" stop="1729890463765" status="passed">
+      <name>testEvaluateWrongModel with data set "wrong model class"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

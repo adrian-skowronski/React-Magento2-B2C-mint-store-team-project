@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310728" stop="1729890310731" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Ui\Component\Listing\AssociatedProduct\Columns\NameTest</name>
+  <test-cases>
+    <test-case start="1729890310728" stop="1729890310731" status="passed">
+      <name>testPrepareDataSource</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

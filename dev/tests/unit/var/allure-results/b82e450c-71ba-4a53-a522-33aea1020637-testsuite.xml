@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890276215" stop="1729890276251" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\Source\StockTest</name>
+  <test-cases>
+    <test-case start="1729890276215" stop="1729890276251" status="passed">
+      <name>testAddValueSortToCollection</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

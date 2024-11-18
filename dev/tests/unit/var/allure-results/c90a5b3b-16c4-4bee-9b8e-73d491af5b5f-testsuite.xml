@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890298964" stop="1729890298971" version="1.4.0">
+  <name>Magento\CmsUrlRewrite\Test\Unit\Plugin\Cms\Model\Store\ViewTest</name>
+  <test-cases>
+    <test-case start="1729890298964" stop="1729890298968" status="passed">
+      <name>testAfterSaveObjectIsNotNew</name>
+    </test-case>
+    <test-case start="1729890298969" stop="1729890298970" status="passed">
+      <name>testAfterSaveObjectIsNew</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890311383" stop="1729890311389" version="1.4.0">
+  <name>Magento\Cron\Test\Unit\Model\Config\Converter\XmlTest</name>
+  <test-cases>
+    <test-case start="1729890311384" stop="1729890311384" status="passed">
+      <name>testConvertWrongIncomingData</name>
+    </test-case>
+    <test-case start="1729890311385" stop="1729890311385" status="passed">
+      <name>testConvertNoElements</name>
+    </test-case>
+    <test-case start="1729890311386" stop="1729890311388" status="passed">
+      <name>testConvert</name>
+    </test-case>
+    <test-case start="1729890311388" stop="1729890311389" status="passed">
+      <name>testConvertWrongConfiguration</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890349103" stop="1729890349108" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Helper\Oauth\OauthTest</name>
+  <test-cases>
+    <test-case start="1729890349103" stop="1729890349104" status="passed">
+      <name>testGenerateToken</name>
+    </test-case>
+    <test-case start="1729890349104" stop="1729890349105" status="passed">
+      <name>testGenerateTokenSecret</name>
+    </test-case>
+    <test-case start="1729890349105" stop="1729890349106" status="passed">
+      <name>testGenerateVerifier</name>
+    </test-case>
+    <test-case start="1729890349106" stop="1729890349107" status="passed">
+      <name>testGenerateConsumerKey</name>
+    </test-case>
+    <test-case start="1729890349107" stop="1729890349108" status="passed">
+      <name>testGenerateConsumerSecret</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

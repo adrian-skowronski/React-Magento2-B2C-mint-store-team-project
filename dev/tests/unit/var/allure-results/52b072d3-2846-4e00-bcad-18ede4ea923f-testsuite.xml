@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449796" stop="1729890449803" version="1.4.0">
+  <name>Magento\Framework\GraphQl\Test\Unit\Query\Resolver\Argument\Validator\SearchCriteriaValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890449797" stop="1729890449799" status="passed">
+      <name>testValidValueWithDisabledDefaultConfig</name>
+    </test-case>
+    <test-case start="1729890449799" stop="1729890449800" status="passed">
+      <name>testValidValue</name>
+    </test-case>
+    <test-case start="1729890449800" stop="1729890449801" status="passed">
+      <name>testValidValueWithConfig</name>
+    </test-case>
+    <test-case start="1729890449801" stop="1729890449802" status="passed">
+      <name>testInvalidMaxValue</name>
+    </test-case>
+    <test-case start="1729890449802" stop="1729890449803" status="passed">
+      <name>testInvalidValueWithConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

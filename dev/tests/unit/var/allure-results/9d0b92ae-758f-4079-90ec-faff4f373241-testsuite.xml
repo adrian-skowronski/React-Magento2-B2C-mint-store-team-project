@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890363038" stop="1729890363078" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Observer\AddPaypalShortcutsObserverTest</name>
+  <test-cases>
+    <test-case start="1729890363039" stop="1729890363068" status="passed">
+      <name>testAddShortcutsButtons with data set #0</name>
+    </test-case>
+    <test-case start="1729890363068" stop="1729890363075" status="passed">
+      <name>testAddShortcutsButtons with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

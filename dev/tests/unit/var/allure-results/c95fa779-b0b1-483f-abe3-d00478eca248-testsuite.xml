@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448209" stop="1729890448213" version="1.4.0">
+  <name>Magento\Framework\Event\Test\Unit\ManagerTest</name>
+  <test-cases>
+    <test-case start="1729890448209" stop="1729890448211" status="passed">
+      <name>testDispatch</name>
+    </test-case>
+    <test-case start="1729890448212" stop="1729890448213" status="passed">
+      <name>testDispatchWithEmptyEventObservers</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

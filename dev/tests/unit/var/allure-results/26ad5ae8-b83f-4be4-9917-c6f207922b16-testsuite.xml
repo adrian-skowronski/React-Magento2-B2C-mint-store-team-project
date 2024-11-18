@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461930" stop="1729890461953" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\SourceTest</name>
+  <test-cases>
+    <test-case start="1729890461931" stop="1729890461937" status="passed">
+      <name>testGetFile with data set #0</name>
+    </test-case>
+    <test-case start="1729890461937" stop="1729890461941" status="passed">
+      <name>testGetFile with data set #1</name>
+    </test-case>
+    <test-case start="1729890461942" stop="1729890461944" status="passed">
+      <name>testGetFile with data set #2</name>
+    </test-case>
+    <test-case start="1729890461945" stop="1729890461947" status="passed">
+      <name>testGetFile with data set #3</name>
+    </test-case>
+    <test-case start="1729890461948" stop="1729890461949" status="passed">
+      <name>testGetContentType with data set #0</name>
+    </test-case>
+    <test-case start="1729890461950" stop="1729890461951" status="passed">
+      <name>testGetContentType with data set #1</name>
+    </test-case>
+    <test-case start="1729890461952" stop="1729890461953" status="passed">
+      <name>testGetContentType with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448885" stop="1729890448889" version="1.4.0">
+  <name>Magento\Framework\Filesystem\Test\Unit\Directory\ReadTest</name>
+  <test-cases>
+    <test-case start="1729890448885" stop="1729890448886" status="passed">
+      <name>testIsExist</name>
+    </test-case>
+    <test-case start="1729890448886" stop="1729890448887" status="passed">
+      <name>testStat</name>
+    </test-case>
+    <test-case start="1729890448887" stop="1729890448888" status="passed">
+      <name>testReadFile</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

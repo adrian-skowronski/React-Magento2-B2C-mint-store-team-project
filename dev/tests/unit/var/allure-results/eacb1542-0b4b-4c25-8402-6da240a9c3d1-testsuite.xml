@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358018" stop="1729890358041" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Block\Info\ContainerAbstractTest</name>
+  <test-cases>
+    <test-case start="1729890358019" stop="1729890358041" status="passed">
+      <name>testSetInfoTemplate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

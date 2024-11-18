@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448807" stop="1729890448815" version="1.4.0">
+  <name>Magento\Framework\File\Test\Unit\Transfer\Adapter\HttpTest</name>
+  <test-cases>
+    <test-case start="1729890448807" stop="1729890448809" status="passed">
+      <name>testSend</name>
+    </test-case>
+    <test-case start="1729890448810" stop="1729890448811" status="passed">
+      <name>testSendWithOptions</name>
+    </test-case>
+    <test-case start="1729890448812" stop="1729890448812" status="passed">
+      <name>testSendNoFileSpecifiedException</name>
+    </test-case>
+    <test-case start="1729890448813" stop="1729890448813" status="passed">
+      <name>testSendNoFileExistException</name>
+    </test-case>
+    <test-case start="1729890448814" stop="1729890448815" status="passed">
+      <name>testSendHeadRequest</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

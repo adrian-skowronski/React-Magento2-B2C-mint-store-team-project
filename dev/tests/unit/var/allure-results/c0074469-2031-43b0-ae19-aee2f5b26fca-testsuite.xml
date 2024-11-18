@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890420248" stop="1729890420252" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\Data\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890420248" stop="1729890420249" status="passed">
+      <name>testWalk</name>
+    </test-case>
+    <test-case start="1729890420250" stop="1729890420250" status="passed">
+      <name>testWalkWithAssociativeArrayInParameter</name>
+    </test-case>
+    <test-case start="1729890420251" stop="1729890420251" status="passed">
+      <name>testClearTotalRecords</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

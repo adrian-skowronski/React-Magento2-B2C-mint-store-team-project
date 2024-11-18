@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395836" stop="1729890395880" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\System\StoreTest</name>
+  <test-cases>
+    <test-case start="1729890395837" stop="1729890395845" status="passed">
+      <name>testGetStoresStructure with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890395845" stop="1729890395851" status="passed">
+      <name>testGetStoresStructure with data set "allAndWebsiteAndGroupAndStore"</name>
+    </test-case>
+    <test-case start="1729890395852" stop="1729890395857" status="passed">
+      <name>testGetStoresStructure with data set "allAndWebsiteWithoutStores"</name>
+    </test-case>
+    <test-case start="1729890395858" stop="1729890395865" status="passed">
+      <name>testGetStoreValuesForForm with data set "showNothing1"</name>
+    </test-case>
+    <test-case start="1729890395865" stop="1729890395871" status="passed">
+      <name>testGetStoreValuesForForm with data set "showNothing2"</name>
+    </test-case>
+    <test-case start="1729890395872" stop="1729890395880" status="passed">
+      <name>testGetStoreValuesForForm with data set "showEmptyAndAllAndWebsiteAndGroup"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

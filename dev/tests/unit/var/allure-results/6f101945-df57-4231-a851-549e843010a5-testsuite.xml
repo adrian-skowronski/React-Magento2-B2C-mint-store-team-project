@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890416405" stop="1729890416409" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\Description\Mixin\SpanMixinTest</name>
+  <test-cases>
+    <test-case start="1729890416406" stop="1729890416407" status="passed">
+      <name>testEmptyApply</name>
+    </test-case>
+    <test-case start="1729890416407" stop="1729890416409" status="passed">
+      <name>testApply</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

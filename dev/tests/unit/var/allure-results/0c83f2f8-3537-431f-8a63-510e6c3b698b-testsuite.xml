@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890272342" stop="1729890272477" version="1.4.0">
+  <name>Magento\CatalogImportExport\Test\Unit\Model\Import\Product\Type\OptionTest</name>
+  <test-cases>
+    <test-case start="1729890272343" stop="1729890272353" status="passed">
+      <name>testGetEntityTypeCode</name>
+    </test-case>
+    <test-case start="1729890272354" stop="1729890272360" status="passed">
+      <name>testImportDataAppendBehavior</name>
+    </test-case>
+    <test-case start="1729890272360" stop="1729890272366" status="passed">
+      <name>testImportDataDeleteBehavior</name>
+    </test-case>
+    <test-case start="1729890272366" stop="1729890272370" status="passed">
+      <name>testValidateRowNoCustomOption</name>
+    </test-case>
+    <test-case start="1729890272371" stop="1729890272374" status="passed">
+      <name>testValidateRow with data set "main_valid"</name>
+    </test-case>
+    <test-case start="1729890272375" stop="1729890272378" status="passed">
+      <name>testValidateRow with data set "main_invalid_store"</name>
+    </test-case>
+    <test-case start="1729890272379" stop="1729890272384" status="passed">
+      <name>testValidateRow with data set "main_incorrect_type"</name>
+    </test-case>
+    <test-case start="1729890272385" stop="1729890272388" status="passed">
+      <name>testValidateRow with data set "main_no_title"</name>
+    </test-case>
+    <test-case start="1729890272389" stop="1729890272392" status="passed">
+      <name>testValidateRow with data set "main_empty_title"</name>
+    </test-case>
+    <test-case start="1729890272393" stop="1729890272398" status="passed">
+      <name>testValidateRow with data set "main_invalid_price"</name>
+    </test-case>
+    <test-case start="1729890272399" stop="1729890272404" status="passed">
+      <name>testValidateRow with data set "main_invalid_max_characters"</name>
+    </test-case>
+    <test-case start="1729890272405" stop="1729890272410" status="passed">
+      <name>testValidateRow with data set "main_max_characters_less_zero"</name>
+    </test-case>
+    <test-case start="1729890272410" stop="1729890272414" status="passed">
+      <name>testValidateRow with data set "main_invalid_sort_order"</name>
+    </test-case>
+    <test-case start="1729890272415" stop="1729890272418" status="passed">
+      <name>testValidateRow with data set "main_sort_order_less_zero"</name>
+    </test-case>
+    <test-case start="1729890272419" stop="1729890272422" status="passed">
+      <name>testValidateRow with data set "secondary_valid"</name>
+    </test-case>
+    <test-case start="1729890272423" stop="1729890272426" status="passed">
+      <name>testValidateRow with data set "secondary_invalid_store"</name>
+    </test-case>
+    <test-case start="1729890272427" stop="1729890272430" status="passed">
+      <name>testValidateRow with data set "secondary_incorrect_price"</name>
+    </test-case>
+    <test-case start="1729890272431" stop="1729890272435" status="passed">
+      <name>testValidateRow with data set "secondary_incorrect_row_sort"</name>
+    </test-case>
+    <test-case start="1729890272436" stop="1729890272439" status="passed">
+      <name>testValidateRow with data set "secondary_row_sort_less_zero"</name>
+    </test-case>
+    <test-case start="1729890272440" stop="1729890272445" status="passed">
+      <name>testValidateAmbiguousData with data set "ambiguity_several_input_rows"</name>
+    </test-case>
+    <test-case start="1729890272446" stop="1729890272453" status="passed">
+      <name>testValidateAmbiguousData with data set "ambiguity_different_type"</name>
+    </test-case>
+    <test-case start="1729890272454" stop="1729890272460" status="passed">
+      <name>testValidateAmbiguousData with data set "ambiguity_several_db_rows"</name>
+    </test-case>
+    <test-case start="1729890272461" stop="1729890272464" status="passed">
+      <name>testValidateRowDataForStoreViewCodeField with data set "with_store_view_code"</name>
+    </test-case>
+    <test-case start="1729890272465" stop="1729890272468" status="passed">
+      <name>testValidateRowDataForStoreViewCodeField with data set "without_store_view_code"</name>
+    </test-case>
+    <test-case start="1729890272469" stop="1729890272473" status="passed">
+      <name>testParseRequiredData</name>
+    </test-case>
+    <test-case start="1729890272473" stop="1729890272477" status="passed">
+      <name>testClearProductsSkuToId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

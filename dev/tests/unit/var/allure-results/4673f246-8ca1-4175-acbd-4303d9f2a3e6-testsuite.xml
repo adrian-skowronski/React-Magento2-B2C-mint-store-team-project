@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452446" stop="1729890452456" version="1.4.0">
+  <name>Magento\Framework\Model\Test\Unit\ResourceModel\Db\CreateEntityRowTest</name>
+  <test-cases>
+    <test-case start="1729890452447" stop="1729890452456" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

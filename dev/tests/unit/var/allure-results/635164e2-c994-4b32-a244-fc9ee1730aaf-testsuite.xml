@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302003" stop="1729890302011" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Backend\Email\SenderTest</name>
+  <test-cases>
+    <test-case start="1729890302003" stop="1729890302005" status="passed">
+      <name>testBeforeSave with data set #0</name>
+    </test-case>
+    <test-case start="1729890302006" stop="1729890302007" status="passed">
+      <name>testBeforeSave with data set #1</name>
+    </test-case>
+    <test-case start="1729890302008" stop="1729890302009" status="passed">
+      <name>testBeforeSave with data set #2</name>
+    </test-case>
+    <test-case start="1729890302010" stop="1729890302011" status="passed">
+      <name>testBeforeSave with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

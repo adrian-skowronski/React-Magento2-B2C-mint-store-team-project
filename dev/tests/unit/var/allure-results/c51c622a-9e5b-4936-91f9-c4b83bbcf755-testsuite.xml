@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890389872" stop="1729890389920" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Rss\OrderStatusTest</name>
+  <test-cases>
+    <test-case start="1729890389872" stop="1729890389884" status="passed">
+      <name>testGetRssData</name>
+    </test-case>
+    <test-case start="1729890389886" stop="1729890389893" status="passed">
+      <name>testGetRssDataWithError</name>
+    </test-case>
+    <test-case start="1729890389894" stop="1729890389898" status="passed">
+      <name>testGetRssDataWithWrongSignature</name>
+    </test-case>
+    <test-case start="1729890389900" stop="1729890389903" status="passed">
+      <name>testIsAllowed</name>
+    </test-case>
+    <test-case start="1729890389906" stop="1729890389911" status="passed">
+      <name>testGetCacheKey with data set #0</name>
+    </test-case>
+    <test-case start="1729890389912" stop="1729890389916" status="passed">
+      <name>testGetCacheKey with data set #1</name>
+    </test-case>
+    <test-case start="1729890389917" stop="1729890389920" status="passed">
+      <name>testGetCacheLifetime</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

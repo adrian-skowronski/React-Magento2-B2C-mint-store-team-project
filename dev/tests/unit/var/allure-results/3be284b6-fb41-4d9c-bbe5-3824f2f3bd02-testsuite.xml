@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890300653" stop="1729890300671" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Model\ResourceModel\Block\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890300653" stop="1729890300657" status="passed">
+      <name>testAddFieldToFilterStore</name>
+    </test-case>
+    <test-case start="1729890300657" stop="1729890300662" status="passed">
+      <name>testAddFieldToFilter</name>
+    </test-case>
+    <test-case start="1729890300663" stop="1729890300667" status="passed">
+      <name>testAfterLoad with data set #0</name>
+    </test-case>
+    <test-case start="1729890300667" stop="1729890300670" status="passed">
+      <name>testAfterLoad with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

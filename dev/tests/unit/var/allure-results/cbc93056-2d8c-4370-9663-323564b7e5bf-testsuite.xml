@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890394650" stop="1729890394684" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\Config\Importer\Processor\DeleteTest</name>
+  <test-cases>
+    <test-case start="1729890394651" stop="1729890394675" status="passed">
+      <name>testRun</name>
+    </test-case>
+    <test-case start="1729890394676" stop="1729890394679" status="passed">
+      <name>testRunNothingToDelete</name>
+    </test-case>
+    <test-case start="1729890394679" stop="1729890394683" status="passed">
+      <name>testRunWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

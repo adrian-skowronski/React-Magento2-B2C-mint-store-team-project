@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890314636" stop="1729890314639" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\CustomerData\Section\IdentifierTest</name>
+  <test-cases>
+    <test-case start="1729890314636" stop="1729890314637" status="passed">
+      <name>testInitMark</name>
+    </test-case>
+    <test-case start="1729890314637" stop="1729890314638" status="passed">
+      <name>testMarkSectionsDontUpdate</name>
+    </test-case>
+    <test-case start="1729890314638" stop="1729890314639" status="passed">
+      <name>testMarkSectionsUpdate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

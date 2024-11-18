@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464844" stop="1729890464847" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\TemplateEngineFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890464844" stop="1729890464845" status="passed">
+      <name>testCreateKnownEngine</name>
+    </test-case>
+    <test-case start="1729890464845" stop="1729890464845" status="passed">
+      <name>testCreateUnknownEngine</name>
+    </test-case>
+    <test-case start="1729890464846" stop="1729890464846" status="passed">
+      <name>testCreateInvalidEngine</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

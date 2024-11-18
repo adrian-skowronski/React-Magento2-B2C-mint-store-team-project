@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393262" stop="1729890393268" version="1.4.0">
+  <name>Magento\Shipping\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890393262" stop="1729890393264" status="passed">
+      <name>testGetActiveCarriersWhenThereIsNoAvailable</name>
+    </test-case>
+    <test-case start="1729890393264" stop="1729890393265" status="passed">
+      <name>testGetActiveCarriers</name>
+    </test-case>
+    <test-case start="1729890393266" stop="1729890393267" status="passed">
+      <name>testGetAllCarriersWhenThereIsNoAvailable</name>
+    </test-case>
+    <test-case start="1729890393267" stop="1729890393268" status="passed">
+      <name>testGetAllCarriers</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

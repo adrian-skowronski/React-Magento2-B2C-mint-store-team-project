@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890411650" stop="1729890411651" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Model\AuthenticationStateTest</name>
+  <test-cases>
+    <test-case start="1729890411650" stop="1729890411651" status="passed">
+      <name>testIsEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

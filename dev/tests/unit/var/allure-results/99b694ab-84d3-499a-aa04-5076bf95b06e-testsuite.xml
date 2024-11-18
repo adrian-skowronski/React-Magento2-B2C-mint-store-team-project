@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441064" stop="1729890441066" version="1.4.0">
+  <name>Magento\Framework\Config\Test\Unit\ReaderTest</name>
+  <test-cases>
+    <test-case start="1729890441064" stop="1729890441065" status="passed">
+      <name>testRead</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

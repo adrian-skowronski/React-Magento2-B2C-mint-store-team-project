@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890317780" stop="1729890317783" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\ResourceModel\Address\Attribute\Source\CountryWithWebsitesTest</name>
+  <test-cases>
+    <test-case start="1729890317780" stop="1729890317783" status="passed">
+      <name>testGetAllOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

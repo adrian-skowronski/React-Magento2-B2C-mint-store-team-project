@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422167" stop="1729890422181" version="1.4.0">
+  <name>Magento\Framework\Api\Test\Unit\Code\Generator\ExtensionAttributesGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890422168" stop="1729890422176" status="passed">
+      <name>testGenerate</name>
+    </test-case>
+    <test-case start="1729890422177" stop="1729890422178" status="passed">
+      <name>testGenerateEmptyExtension</name>
+    </test-case>
+    <test-case start="1729890422179" stop="1729890422181" status="passed">
+      <name>testValidateException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

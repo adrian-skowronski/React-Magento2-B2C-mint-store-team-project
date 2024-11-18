@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890355354" stop="1729890355383" version="1.4.0">
+  <name>Magento\Newsletter\Test\Unit\Model\SubscriberTest</name>
+  <test-cases>
+    <test-case start="1729890355354" stop="1729890355359" status="passed">
+      <name>testLoadBySubscriberEmail</name>
+    </test-case>
+    <test-case start="1729890355360" stop="1729890355362" status="passed">
+      <name>testLoadByCustomer</name>
+    </test-case>
+    <test-case start="1729890355362" stop="1729890355364" status="passed">
+      <name>testUnsubscribe</name>
+    </test-case>
+    <test-case start="1729890355365" stop="1729890355366" status="passed">
+      <name>testUnsubscribeException</name>
+    </test-case>
+    <test-case start="1729890355367" stop="1729890355369" status="passed">
+      <name>testGetSubscriberFullName</name>
+    </test-case>
+    <test-case start="1729890355370" stop="1729890355372" status="passed">
+      <name>testConfirm</name>
+    </test-case>
+    <test-case start="1729890355372" stop="1729890355374" status="passed">
+      <name>testConfirmWrongCode</name>
+    </test-case>
+    <test-case start="1729890355374" stop="1729890355376" status="passed">
+      <name>testReceived</name>
+    </test-case>
+    <test-case start="1729890355376" stop="1729890355379" status="passed">
+      <name>testSendConfirmationRequestEmail</name>
+    </test-case>
+    <test-case start="1729890355379" stop="1729890355383" status="passed">
+      <name>testSendConfirmationSuccessEmail</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

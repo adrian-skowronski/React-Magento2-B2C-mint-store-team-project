@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890312811" stop="1729890312837" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Block\Address\GridTest</name>
+  <test-cases>
+    <test-case start="1729890312811" stop="1729890312820" status="passed">
+      <name>testGetChildHtml</name>
+    </test-case>
+    <test-case start="1729890312820" stop="1729890312823" status="passed">
+      <name>testGetAddAddressUrl</name>
+    </test-case>
+    <test-case start="1729890312823" stop="1729890312831" status="passed">
+      <name>testGetAdditionalAddresses</name>
+    </test-case>
+    <test-case start="1729890312831" stop="1729890312834" status="passed">
+      <name>testGetStreetAddress</name>
+    </test-case>
+    <test-case start="1729890312834" stop="1729890312837" status="passed">
+      <name>testGetCountryByCode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

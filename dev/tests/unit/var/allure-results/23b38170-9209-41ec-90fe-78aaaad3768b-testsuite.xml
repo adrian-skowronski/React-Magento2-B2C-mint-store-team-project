@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890326904" stop="1729890326951" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Adapter\BatchDataMapper\ProductDataMapperTest</name>
+  <test-cases>
+    <test-case start="1729890326904" stop="1729890326910" status="passed">
+      <name>testGetMapAdditionalFieldsOnly</name>
+    </test-case>
+    <test-case start="1729890326911" stop="1729890326912" status="passed">
+      <name>testGetMapEmptyData</name>
+    </test-case>
+    <test-case start="1729890326913" stop="1729890326915" status="passed">
+      <name>testGetMap with data set "text"</name>
+    </test-case>
+    <test-case start="1729890326915" stop="1729890326917" status="passed">
+      <name>testGetMap with data set "datetime"</name>
+    </test-case>
+    <test-case start="1729890326918" stop="1729890326919" status="passed">
+      <name>testGetMap with data set "array single value"</name>
+    </test-case>
+    <test-case start="1729890326920" stop="1729890326922" status="passed">
+      <name>testGetMap with data set "array multiple value"</name>
+    </test-case>
+    <test-case start="1729890326923" stop="1729890326924" status="passed">
+      <name>testGetMap with data set "array multiple decimal value"</name>
+    </test-case>
+    <test-case start="1729890326925" stop="1729890326927" status="passed">
+      <name>testGetMap with data set "array excluded from merge"</name>
+    </test-case>
+    <test-case start="1729890326928" stop="1729890326930" status="passed">
+      <name>testGetMap with data set "select without options"</name>
+    </test-case>
+    <test-case start="1729890326930" stop="1729890326932" status="passed">
+      <name>testGetMap with data set "unsearchable select with options"</name>
+    </test-case>
+    <test-case start="1729890326932" stop="1729890326934" status="passed">
+      <name>testGetMap with data set "searchable select with options"</name>
+    </test-case>
+    <test-case start="1729890326935" stop="1729890326936" status="passed">
+      <name>testGetMap with data set "composite select with options"</name>
+    </test-case>
+    <test-case start="1729890326937" stop="1729890326938" status="passed">
+      <name>testGetMap with data set "multiselect without options"</name>
+    </test-case>
+    <test-case start="1729890326939" stop="1729890326941" status="passed">
+      <name>testGetMap with data set "unsearchable multiselect with options"</name>
+    </test-case>
+    <test-case start="1729890326941" stop="1729890326944" status="passed">
+      <name>testGetMap with data set "searchable multiselect with options"</name>
+    </test-case>
+    <test-case start="1729890326944" stop="1729890326947" status="passed">
+      <name>testGetMap with data set "composite multiselect with options"</name>
+    </test-case>
+    <test-case start="1729890326947" stop="1729890326949" status="passed">
+      <name>testGetMap with data set "excluded attribute"</name>
+    </test-case>
+    <test-case start="1729890326950" stop="1729890326951" status="passed">
+      <name>testGetMapWithOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

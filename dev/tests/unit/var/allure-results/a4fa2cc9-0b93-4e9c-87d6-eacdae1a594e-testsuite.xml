@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464685" stop="1729890464694" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\PageLayout\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890464685" stop="1729890464687" status="passed">
+      <name>testGetPageLayouts</name>
+    </test-case>
+    <test-case start="1729890464688" stop="1729890464689" status="passed">
+      <name>testHasPageLayout</name>
+    </test-case>
+    <test-case start="1729890464689" stop="1729890464691" status="passed">
+      <name>testGetOptions</name>
+    </test-case>
+    <test-case start="1729890464691" stop="1729890464693" status="passed">
+      <name>testToOptionArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

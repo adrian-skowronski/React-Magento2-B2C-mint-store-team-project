@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890263575" stop="1729890263578" version="1.4.0">
+  <name>Magento\AsynchronousOperations\Test\Unit\Model\StatusMapperTest</name>
+  <test-cases>
+    <test-case start="1729890263575" stop="1729890263575" status="passed">
+      <name>testOperationStatusToBulkSummaryStatus</name>
+    </test-case>
+    <test-case start="1729890263576" stop="1729890263576" status="passed">
+      <name>testOperationStatusToBulkSummaryStatusWithUnknownStatus</name>
+    </test-case>
+    <test-case start="1729890263576" stop="1729890263577" status="passed">
+      <name>testBulkSummaryStatusToOperationStatus</name>
+    </test-case>
+    <test-case start="1729890263577" stop="1729890263578" status="passed">
+      <name>testBulkSummaryStatusToOperationStatusWithUnknownStatus</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

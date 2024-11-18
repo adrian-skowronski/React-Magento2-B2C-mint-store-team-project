@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395987" stop="1729890395992" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\WebsiteTest</name>
+  <test-cases>
+    <test-case start="1729890395987" stop="1729890395989" status="passed">
+      <name>testIsCanDelete</name>
+    </test-case>
+    <test-case start="1729890395989" stop="1729890395991" status="passed">
+      <name>testGetScopeType</name>
+    </test-case>
+    <test-case start="1729890395991" stop="1729890395992" status="passed">
+      <name>testGetScopeTypeName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

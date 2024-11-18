@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890387759" stop="1729890387822" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Validation\CanRefundTest</name>
+  <test-cases>
+    <test-case start="1729890387760" stop="1729890387776" status="passed">
+      <name>testCanCreditmemoWrongState with data set #0</name>
+    </test-case>
+    <test-case start="1729890387776" stop="1729890387790" status="passed">
+      <name>testCanCreditmemoWrongState with data set #1</name>
+    </test-case>
+    <test-case start="1729890387791" stop="1729890387799" status="passed">
+      <name>testCanCreditmemoWrongState with data set #2</name>
+    </test-case>
+    <test-case start="1729890387799" stop="1729890387811" status="passed">
+      <name>testCanCreditmemoWrongState with data set #3</name>
+    </test-case>
+    <test-case start="1729890387812" stop="1729890387822" status="passed">
+      <name>testCanCreditmemoNoMoney</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

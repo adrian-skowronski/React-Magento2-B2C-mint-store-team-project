@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330395" stop="1729890330400" version="1.4.0">
+  <name>Magento\GoogleOptimizer\Test\Unit\Model\Plugin\Catalog\Product\Category\DataProviderTest</name>
+  <test-cases>
+    <test-case start="1729890330395" stop="1729890330399" status="passed">
+      <name>testAfterGetMetaPositive</name>
+    </test-case>
+    <test-case start="1729890330399" stop="1729890330400" status="passed">
+      <name>testAfterGetMetaNegative</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392403" stop="1729890392407" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Model\ResourceModel\AdminSessionInfoTest</name>
+  <test-cases>
+    <test-case start="1729890392403" stop="1729890392405" status="passed">
+      <name>testDeleteSessionsOlderThen</name>
+    </test-case>
+    <test-case start="1729890392405" stop="1729890392407" status="passed">
+      <name>testUpdateStatusByUserId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

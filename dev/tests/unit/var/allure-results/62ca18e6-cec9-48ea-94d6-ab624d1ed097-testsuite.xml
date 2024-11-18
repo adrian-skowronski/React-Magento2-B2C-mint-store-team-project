@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890424657" stop="1729890424689" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\DeploymentConfig\ReaderTest</name>
+  <test-cases>
+    <test-case start="1729890424658" stop="1729890424663" status="passed">
+      <name>testGetFile</name>
+    </test-case>
+    <test-case start="1729890424664" stop="1729890424666" status="passed">
+      <name>testWrongFile</name>
+    </test-case>
+    <test-case start="1729890424666" stop="1729890424672" status="passed">
+      <name>testLoad</name>
+    </test-case>
+    <test-case start="1729890424673" stop="1729890424675" status="passed">
+      <name>testCustomLoad with data set #0</name>
+    </test-case>
+    <test-case start="1729890424676" stop="1729890424677" status="passed">
+      <name>testCustomLoad with data set #1</name>
+    </test-case>
+    <test-case start="1729890424678" stop="1729890424686" status="passed">
+      <name>testLoadInvalidConfigurationFileWithFileKey</name>
+    </test-case>
+    <test-case start="1729890424687" stop="1729890424689" status="passed">
+      <name>testLoadInvalidConfigurationFile</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

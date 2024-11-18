@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890427164" stop="1729890427205" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\StateTest</name>
+  <test-cases>
+    <test-case start="1729890427165" stop="1729890427169" status="passed">
+      <name>testSetAreaCode</name>
+    </test-case>
+    <test-case start="1729890427172" stop="1729890427174" status="passed">
+      <name>testGetAreaCodeException</name>
+    </test-case>
+    <test-case start="1729890427175" stop="1729890427178" status="passed">
+      <name>testGetAreaCode</name>
+    </test-case>
+    <test-case start="1729890427179" stop="1729890427182" status="passed">
+      <name>testEmulateAreaCode</name>
+    </test-case>
+    <test-case start="1729890427183" stop="1729890427185" status="passed">
+      <name>testIsAreaCodeEmulated</name>
+    </test-case>
+    <test-case start="1729890427186" stop="1729890427190" status="passed">
+      <name>testEmulateAreaCodeException</name>
+    </test-case>
+    <test-case start="1729890427191" stop="1729890427193" status="passed">
+      <name>testConstructor with data set "default mode"</name>
+    </test-case>
+    <test-case start="1729890427194" stop="1729890427196" status="passed">
+      <name>testConstructor with data set "production mode"</name>
+    </test-case>
+    <test-case start="1729890427198" stop="1729890427200" status="passed">
+      <name>testConstructor with data set "developer mode"</name>
+    </test-case>
+    <test-case start="1729890427201" stop="1729890427203" status="passed">
+      <name>testConstructorException</name>
+    </test-case>
+    <test-case start="1729890427203" stop="1729890427205" status="passed">
+      <name>testCheckAreaCodeException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

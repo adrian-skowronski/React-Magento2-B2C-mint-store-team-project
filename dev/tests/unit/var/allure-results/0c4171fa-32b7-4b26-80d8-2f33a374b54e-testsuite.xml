@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890457180" stop="1729890457204" version="1.4.0">
+  <name>Magento\Framework\Setup\Test\Unit\Declaration\Schema\Db\MySQL\Definition\Columns\StringBinaryTest</name>
+  <test-cases>
+    <test-case start="1729890457180" stop="1729890457184" status="passed">
+      <name>testToDefinition</name>
+    </test-case>
+    <test-case start="1729890457185" stop="1729890457186" status="passed">
+      <name>testGetBinaryDefaultValueFromDefinition with data set #0</name>
+    </test-case>
+    <test-case start="1729890457186" stop="1729890457187" status="passed">
+      <name>testGetBinaryDefaultValueFromDefinition with data set #1</name>
+    </test-case>
+    <test-case start="1729890457187" stop="1729890457188" status="passed">
+      <name>testGetBinaryDefaultValueFromDefinition with data set #2</name>
+    </test-case>
+    <test-case start="1729890457188" stop="1729890457189" status="passed">
+      <name>testGetBinaryDefaultValueFromDefinition with data set #3</name>
+    </test-case>
+    <test-case start="1729890457190" stop="1729890457190" status="passed">
+      <name>testGetBinaryDefaultValueFromDefinition with data set #4</name>
+    </test-case>
+    <test-case start="1729890457191" stop="1729890457191" status="passed">
+      <name>testGetBinaryDefaultValueFromDefinition with data set #5</name>
+    </test-case>
+    <test-case start="1729890457192" stop="1729890457193" status="passed">
+      <name>testGetBinaryDefaultValueFromDefinition with data set #6</name>
+    </test-case>
+    <test-case start="1729890457193" stop="1729890457194" status="passed">
+      <name>testGetBinaryDefaultValueFromDefinition with data set #7</name>
+    </test-case>
+    <test-case start="1729890457195" stop="1729890457195" status="passed">
+      <name>testFromDefinition with data set #0</name>
+    </test-case>
+    <test-case start="1729890457196" stop="1729890457197" status="passed">
+      <name>testFromDefinition with data set #1</name>
+    </test-case>
+    <test-case start="1729890457197" stop="1729890457198" status="passed">
+      <name>testFromDefinition with data set #2</name>
+    </test-case>
+    <test-case start="1729890457198" stop="1729890457199" status="passed">
+      <name>testFromDefinition with data set #3</name>
+    </test-case>
+    <test-case start="1729890457200" stop="1729890457200" status="passed">
+      <name>testFromDefinition with data set #4</name>
+    </test-case>
+    <test-case start="1729890457201" stop="1729890457202" status="passed">
+      <name>testFromDefinition with data set #5</name>
+    </test-case>
+    <test-case start="1729890457202" stop="1729890457203" status="passed">
+      <name>testFromDefinition with data set #6</name>
+    </test-case>
+    <test-case start="1729890457203" stop="1729890457204" status="passed">
+      <name>testFromDefinition with data set #7</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

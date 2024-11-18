@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890419509" stop="1729890419513" version="1.4.0">
+  <name>PayPal\Braintree\Test\Unit\Helper\CountryTest</name>
+  <test-cases>
+    <test-case start="1729890419510" stop="1729890419513" status="passed">
+      <name>testGetCountries</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

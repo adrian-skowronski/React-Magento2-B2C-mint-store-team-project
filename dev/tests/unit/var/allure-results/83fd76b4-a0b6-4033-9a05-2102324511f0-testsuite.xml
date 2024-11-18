@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376858" stop="1729890376872" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\RuleTest</name>
+  <test-cases>
+    <test-case start="1729890376858" stop="1729890376864" status="passed">
+      <name>testLoadCouponCode</name>
+    </test-case>
+    <test-case start="1729890376864" stop="1729890376867" status="passed">
+      <name>testBeforeSaveResetConditionToNull</name>
+    </test-case>
+    <test-case start="1729890376868" stop="1729890376870" status="passed">
+      <name>testGetConditionsFieldSetId</name>
+    </test-case>
+    <test-case start="1729890376870" stop="1729890376872" status="passed">
+      <name>testGetActionsFieldSetId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

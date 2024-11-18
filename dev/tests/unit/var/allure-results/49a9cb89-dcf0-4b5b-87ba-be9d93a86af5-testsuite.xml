@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890372762" stop="1729890372790" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890372763" stop="1729890372765" status="passed">
+      <name>testGetIntervals with data set #0</name>
+    </test-case>
+    <test-case start="1729890372765" stop="1729890372766" status="passed">
+      <name>testGetIntervals with data set #1</name>
+    </test-case>
+    <test-case start="1729890372767" stop="1729890372767" status="passed">
+      <name>testGetIntervals with data set #2</name>
+    </test-case>
+    <test-case start="1729890372768" stop="1729890372769" status="passed">
+      <name>testGetIntervals with data set #3</name>
+    </test-case>
+    <test-case start="1729890372770" stop="1729890372771" status="passed">
+      <name>testGetIntervals with data set #4</name>
+    </test-case>
+    <test-case start="1729890372771" stop="1729890372772" status="passed">
+      <name>testGetIntervals with data set #5</name>
+    </test-case>
+    <test-case start="1729890372773" stop="1729890372774" status="passed">
+      <name>testGetIntervals with data set #6</name>
+    </test-case>
+    <test-case start="1729890372774" stop="1729890372775" status="passed">
+      <name>testGetIntervals with data set #7</name>
+    </test-case>
+    <test-case start="1729890372776" stop="1729890372778" status="passed">
+      <name>testPrepareIntervalsCollection with data set #0</name>
+    </test-case>
+    <test-case start="1729890372778" stop="1729890372779" status="passed">
+      <name>testPrepareIntervalsCollection with data set #1</name>
+    </test-case>
+    <test-case start="1729890372780" stop="1729890372781" status="passed">
+      <name>testPrepareIntervalsCollection with data set #2</name>
+    </test-case>
+    <test-case start="1729890372781" stop="1729890372782" status="passed">
+      <name>testPrepareIntervalsCollection with data set #3</name>
+    </test-case>
+    <test-case start="1729890372783" stop="1729890372784" status="passed">
+      <name>testPrepareIntervalsCollection with data set #4</name>
+    </test-case>
+    <test-case start="1729890372785" stop="1729890372787" status="passed">
+      <name>testPrepareIntervalsCollection with data set #5</name>
+    </test-case>
+    <test-case start="1729890372787" stop="1729890372788" status="passed">
+      <name>testPrepareIntervalsCollection with data set #6</name>
+    </test-case>
+    <test-case start="1729890372789" stop="1729890372790" status="passed">
+      <name>testPrepareIntervalsCollection with data set #7</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

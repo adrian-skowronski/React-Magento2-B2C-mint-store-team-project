@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285409" stop="1729890285413" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Category\Product\PositionResolverTest</name>
+  <test-cases>
+    <test-case start="1729890285409" stop="1729890285413" status="passed">
+      <name>testGetPositions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

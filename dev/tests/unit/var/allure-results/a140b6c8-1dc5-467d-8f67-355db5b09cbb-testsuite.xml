@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374657" stop="1729890374662" version="1.4.0">
+  <name>Magento\Review\Test\Unit\Model\ResourceModel\Review\Summary\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890374658" stop="1729890374660" status="passed">
+      <name>testFetchItem</name>
+    </test-case>
+    <test-case start="1729890374660" stop="1729890374662" status="passed">
+      <name>testLoad</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

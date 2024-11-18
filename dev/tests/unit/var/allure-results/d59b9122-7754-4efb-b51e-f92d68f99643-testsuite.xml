@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890429182" stop="1729890429219" version="1.4.0">
+  <name>Magento\Framework\Cache\Test\Unit\Backend\Decorator\DecoratorAbstractTest</name>
+  <test-cases>
+    <test-case start="1729890429183" stop="1729890429184" status="passed">
+      <name>testConstructor</name>
+    </test-case>
+    <test-case start="1729890429184" stop="1729890429187" status="passed">
+      <name>testConstructorException with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890429187" stop="1729890429188" status="passed">
+      <name>testConstructorException with data set "wrong_class"</name>
+    </test-case>
+    <test-case start="1729890429188" stop="1729890429192" status="passed">
+      <name>testAllMethods with data set "setDirectives"</name>
+    </test-case>
+    <test-case start="1729890429192" stop="1729890429195" status="passed">
+      <name>testAllMethods with data set "load"</name>
+    </test-case>
+    <test-case start="1729890429196" stop="1729890429197" status="passed">
+      <name>testAllMethods with data set "test"</name>
+    </test-case>
+    <test-case start="1729890429200" stop="1729890429201" status="passed">
+      <name>testAllMethods with data set "save"</name>
+    </test-case>
+    <test-case start="1729890429201" stop="1729890429202" status="passed">
+      <name>testAllMethods with data set "remove"</name>
+    </test-case>
+    <test-case start="1729890429202" stop="1729890429203" status="passed">
+      <name>testAllMethods with data set "clean"</name>
+    </test-case>
+    <test-case start="1729890429204" stop="1729890429204" status="passed">
+      <name>testAllMethods with data set "getIds"</name>
+    </test-case>
+    <test-case start="1729890429205" stop="1729890429206" status="passed">
+      <name>testAllMethods with data set "getTags"</name>
+    </test-case>
+    <test-case start="1729890429206" stop="1729890429207" status="passed">
+      <name>testAllMethods with data set "getIdsMatchingTags"</name>
+    </test-case>
+    <test-case start="1729890429208" stop="1729890429208" status="passed">
+      <name>testAllMethods with data set "getIdsNotMatchingTags"</name>
+    </test-case>
+    <test-case start="1729890429209" stop="1729890429210" status="passed">
+      <name>testAllMethods with data set "getIdsMatchingAnyTags"</name>
+    </test-case>
+    <test-case start="1729890429210" stop="1729890429211" status="passed">
+      <name>testAllMethods with data set "getFillingPercentage"</name>
+    </test-case>
+    <test-case start="1729890429212" stop="1729890429213" status="passed">
+      <name>testAllMethods with data set "getMetadatas"</name>
+    </test-case>
+    <test-case start="1729890429213" stop="1729890429214" status="passed">
+      <name>testAllMethods with data set "touch"</name>
+    </test-case>
+    <test-case start="1729890429214" stop="1729890429215" status="passed">
+      <name>testAllMethods with data set "getCapabilities"</name>
+    </test-case>
+    <test-case start="1729890429216" stop="1729890429217" status="passed">
+      <name>testAllMethods with data set "setOption"</name>
+    </test-case>
+    <test-case start="1729890429217" stop="1729890429218" status="passed">
+      <name>testAllMethods with data set "getLifetime"</name>
+    </test-case>
+    <test-case start="1729890429218" stop="1729890429219" status="passed">
+      <name>testAllMethods with data set "getTmpDir"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

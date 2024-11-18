@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890455957" stop="1729890456044" version="1.4.0">
+  <name>Magento\Framework\Reflection\Test\Unit\TypeProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890455957" stop="1729890455957" status="passed">
+      <name>testGetTypesData</name>
+    </test-case>
+    <test-case start="1729890455957" stop="1729890455958" status="passed">
+      <name>testSetTypesData</name>
+    </test-case>
+    <test-case start="1729890455958" stop="1729890455959" status="passed">
+      <name>testGetTypeDataInvalidArgumentException</name>
+    </test-case>
+    <test-case start="1729890455959" stop="1729890455960" status="passed">
+      <name>testGetTypeData</name>
+    </test-case>
+    <test-case start="1729890455960" stop="1729890455960" status="passed">
+      <name>testSetTypeDataArrayMerge</name>
+    </test-case>
+    <test-case start="1729890455961" stop="1729890455961" status="passed">
+      <name>testNormalizeType</name>
+    </test-case>
+    <test-case start="1729890455961" stop="1729890455962" status="passed">
+      <name>testIsTypeSimple</name>
+    </test-case>
+    <test-case start="1729890455962" stop="1729890455963" status="passed">
+      <name>testIsTypeAny</name>
+    </test-case>
+    <test-case start="1729890455963" stop="1729890455964" status="passed">
+      <name>testIsArrayType</name>
+    </test-case>
+    <test-case start="1729890455964" stop="1729890455965" status="passed">
+      <name>testIsValidTypeDeclaration</name>
+    </test-case>
+    <test-case start="1729890455965" stop="1729890455966" status="passed">
+      <name>testTranslateTypeName</name>
+    </test-case>
+    <test-case start="1729890455966" stop="1729890455967" status="passed">
+      <name>testTranslateTypeNameInvalidArgumentException</name>
+    </test-case>
+    <test-case start="1729890455967" stop="1729890455967" status="passed">
+      <name>testTranslateArrayTypeName</name>
+    </test-case>
+    <test-case start="1729890455968" stop="1729890455968" status="passed">
+      <name>testProcessSimpleTypeIntToString</name>
+    </test-case>
+    <test-case start="1729890455968" stop="1729890455969" status="passed">
+      <name>testProcessSimpleTypeStringToInt</name>
+    </test-case>
+    <test-case start="1729890455969" stop="1729890455970" status="passed">
+      <name>testProcessSimpleTypeMixed</name>
+    </test-case>
+    <test-case start="1729890455970" stop="1729890455970" status="passed">
+      <name>testProcessSimpleTypeIntArrayToStringArray</name>
+    </test-case>
+    <test-case start="1729890455971" stop="1729890455971" status="passed">
+      <name>testProcessSimpleTypeStringArrayToIntArray</name>
+    </test-case>
+    <test-case start="1729890455972" stop="1729890455973" status="passed">
+      <name>testProcessSimpleTypeException with data set "int type, string value"</name>
+    </test-case>
+    <test-case start="1729890455973" stop="1729890455974" status="passed">
+      <name>testProcessSimpleTypeException with data set "float type, string value"</name>
+    </test-case>
+    <test-case start="1729890455974" stop="1729890455975" status="passed">
+      <name>testProcessSimpleTypeInvalidType</name>
+    </test-case>
+    <test-case start="1729890455975" stop="1729890455976" status="passed">
+      <name>testGetParamTypeWithIncorrectAnnotation</name>
+    </test-case>
+    <test-case start="1729890455977" stop="1729890455978" status="passed">
+      <name>testGetArrayParamType with data set #0</name>
+    </test-case>
+    <test-case start="1729890455978" stop="1729890455980" status="passed">
+      <name>testGetArrayParamType with data set #1</name>
+    </test-case>
+    <test-case start="1729890455981" stop="1729890455982" status="passed">
+      <name>testGetParameterDescription with data set #0</name>
+    </test-case>
+    <test-case start="1729890455983" stop="1729890455984" status="passed">
+      <name>testGetParameterDescription with data set #1</name>
+    </test-case>
+    <test-case start="1729890455985" stop="1729890455985" status="passed">
+      <name>testGetOperationName</name>
+    </test-case>
+    <test-case start="1729890455986" stop="1729890455988" status="passed">
+      <name>testGetReturnTypeWithInheritDocBlock with data set #0</name>
+    </test-case>
+    <test-case start="1729890455988" stop="1729890455989" status="passed">
+      <name>testGetReturnTypeWithInheritDocBlock with data set #1</name>
+    </test-case>
+    <test-case start="1729890455989" stop="1729890455991" status="passed">
+      <name>testGetReturnTypeWithInheritDocBlock with data set #2</name>
+    </test-case>
+    <test-case start="1729890455991" stop="1729890455992" status="passed">
+      <name>testGetReturnTypeWithoutReturnTag</name>
+    </test-case>
+    <test-case start="1729890455993" stop="1729890455994" status="passed">
+      <name>testGetReturnTypeNullAtFirstPos</name>
+    </test-case>
+    <test-case start="1729890455994" stop="1729890455995" status="passed">
+      <name>testIsSimpleType with data set #0</name>
+    </test-case>
+    <test-case start="1729890455995" stop="1729890455996" status="passed">
+      <name>testIsSimpleType with data set #1</name>
+    </test-case>
+    <test-case start="1729890455996" stop="1729890455997" status="passed">
+      <name>testIsSimpleType with data set #2</name>
+    </test-case>
+    <test-case start="1729890455997" stop="1729890455998" status="passed">
+      <name>testIsSimpleType with data set #3</name>
+    </test-case>
+    <test-case start="1729890455998" stop="1729890455999" status="passed">
+      <name>testIsSimpleType with data set #4</name>
+    </test-case>
+    <test-case start="1729890455999" stop="1729890456000" status="passed">
+      <name>testIsSimpleType with data set #5</name>
+    </test-case>
+    <test-case start="1729890456000" stop="1729890456001" status="passed">
+      <name>testBasicClassName with data set #0</name>
+    </test-case>
+    <test-case start="1729890456001" stop="1729890456002" status="passed">
+      <name>testBasicClassName with data set #1</name>
+    </test-case>
+    <test-case start="1729890456002" stop="1729890456003" status="passed">
+      <name>testBasicClassName with data set #2</name>
+    </test-case>
+    <test-case start="1729890456003" stop="1729890456004" status="passed">
+      <name>testBasicClassName with data set #3</name>
+    </test-case>
+    <test-case start="1729890456004" stop="1729890456005" status="passed">
+      <name>testBasicClassName with data set #4</name>
+    </test-case>
+    <test-case start="1729890456005" stop="1729890456006" status="passed">
+      <name>testBasicClassName with data set #5</name>
+    </test-case>
+    <test-case start="1729890456006" stop="1729890456007" status="passed">
+      <name>testIsFullyQualifiedClassName with data set #0</name>
+    </test-case>
+    <test-case start="1729890456007" stop="1729890456008" status="passed">
+      <name>testIsFullyQualifiedClassName with data set #1</name>
+    </test-case>
+    <test-case start="1729890456008" stop="1729890456009" status="passed">
+      <name>testIsFullyQualifiedClassName with data set #2</name>
+    </test-case>
+    <test-case start="1729890456009" stop="1729890456011" status="passed">
+      <name>testGetAliasMapping</name>
+    </test-case>
+    <test-case start="1729890456012" stop="1729890456012" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #0</name>
+    </test-case>
+    <test-case start="1729890456013" stop="1729890456013" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #1</name>
+    </test-case>
+    <test-case start="1729890456014" stop="1729890456015" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #2</name>
+    </test-case>
+    <test-case start="1729890456016" stop="1729890456017" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #3</name>
+    </test-case>
+    <test-case start="1729890456018" stop="1729890456018" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #4</name>
+    </test-case>
+    <test-case start="1729890456019" stop="1729890456020" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #5</name>
+    </test-case>
+    <test-case start="1729890456021" stop="1729890456022" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #6</name>
+    </test-case>
+    <test-case start="1729890456022" stop="1729890456023" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #7</name>
+    </test-case>
+    <test-case start="1729890456024" stop="1729890456025" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #8</name>
+    </test-case>
+    <test-case start="1729890456025" stop="1729890456026" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #9</name>
+    </test-case>
+    <test-case start="1729890456027" stop="1729890456027" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #10</name>
+    </test-case>
+    <test-case start="1729890456028" stop="1729890456029" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #11</name>
+    </test-case>
+    <test-case start="1729890456029" stop="1729890456030" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #12</name>
+    </test-case>
+    <test-case start="1729890456030" stop="1729890456031" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #13</name>
+    </test-case>
+    <test-case start="1729890456032" stop="1729890456033" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #14</name>
+    </test-case>
+    <test-case start="1729890456034" stop="1729890456034" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #15</name>
+    </test-case>
+    <test-case start="1729890456035" stop="1729890456036" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #16</name>
+    </test-case>
+    <test-case start="1729890456037" stop="1729890456037" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #17</name>
+    </test-case>
+    <test-case start="1729890456038" stop="1729890456039" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #18</name>
+    </test-case>
+    <test-case start="1729890456040" stop="1729890456041" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #19</name>
+    </test-case>
+    <test-case start="1729890456042" stop="1729890456042" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #20</name>
+    </test-case>
+    <test-case start="1729890456043" stop="1729890456043" status="passed">
+      <name>testResolveFullyQualifiedClassNames with data set #21</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

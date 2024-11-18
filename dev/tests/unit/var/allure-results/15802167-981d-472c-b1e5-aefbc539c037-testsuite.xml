@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454535" stop="1729890454572" version="1.4.0">
+  <name>Magento\Framework\ObjectManager\Test\Unit\Factory\FactoryTest</name>
+  <test-cases>
+    <test-case start="1729890454535" stop="1729890454536" status="passed">
+      <name>testCreateNoArgs</name>
+    </test-case>
+    <test-case start="1729890454536" stop="1729890454538" status="passed">
+      <name>testResolveArgumentsException</name>
+    </test-case>
+    <test-case start="1729890454538" stop="1729890454539" status="passed">
+      <name>testCreateOneArg</name>
+    </test-case>
+    <test-case start="1729890454540" stop="1729890454541" status="passed">
+      <name>testCreateWithInjectable</name>
+    </test-case>
+    <test-case start="1729890454542" stop="1729890454543" status="passed">
+      <name>testCircular with data set #0</name>
+    </test-case>
+    <test-case start="1729890454544" stop="1729890454544" status="passed">
+      <name>testCircular with data set #1</name>
+    </test-case>
+    <test-case start="1729890454545" stop="1729890454546" status="passed">
+      <name>testCircular with data set #2</name>
+    </test-case>
+    <test-case start="1729890454546" stop="1729890454547" status="passed">
+      <name>testCreateUsingReflection</name>
+    </test-case>
+    <test-case start="1729890454547" stop="1729890454549" status="passed">
+      <name>testCreateUsingVariadic with data set "without_args"</name>
+    </test-case>
+    <test-case start="1729890454549" stop="1729890454550" status="passed">
+      <name>testCreateUsingVariadic with data set "with_empty_args"</name>
+    </test-case>
+    <test-case start="1729890454550" stop="1729890454551" status="passed">
+      <name>testCreateUsingVariadic with data set "with_empty_args_value"</name>
+    </test-case>
+    <test-case start="1729890454552" stop="1729890454553" status="passed">
+      <name>testCreateUsingVariadic with data set "with_single_arg"</name>
+    </test-case>
+    <test-case start="1729890454553" stop="1729890454554" status="passed">
+      <name>testCreateUsingVariadic with data set "with_full_args"</name>
+    </test-case>
+    <test-case start="1729890454555" stop="1729890454556" status="passed">
+      <name>testCreateUsingVariadicDataProvider</name>
+    </test-case>
+    <test-case start="1729890454557" stop="1729890454557" status="passed">
+      <name>testCreateVariadicFromDiConfig</name>
+    </test-case>
+    <test-case start="1729890454558" stop="1729890454559" status="passed">
+      <name>testCreateUsingSemiVariadic with data set "without_args"</name>
+    </test-case>
+    <test-case start="1729890454560" stop="1729890454561" status="passed">
+      <name>testCreateUsingSemiVariadic with data set "with_empty_args"</name>
+    </test-case>
+    <test-case start="1729890454561" stop="1729890454562" status="passed">
+      <name>testCreateUsingSemiVariadic with data set "only_with_foo_value"</name>
+    </test-case>
+    <test-case start="1729890454563" stop="1729890454563" status="passed">
+      <name>testCreateUsingSemiVariadic with data set "only_with_oneScalars_empty_value"</name>
+    </test-case>
+    <test-case start="1729890454564" stop="1729890454565" status="passed">
+      <name>testCreateUsingSemiVariadic with data set "only_with_oneScalars_single_value"</name>
+    </test-case>
+    <test-case start="1729890454565" stop="1729890454566" status="passed">
+      <name>testCreateUsingSemiVariadic with data set "only_with_oneScalars_full_value"</name>
+    </test-case>
+    <test-case start="1729890454567" stop="1729890454568" status="passed">
+      <name>testCreateUsingSemiVariadic with data set "with_all_values_defined_in_right_order"</name>
+    </test-case>
+    <test-case start="1729890454568" stop="1729890454569" status="passed">
+      <name>testCreateUsingSemiVariadic with data set "with_all_values_defined_in_reverse_order"</name>
+    </test-case>
+    <test-case start="1729890454569" stop="1729890454571" status="passed">
+      <name>testCreateUsingSemiVariadicDataProvider</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

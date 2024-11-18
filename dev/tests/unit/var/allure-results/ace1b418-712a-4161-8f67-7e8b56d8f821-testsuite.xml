@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890440735" stop="1729890440738" version="1.4.0">
+  <name>Magento\Framework\Composer\Test\Unit\DependencyCheckerTest</name>
+  <test-cases>
+    <test-case start="1729890440735" stop="1729890440737" status="passed">
+      <name>testCheckDependencies</name>
+    </test-case>
+    <test-case start="1729890440737" stop="1729890440738" status="passed">
+      <name>testCheckDependenciesExcludeSelf</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

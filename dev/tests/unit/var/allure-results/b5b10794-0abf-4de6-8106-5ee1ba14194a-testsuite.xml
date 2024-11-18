@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890440695" stop="1729890440725" version="1.4.0">
+  <name>Magento\Framework\Composer\Test\Unit\ComposerInformationTest</name>
+  <test-cases>
+    <test-case start="1729890440696" stop="1729890440705" status="passed">
+      <name>testGetSystemPackages</name>
+    </test-case>
+    <test-case start="1729890440705" stop="1729890440714" status="passed">
+      <name>testGetRootPackage</name>
+    </test-case>
+    <test-case start="1729890440714" stop="1729890440718" status="passed">
+      <name>testIsMagentoRoot with data set #0</name>
+    </test-case>
+    <test-case start="1729890440718" stop="1729890440721" status="passed">
+      <name>testIsMagentoRoot with data set #1</name>
+    </test-case>
+    <test-case start="1729890440721" stop="1729890440725" status="passed">
+      <name>testIsMagentoRoot with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

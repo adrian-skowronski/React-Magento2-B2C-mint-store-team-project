@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890457820" stop="1729890457864" version="1.4.0">
+  <name>Magento\Framework\Setup\Test\Unit\Patch\PatchApplierTest</name>
+  <test-cases>
+    <test-case start="1729890457821" stop="1729890457832" status="passed">
+      <name>testApplyDataPatchForNewlyInstalledModule with data set "newly installed module"</name>
+    </test-case>
+    <test-case start="1729890457833" stop="1729890457836" status="passed">
+      <name>testApplyDataPatchForAlias with data set "newly installed module"</name>
+    </test-case>
+    <test-case start="1729890457837" stop="1729890457840" status="passed">
+      <name>testApplyDataPatchForInstalledModule with data set "upgrade module iwth only OtherDataPatch"</name>
+    </test-case>
+    <test-case start="1729890457841" stop="1729890457845" status="passed">
+      <name>testApplyDataPatchRollback with data set "upgrade module iwth only OtherDataPatch"</name>
+    </test-case>
+    <test-case start="1729890457845" stop="1729890457848" status="passed">
+      <name>testNonDataPatchApply</name>
+    </test-case>
+    <test-case start="1729890457848" stop="1729890457851" status="passed">
+      <name>testNonTransactionablePatch</name>
+    </test-case>
+    <test-case start="1729890457851" stop="1729890457856" status="passed">
+      <name>testSchemaPatchAplly with data set "upgrade module iwth only OtherSchemaPatch"</name>
+    </test-case>
+    <test-case start="1729890457857" stop="1729890457860" status="passed">
+      <name>testSchemaPatchApplyForPatchAlias with data set "upgrade module iwth only OtherSchemaPatch"</name>
+    </test-case>
+    <test-case start="1729890457860" stop="1729890457864" status="passed">
+      <name>testRevertDataPatches</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

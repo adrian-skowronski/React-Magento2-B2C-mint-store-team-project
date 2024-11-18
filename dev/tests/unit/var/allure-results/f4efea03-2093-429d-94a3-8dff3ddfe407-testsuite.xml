@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890377195" stop="1729890377207" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest</name>
+  <test-cases>
+    <test-case start="1729890377195" stop="1729890377200" status="passed">
+      <name>testCouponCodeNotReachedTheLimit</name>
+    </test-case>
+    <test-case start="1729890377200" stop="1729890377202" status="passed">
+      <name>testCouponCodeNotReachedTheLimitWithNewCouponCode</name>
+    </test-case>
+    <test-case start="1729890377202" stop="1729890377205" status="passed">
+      <name>testReachingLimitForCouponCode</name>
+    </test-case>
+    <test-case start="1729890377205" stop="1729890377207" status="passed">
+      <name>testQuoteWithNoCouponCode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

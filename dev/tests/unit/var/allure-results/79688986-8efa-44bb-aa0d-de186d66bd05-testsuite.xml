@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361173" stop="1729890361181" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\BillingAgreementConfigProviderTest</name>
+  <test-cases>
+    <test-case start="1729890361174" stop="1729890361180" status="passed">
+      <name>testGetConfig</name>
+    </test-case>
+    <test-case start="1729890361180" stop="1729890361181" status="passed">
+      <name>testGetConfigWithEmptyCustomer</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

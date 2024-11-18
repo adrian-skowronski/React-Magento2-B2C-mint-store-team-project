@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449433" stop="1729890449451" version="1.4.0">
+  <name>Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest</name>
+  <test-cases>
+    <test-case start="1729890449434" stop="1729890449436" status="passed">
+      <name>testFilter with data set "Comments"</name>
+    </test-case>
+    <test-case start="1729890449437" stop="1729890449438" status="passed">
+      <name>testFilter with data set "Tabs"</name>
+    </test-case>
+    <test-case start="1729890449438" stop="1729890449439" status="passed">
+      <name>testFilter with data set "JS"</name>
+    </test-case>
+    <test-case start="1729890449440" stop="1729890449441" status="passed">
+      <name>testFilter with data set "Import"</name>
+    </test-case>
+    <test-case start="1729890449441" stop="1729890449442" status="passed">
+      <name>testFilter with data set "JS in styles (array of strings to be filtered)"</name>
+    </test-case>
+    <test-case start="1729890449443" stop="1729890449443" status="passed">
+      <name>testFilter with data set "JS attributes (array of strings to be filtered)"</name>
+    </test-case>
+    <test-case start="1729890449444" stop="1729890449445" status="passed">
+      <name>testFilter with data set "Prohibited tags (array of strings to be filtered)"</name>
+    </test-case>
+    <test-case start="1729890449446" stop="1729890449446" status="passed">
+      <name>testFilter with data set "Base64"</name>
+    </test-case>
+    <test-case start="1729890449447" stop="1729890449448" status="passed">
+      <name>testFilter with data set "Nested malicious tags"</name>
+    </test-case>
+    <test-case start="1729890449448" stop="1729890449449" status="passed">
+      <name>testFilter with data set "Nested scripts"</name>
+    </test-case>
+    <test-case start="1729890449449" stop="1729890449450" status="passed">
+      <name>testFilter with data set "Null Value"</name>
+    </test-case>
+    <test-case start="1729890449450" stop="1729890449451" status="passed">
+      <name>testAddExpression</name>
+    </test-case>
+    <test-case start="1729890449451" stop="1729890449451" status="passed">
+      <name>testSetExpression</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

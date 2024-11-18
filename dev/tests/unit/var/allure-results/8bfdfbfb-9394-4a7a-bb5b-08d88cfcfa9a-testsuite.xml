@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890378826" stop="1729890378851" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Controller\Adminhtml\Order\Create\ReorderTest</name>
+  <test-cases>
+    <test-case start="1729890378826" stop="1729890378831" status="passed">
+      <name>testExecuteForward</name>
+    </test-case>
+    <test-case start="1729890378832" stop="1729890378834" status="passed">
+      <name>testExecuteRedirectOrderGrid</name>
+    </test-case>
+    <test-case start="1729890378834" stop="1729890378837" status="passed">
+      <name>testExecuteRedirectBack</name>
+    </test-case>
+    <test-case start="1729890378837" stop="1729890378841" status="passed">
+      <name>testExecuteRedirectNewOrder</name>
+    </test-case>
+    <test-case start="1729890378841" stop="1729890378844" status="passed">
+      <name>testExecuteRedirectNewOrderWithThrowsException</name>
+    </test-case>
+    <test-case start="1729890378844" stop="1729890378847" status="passed">
+      <name>testExecuteRedirectNewOrderWithException</name>
+    </test-case>
+    <test-case start="1729890378847" stop="1729890378851" status="passed">
+      <name>testExecuteReorderWithThrowsLocalizedException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

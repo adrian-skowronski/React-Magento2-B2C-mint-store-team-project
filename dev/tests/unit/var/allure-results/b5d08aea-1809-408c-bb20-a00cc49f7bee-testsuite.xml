@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890445304" stop="1729890445308" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Form\Element\PasswordTest</name>
+  <test-cases>
+    <test-case start="1729890445305" stop="1729890445306" status="passed">
+      <name>testConstruct</name>
+    </test-case>
+    <test-case start="1729890445306" stop="1729890445308" status="passed">
+      <name>testGetHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375934" stop="1729890375965" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\Coupon\Usage\ProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890375935" stop="1729890375951" status="passed">
+      <name>testProcess with data set #0</name>
+    </test-case>
+    <test-case start="1729890375952" stop="1729890375956" status="passed">
+      <name>testProcess with data set #1</name>
+    </test-case>
+    <test-case start="1729890375956" stop="1729890375961" status="passed">
+      <name>testProcess with data set #2</name>
+    </test-case>
+    <test-case start="1729890375961" stop="1729890375965" status="passed">
+      <name>testProcess with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

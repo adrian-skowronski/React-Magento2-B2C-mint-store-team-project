@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890405567" stop="1729890405569" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Config\Converter\UrlTest</name>
+  <test-cases>
+    <test-case start="1729890405567" stop="1729890405568" status="passed">
+      <name>testConvertUrl</name>
+    </test-case>
+    <test-case start="1729890405568" stop="1729890405569" status="passed">
+      <name>testConvertUrlWithoutParams</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

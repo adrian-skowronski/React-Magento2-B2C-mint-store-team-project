@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890306979" stop="1729890307005" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Block\Product\Configurable\AttributeSelectorTest</name>
+  <test-cases>
+    <test-case start="1729890306979" stop="1729890306995" status="passed">
+      <name>testGetAttributeSetCreationUrl</name>
+    </test-case>
+    <test-case start="1729890306995" stop="1729890307005" status="passed">
+      <name>testGetSuggestWidgetOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

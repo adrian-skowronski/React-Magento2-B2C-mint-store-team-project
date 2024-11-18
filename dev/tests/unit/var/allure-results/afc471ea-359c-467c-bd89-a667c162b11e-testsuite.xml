@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890309700" stop="1729890309712" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Model\Product\SaveHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890309701" stop="1729890309704" status="passed">
+      <name>testExecuteWithInvalidProductType</name>
+    </test-case>
+    <test-case start="1729890309704" stop="1729890309707" status="passed">
+      <name>testExecuteWithEmptyExtensionAttributes</name>
+    </test-case>
+    <test-case start="1729890309707" stop="1729890309712" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

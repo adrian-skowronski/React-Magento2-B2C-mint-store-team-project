@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890266271" stop="1729890266326" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Model\Auth\SessionTest</name>
+  <test-cases>
+    <test-case start="1729890266271" stop="1729890266285" status="passed">
+      <name>testRefreshAcl with data set "User set via params"</name>
+    </test-case>
+    <test-case start="1729890266285" stop="1729890266287" status="passed">
+      <name>testRefreshAcl with data set "User set to session object"</name>
+    </test-case>
+    <test-case start="1729890266288" stop="1729890266289" status="passed">
+      <name>testIsLoggedInPositive</name>
+    </test-case>
+    <test-case start="1729890266289" stop="1729890266300" status="passed">
+      <name>testProlong</name>
+    </test-case>
+    <test-case start="1729890266301" stop="1729890266303" status="passed">
+      <name>testIsAllowed with data set "Negative: User not defined"</name>
+    </test-case>
+    <test-case start="1729890266303" stop="1729890266315" status="passed">
+      <name>testIsAllowed with data set "Negative: Acl not defined"</name>
+    </test-case>
+    <test-case start="1729890266315" stop="1729890266318" status="passed">
+      <name>testIsAllowed with data set "Negative: Permission denied"</name>
+    </test-case>
+    <test-case start="1729890266319" stop="1729890266322" status="passed">
+      <name>testIsAllowed with data set "Positive: Permission granted"</name>
+    </test-case>
+    <test-case start="1729890266323" stop="1729890266324" status="passed">
+      <name>testFirstPageAfterLogin with data set "First page after login"</name>
+    </test-case>
+    <test-case start="1729890266324" stop="1729890266326" status="passed">
+      <name>testFirstPageAfterLogin with data set "Not first page after login"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

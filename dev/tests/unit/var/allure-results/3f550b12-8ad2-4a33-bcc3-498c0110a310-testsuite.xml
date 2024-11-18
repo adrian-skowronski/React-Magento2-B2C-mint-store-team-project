@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890282970" stop="1729890283000" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Ui\ProductViewCounterTest</name>
+  <test-cases>
+    <test-case start="1729890282970" stop="1729890282991" status="passed">
+      <name>testGetCurrentProductDataWithEmptyProduct</name>
+    </test-case>
+    <test-case start="1729890282991" stop="1729890283000" status="passed">
+      <name>testGetCurrentProductDataWithNonEmptyProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

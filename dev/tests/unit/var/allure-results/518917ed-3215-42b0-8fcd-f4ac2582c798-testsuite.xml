@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395241" stop="1729890395267" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\ScopeResolverTest</name>
+  <test-cases>
+    <test-case start="1729890395243" stop="1729890395247" status="passed">
+      <name>testIsBelongsToScope with data set "All scopes belongs to Default"</name>
+    </test-case>
+    <test-case start="1729890395249" stop="1729890395250" status="passed">
+      <name>testIsBelongsToScope with data set "Store group belongs to website"</name>
+    </test-case>
+    <test-case start="1729890395252" stop="1729890395253" status="passed">
+      <name>testIsBelongsToScope with data set "Store belongs to store group"</name>
+    </test-case>
+    <test-case start="1729890395255" stop="1729890395256" status="passed">
+      <name>testIsBelongsToScope with data set "Store belongs to website"</name>
+    </test-case>
+    <test-case start="1729890395258" stop="1729890395260" status="passed">
+      <name>testIsBelongsToScope with data set "Store group not belongs to website"</name>
+    </test-case>
+    <test-case start="1729890395262" stop="1729890395263" status="passed">
+      <name>testIsBelongsToScope with data set "Store not belongs to store group"</name>
+    </test-case>
+    <test-case start="1729890395264" stop="1729890395266" status="passed">
+      <name>testIsBelongsToScope with data set "Store not belongs to website"</name>
+    </test-case>
+    <test-case start="1729890395266" stop="1729890395267" status="passed">
+      <name>testIsBelongsToScopeDataProvider</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

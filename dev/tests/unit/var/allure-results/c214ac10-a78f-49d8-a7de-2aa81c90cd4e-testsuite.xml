@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890314930" stop="1729890315132" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\AccountManagementTest</name>
+  <test-cases>
+    <test-case start="1729890314931" stop="1729890314947" status="passed">
+      <name>testCreateAccountWithPasswordHashWithExistingCustomer</name>
+    </test-case>
+    <test-case start="1729890314948" stop="1729890314954" status="passed">
+      <name>testCreateAccountWithPasswordHashWithCustomerWithoutStoreId</name>
+    </test-case>
+    <test-case start="1729890314954" stop="1729890314964" status="passed">
+      <name>testCreateAccountWithPasswordHashWithLocalizedException</name>
+    </test-case>
+    <test-case start="1729890314965" stop="1729890314971" status="passed">
+      <name>testCreateAccountWithPasswordHashWithAddressException</name>
+    </test-case>
+    <test-case start="1729890314972" stop="1729890314976" status="passed">
+      <name>testCreateAccountWithPasswordHashWithNewCustomerAndLocalizedException</name>
+    </test-case>
+    <test-case start="1729890314977" stop="1729890314985" status="passed">
+      <name>testCreateAccountWithoutPassword</name>
+    </test-case>
+    <test-case start="1729890314986" stop="1729890314988" status="passed">
+      <name>testCreateAccountWithPasswordInputException with data set #0</name>
+    </test-case>
+    <test-case start="1729890314989" stop="1729890314991" status="passed">
+      <name>testCreateAccountWithPasswordInputException with data set #1</name>
+    </test-case>
+    <test-case start="1729890314991" stop="1729890314995" status="passed">
+      <name>testCreateAccountInputExceptionExtraLongPassword</name>
+    </test-case>
+    <test-case start="1729890314995" stop="1729890315003" status="passed">
+      <name>testCreateAccountWithPassword</name>
+    </test-case>
+    <test-case start="1729890315003" stop="1729890315011" status="passed">
+      <name>testCreateAccountWithGroupId</name>
+    </test-case>
+    <test-case start="1729890315011" stop="1729890315016" status="passed">
+      <name>testSendPasswordReminderEmail</name>
+    </test-case>
+    <test-case start="1729890315016" stop="1729890315022" status="passed">
+      <name>testInitiatePasswordResetEmailReminder</name>
+    </test-case>
+    <test-case start="1729890315022" stop="1729890315028" status="passed">
+      <name>testInitiatePasswordResetEmailReset</name>
+    </test-case>
+    <test-case start="1729890315028" stop="1729890315033" status="passed">
+      <name>testInitiatePasswordResetNoTemplate</name>
+    </test-case>
+    <test-case start="1729890315034" stop="1729890315036" status="passed">
+      <name>testValidateResetPasswordTokenBadCustomerId</name>
+    </test-case>
+    <test-case start="1729890315037" stop="1729890315039" status="passed">
+      <name>testValidateResetPasswordTokenBadResetPasswordLinkToken</name>
+    </test-case>
+    <test-case start="1729890315039" stop="1729890315041" status="passed">
+      <name>testValidateResetPasswordTokenTokenMismatch</name>
+    </test-case>
+    <test-case start="1729890315042" stop="1729890315051" status="passed">
+      <name>testValidateResetPasswordTokenTokenExpired</name>
+    </test-case>
+    <test-case start="1729890315052" stop="1729890315055" status="passed">
+      <name>testValidateResetPasswordToken</name>
+    </test-case>
+    <test-case start="1729890315055" stop="1729890315063" status="passed">
+      <name>testChangePassword</name>
+    </test-case>
+    <test-case start="1729890315063" stop="1729890315069" status="passed">
+      <name>testResetPassword</name>
+    </test-case>
+    <test-case start="1729890315069" stop="1729890315072" status="passed">
+      <name>testChangePasswordException</name>
+    </test-case>
+    <test-case start="1729890315072" stop="1729890315086" status="passed">
+      <name>testAuthenticate</name>
+    </test-case>
+    <test-case start="1729890315087" stop="1729890315090" status="passed">
+      <name>testGetConfirmationStatus with data set #0</name>
+    </test-case>
+    <test-case start="1729890315090" stop="1729890315094" status="passed">
+      <name>testGetConfirmationStatus with data set #1</name>
+    </test-case>
+    <test-case start="1729890315094" stop="1729890315098" status="passed">
+      <name>testGetConfirmationStatus with data set #2</name>
+    </test-case>
+    <test-case start="1729890315098" stop="1729890315102" status="passed">
+      <name>testGetConfirmationStatus with data set #3</name>
+    </test-case>
+    <test-case start="1729890315102" stop="1729890315106" status="passed">
+      <name>testGetConfirmationStatus with data set #4</name>
+    </test-case>
+    <test-case start="1729890315106" stop="1729890315109" status="passed">
+      <name>testCreateAccountWithPasswordHashForGuestException</name>
+    </test-case>
+    <test-case start="1729890315110" stop="1729890315116" status="passed">
+      <name>testCreateAccountWithPasswordHashWithCustomerAddresses</name>
+    </test-case>
+    <test-case start="1729890315116" stop="1729890315122" status="passed">
+      <name>testCreateAccountUnexpectedValueException</name>
+    </test-case>
+    <test-case start="1729890315122" stop="1729890315126" status="passed">
+      <name>testCreateAccountWithStoreNotInWebsite</name>
+    </test-case>
+    <test-case start="1729890315126" stop="1729890315129" status="passed">
+      <name>testValidateCustomerStoreIdByWebsiteId</name>
+    </test-case>
+    <test-case start="1729890315129" stop="1729890315132" status="passed">
+      <name>testValidateCustomerStoreIdByWebsiteIdException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

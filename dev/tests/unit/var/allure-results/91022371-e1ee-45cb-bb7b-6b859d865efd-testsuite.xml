@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890288218" stop="1729890288233" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Attribute\SetRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890288218" stop="1729890288220" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890288220" stop="1729890288222" status="passed">
+      <name>testSaveNonProductAttributeSet</name>
+    </test-case>
+    <test-case start="1729890288222" stop="1729890288223" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890288224" stop="1729890288225" status="passed">
+      <name>testGetNonProductAttributeSet</name>
+    </test-case>
+    <test-case start="1729890288225" stop="1729890288227" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890288227" stop="1729890288228" status="passed">
+      <name>testDeleteNonProductAttributeSet</name>
+    </test-case>
+    <test-case start="1729890288229" stop="1729890288230" status="passed">
+      <name>testDeleteById</name>
+    </test-case>
+    <test-case start="1729890288230" stop="1729890288233" status="passed">
+      <name>testGetList</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

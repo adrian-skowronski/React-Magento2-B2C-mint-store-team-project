@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890410691" stop="1729890410706" version="1.4.0">
+  <name>Magento\Widget\Test\Unit\Model\ResourceModel\Layout\Link\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890410691" stop="1729890410694" status="passed">
+      <name>testAddTemporaryFilter with data set "Add temporary filter"</name>
+    </test-case>
+    <test-case start="1729890410695" stop="1729890410697" status="passed">
+      <name>testAddTemporaryFilter with data set "Disable temporary filter"</name>
+    </test-case>
+    <test-case start="1729890410698" stop="1729890410702" status="passed">
+      <name>testJoinWithUpdate</name>
+    </test-case>
+    <test-case start="1729890410703" stop="1729890410706" status="passed">
+      <name>testAddUpdatedDaysBeforeFilter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

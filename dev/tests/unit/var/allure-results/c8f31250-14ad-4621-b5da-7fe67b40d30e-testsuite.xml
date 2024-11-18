@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890410346" stop="1729890410353" version="1.4.0">
+  <name>Magento\Weee\Test\Unit\Pricing\Render\TaxAdjustmentTest</name>
+  <test-cases>
+    <test-case start="1729890410347" stop="1729890410350" status="passed">
+      <name>testGetDefaultExclusions with data set "weee part of exclusions"</name>
+    </test-case>
+    <test-case start="1729890410351" stop="1729890410353" status="passed">
+      <name>testGetDefaultExclusions with data set "weee not part of exclusions"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890423093" stop="1729890423096" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Cache\Tag\Strategy\IdentifierTest</name>
+  <test-cases>
+    <test-case start="1729890423093" stop="1729890423094" status="passed">
+      <name>testGetWithScalar</name>
+    </test-case>
+    <test-case start="1729890423094" stop="1729890423095" status="passed">
+      <name>testGetTagsWithObject</name>
+    </test-case>
+    <test-case start="1729890423095" stop="1729890423096" status="passed">
+      <name>testGetTagsWithIdentityInterface</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

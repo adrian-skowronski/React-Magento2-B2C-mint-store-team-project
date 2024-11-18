@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890282368" stop="1729890282373" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Product\NewProductTest</name>
+  <test-cases>
+    <test-case start="1729890282368" stop="1729890282370" status="passed">
+      <name>testGetIdentities</name>
+    </test-case>
+    <test-case start="1729890282371" stop="1729890282373" status="passed">
+      <name>testScope</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

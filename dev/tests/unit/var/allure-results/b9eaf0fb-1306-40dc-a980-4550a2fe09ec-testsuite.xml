@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890363479" stop="1729890363509" version="1.4.0">
+  <name>Magento\Persistent\Test\Unit\Model\Checkout\GuestPaymentInformationManagementPluginTest</name>
+  <test-cases>
+    <test-case start="1729890363479" stop="1729890363496" status="passed">
+      <name>testBeforeSavePaymentInformationAndPlaceOrderCartConvertsToGuest</name>
+    </test-case>
+    <test-case start="1729890363496" stop="1729890363500" status="passed">
+      <name>testBeforeSavePaymentInformationAndPlaceOrderShoppingCartNotPersistentState</name>
+    </test-case>
+    <test-case start="1729890363502" stop="1729890363504" status="passed">
+      <name>testBeforeSavePaymentInformationAndPlaceOrderPersistentSessionNotPersistentState</name>
+    </test-case>
+    <test-case start="1729890363504" stop="1729890363507" status="passed">
+      <name>testBeforeSavePaymentInformationAndPlaceOrderCustomerSessionInLoggedInState</name>
+    </test-case>
+    <test-case start="1729890363507" stop="1729890363509" status="passed">
+      <name>testBeforeSavePaymentInformationAndPlaceOrderQuoteManagerNotInPersistentState</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

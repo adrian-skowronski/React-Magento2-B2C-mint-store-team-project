@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890274485" stop="1729890274512" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Block\Stockqty\DefaultStockqtyTest</name>
+  <test-cases>
+    <test-case start="1729890274485" stop="1729890274494" status="passed">
+      <name>testGetIdentities</name>
+    </test-case>
+    <test-case start="1729890274495" stop="1729890274500" status="passed">
+      <name>testGetStockQty with data set #0</name>
+    </test-case>
+    <test-case start="1729890274501" stop="1729890274505" status="passed">
+      <name>testGetStockQty with data set #1</name>
+    </test-case>
+    <test-case start="1729890274506" stop="1729890274508" status="passed">
+      <name>testGetStockQty with data set #2</name>
+    </test-case>
+    <test-case start="1729890274509" stop="1729890274512" status="passed">
+      <name>testGetThresholdQty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

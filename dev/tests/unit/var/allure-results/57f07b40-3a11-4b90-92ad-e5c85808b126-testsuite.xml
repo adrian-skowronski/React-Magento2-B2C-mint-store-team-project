@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890458372" stop="1729890458386" version="1.4.0">
+  <name>Magento\Framework\Stdlib\Test\Unit\Cookie\PublicCookieMetadataTest</name>
+  <test-cases>
+    <test-case start="1729890458375" stop="1729890458375" status="passed">
+      <name>testGetters with data set "getDomain"</name>
+    </test-case>
+    <test-case start="1729890458376" stop="1729890458379" status="passed">
+      <name>testGetters with data set "getPath"</name>
+    </test-case>
+    <test-case start="1729890458379" stop="1729890458379" status="passed">
+      <name>testGetters with data set "getDuration"</name>
+    </test-case>
+    <test-case start="1729890458380" stop="1729890458380" status="passed">
+      <name>testGetters with data set "getHttpOnly"</name>
+    </test-case>
+    <test-case start="1729890458381" stop="1729890458381" status="passed">
+      <name>testGetters with data set "getSecure"</name>
+    </test-case>
+    <test-case start="1729890458382" stop="1729890458382" status="passed">
+      <name>testGetters with data set "getDurationOneYear"</name>
+    </test-case>
+    <test-case start="1729890458382" stop="1729890458384" status="passed">
+      <name>testGetters with data set "getSameSite"</name>
+    </test-case>
+    <test-case start="1729890458384" stop="1729890458385" status="passed">
+      <name>testToArray with data set #0</name>
+    </test-case>
+    <test-case start="1729890458386" stop="1729890458386" status="passed">
+      <name>testSetSecureWithSameSiteNone</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890269624" stop="1729890269632" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Model\Product\CatalogPriceTest</name>
+  <test-cases>
+    <test-case start="1729890269624" stop="1729890269627" status="passed">
+      <name>testGetCatalogPriceWithCurrentStore</name>
+    </test-case>
+    <test-case start="1729890269628" stop="1729890269630" status="passed">
+      <name>testGetCatalogPriceWithCustomStore</name>
+    </test-case>
+    <test-case start="1729890269630" stop="1729890269631" status="passed">
+      <name>testGetCatalogRegularPrice</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

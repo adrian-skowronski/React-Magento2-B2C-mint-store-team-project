@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301185" stop="1729890301188" version="1.4.0">
+  <name>Magento\Config\Test\Unit\App\Config\Source\ConfigStructureSourceTest</name>
+  <test-cases>
+    <test-case start="1729890301186" stop="1729890301188" status="passed">
+      <name>testGet with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890405936" stop="1729890405942" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Model\BookmarkManagementTest</name>
+  <test-cases>
+    <test-case start="1729890405936" stop="1729890405940" status="passed">
+      <name>testLoadByNamespace</name>
+    </test-case>
+    <test-case start="1729890405940" stop="1729890405942" status="passed">
+      <name>testGetByIdentifierNamespace</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

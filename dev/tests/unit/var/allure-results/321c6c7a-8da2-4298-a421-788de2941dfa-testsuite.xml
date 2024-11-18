@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297854" stop="1729890297855" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Model\AgreementsValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890297854" stop="1729890297854" status="passed">
+      <name>testIsValid</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890380001" stop="1729890380017" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\AbstractModelTest</name>
+  <test-cases>
+    <test-case start="1729890380001" stop="1729890380014" status="passed">
+      <name>testGetEventPrefix</name>
+    </test-case>
+    <test-case start="1729890380015" stop="1729890380017" status="passed">
+      <name>testGetEventObject</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

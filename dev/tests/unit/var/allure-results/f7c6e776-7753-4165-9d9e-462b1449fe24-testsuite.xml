@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890381755" stop="1729890381772" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Email\Container\ShipmentIdentityTest</name>
+  <test-cases>
+    <test-case start="1729890381756" stop="1729890381757" status="passed">
+      <name>testIsEnabledTrue</name>
+    </test-case>
+    <test-case start="1729890381758" stop="1729890381760" status="passed">
+      <name>testGetEmailCopyTo</name>
+    </test-case>
+    <test-case start="1729890381760" stop="1729890381761" status="passed">
+      <name>testGetEmailCopyToWithSpaceEmail</name>
+    </test-case>
+    <test-case start="1729890381761" stop="1729890381762" status="passed">
+      <name>testGetEmailCopyToEmptyResult</name>
+    </test-case>
+    <test-case start="1729890381763" stop="1729890381763" status="passed">
+      <name>testCopyMethod</name>
+    </test-case>
+    <test-case start="1729890381764" stop="1729890381765" status="passed">
+      <name>testGuestTemplateId</name>
+    </test-case>
+    <test-case start="1729890381765" stop="1729890381766" status="passed">
+      <name>testTemplateId</name>
+    </test-case>
+    <test-case start="1729890381766" stop="1729890381767" status="passed">
+      <name>testSetStore</name>
+    </test-case>
+    <test-case start="1729890381767" stop="1729890381768" status="passed">
+      <name>testGetStoreFromStoreManager</name>
+    </test-case>
+    <test-case start="1729890381769" stop="1729890381769" status="passed">
+      <name>testSetCustomerEmail</name>
+    </test-case>
+    <test-case start="1729890381770" stop="1729890381770" status="passed">
+      <name>testSetCustomerName</name>
+    </test-case>
+    <test-case start="1729890381771" stop="1729890381771" status="passed">
+      <name>testGetEmailIdentity</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890391992" stop="1729890392005" version="1.4.0">
+  <name>Magento\Search\Test\Unit\Model\SynonymAnalyzerTest</name>
+  <test-cases>
+    <test-case start="1729890391992" stop="1729890391997" status="passed">
+      <name>testGetSynonymsForPhrase</name>
+    </test-case>
+    <test-case start="1729890391997" stop="1729890391998" status="passed">
+      <name>testGetSynonymsForPhraseEmptyPhrase</name>
+    </test-case>
+    <test-case start="1729890391998" stop="1729890392005" status="passed">
+      <name>testLongQuotedPhrase</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

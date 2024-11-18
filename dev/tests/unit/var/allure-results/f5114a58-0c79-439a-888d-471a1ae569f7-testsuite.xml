@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393513" stop="1729890393533" version="1.4.0">
+  <name>Magento\Sitemap\Test\Unit\Block\RobotsTest</name>
+  <test-cases>
+    <test-case start="1729890393514" stop="1729890393521" status="passed">
+      <name>testToHtmlRobotsSubmissionIsDisabled</name>
+    </test-case>
+    <test-case start="1729890393521" stop="1729890393531" status="passed">
+      <name>testAfterGetDataRobotsSubmissionIsEnabled</name>
+    </test-case>
+    <test-case start="1729890393531" stop="1729890393533" status="passed">
+      <name>testGetIdentities</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

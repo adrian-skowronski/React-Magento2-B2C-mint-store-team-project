@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285358" stop="1729890285364" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Category\Link\ReadHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890285358" stop="1729890285362" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890285363" stop="1729890285364" status="passed">
+      <name>testExecuteNullExtensionAttributes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

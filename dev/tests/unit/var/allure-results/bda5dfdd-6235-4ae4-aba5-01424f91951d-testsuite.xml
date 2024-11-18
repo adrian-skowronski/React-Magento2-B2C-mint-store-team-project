@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392257" stop="1729890392259" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Model\Config\Source\ResetMethodTest</name>
+  <test-cases>
+    <test-case start="1729890392257" stop="1729890392258" status="passed">
+      <name>testToOptionArray</name>
+    </test-case>
+    <test-case start="1729890392258" stop="1729890392259" status="passed">
+      <name>testToArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890258160" stop="1729890258165" version="1.4.0">
+  <name>Magento\AdobeIms\Test\Unit\Model\FlushUserTokensTest</name>
+  <test-cases>
+    <test-case start="1729890258160" stop="1729890258163" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890258164" stop="1729890258165" status="passed">
+      <name>testExecuteEmptyTokens</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406941" stop="1729890406945" version="1.4.0">
+  <name>Magento\User\Test\Unit\Model\Authorization\AdminSessionUserContextTest</name>
+  <test-cases>
+    <test-case start="1729890406942" stop="1729890406944" status="passed">
+      <name>testGetUserIdExist</name>
+    </test-case>
+    <test-case start="1729890406944" stop="1729890406944" status="passed">
+      <name>testGetUserIdDoesNotExist</name>
+    </test-case>
+    <test-case start="1729890406945" stop="1729890406945" status="passed">
+      <name>testGetUserType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

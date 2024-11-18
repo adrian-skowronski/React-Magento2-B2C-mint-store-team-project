@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450909" stop="1729890450911" version="1.4.0">
+  <name>Magento\Framework\Jwt\Test\Unit\Header\X509ChainTest</name>
+  <test-cases>
+    <test-case start="1729890450909" stop="1729890450910" status="passed">
+      <name>testEmpty</name>
+    </test-case>
+    <test-case start="1729890450911" stop="1729890450911" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

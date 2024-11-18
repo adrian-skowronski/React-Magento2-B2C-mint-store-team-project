@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392481" stop="1729890392513" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Model\SecurityChecker\FrequencyTest</name>
+  <test-cases>
+    <test-case start="1729890392481" stop="1729890392486" status="passed">
+      <name>testCheck with data set #0</name>
+    </test-case>
+    <test-case start="1729890392486" stop="1729890392488" status="passed">
+      <name>testCheck with data set #1</name>
+    </test-case>
+    <test-case start="1729890392488" stop="1729890392490" status="passed">
+      <name>testCheck with data set #2</name>
+    </test-case>
+    <test-case start="1729890392491" stop="1729890392493" status="passed">
+      <name>testCheck with data set #3</name>
+    </test-case>
+    <test-case start="1729890392494" stop="1729890392495" status="passed">
+      <name>testCheck with data set #4</name>
+    </test-case>
+    <test-case start="1729890392496" stop="1729890392498" status="passed">
+      <name>testCheck with data set #5</name>
+    </test-case>
+    <test-case start="1729890392499" stop="1729890392501" status="passed">
+      <name>testCheckException with data set #0</name>
+    </test-case>
+    <test-case start="1729890392502" stop="1729890392503" status="passed">
+      <name>testCheckException with data set #1</name>
+    </test-case>
+    <test-case start="1729890392504" stop="1729890392506" status="passed">
+      <name>testCheckException with data set #2</name>
+    </test-case>
+    <test-case start="1729890392506" stop="1729890392508" status="passed">
+      <name>testCheckException with data set #3</name>
+    </test-case>
+    <test-case start="1729890392508" stop="1729890392511" status="passed">
+      <name>testCheckException with data set #4</name>
+    </test-case>
+    <test-case start="1729890392511" stop="1729890392513" status="passed">
+      <name>testCheckException with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

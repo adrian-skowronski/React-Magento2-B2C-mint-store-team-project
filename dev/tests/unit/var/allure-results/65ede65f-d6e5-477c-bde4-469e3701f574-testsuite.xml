@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890268195" stop="1729890268210" version="1.4.0">
+  <name>Magento\Backup\Test\Unit\Model\BackupFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890268195" stop="1729890268207" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890268208" stop="1729890268209" status="passed">
+      <name>testCreateInvalid</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

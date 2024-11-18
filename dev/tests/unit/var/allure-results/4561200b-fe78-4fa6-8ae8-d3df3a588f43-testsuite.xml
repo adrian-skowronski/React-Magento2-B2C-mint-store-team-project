@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890371385" stop="1729890371397" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Observer\SubmitObserverTest</name>
+  <test-cases>
+    <test-case start="1729890371385" stop="1729890371391" status="passed">
+      <name>testSendEmail</name>
+    </test-case>
+    <test-case start="1729890371391" stop="1729890371394" status="passed">
+      <name>testFailToSendEmail</name>
+    </test-case>
+    <test-case start="1729890371395" stop="1729890371397" status="passed">
+      <name>testSendEmailWhenRedirectUrlExists</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

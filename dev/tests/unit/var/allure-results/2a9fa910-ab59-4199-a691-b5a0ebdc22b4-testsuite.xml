@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890288808" stop="1729890288874" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Gallery\ProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890288809" stop="1729890288828" status="passed">
+      <name>testGetAffectedFields</name>
+    </test-case>
+    <test-case start="1729890288829" stop="1729890288837" status="passed">
+      <name>testValidate with data set #0</name>
+    </test-case>
+    <test-case start="1729890288838" stop="1729890288840" status="passed">
+      <name>testValidate with data set #1</name>
+    </test-case>
+    <test-case start="1729890288841" stop="1729890288844" status="passed">
+      <name>testClearMediaAttribute with data set #0</name>
+    </test-case>
+    <test-case start="1729890288845" stop="1729890288849" status="passed">
+      <name>testClearMediaAttribute with data set #1</name>
+    </test-case>
+    <test-case start="1729890288849" stop="1729890288856" status="passed">
+      <name>testClearMediaAttribute with data set #2</name>
+    </test-case>
+    <test-case start="1729890288857" stop="1729890288873" status="passed">
+      <name>testClearMediaAttribute with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

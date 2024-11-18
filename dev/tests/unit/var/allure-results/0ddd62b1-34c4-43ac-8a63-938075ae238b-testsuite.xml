@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302040" stop="1729890302042" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Backend\File\RequestDataTest</name>
+  <test-cases>
+    <test-case start="1729890302040" stop="1729890302041" status="passed">
+      <name>testGetNameRetrievesFileName</name>
+    </test-case>
+    <test-case start="1729890302041" stop="1729890302041" status="passed">
+      <name>testGetTmpNameRetrievesFileName</name>
+    </test-case>
+    <test-case start="1729890302042" stop="1729890302042" status="passed">
+      <name>testGetNameReturnsNullIfInvalidPathIsProvided</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

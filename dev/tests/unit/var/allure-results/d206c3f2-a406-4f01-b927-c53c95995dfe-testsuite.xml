@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392090" stop="1729890392093" version="1.4.0">
+  <name>Magento\Search\Test\Unit\Ui\Component\Listing\Column\SynonymActionsTest</name>
+  <test-cases>
+    <test-case start="1729890392090" stop="1729890392092" status="passed">
+      <name>testPrepareDataSourceWithNoItem</name>
+    </test-case>
+    <test-case start="1729890392092" stop="1729890392093" status="passed">
+      <name>testPrepareDataSourceWithItems</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

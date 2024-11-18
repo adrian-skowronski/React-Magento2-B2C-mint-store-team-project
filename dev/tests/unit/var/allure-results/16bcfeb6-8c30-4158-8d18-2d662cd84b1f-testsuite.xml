@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890465531" stop="1729890465536" version="1.4.0">
+  <name>Magento\Framework\Webapi\Test\Unit\Validator\SearchCriteriaValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890465531" stop="1729890465532" status="passed">
+      <name>testAllowsPageSizeWhenAboveMinLimitAndBelowMaxLimit</name>
+    </test-case>
+    <test-case start="1729890465532" stop="1729890465533" status="passed">
+      <name>testAllowsPageSizeWhenAboveMinLimitAndBelowMaxLimitUsingConfig</name>
+    </test-case>
+    <test-case start="1729890465533" stop="1729890465534" status="passed">
+      <name>testDisabledLimiting</name>
+    </test-case>
+    <test-case start="1729890465534" stop="1729890465535" status="passed">
+      <name>testFailsPageSizeWhenAboveMaxLimit</name>
+    </test-case>
+    <test-case start="1729890465535" stop="1729890465536" status="passed">
+      <name>testFailsPageSizeWhenAboveMaxLimitUsingConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

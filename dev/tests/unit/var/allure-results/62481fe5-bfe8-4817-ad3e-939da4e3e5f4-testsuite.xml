@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890371518" stop="1729890371563" version="1.4.0">
+  <name>Magento\ReCaptchaWebapiGraphQl\Test\Unit\Plugin\GraphQlValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890371518" stop="1729890371555" status="passed">
+      <name>testPlugin with data set "not-mutation"</name>
+    </test-case>
+    <test-case start="1729890371556" stop="1729890371557" status="passed">
+      <name>testPlugin with data set "not-protected"</name>
+    </test-case>
+    <test-case start="1729890371558" stop="1729890371560" status="passed">
+      <name>testPlugin with data set "invalid"</name>
+    </test-case>
+    <test-case start="1729890371561" stop="1729890371563" status="passed">
+      <name>testPlugin with data set "valid"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

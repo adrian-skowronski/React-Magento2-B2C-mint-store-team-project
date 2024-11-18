@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890410979" stop="1729890410987" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Block\Cart\Item\Renderer\Actions\MoveToWishlistTest</name>
+  <test-cases>
+    <test-case start="1729890410979" stop="1729890410984" status="passed">
+      <name>testIsAllowInCart</name>
+    </test-case>
+    <test-case start="1729890410984" stop="1729890410987" status="passed">
+      <name>testGetMoveFromCartParams</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

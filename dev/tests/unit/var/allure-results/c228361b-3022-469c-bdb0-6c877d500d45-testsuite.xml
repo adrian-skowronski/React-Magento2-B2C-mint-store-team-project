@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448830" stop="1729890448848" version="1.4.0">
+  <name>Magento\Framework\File\Test\Unit\UploaderTest</name>
+  <test-cases>
+    <test-case start="1729890448830" stop="1729890448832" status="passed">
+      <name>testGetCorrectFileName with data set #0</name>
+    </test-case>
+    <test-case start="1729890448832" stop="1729890448833" status="passed">
+      <name>testGetCorrectFileName with data set #1</name>
+    </test-case>
+    <test-case start="1729890448833" stop="1729890448834" status="passed">
+      <name>testGetCorrectFileName with data set #2</name>
+    </test-case>
+    <test-case start="1729890448834" stop="1729890448835" status="passed">
+      <name>testGetCorrectFileName with data set #3</name>
+    </test-case>
+    <test-case start="1729890448836" stop="1729890448837" status="passed">
+      <name>testGetCorrectFileName with data set #4</name>
+    </test-case>
+    <test-case start="1729890448837" stop="1729890448838" status="passed">
+      <name>testGetCorrectFileName with data set #5</name>
+    </test-case>
+    <test-case start="1729890448838" stop="1729890448839" status="passed">
+      <name>testCheckAllowedExtension with data set #0</name>
+    </test-case>
+    <test-case start="1729890448840" stop="1729890448840" status="passed">
+      <name>testCheckAllowedExtension with data set #1</name>
+    </test-case>
+    <test-case start="1729890448841" stop="1729890448842" status="passed">
+      <name>testCheckAllowedExtension with data set #2</name>
+    </test-case>
+    <test-case start="1729890448842" stop="1729890448843" status="passed">
+      <name>testCheckAllowedExtension with data set #3</name>
+    </test-case>
+    <test-case start="1729890448843" stop="1729890448844" status="passed">
+      <name>testCheckAllowedExtension with data set #4</name>
+    </test-case>
+    <test-case start="1729890448844" stop="1729890448845" status="passed">
+      <name>testCheckAllowedExtension with data set #5</name>
+    </test-case>
+    <test-case start="1729890448846" stop="1729890448847" status="passed">
+      <name>testCheckAllowedExtension with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890354573" stop="1729890354578" version="1.4.0">
+  <name>Magento\NewRelicReporting\Test\Unit\Model\Observer\CheckConfigTest</name>
+  <test-cases>
+    <test-case start="1729890354573" stop="1729890354576" status="passed">
+      <name>testCheckConfigModuleDisabledFromConfig</name>
+    </test-case>
+    <test-case start="1729890354576" stop="1729890354577" status="passed">
+      <name>testCheckConfigExtensionNotInstalled</name>
+    </test-case>
+    <test-case start="1729890354577" stop="1729890354578" status="passed">
+      <name>testCheckConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

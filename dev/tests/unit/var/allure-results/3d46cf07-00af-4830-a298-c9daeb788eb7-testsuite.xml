@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890270327" stop="1729890270335" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Observer\SetAttributeTabBlockObserverTest</name>
+  <test-cases>
+    <test-case start="1729890270327" stop="1729890270332" status="passed">
+      <name>testAddingAttributeTabForBundleProduct</name>
+    </test-case>
+    <test-case start="1729890270332" stop="1729890270335" status="passed">
+      <name>testAddingAttributeTabForNonBundleProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

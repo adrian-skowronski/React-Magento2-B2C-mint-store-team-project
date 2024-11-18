@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462911" stop="1729890462917" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\Message\InterpretationStrategyTest</name>
+  <test-cases>
+    <test-case start="1729890462912" stop="1729890462914" status="passed">
+      <name>testInterpret</name>
+    </test-case>
+    <test-case start="1729890462915" stop="1729890462916" status="passed">
+      <name>testInterpretNoConfigurationException</name>
+    </test-case>
+    <test-case start="1729890462916" stop="1729890462917" status="passed">
+      <name>testInterpretNoInterpreterException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

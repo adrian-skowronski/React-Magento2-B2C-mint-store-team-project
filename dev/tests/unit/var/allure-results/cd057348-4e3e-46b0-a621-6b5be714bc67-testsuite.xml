@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890277542" stop="1729890277558" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Model\Indexer\AbstractIndexerTest</name>
+  <test-cases>
+    <test-case start="1729890277543" stop="1729890277546" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890277546" stop="1729890277550" status="passed">
+      <name>testExecuteFull</name>
+    </test-case>
+    <test-case start="1729890277550" stop="1729890277552" status="passed">
+      <name>testExecuteListWithEmptyIds</name>
+    </test-case>
+    <test-case start="1729890277553" stop="1729890277554" status="passed">
+      <name>testExecuteList</name>
+    </test-case>
+    <test-case start="1729890277555" stop="1729890277556" status="passed">
+      <name>testExecuteRowWithEmptyId</name>
+    </test-case>
+    <test-case start="1729890277557" stop="1729890277558" status="passed">
+      <name>testExecuteRow</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

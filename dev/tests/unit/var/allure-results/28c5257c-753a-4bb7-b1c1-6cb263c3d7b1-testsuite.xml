@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890369499" stop="1729890369555" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\Quote\Item\ProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890369499" stop="1729890369512" status="passed">
+      <name>testInitWithQtyModification</name>
+    </test-case>
+    <test-case start="1729890369513" stop="1729890369523" status="passed">
+      <name>testInitWithoutModification</name>
+    </test-case>
+    <test-case start="1729890369523" stop="1729890369525" status="passed">
+      <name>testInitWithoutModificationAdminhtmlAreaCode</name>
+    </test-case>
+    <test-case start="1729890369526" stop="1729890369529" status="passed">
+      <name>testPrepare</name>
+    </test-case>
+    <test-case start="1729890369530" stop="1729890369537" status="passed">
+      <name>testPrepareWithResetCountAndStick</name>
+    </test-case>
+    <test-case start="1729890369537" stop="1729890369539" status="passed">
+      <name>testPrepareWithResetCountAndNotStickAndOtherItemId</name>
+    </test-case>
+    <test-case start="1729890369541" stop="1729890369545" status="passed">
+      <name>testPrepareWithResetCountAndNotStickAndSameItemId</name>
+    </test-case>
+    <test-case start="1729890369546" stop="1729890369550" status="passed">
+      <name>testPrepareChildProduct with data set #0</name>
+    </test-case>
+    <test-case start="1729890369551" stop="1729890369554" status="passed">
+      <name>testPrepareChildProduct with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890369382" stop="1729890369414" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\Quote\Item\CompareTest</name>
+  <test-cases>
+    <test-case start="1729890369382" stop="1729890369392" status="passed">
+      <name>testCompareDifferentProduct</name>
+    </test-case>
+    <test-case start="1729890369393" stop="1729890369403" status="passed">
+      <name>testCompareProductWithDifferentOptions</name>
+    </test-case>
+    <test-case start="1729890369404" stop="1729890369410" status="passed">
+      <name>testCompareItemWithComparedWithoutOption</name>
+    </test-case>
+    <test-case start="1729890369410" stop="1729890369414" status="passed">
+      <name>testCompareItemWithoutOptionWithCompared</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

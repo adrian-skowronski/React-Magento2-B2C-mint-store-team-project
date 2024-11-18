@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890453199" stop="1729890453211" version="1.4.0">
+  <name>Magento\Framework\Mview\Test\Unit\View\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890453200" stop="1729890453211" status="passed">
+      <name>testLoadDataAndGetViewsByStateMode with data set "Indexers with sequence"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

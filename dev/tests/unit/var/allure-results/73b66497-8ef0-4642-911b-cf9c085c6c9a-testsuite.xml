@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890350396" stop="1729890350422" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Model\ResourceModel\Oauth\TokenTest</name>
+  <test-cases>
+    <test-case start="1729890350397" stop="1729890350401" status="passed">
+      <name>testCleanOldAuthorizedTokensExcept</name>
+    </test-case>
+    <test-case start="1729890350402" stop="1729890350404" status="passed">
+      <name>testDeleteOldEntries</name>
+    </test-case>
+    <test-case start="1729890350404" stop="1729890350409" status="passed">
+      <name>testSelectTokenByType</name>
+    </test-case>
+    <test-case start="1729890350409" stop="1729890350414" status="passed">
+      <name>testSelectTokenByConsumerIdAndUserType</name>
+    </test-case>
+    <test-case start="1729890350415" stop="1729890350418" status="passed">
+      <name>testSelectTokenByAdminId</name>
+    </test-case>
+    <test-case start="1729890350418" stop="1729890350421" status="passed">
+      <name>testSelectTokenByCustomerId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

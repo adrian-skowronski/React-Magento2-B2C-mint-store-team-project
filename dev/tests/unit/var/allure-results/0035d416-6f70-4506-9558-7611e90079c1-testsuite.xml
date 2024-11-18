@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890332904" stop="1729890332919" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Console\Command\IndexerSetDimensionsModeCommandTest</name>
+  <test-cases>
+    <test-case start="1729890332904" stop="1729890332909" status="passed">
+      <name>testExecuteWithAttributes with data set "was_changed"</name>
+    </test-case>
+    <test-case start="1729890332909" stop="1729890332912" status="passed">
+      <name>testExecuteWithAttributes with data set "was_not_changed"</name>
+    </test-case>
+    <test-case start="1729890332912" stop="1729890332914" status="passed">
+      <name>testExecuteWithIndxerException</name>
+    </test-case>
+    <test-case start="1729890332915" stop="1729890332917" status="passed">
+      <name>testExecuteWithModeException</name>
+    </test-case>
+    <test-case start="1729890332917" stop="1729890332919" status="passed">
+      <name>testExecuteWithNoArguments</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

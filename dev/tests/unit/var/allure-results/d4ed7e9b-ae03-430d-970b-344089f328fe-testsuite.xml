@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890312712" stop="1729890312727" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Block\Account\RegisterLinkTest</name>
+  <test-cases>
+    <test-case start="1729890312712" stop="1729890312716" status="passed">
+      <name>testToHtml with data set #0</name>
+    </test-case>
+    <test-case start="1729890312716" stop="1729890312718" status="passed">
+      <name>testToHtml with data set #1</name>
+    </test-case>
+    <test-case start="1729890312719" stop="1729890312720" status="passed">
+      <name>testToHtml with data set #2</name>
+    </test-case>
+    <test-case start="1729890312721" stop="1729890312724" status="passed">
+      <name>testToHtml with data set #3</name>
+    </test-case>
+    <test-case start="1729890312724" stop="1729890312727" status="passed">
+      <name>testGetHref</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

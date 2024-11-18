@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890401659" stop="1729890401673" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Controller\Adminhtml\System\Design\Theme\UploadJsTest</name>
+  <test-cases>
+    <test-case start="1729890401660" stop="1729890401664" status="passed">
+      <name>testExecuteWithoutTheme</name>
+    </test-case>
+    <test-case start="1729890401664" stop="1729890401668" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+    <test-case start="1729890401668" stop="1729890401673" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

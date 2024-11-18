@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890410718" stop="1729890410732" version="1.4.0">
+  <name>Magento\Widget\Test\Unit\Model\ResourceModel\Layout\Update\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890410718" stop="1729890410721" status="passed">
+      <name>testAddThemeFilter</name>
+    </test-case>
+    <test-case start="1729890410721" stop="1729890410723" status="passed">
+      <name>testAddStoreFilter</name>
+    </test-case>
+    <test-case start="1729890410724" stop="1729890410726" status="passed">
+      <name>testJoinWithLink</name>
+    </test-case>
+    <test-case start="1729890410727" stop="1729890410729" status="passed">
+      <name>testAddNoLinksFilter</name>
+    </test-case>
+    <test-case start="1729890410729" stop="1729890410731" status="passed">
+      <name>testAddUpdatedDaysBeforeFilter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890355257" stop="1729890355283" version="1.4.0">
+  <name>Magento\Newsletter\Test\Unit\Model\Queue\TransportBuilderTest</name>
+  <test-cases>
+    <test-case start="1729890355258" stop="1729890355283" status="passed">
+      <name>testGetTransport</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

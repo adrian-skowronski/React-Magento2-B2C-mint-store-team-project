@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890371781" stop="1729890371788" version="1.4.0">
+  <name>Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\UrlBuilderTest</name>
+  <test-cases>
+    <test-case start="1729890371782" stop="1729890371783" status="passed">
+      <name>testGetUrl with data set "all"</name>
+    </test-case>
+    <test-case start="1729890371784" stop="1729890371785" status="passed">
+      <name>testGetUrl with data set "no-edition"</name>
+    </test-case>
+    <test-case start="1729890371785" stop="1729890371786" status="passed">
+      <name>testGetUrl with data set "no-locale"</name>
+    </test-case>
+    <test-case start="1729890371787" stop="1729890371787" status="passed">
+      <name>testGetUrl with data set "no-content-url"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

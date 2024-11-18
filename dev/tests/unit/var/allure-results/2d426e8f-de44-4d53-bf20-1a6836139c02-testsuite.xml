@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890394764" stop="1729890394768" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\Config\PlaceholderTest</name>
+  <test-cases>
+    <test-case start="1729890394765" stop="1729890394767" status="passed">
+      <name>testProcess</name>
+    </test-case>
+    <test-case start="1729890394767" stop="1729890394768" status="passed">
+      <name>testProcessEmptyArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

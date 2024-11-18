@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374980" stop="1729890374986" version="1.4.0">
+  <name>Magento\Robots\Test\Unit\Controller\RouterTest</name>
+  <test-cases>
+    <test-case start="1729890374981" stop="1729890374983" status="passed">
+      <name>testMatchNoRobotsRequested</name>
+    </test-case>
+    <test-case start="1729890374983" stop="1729890374984" status="passed">
+      <name>testMatchNoRobotsModules</name>
+    </test-case>
+    <test-case start="1729890374984" stop="1729890374986" status="passed">
+      <name>testMatch</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

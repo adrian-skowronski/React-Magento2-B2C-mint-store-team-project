@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450897" stop="1729890450900" version="1.4.0">
+  <name>Magento\Framework\Jwt\Test\Unit\Claim\AbstractClaimTest</name>
+  <test-cases>
+    <test-case start="1729890450898" stop="1729890450899" status="passed">
+      <name>testParseNumericDate with data set #0</name>
+    </test-case>
+    <test-case start="1729890450899" stop="1729890450900" status="passed">
+      <name>testParseNumericDate with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

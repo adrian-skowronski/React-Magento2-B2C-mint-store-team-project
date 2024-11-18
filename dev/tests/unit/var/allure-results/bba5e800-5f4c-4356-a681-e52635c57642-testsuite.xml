@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450349" stop="1729890450371" version="1.4.0">
+  <name>Magento\Framework\Indexer\Test\Unit\BatchProviderTest</name>
+  <test-cases>
+    <test-case start="1729890450350" stop="1729890450355" status="passed">
+      <name>testGetBatches with data set #0</name>
+    </test-case>
+    <test-case start="1729890450356" stop="1729890450360" status="passed">
+      <name>testGetBatches with data set #1</name>
+    </test-case>
+    <test-case start="1729890450361" stop="1729890450365" status="passed">
+      <name>testGetBatches with data set #2</name>
+    </test-case>
+    <test-case start="1729890450366" stop="1729890450369" status="passed">
+      <name>testGetBatches with data set #3</name>
+    </test-case>
+    <test-case start="1729890450369" stop="1729890450371" status="passed">
+      <name>testGetBatchIds</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

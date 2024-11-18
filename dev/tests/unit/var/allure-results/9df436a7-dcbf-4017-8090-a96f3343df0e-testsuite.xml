@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890389838" stop="1729890389849" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Rss\NewOrderTest</name>
+  <test-cases>
+    <test-case start="1729890389839" stop="1729890389841" status="passed">
+      <name>testIsAllowed</name>
+    </test-case>
+    <test-case start="1729890389841" stop="1729890389846" status="passed">
+      <name>testGetData</name>
+    </test-case>
+    <test-case start="1729890389846" stop="1729890389847" status="passed">
+      <name>testGetCacheKey</name>
+    </test-case>
+    <test-case start="1729890389847" stop="1729890389849" status="passed">
+      <name>testGetCacheLifetime</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

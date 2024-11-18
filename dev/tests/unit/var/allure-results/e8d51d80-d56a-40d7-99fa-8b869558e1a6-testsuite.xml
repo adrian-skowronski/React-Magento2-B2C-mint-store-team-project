@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890296828" stop="1729890296889" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Block\Cart\GridTest</name>
+  <test-cases>
+    <test-case start="1729890296828" stop="1729890296860" status="passed">
+      <name>testGetTemplate</name>
+    </test-case>
+    <test-case start="1729890296860" stop="1729890296866" status="passed">
+      <name>testGetItemsForGrid</name>
+    </test-case>
+    <test-case start="1729890296867" stop="1729890296873" status="passed">
+      <name>testSetLayout</name>
+    </test-case>
+    <test-case start="1729890296873" stop="1729890296877" status="passed">
+      <name>testGetItems</name>
+    </test-case>
+    <test-case start="1729890296877" stop="1729890296884" status="passed">
+      <name>testGetItemsIfCustomItemsExists</name>
+    </test-case>
+    <test-case start="1729890296885" stop="1729890296888" status="passed">
+      <name>testGetItemsWhenPagerNotVisible</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

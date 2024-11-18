@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890423431" stop="1729890423453" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Config\FileResolverTest</name>
+  <test-cases>
+    <test-case start="1729890423432" stop="1729890423433" status="passed">
+      <name>testGetPrimary with data set #0</name>
+    </test-case>
+    <test-case start="1729890423435" stop="1729890423436" status="passed">
+      <name>testGetPrimary with data set #1</name>
+    </test-case>
+    <test-case start="1729890423436" stop="1729890423441" status="passed">
+      <name>testGetPrimary with data set #2</name>
+    </test-case>
+    <test-case start="1729890423442" stop="1729890423444" status="passed">
+      <name>testGetGlobal with data set #0</name>
+    </test-case>
+    <test-case start="1729890423444" stop="1729890423445" status="passed">
+      <name>testGetGlobal with data set #1</name>
+    </test-case>
+    <test-case start="1729890423446" stop="1729890423447" status="passed">
+      <name>testGetGlobal with data set #2</name>
+    </test-case>
+    <test-case start="1729890423448" stop="1729890423449" status="passed">
+      <name>testGetDefault with data set #0</name>
+    </test-case>
+    <test-case start="1729890423450" stop="1729890423451" status="passed">
+      <name>testGetDefault with data set #1</name>
+    </test-case>
+    <test-case start="1729890423451" stop="1729890423452" status="passed">
+      <name>testGetDefault with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

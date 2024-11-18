@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890257483" stop="1729890257519" version="1.4.0">
+  <name>Magento\AdminAdobeIms\Test\Unit\Service\ImsCommandOptionServiceTest</name>
+  <test-cases>
+    <test-case start="1729890257484" stop="1729890257487" status="passed">
+      <name>testValidInputWillBeReturned with data set #0</name>
+    </test-case>
+    <test-case start="1729890257487" stop="1729890257489" status="passed">
+      <name>testValidInputWillBeReturned with data set #1</name>
+    </test-case>
+    <test-case start="1729890257490" stop="1729890257491" status="passed">
+      <name>testValidInputWillBeReturned with data set #2</name>
+    </test-case>
+    <test-case start="1729890257492" stop="1729890257493" status="passed">
+      <name>testValidInputWillBeReturned with data set #3</name>
+    </test-case>
+    <test-case start="1729890257494" stop="1729890257497" status="passed">
+      <name>testOrganizationIdPromptReturnsOrgId with data set #0</name>
+    </test-case>
+    <test-case start="1729890257498" stop="1729890257499" status="passed">
+      <name>testOrganizationIdPromptReturnsOrgId with data set #1</name>
+    </test-case>
+    <test-case start="1729890257499" stop="1729890257501" status="passed">
+      <name>testOrganizationIdPromptReturnsOrgId with data set #2</name>
+    </test-case>
+    <test-case start="1729890257501" stop="1729890257503" status="passed">
+      <name>testOrganizationIdPromptReturnsOrgId with data set #3</name>
+    </test-case>
+    <test-case start="1729890257504" stop="1729890257506" status="passed">
+      <name>testEmptyOrganizationIdThrowsException with data set #0</name>
+    </test-case>
+    <test-case start="1729890257507" stop="1729890257508" status="passed">
+      <name>testEmptyOrganizationIdThrowsException with data set #1</name>
+    </test-case>
+    <test-case start="1729890257509" stop="1729890257510" status="passed">
+      <name>testEmptyOrganizationIdThrowsException with data set #2</name>
+    </test-case>
+    <test-case start="1729890257511" stop="1729890257512" status="passed">
+      <name>testEmptyOrganizationIdThrowsException with data set #3</name>
+    </test-case>
+    <test-case start="1729890257513" stop="1729890257514" status="passed">
+      <name>testInvalidOrganizationIdThrowsException with data set #0</name>
+    </test-case>
+    <test-case start="1729890257515" stop="1729890257516" status="passed">
+      <name>testInvalidOrganizationIdThrowsException with data set #1</name>
+    </test-case>
+    <test-case start="1729890257517" stop="1729890257518" status="passed">
+      <name>testInvalidOrganizationIdThrowsException with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

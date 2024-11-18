@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890362786" stop="1729890362819" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\SdkUrlTest</name>
+  <test-cases>
+    <test-case start="1729890362787" stop="1729890362794" status="passed">
+      <name>testGetConfig with data set "authorize"</name>
+    </test-case>
+    <test-case start="1729890362794" stop="1729890362797" status="passed">
+      <name>testGetConfig with data set "capture"</name>
+    </test-case>
+    <test-case start="1729890362798" stop="1729890362801" status="passed">
+      <name>testGetConfig with data set "order"</name>
+    </test-case>
+    <test-case start="1729890362801" stop="1729890362803" status="passed">
+      <name>testGetConfig with data set "paypal_guest_checkout_disabled"</name>
+    </test-case>
+    <test-case start="1729890362804" stop="1729890362807" status="passed">
+      <name>testGetConfig with data set "paypal_guest_checkout_enabled"</name>
+    </test-case>
+    <test-case start="1729890362808" stop="1729890362813" status="passed">
+      <name>testGetConfig with data set "buyer_country_enabled"</name>
+    </test-case>
+    <test-case start="1729890362814" stop="1729890362819" status="passed">
+      <name>testGetConfig with data set "buyer_country_disabled"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

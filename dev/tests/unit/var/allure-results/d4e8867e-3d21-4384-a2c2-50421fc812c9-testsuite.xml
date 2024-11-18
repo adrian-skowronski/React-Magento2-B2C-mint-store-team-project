@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890401266" stop="1729890401286" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Block\Html\TitleTest</name>
+  <test-cases>
+    <test-case start="1729890401266" stop="1729890401269" status="passed">
+      <name>testGetPageTitleWithSetPageTitle</name>
+    </test-case>
+    <test-case start="1729890401269" stop="1729890401272" status="passed">
+      <name>testGetPageTitle with data set #0</name>
+    </test-case>
+    <test-case start="1729890401273" stop="1729890401275" status="passed">
+      <name>testGetPageTitle with data set #1</name>
+    </test-case>
+    <test-case start="1729890401276" stop="1729890401277" status="passed">
+      <name>testGetPageHeadingWithSetPageTitle with data set #0</name>
+    </test-case>
+    <test-case start="1729890401278" stop="1729890401280" status="passed">
+      <name>testGetPageHeadingWithSetPageTitle with data set #1</name>
+    </test-case>
+    <test-case start="1729890401280" stop="1729890401283" status="passed">
+      <name>testGetPageHeading with data set #0</name>
+    </test-case>
+    <test-case start="1729890401284" stop="1729890401286" status="passed">
+      <name>testGetPageHeading with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

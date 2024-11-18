@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890272702" stop="1729890272743" version="1.4.0">
+  <name>Magento\CatalogImportExport\Test\Unit\Model\Import\Product\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890272702" stop="1729890272706" status="passed">
+      <name>testAttributeValidation with data set #0</name>
+    </test-case>
+    <test-case start="1729890272706" stop="1729890272708" status="passed">
+      <name>testAttributeValidation with data set #1</name>
+    </test-case>
+    <test-case start="1729890272708" stop="1729890272710" status="passed">
+      <name>testAttributeValidation with data set #2</name>
+    </test-case>
+    <test-case start="1729890272711" stop="1729890272712" status="passed">
+      <name>testAttributeValidation with data set #3</name>
+    </test-case>
+    <test-case start="1729890272712" stop="1729890272713" status="passed">
+      <name>testAttributeValidation with data set #4</name>
+    </test-case>
+    <test-case start="1729890272714" stop="1729890272715" status="passed">
+      <name>testAttributeValidation with data set #5</name>
+    </test-case>
+    <test-case start="1729890272716" stop="1729890272717" status="passed">
+      <name>testAttributeValidation with data set #6</name>
+    </test-case>
+    <test-case start="1729890272718" stop="1729890272719" status="passed">
+      <name>testAttributeValidation with data set #7</name>
+    </test-case>
+    <test-case start="1729890272720" stop="1729890272721" status="passed">
+      <name>testAttributeValidation with data set #8</name>
+    </test-case>
+    <test-case start="1729890272722" stop="1729890272723" status="passed">
+      <name>testAttributeValidation with data set #9</name>
+    </test-case>
+    <test-case start="1729890272724" stop="1729890272725" status="passed">
+      <name>testAttributeValidation with data set #10</name>
+    </test-case>
+    <test-case start="1729890272725" stop="1729890272726" status="passed">
+      <name>testAttributeValidation with data set #11</name>
+    </test-case>
+    <test-case start="1729890272727" stop="1729890272728" status="passed">
+      <name>testAttributeValidation with data set #12</name>
+    </test-case>
+    <test-case start="1729890272729" stop="1729890272730" status="passed">
+      <name>testAttributeValidation with data set #13</name>
+    </test-case>
+    <test-case start="1729890272730" stop="1729890272732" status="passed">
+      <name>testAttributeValidation with data set #14</name>
+    </test-case>
+    <test-case start="1729890272733" stop="1729890272734" status="passed">
+      <name>testAttributeValidation with data set #15</name>
+    </test-case>
+    <test-case start="1729890272735" stop="1729890272736" status="passed">
+      <name>testAttributeValidation with data set #16</name>
+    </test-case>
+    <test-case start="1729890272737" stop="1729890272738" status="passed">
+      <name>testAttributeValidation with data set #17</name>
+    </test-case>
+    <test-case start="1729890272738" stop="1729890272740" status="passed">
+      <name>testIsValidCorrect</name>
+    </test-case>
+    <test-case start="1729890272740" stop="1729890272742" status="passed">
+      <name>testIsValidIncorrect</name>
+    </test-case>
+    <test-case start="1729890272742" stop="1729890272743" status="passed">
+      <name>testInit</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

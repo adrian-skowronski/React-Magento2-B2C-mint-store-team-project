@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393316" stop="1729890393323" version="1.4.0">
+  <name>Magento\Shipping\Test\Unit\Model\Order\TrackTest</name>
+  <test-cases>
+    <test-case start="1729890393316" stop="1729890393323" status="passed">
+      <name>testLookup</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

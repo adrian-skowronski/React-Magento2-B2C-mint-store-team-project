@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890380549" stop="1729890380578" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\AddressRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890380550" stop="1729890380552" status="passed">
+      <name>testGet with data set #0</name>
+    </test-case>
+    <test-case start="1729890380553" stop="1729890380554" status="passed">
+      <name>testGet with data set #1</name>
+    </test-case>
+    <test-case start="1729890380555" stop="1729890380556" status="passed">
+      <name>testGet with data set #2</name>
+    </test-case>
+    <test-case start="1729890380557" stop="1729890380564" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890380564" stop="1729890380566" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890380566" stop="1729890380567" status="passed">
+      <name>testDeleteWithException</name>
+    </test-case>
+    <test-case start="1729890380568" stop="1729890380569" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890380570" stop="1729890380571" status="passed">
+      <name>testSaveWithException</name>
+    </test-case>
+    <test-case start="1729890380571" stop="1729890380573" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890380573" stop="1729890380576" status="passed">
+      <name>testSaveWithMultiAttribute with data set "multiselect"</name>
+    </test-case>
+    <test-case start="1729890380577" stop="1729890380578" status="passed">
+      <name>testSaveWithMultiAttribute with data set "multiline"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

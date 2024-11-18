@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890266917" stop="1729890266920" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Model\Menu\Director\DirectorTest</name>
+  <test-cases>
+    <test-case start="1729890266917" stop="1729890266920" status="passed">
+      <name>testDirectWithExistKey</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

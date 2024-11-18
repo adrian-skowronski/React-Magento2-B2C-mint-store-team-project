@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271112" stop="1729890271124" version="1.4.0">
+  <name>Magento\Captcha\Test\Unit\Controller\Refresh\IndexTest</name>
+  <test-cases>
+    <test-case start="1729890271113" stop="1729890271121" status="passed">
+      <name>testCaptchaGeneratedWhenPostDataContainsFormId</name>
+    </test-case>
+    <test-case start="1729890271121" stop="1729890271124" status="passed">
+      <name>testCaptchaFallsBackToRequestContentIfPostMissing</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352790" stop="1729890352801" version="1.4.0">
+  <name>Magento\MediaGallery\Test\Unit\Plugin\Wysiwyg\Images\StorageTest</name>
+  <test-cases>
+    <test-case start="1729890352790" stop="1729890352792" status="passed">
+      <name>testAfterDeleteDirectory with data set "Non string path"</name>
+    </test-case>
+    <test-case start="1729890352792" stop="1729890352793" status="passed">
+      <name>testAfterDeleteDirectory with data set "Invalid path"</name>
+    </test-case>
+    <test-case start="1729890352794" stop="1729890352795" status="passed">
+      <name>testAfterDeleteDirectory with data set "Existent path"</name>
+    </test-case>
+    <test-case start="1729890352795" stop="1729890352797" status="passed">
+      <name>testAfterDeleteFileExpectsDeleteMediaAssetExecuted</name>
+    </test-case>
+    <test-case start="1729890352797" stop="1729890352798" status="passed">
+      <name>testAfterDeleteFileWithException</name>
+    </test-case>
+    <test-case start="1729890352799" stop="1729890352799" status="passed">
+      <name>testAfterDeleteFileWhenTargetIsNotString</name>
+    </test-case>
+    <test-case start="1729890352800" stop="1729890352801" status="passed">
+      <name>testAfterDeleteFileWhenRelativePathIsEmpty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

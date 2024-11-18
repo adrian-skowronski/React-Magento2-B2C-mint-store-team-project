@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441140" stop="1729890441145" version="1.4.0">
+  <name>Magento\Framework\Config\Test\Unit\ViewFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890441140" stop="1729890441141" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890441141" stop="1729890441144" status="passed">
+      <name>testCreateWithArguments</name>
+    </test-case>
+    <test-case start="1729890441144" stop="1729890441145" status="passed">
+      <name>testCreateException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

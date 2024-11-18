@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442023" stop="1729890442039" version="1.4.0">
+  <name>Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest</name>
+  <test-cases>
+    <test-case start="1729890442023" stop="1729890442029" status="passed">
+      <name>testExecuteWithoutParams</name>
+    </test-case>
+    <test-case start="1729890442030" stop="1729890442032" status="passed">
+      <name>testExecuteWhenThrowPDOException</name>
+    </test-case>
+    <test-case start="1729890442032" stop="1729890442034" status="passed">
+      <name>testExecuteWhenParamsAsPrimitives</name>
+    </test-case>
+    <test-case start="1729890442035" stop="1729890442039" status="passed">
+      <name>testExecuteWhenParamsAsParameterObject</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

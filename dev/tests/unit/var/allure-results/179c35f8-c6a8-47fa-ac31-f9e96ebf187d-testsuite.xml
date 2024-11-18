@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376917" stop="1729890376969" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\UtilityTest</name>
+  <test-cases>
+    <test-case start="1729890376917" stop="1729890376922" status="passed">
+      <name>testCanProcessRuleValidAddress</name>
+    </test-case>
+    <test-case start="1729890376922" stop="1729890376924" status="passed">
+      <name>testCanProcessRuleCouponUsageLimitFail</name>
+    </test-case>
+    <test-case start="1729890376924" stop="1729890376927" status="passed">
+      <name>testCanProcessRuleCouponUsagePerCustomerFail</name>
+    </test-case>
+    <test-case start="1729890376928" stop="1729890376929" status="passed">
+      <name>testCanProcessRuleUsagePerCustomer</name>
+    </test-case>
+    <test-case start="1729890376929" stop="1729890376930" status="passed">
+      <name>testCanProcessRuleInvalidConditions</name>
+    </test-case>
+    <test-case start="1729890376930" stop="1729890376932" status="passed">
+      <name>testCanProcessRule</name>
+    </test-case>
+    <test-case start="1729890376932" stop="1729890376933" status="passed">
+      <name>testGetItemPrice</name>
+    </test-case>
+    <test-case start="1729890376934" stop="1729890376935" status="passed">
+      <name>testGetItemPriceNull</name>
+    </test-case>
+    <test-case start="1729890376936" stop="1729890376937" status="passed">
+      <name>testGetItemBasePrice</name>
+    </test-case>
+    <test-case start="1729890376938" stop="1729890376939" status="passed">
+      <name>testGetBaseItemPriceCalculation</name>
+    </test-case>
+    <test-case start="1729890376940" stop="1729890376941" status="passed">
+      <name>testGetItemQtyMin</name>
+    </test-case>
+    <test-case start="1729890376942" stop="1729890376943" status="passed">
+      <name>testGetItemQty</name>
+    </test-case>
+    <test-case start="1729890376944" stop="1729890376946" status="passed">
+      <name>testMergeIds with data set #0</name>
+    </test-case>
+    <test-case start="1729890376947" stop="1729890376948" status="passed">
+      <name>testMergeIds with data set #1</name>
+    </test-case>
+    <test-case start="1729890376949" stop="1729890376950" status="passed">
+      <name>testMergeIds with data set #2</name>
+    </test-case>
+    <test-case start="1729890376951" stop="1729890376952" status="passed">
+      <name>testMergeIds with data set #3</name>
+    </test-case>
+    <test-case start="1729890376953" stop="1729890376955" status="passed">
+      <name>testMergeIds with data set #4</name>
+    </test-case>
+    <test-case start="1729890376955" stop="1729890376957" status="passed">
+      <name>testMergeIds with data set #5</name>
+    </test-case>
+    <test-case start="1729890376957" stop="1729890376961" status="passed">
+      <name>testMinFix</name>
+    </test-case>
+    <test-case start="1729890376962" stop="1729890376964" status="passed">
+      <name>testDeltaRoundignFix with data set #0</name>
+    </test-case>
+    <test-case start="1729890376965" stop="1729890376967" status="passed">
+      <name>testDeltaRoundignFix with data set #1</name>
+    </test-case>
+    <test-case start="1729890376967" stop="1729890376968" status="passed">
+      <name>testResetRoundingDeltas</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

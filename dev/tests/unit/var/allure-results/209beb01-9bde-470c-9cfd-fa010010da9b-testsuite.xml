@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402978" stop="1729890402992" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Theme\Plugin\RegistrationTest</name>
+  <test-cases>
+    <test-case start="1729890402979" stop="1729890402986" status="passed">
+      <name>testBeforeExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890402987" stop="1729890402989" status="passed">
+      <name>testBeforeExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890402989" stop="1729890402990" status="passed">
+      <name>testBeforeDispatchWithProductionMode</name>
+    </test-case>
+    <test-case start="1729890402990" stop="1729890402992" status="passed">
+      <name>testBeforeDispatchWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

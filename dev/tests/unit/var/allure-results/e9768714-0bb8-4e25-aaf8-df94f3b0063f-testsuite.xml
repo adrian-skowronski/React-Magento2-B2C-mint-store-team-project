@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395099" stop="1729890395104" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\Resolver\WebsiteTest</name>
+  <test-cases>
+    <test-case start="1729890395101" stop="1729890395103" status="passed">
+      <name>testGetScope</name>
+    </test-case>
+    <test-case start="1729890395103" stop="1729890395104" status="passed">
+      <name>testGetScopeWithInvalidScope</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

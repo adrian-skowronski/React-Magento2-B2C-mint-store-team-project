@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264514" stop="1729890264523" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\Widget\Grid\Column\Renderer\ConcatTest</name>
+  <test-cases>
+    <test-case start="1729890264514" stop="1729890264520" status="passed">
+      <name>testRender with data set #0</name>
+    </test-case>
+    <test-case start="1729890264520" stop="1729890264523" status="passed">
+      <name>testRender with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

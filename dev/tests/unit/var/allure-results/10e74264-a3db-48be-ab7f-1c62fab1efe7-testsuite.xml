@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463608" stop="1729890463629" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\FileSystemTest</name>
+  <test-cases>
+    <test-case start="1729890463608" stop="1729890463611" status="passed">
+      <name>testGetFilename</name>
+    </test-case>
+    <test-case start="1729890463611" stop="1729890463613" status="passed">
+      <name>testGetTemplateFileName</name>
+    </test-case>
+    <test-case start="1729890463613" stop="1729890463614" status="passed">
+      <name>testGetLocaleFileName</name>
+    </test-case>
+    <test-case start="1729890463614" stop="1729890463615" status="passed">
+      <name>testGetViewFile</name>
+    </test-case>
+    <test-case start="1729890463616" stop="1729890463616" status="passed">
+      <name>testNormalizePath with data set "standard path"</name>
+    </test-case>
+    <test-case start="1729890463617" stop="1729890463618" status="passed">
+      <name>testNormalizePath with data set "one dot path"</name>
+    </test-case>
+    <test-case start="1729890463618" stop="1729890463619" status="passed">
+      <name>testNormalizePath with data set "two dots path"</name>
+    </test-case>
+    <test-case start="1729890463619" stop="1729890463620" status="passed">
+      <name>testNormalizePath with data set "two times two dots path"</name>
+    </test-case>
+    <test-case start="1729890463621" stop="1729890463622" status="passed">
+      <name>testOffsetPath with data set "local path"</name>
+    </test-case>
+    <test-case start="1729890463622" stop="1729890463623" status="passed">
+      <name>testOffsetPath with data set "local path reverted"</name>
+    </test-case>
+    <test-case start="1729890463624" stop="1729890463625" status="passed">
+      <name>testOffsetPath with data set "url"</name>
+    </test-case>
+    <test-case start="1729890463625" stop="1729890463626" status="passed">
+      <name>testOffsetPath with data set "same path"</name>
+    </test-case>
+    <test-case start="1729890463627" stop="1729890463628" status="passed">
+      <name>testOffsetPath with data set "non-normalized"</name>
+    </test-case>
+    <test-case start="1729890463628" stop="1729890463629" status="passed">
+      <name>testGetEmailTemplateFile</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890424119" stop="1729890424137" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Config\Scope\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890424120" stop="1729890424123" status="passed">
+      <name>testIsValid</name>
+    </test-case>
+    <test-case start="1729890424125" stop="1729890424126" status="passed">
+      <name>testIsValidDefault</name>
+    </test-case>
+    <test-case start="1729890424126" stop="1729890424127" status="passed">
+      <name>testNotEmptyScopeCodeForDefaultScope</name>
+    </test-case>
+    <test-case start="1729890424128" stop="1729890424129" status="passed">
+      <name>testEmptyScope</name>
+    </test-case>
+    <test-case start="1729890424129" stop="1729890424131" status="passed">
+      <name>testEmptyScopeCode</name>
+    </test-case>
+    <test-case start="1729890424131" stop="1729890424132" status="passed">
+      <name>testWrongScopeCodeFormat</name>
+    </test-case>
+    <test-case start="1729890424133" stop="1729890424134" status="passed">
+      <name>testScopeNotExist</name>
+    </test-case>
+    <test-case start="1729890424135" stop="1729890424137" status="passed">
+      <name>testScopeCodeNotExist</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890457052" stop="1729890457056" version="1.4.0">
+  <name>Magento\Framework\Setup\Test\Unit\Declaration\Schema\Db\MySQL\Definition\Columns\IdentityTest</name>
+  <test-cases>
+    <test-case start="1729890457053" stop="1729890457054" status="passed">
+      <name>testToDefinition</name>
+    </test-case>
+    <test-case start="1729890457054" stop="1729890457055" status="passed">
+      <name>testToDefinitionFalse</name>
+    </test-case>
+    <test-case start="1729890457055" stop="1729890457055" status="passed">
+      <name>testFromDefinition</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

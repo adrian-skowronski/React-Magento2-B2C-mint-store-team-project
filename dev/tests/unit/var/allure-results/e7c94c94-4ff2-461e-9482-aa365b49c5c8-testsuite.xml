@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890400977" stop="1729890400984" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Setup\TaxSetupTest</name>
+  <test-cases>
+    <test-case start="1729890400978" stop="1729890400983" status="passed">
+      <name>testGetTaxableItems</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

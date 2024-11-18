@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449213" stop="1729890449236" version="1.4.0">
+  <name>Magento\Framework\Filesystem\Test\Unit\File\WriteTest</name>
+  <test-cases>
+    <test-case start="1729890449214" stop="1729890449215" status="passed">
+      <name>testInstanceFileNotExists</name>
+    </test-case>
+    <test-case start="1729890449215" stop="1729890449217" status="passed">
+      <name>testInstanceFileAlreadyExists</name>
+    </test-case>
+    <test-case start="1729890449217" stop="1729890449218" status="passed">
+      <name>testWrite</name>
+    </test-case>
+    <test-case start="1729890449219" stop="1729890449220" status="passed">
+      <name>testWriteCsv</name>
+    </test-case>
+    <test-case start="1729890449220" stop="1729890449222" status="passed">
+      <name>testFlush</name>
+    </test-case>
+    <test-case start="1729890449223" stop="1729890449225" status="passed">
+      <name>testWriteException</name>
+    </test-case>
+    <test-case start="1729890449225" stop="1729890449228" status="passed">
+      <name>testWriteCsvException</name>
+    </test-case>
+    <test-case start="1729890449228" stop="1729890449230" status="passed">
+      <name>testFlushException</name>
+    </test-case>
+    <test-case start="1729890449230" stop="1729890449232" status="passed">
+      <name>testLock</name>
+    </test-case>
+    <test-case start="1729890449233" stop="1729890449236" status="passed">
+      <name>testUnlock</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

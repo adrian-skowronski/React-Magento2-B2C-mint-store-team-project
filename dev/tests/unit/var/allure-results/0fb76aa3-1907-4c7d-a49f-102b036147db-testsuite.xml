@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287055" stop="1729890287074" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Product\Flat\ProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890287055" stop="1729890287057" status="passed">
+      <name>testGetIndexer</name>
+    </test-case>
+    <test-case start="1729890287057" stop="1729890287058" status="passed">
+      <name>testMarkIndexerAsInvalid</name>
+    </test-case>
+    <test-case start="1729890287058" stop="1729890287059" status="passed">
+      <name>testMarkDisabledIndexerAsInvalid</name>
+    </test-case>
+    <test-case start="1729890287060" stop="1729890287064" status="passed">
+      <name>testReindexRow with data set #0</name>
+    </test-case>
+    <test-case start="1729890287064" stop="1729890287066" status="passed">
+      <name>testReindexRow with data set #1</name>
+    </test-case>
+    <test-case start="1729890287066" stop="1729890287067" status="passed">
+      <name>testReindexRowForce</name>
+    </test-case>
+    <test-case start="1729890287068" stop="1729890287070" status="passed">
+      <name>testReindexList with data set #0</name>
+    </test-case>
+    <test-case start="1729890287070" stop="1729890287072" status="passed">
+      <name>testReindexList with data set #1</name>
+    </test-case>
+    <test-case start="1729890287072" stop="1729890287074" status="passed">
+      <name>testReindexListForce</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

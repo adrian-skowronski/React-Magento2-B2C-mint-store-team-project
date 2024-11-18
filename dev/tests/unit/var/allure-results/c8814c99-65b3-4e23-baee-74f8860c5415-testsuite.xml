@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310939" stop="1729890310962" version="1.4.0">
+  <name>Magento\Contact\Test\Unit\Controller\Index\PostTest</name>
+  <test-cases>
+    <test-case start="1729890310940" stop="1729890310944" status="passed">
+      <name>testExecuteEmptyPost</name>
+    </test-case>
+    <test-case start="1729890310944" stop="1729890310946" status="passed">
+      <name>testExecutePostValidation with data set #0</name>
+    </test-case>
+    <test-case start="1729890310947" stop="1729890310949" status="passed">
+      <name>testExecutePostValidation with data set #1</name>
+    </test-case>
+    <test-case start="1729890310949" stop="1729890310951" status="passed">
+      <name>testExecutePostValidation with data set #2</name>
+    </test-case>
+    <test-case start="1729890310951" stop="1729890310953" status="passed">
+      <name>testExecutePostValidation with data set #3</name>
+    </test-case>
+    <test-case start="1729890310954" stop="1729890310956" status="passed">
+      <name>testExecutePostValidation with data set #4</name>
+    </test-case>
+    <test-case start="1729890310957" stop="1729890310959" status="passed">
+      <name>testExecutePostValidation with data set #5</name>
+    </test-case>
+    <test-case start="1729890310959" stop="1729890310961" status="passed">
+      <name>testExecuteValidPost</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

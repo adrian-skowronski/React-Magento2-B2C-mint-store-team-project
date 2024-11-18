@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462550" stop="1729890462554" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Design\Theme\ThemePackageListTest</name>
+  <test-cases>
+    <test-case start="1729890462550" stop="1729890462552" status="passed">
+      <name>testGetThemeNonexistent</name>
+    </test-case>
+    <test-case start="1729890462552" stop="1729890462553" status="passed">
+      <name>testGetTheme</name>
+    </test-case>
+    <test-case start="1729890462553" stop="1729890462554" status="passed">
+      <name>testGetThemes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

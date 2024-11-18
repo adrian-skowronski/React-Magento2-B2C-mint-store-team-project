@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890263917" stop="1729890263925" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\App\Action\Plugin\MassactionKeyTest</name>
+  <test-cases>
+    <test-case start="1729890263918" stop="1729890263921" status="passed">
+      <name>testBeforeDispatchWhenMassactionPrepareKeyRequestExists with data set "post_data_is_array"</name>
+    </test-case>
+    <test-case start="1729890263922" stop="1729890263923" status="passed">
+      <name>testBeforeDispatchWhenMassactionPrepareKeyRequestExists with data set "post_data_is_string"</name>
+    </test-case>
+    <test-case start="1729890263923" stop="1729890263925" status="passed">
+      <name>testBeforeDispatchWhenMassactionPrepareKeyRequestNotExists</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890370322" stop="1729890370338" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\Quote\ShippingAssignment\ShippingProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890370322" stop="1729890370329" status="passed">
+      <name>testSave with data set #0</name>
+    </test-case>
+    <test-case start="1729890370329" stop="1729890370332" status="passed">
+      <name>testSave with data set #1</name>
+    </test-case>
+    <test-case start="1729890370333" stop="1729890370335" status="passed">
+      <name>testSave with data set #2</name>
+    </test-case>
+    <test-case start="1729890370335" stop="1729890370337" status="passed">
+      <name>testSave with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

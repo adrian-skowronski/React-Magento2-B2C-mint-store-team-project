@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285849" stop="1729890285851" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Config\Source\GridPerPageTest</name>
+  <test-cases>
+    <test-case start="1729890285849" stop="1729890285850" status="passed">
+      <name>testToOptionalArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

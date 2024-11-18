@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890333734" stop="1729890347842" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\ProcessManagerTest</name>
+  <test-cases>
+    <test-case start="1729890333734" stop="1729890336022" status="passed">
+      <name>testFailureInChildProcessHandleMultiThread with data set "more_threads_than_functions"</name>
+    </test-case>
+    <test-case start="1729890336035" stop="1729890338739" status="passed">
+      <name>testFailureInChildProcessHandleMultiThread with data set "less_threads_than_functions"</name>
+    </test-case>
+    <test-case start="1729890338741" stop="1729890342897" status="passed">
+      <name>testFailureInChildProcessHandleMultiThread with data set "equal_threads_and_functions"</name>
+    </test-case>
+    <test-case start="1729890342898" stop="1729890344524" status="passed">
+      <name>testSuccessChildProcessHandleMultiThread with data set "more_threads_than_functions"</name>
+    </test-case>
+    <test-case start="1729890344526" stop="1729890346253" status="passed">
+      <name>testSuccessChildProcessHandleMultiThread with data set "less_threads_than_functions"</name>
+    </test-case>
+    <test-case start="1729890346256" stop="1729890347842" status="passed">
+      <name>testSuccessChildProcessHandleMultiThread with data set "equal_threads_and_functions"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

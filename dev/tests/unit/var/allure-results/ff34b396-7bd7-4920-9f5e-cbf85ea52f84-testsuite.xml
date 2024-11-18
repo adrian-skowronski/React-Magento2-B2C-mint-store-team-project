@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890314839" stop="1729890314887" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Account\RedirectTest</name>
+  <test-cases>
+    <test-case start="1729890314840" stop="1729890314847" status="passed">
+      <name>testGetRedirect with data set #0</name>
+    </test-case>
+    <test-case start="1729890314848" stop="1729890314851" status="passed">
+      <name>testGetRedirect with data set #1</name>
+    </test-case>
+    <test-case start="1729890314853" stop="1729890314858" status="passed">
+      <name>testGetRedirect with data set #2</name>
+    </test-case>
+    <test-case start="1729890314859" stop="1729890314863" status="passed">
+      <name>testGetRedirect with data set #3</name>
+    </test-case>
+    <test-case start="1729890314865" stop="1729890314868" status="passed">
+      <name>testGetRedirect with data set #4</name>
+    </test-case>
+    <test-case start="1729890314869" stop="1729890314873" status="passed">
+      <name>testGetRedirect with data set #5</name>
+    </test-case>
+    <test-case start="1729890314874" stop="1729890314879" status="passed">
+      <name>testGetRedirect with data set #6</name>
+    </test-case>
+    <test-case start="1729890314880" stop="1729890314882" status="passed">
+      <name>testBeforeRequestParams</name>
+    </test-case>
+    <test-case start="1729890314882" stop="1729890314885" status="passed">
+      <name>testSetRedirectCookie</name>
+    </test-case>
+    <test-case start="1729890314885" stop="1729890314887" status="passed">
+      <name>testClearRedirectCookie</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

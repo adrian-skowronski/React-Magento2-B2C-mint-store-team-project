@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890460012" stop="1729890460026" version="1.4.0">
+  <name>Magento\Framework\Url\Test\Unit\HostCheckerTest</name>
+  <test-cases>
+    <test-case start="1729890460013" stop="1729890460019" status="passed">
+      <name>testIsOwnOrigin with data set #0</name>
+    </test-case>
+    <test-case start="1729890460024" stop="1729890460025" status="passed">
+      <name>testIsOwnOrigin with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

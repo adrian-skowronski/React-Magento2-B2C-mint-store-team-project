@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890391959" stop="1729890391964" version="1.4.0">
+  <name>Magento\Search\Test\Unit\Model\SearchEngine\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890391960" stop="1729890391962" status="passed">
+      <name>testValidateValid</name>
+    </test-case>
+    <test-case start="1729890391962" stop="1729890391963" status="passed">
+      <name>testValidateExcludedList</name>
+    </test-case>
+    <test-case start="1729890391963" stop="1729890391964" status="passed">
+      <name>testValidateInvalid</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

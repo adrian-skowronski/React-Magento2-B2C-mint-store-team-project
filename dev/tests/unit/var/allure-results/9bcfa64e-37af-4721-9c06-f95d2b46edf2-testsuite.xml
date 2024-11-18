@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890275677" stop="1729890275891" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\Quote\Item\QuantityValidator\Initializer\QuantityValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890275677" stop="1729890275740" status="passed">
+      <name>testValidateOutOfStock</name>
+    </test-case>
+    <test-case start="1729890275741" stop="1729890275755" status="passed">
+      <name>testValidateInStock</name>
+    </test-case>
+    <test-case start="1729890275756" stop="1729890275781" status="passed">
+      <name>testValidateWithOptions</name>
+    </test-case>
+    <test-case start="1729890275783" stop="1729890275810" status="passed">
+      <name>testValidateWithOptionsAndError</name>
+    </test-case>
+    <test-case start="1729890275811" stop="1729890275844" status="passed">
+      <name>testValidateAndRemoveErrorsFromQuote</name>
+    </test-case>
+    <test-case start="1729890275844" stop="1729890275862" status="passed">
+      <name>testRemoveError</name>
+    </test-case>
+    <test-case start="1729890275862" stop="1729890275875" status="passed">
+      <name>testException</name>
+    </test-case>
+    <test-case start="1729890275875" stop="1729890275891" status="passed">
+      <name>testValidateOutStockWithAlreadyErrorInQuoteItem</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

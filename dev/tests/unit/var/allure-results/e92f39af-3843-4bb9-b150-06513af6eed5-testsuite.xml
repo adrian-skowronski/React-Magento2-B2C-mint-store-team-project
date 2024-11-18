@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890355090" stop="1729890355193" version="1.4.0">
+  <name>Magento\Newsletter\Test\Unit\Model\Plugin\CustomerPluginTest</name>
+  <test-cases>
+    <test-case start="1729890355091" stop="1729890355104" status="passed">
+      <name>testAfterSave with data set "missing_previous_and_new_status"</name>
+    </test-case>
+    <test-case start="1729890355104" stop="1729890355109" status="passed">
+      <name>testAfterSave with data set "missing_previous_status_and_subscribe"</name>
+    </test-case>
+    <test-case start="1729890355109" stop="1729890355113" status="passed">
+      <name>testAfterSave with data set "new_unsubscribed_value_and_missing_previous_status"</name>
+    </test-case>
+    <test-case start="1729890355114" stop="1729890355119" status="passed">
+      <name>testAfterSave with data set "previous_subscribed_status_without_new_value"</name>
+    </test-case>
+    <test-case start="1729890355120" stop="1729890355124" status="passed">
+      <name>testAfterSave with data set "same_subscribed_previous_and_new_status"</name>
+    </test-case>
+    <test-case start="1729890355125" stop="1729890355129" status="passed">
+      <name>testAfterSave with data set "unsubscribe_previously_subscribed_customer"</name>
+    </test-case>
+    <test-case start="1729890355130" stop="1729890355137" status="passed">
+      <name>testAfterSave with data set "previously_unsubscribed_status_without_new_value"</name>
+    </test-case>
+    <test-case start="1729890355137" stop="1729890355144" status="passed">
+      <name>testAfterSave with data set "subscribe_previously_unsubscribed_customer"</name>
+    </test-case>
+    <test-case start="1729890355145" stop="1729890355150" status="passed">
+      <name>testAfterSave with data set "same_unsubscribed_previous_and_new_status"</name>
+    </test-case>
+    <test-case start="1729890355151" stop="1729890355159" status="passed">
+      <name>testAfterSave with data set "previous_unconfirmed_status_without_new_value"</name>
+    </test-case>
+    <test-case start="1729890355160" stop="1729890355170" status="passed">
+      <name>testAfterSave with data set "subscribe_previously_unconfirmed_status"</name>
+    </test-case>
+    <test-case start="1729890355170" stop="1729890355175" status="passed">
+      <name>testAfterSave with data set "unsubscribe_previously_unconfirmed_status"</name>
+    </test-case>
+    <test-case start="1729890355175" stop="1729890355186" status="passed">
+      <name>testAfterDelete</name>
+    </test-case>
+    <test-case start="1729890355186" stop="1729890355190" status="passed">
+      <name>testAroundDeleteById</name>
+    </test-case>
+    <test-case start="1729890355190" stop="1729890355193" status="passed">
+      <name>testAfterGetByIdCreatesExtensionAttributes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

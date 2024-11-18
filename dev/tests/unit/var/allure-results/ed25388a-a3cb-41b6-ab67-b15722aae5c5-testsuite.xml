@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890348436" stop="1729890348494" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Block\Adminhtml\Integration\Edit\Tab\WebapiTest</name>
+  <test-cases>
+    <test-case start="1729890348437" stop="1729890348449" status="passed">
+      <name>testCanShowTab with data set "null data"</name>
+    </test-case>
+    <test-case start="1729890348450" stop="1729890348452" status="passed">
+      <name>testCanShowTab with data set "empty integration data"</name>
+    </test-case>
+    <test-case start="1729890348453" stop="1729890348455" status="passed">
+      <name>testCanShowTab with data set "manual integration data"</name>
+    </test-case>
+    <test-case start="1729890348456" stop="1729890348461" status="passed">
+      <name>testCanShowTab with data set "config integration data"</name>
+    </test-case>
+    <test-case start="1729890348462" stop="1729890348465" status="passed">
+      <name>testIsHidden</name>
+    </test-case>
+    <test-case start="1729890348465" stop="1729890348470" status="passed">
+      <name>testIsEverythingAllowed with data set "root resource in array"</name>
+    </test-case>
+    <test-case start="1729890348471" stop="1729890348475" status="passed">
+      <name>testIsEverythingAllowed with data set "root resource not in array"</name>
+    </test-case>
+    <test-case start="1729890348475" stop="1729890348479" status="passed">
+      <name>testIsEverythingAllowed with data set "no integration data"</name>
+    </test-case>
+    <test-case start="1729890348480" stop="1729890348483" status="passed">
+      <name>testGetTree</name>
+    </test-case>
+    <test-case start="1729890348484" stop="1729890348489" status="passed">
+      <name>testIsEverythingAllowedWithSavedFromData with data set "root resource in array"</name>
+    </test-case>
+    <test-case start="1729890348490" stop="1729890348494" status="passed">
+      <name>testIsEverythingAllowedWithSavedFromData with data set "root resource not in array"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

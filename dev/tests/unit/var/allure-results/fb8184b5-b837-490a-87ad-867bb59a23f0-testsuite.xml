@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280542" stop="1729890280563" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Model\Storage\DynamicStorageTest</name>
+  <test-cases>
+    <test-case start="1729890280543" stop="1729890280547" status="passed">
+      <name>testFindProductRewriteByRequestPath with data set #0</name>
+    </test-case>
+    <test-case start="1729890280548" stop="1729890280551" status="passed">
+      <name>testFindProductRewriteByRequestPath with data set #1</name>
+    </test-case>
+    <test-case start="1729890280552" stop="1729890280554" status="passed">
+      <name>testFindProductRewriteByRequestPath with data set #2</name>
+    </test-case>
+    <test-case start="1729890280555" stop="1729890280557" status="passed">
+      <name>testFindProductRewriteByRequestPath with data set #3</name>
+    </test-case>
+    <test-case start="1729890280558" stop="1729890280560" status="passed">
+      <name>testFindProductRewriteByRequestPath with data set #4</name>
+    </test-case>
+    <test-case start="1729890280561" stop="1729890280563" status="passed">
+      <name>testFindProductRewriteByRequestPath with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

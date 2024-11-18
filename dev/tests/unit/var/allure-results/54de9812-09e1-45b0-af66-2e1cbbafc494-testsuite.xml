@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890274823" stop="1729890274842" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\Config\Backend\ManagestockTest</name>
+  <test-cases>
+    <test-case start="1729890274824" stop="1729890274833" status="passed">
+      <name>testSaveAndRebuildIndex with data set #0</name>
+    </test-case>
+    <test-case start="1729890274836" stop="1729890274839" status="passed">
+      <name>testSaveAndRebuildIndex with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

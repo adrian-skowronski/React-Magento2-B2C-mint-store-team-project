@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890333705" stop="1729890333719" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\Mview\View\StateTest</name>
+  <test-cases>
+    <test-case start="1729890333705" stop="1729890333707" status="passed">
+      <name>testLoadByView</name>
+    </test-case>
+    <test-case start="1729890333707" stop="1729890333708" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+    <test-case start="1729890333708" stop="1729890333710" status="passed">
+      <name>testSetterAndGetterWithoutApplicationLock</name>
+    </test-case>
+    <test-case start="1729890333711" stop="1729890333713" status="passed">
+      <name>testSetterAndGetterWithApplicationLock with data set #0</name>
+    </test-case>
+    <test-case start="1729890333714" stop="1729890333716" status="passed">
+      <name>testSetterAndGetterWithApplicationLock with data set #1</name>
+    </test-case>
+    <test-case start="1729890333716" stop="1729890333717" status="passed">
+      <name>testSetterAndGetterWithApplicationLock with data set #2</name>
+    </test-case>
+    <test-case start="1729890333718" stop="1729890333719" status="passed">
+      <name>testSetterAndGetterWithApplicationLock with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

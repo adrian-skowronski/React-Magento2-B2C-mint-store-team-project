@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374909" stop="1729890374912" version="1.4.0">
+  <name>Magento\Review\Test\Unit\Ui\DataProvider\Product\ReviewDataProviderTest</name>
+  <test-cases>
+    <test-case start="1729890374909" stop="1729890374912" status="passed">
+      <name>testGetData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

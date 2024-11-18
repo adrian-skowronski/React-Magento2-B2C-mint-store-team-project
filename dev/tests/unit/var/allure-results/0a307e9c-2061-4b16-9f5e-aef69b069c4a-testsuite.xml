@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464833" stop="1729890464835" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\TemplateEngine\Xhtml\TemplateTest</name>
+  <test-cases>
+    <test-case start="1729890464833" stop="1729890464835" status="passed">
+      <name>testAppend</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

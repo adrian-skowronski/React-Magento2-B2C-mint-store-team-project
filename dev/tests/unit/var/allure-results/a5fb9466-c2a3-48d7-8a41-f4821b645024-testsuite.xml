@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310487" stop="1729890310519" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Plugin\SalesRule\Model\Rule\Condition\ProductTest</name>
+  <test-cases>
+    <test-case start="1729890310488" stop="1729890310514" status="passed">
+      <name>testChildIsUsedForValidation</name>
+    </test-case>
+    <test-case start="1729890310515" stop="1729890310517" status="passed">
+      <name>testChildIsNotUsedForValidation</name>
+    </test-case>
+    <test-case start="1729890310517" stop="1729890310519" status="passed">
+      <name>testChildIsNotUsedForValidationWhenConfigurableProductIsMissingChildren</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

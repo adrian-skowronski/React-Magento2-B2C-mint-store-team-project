@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361790" stop="1729890361823" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\IpnTest</name>
+  <test-cases>
+    <test-case start="1729890361791" stop="1729890361802" status="passed">
+      <name>testLegacyRegisterPaymentAuthorization</name>
+    </test-case>
+    <test-case start="1729890361803" stop="1729890361806" status="passed">
+      <name>testPaymentReviewRegisterPaymentAuthorization</name>
+    </test-case>
+    <test-case start="1729890361806" stop="1729890361815" status="passed">
+      <name>testPaymentReviewRegisterPaymentFraud</name>
+    </test-case>
+    <test-case start="1729890361815" stop="1729890361823" status="passed">
+      <name>testRegisterPaymentDenial</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

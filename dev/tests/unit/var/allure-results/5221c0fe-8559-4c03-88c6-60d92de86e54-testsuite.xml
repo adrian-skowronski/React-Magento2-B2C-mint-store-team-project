@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448536" stop="1729890448539" version="1.4.0">
+  <name>Magento\Framework\Exception\Test\Unit\NoSuchEntityExceptionTest</name>
+  <test-cases>
+    <test-case start="1729890448536" stop="1729890448537" status="passed">
+      <name>testConstructor</name>
+    </test-case>
+    <test-case start="1729890448537" stop="1729890448538" status="passed">
+      <name>testSingleField</name>
+    </test-case>
+    <test-case start="1729890448538" stop="1729890448539" status="passed">
+      <name>testDoubleField</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

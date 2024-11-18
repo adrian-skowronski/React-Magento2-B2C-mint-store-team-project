@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890411415" stop="1729890411426" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Controller\Shared\AllcartTest</name>
+  <test-cases>
+    <test-case start="1729890411416" stop="1729890411423" status="passed">
+      <name>testExecuteWithWishlist</name>
+    </test-case>
+    <test-case start="1729890411424" stop="1729890411426" status="passed">
+      <name>testExecuteWithNoWishlist</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

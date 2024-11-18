@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408731" stop="1729890408776" version="1.4.0">
+  <name>Magento\Webapi\Test\Unit\Model\Rest\Swagger\GeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890408731" stop="1729890408743" status="passed">
+      <name>testGenerate with data set #0</name>
+    </test-case>
+    <test-case start="1729890408744" stop="1729890408747" status="passed">
+      <name>testGenerate with data set #1</name>
+    </test-case>
+    <test-case start="1729890408747" stop="1729890408752" status="passed">
+      <name>testGenerate with data set #2</name>
+    </test-case>
+    <test-case start="1729890408752" stop="1729890408755" status="passed">
+      <name>testGetObjectSchema with data set #0</name>
+    </test-case>
+    <test-case start="1729890408756" stop="1729890408759" status="passed">
+      <name>testGetObjectSchema with data set #1</name>
+    </test-case>
+    <test-case start="1729890408759" stop="1729890408761" status="passed">
+      <name>testGetObjectSchema with data set #2</name>
+    </test-case>
+    <test-case start="1729890408762" stop="1729890408764" status="passed">
+      <name>testGetObjectSchema with data set #3</name>
+    </test-case>
+    <test-case start="1729890408765" stop="1729890408768" status="passed">
+      <name>testGetObjectSchema with data set #4</name>
+    </test-case>
+    <test-case start="1729890408769" stop="1729890408772" status="passed">
+      <name>testGenerateDefinition with data set #0</name>
+    </test-case>
+    <test-case start="1729890408773" stop="1729890408775" status="passed">
+      <name>testGetDefinitionReference</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

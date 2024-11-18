@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452489" stop="1729890452491" version="1.4.0">
+  <name>Magento\Framework\Model\Test\Unit\ResourceModel\Db\Relation\ActionPoolTest</name>
+  <test-cases>
+    <test-case start="1729890452489" stop="1729890452490" status="passed">
+      <name>testGetActionsNoAction</name>
+    </test-case>
+    <test-case start="1729890452490" stop="1729890452491" status="passed">
+      <name>testGetActions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

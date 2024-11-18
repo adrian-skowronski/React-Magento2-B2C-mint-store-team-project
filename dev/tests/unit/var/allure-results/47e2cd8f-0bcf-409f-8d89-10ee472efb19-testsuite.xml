@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890263775" stop="1729890263856" version="1.4.0">
+  <name>Magento\AwsS3\Test\Unit\Driver\AwsS3Test</name>
+  <test-cases>
+    <test-case start="1729890263776" stop="1729890263781" status="passed">
+      <name>testGetAbsolutePath with data set #0</name>
+    </test-case>
+    <test-case start="1729890263782" stop="1729890263782" status="passed">
+      <name>testGetAbsolutePath with data set #1</name>
+    </test-case>
+    <test-case start="1729890263783" stop="1729890263784" status="passed">
+      <name>testGetAbsolutePath with data set #2</name>
+    </test-case>
+    <test-case start="1729890263784" stop="1729890263785" status="passed">
+      <name>testGetAbsolutePath with data set #3</name>
+    </test-case>
+    <test-case start="1729890263786" stop="1729890263787" status="passed">
+      <name>testGetAbsolutePath with data set #4</name>
+    </test-case>
+    <test-case start="1729890263787" stop="1729890263788" status="passed">
+      <name>testGetAbsolutePath with data set #5</name>
+    </test-case>
+    <test-case start="1729890263789" stop="1729890263789" status="passed">
+      <name>testGetAbsolutePath with data set #6</name>
+    </test-case>
+    <test-case start="1729890263790" stop="1729890263791" status="passed">
+      <name>testGetAbsolutePath with data set #7</name>
+    </test-case>
+    <test-case start="1729890263792" stop="1729890263792" status="passed">
+      <name>testGetAbsolutePath with data set #8</name>
+    </test-case>
+    <test-case start="1729890263793" stop="1729890263794" status="passed">
+      <name>testGetAbsolutePath with data set #9</name>
+    </test-case>
+    <test-case start="1729890263795" stop="1729890263795" status="passed">
+      <name>testGetAbsolutePath with data set #10</name>
+    </test-case>
+    <test-case start="1729890263796" stop="1729890263797" status="passed">
+      <name>testGetAbsolutePath with data set #11</name>
+    </test-case>
+    <test-case start="1729890263797" stop="1729890263798" status="passed">
+      <name>testGetAbsolutePath with data set #12</name>
+    </test-case>
+    <test-case start="1729890263799" stop="1729890263800" status="passed">
+      <name>testGetAbsolutePath with data set #13</name>
+    </test-case>
+    <test-case start="1729890263800" stop="1729890263801" status="passed">
+      <name>testGetAbsolutePath with data set #14</name>
+    </test-case>
+    <test-case start="1729890263801" stop="1729890263802" status="passed">
+      <name>testGetAbsolutePath with data set #15</name>
+    </test-case>
+    <test-case start="1729890263803" stop="1729890263803" status="passed">
+      <name>testGetAbsolutePath with data set #16</name>
+    </test-case>
+    <test-case start="1729890263804" stop="1729890263805" status="passed">
+      <name>testGetAbsolutePath with data set #17</name>
+    </test-case>
+    <test-case start="1729890263806" stop="1729890263806" status="passed">
+      <name>testGetAbsolutePath with data set #18</name>
+    </test-case>
+    <test-case start="1729890263807" stop="1729890263808" status="passed">
+      <name>testGetRelativePath with data set #0</name>
+    </test-case>
+    <test-case start="1729890263809" stop="1729890263810" status="passed">
+      <name>testGetRelativePath with data set #1</name>
+    </test-case>
+    <test-case start="1729890263810" stop="1729890263811" status="passed">
+      <name>testGetRelativePath with data set #2</name>
+    </test-case>
+    <test-case start="1729890263812" stop="1729890263813" status="passed">
+      <name>testIsDirectory with data set "empty metadata"</name>
+    </test-case>
+    <test-case start="1729890263814" stop="1729890263815" status="passed">
+      <name>testIsDirectory with data set #0</name>
+    </test-case>
+    <test-case start="1729890263816" stop="1729890263817" status="passed">
+      <name>testIsDirectory with data set #1</name>
+    </test-case>
+    <test-case start="1729890263818" stop="1729890263819" status="passed">
+      <name>testIsDirectory with data set #2</name>
+    </test-case>
+    <test-case start="1729890263820" stop="1729890263821" status="passed">
+      <name>testIsDirectory with data set #3</name>
+    </test-case>
+    <test-case start="1729890263822" stop="1729890263823" status="passed">
+      <name>testIsFile with data set #0</name>
+    </test-case>
+    <test-case start="1729890263824" stop="1729890263825" status="passed">
+      <name>testIsFile with data set #1</name>
+    </test-case>
+    <test-case start="1729890263826" stop="1729890263827" status="passed">
+      <name>testIsFile with data set #2</name>
+    </test-case>
+    <test-case start="1729890263828" stop="1729890263829" status="passed">
+      <name>testIsFile with data set #3</name>
+    </test-case>
+    <test-case start="1729890263830" stop="1729890263831" status="passed">
+      <name>testIsFile with data set #4</name>
+    </test-case>
+    <test-case start="1729890263832" stop="1729890263833" status="passed">
+      <name>testIsFile with data set #5</name>
+    </test-case>
+    <test-case start="1729890263834" stop="1729890263835" status="passed">
+      <name>testGetRealPathSafety with data set #0</name>
+    </test-case>
+    <test-case start="1729890263835" stop="1729890263836" status="passed">
+      <name>testGetRealPathSafety with data set #1</name>
+    </test-case>
+    <test-case start="1729890263837" stop="1729890263838" status="passed">
+      <name>testGetRealPathSafety with data set #2</name>
+    </test-case>
+    <test-case start="1729890263838" stop="1729890263839" status="passed">
+      <name>testGetRealPathSafety with data set #3</name>
+    </test-case>
+    <test-case start="1729890263840" stop="1729890263841" status="passed">
+      <name>testGetRealPathSafety with data set #4</name>
+    </test-case>
+    <test-case start="1729890263841" stop="1729890263842" status="passed">
+      <name>testGetRealPathSafety with data set #5</name>
+    </test-case>
+    <test-case start="1729890263843" stop="1729890263844" status="passed">
+      <name>testGetRealPathSafety with data set #6</name>
+    </test-case>
+    <test-case start="1729890263844" stop="1729890263850" status="passed">
+      <name>testSearchDirectory</name>
+    </test-case>
+    <test-case start="1729890263850" stop="1729890263852" status="passed">
+      <name>testSearchFiles</name>
+    </test-case>
+    <test-case start="1729890263852" stop="1729890263856" status="passed">
+      <name>testCreateDirectory</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

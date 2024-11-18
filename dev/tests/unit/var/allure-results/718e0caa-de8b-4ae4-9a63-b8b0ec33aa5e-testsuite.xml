@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890309585" stop="1729890309593" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Model\Plugin\UpdateStockChangedAutoTest</name>
+  <test-cases>
+    <test-case start="1729890309585" stop="1729890309590" status="passed">
+      <name>testBeforeSaveForInStock</name>
+    </test-case>
+    <test-case start="1729890309591" stop="1729890309593" status="passed">
+      <name>testBeforeSaveForConfigurableInStock</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

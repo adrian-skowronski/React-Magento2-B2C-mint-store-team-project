@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890288303" stop="1729890288317" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Attribute\Source\StatusTest</name>
+  <test-cases>
+    <test-case start="1729890288303" stop="1729890288306" status="passed">
+      <name>testAddValueSortToCollectionGlobal</name>
+    </test-case>
+    <test-case start="1729890288306" stop="1729890288308" status="passed">
+      <name>testAddValueSortToCollectionNotGlobal</name>
+    </test-case>
+    <test-case start="1729890288308" stop="1729890288309" status="passed">
+      <name>testGetVisibleStatusIds</name>
+    </test-case>
+    <test-case start="1729890288309" stop="1729890288311" status="passed">
+      <name>testGetSaleableStatusIds</name>
+    </test-case>
+    <test-case start="1729890288311" stop="1729890288312" status="passed">
+      <name>testGetOptionArray</name>
+    </test-case>
+    <test-case start="1729890288313" stop="1729890288315" status="passed">
+      <name>testGetOptionText with data set #0</name>
+    </test-case>
+    <test-case start="1729890288315" stop="1729890288316" status="passed">
+      <name>testGetOptionText with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

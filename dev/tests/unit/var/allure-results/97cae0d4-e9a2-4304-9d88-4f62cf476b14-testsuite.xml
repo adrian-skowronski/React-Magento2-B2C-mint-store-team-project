@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890303581" stop="1729890303603" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Structure\Mapper\Helper\RelativePathConverterTest</name>
+  <test-cases>
+    <test-case start="1729890303581" stop="1729890303582" status="passed">
+      <name>testConvertWithInvalidRelativePath</name>
+    </test-case>
+    <test-case start="1729890303583" stop="1729890303583" status="passed">
+      <name>testConvertWithInvalidArguments with data set #0</name>
+    </test-case>
+    <test-case start="1729890303584" stop="1729890303585" status="passed">
+      <name>testConvertWithInvalidArguments with data set #1</name>
+    </test-case>
+    <test-case start="1729890303585" stop="1729890303587" status="passed">
+      <name>testConvertWithInvalidArguments with data set #2</name>
+    </test-case>
+    <test-case start="1729890303588" stop="1729890303588" status="passed">
+      <name>testConvert with data set #0</name>
+    </test-case>
+    <test-case start="1729890303590" stop="1729890303590" status="passed">
+      <name>testConvert with data set #1</name>
+    </test-case>
+    <test-case start="1729890303591" stop="1729890303595" status="passed">
+      <name>testConvert with data set #2</name>
+    </test-case>
+    <test-case start="1729890303595" stop="1729890303599" status="passed">
+      <name>testConvert with data set #3</name>
+    </test-case>
+    <test-case start="1729890303601" stop="1729890303602" status="passed">
+      <name>testConvert with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

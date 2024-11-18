@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450989" stop="1729890450997" version="1.4.0">
+  <name>Magento\Framework\Locale\Test\Unit\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890450990" stop="1729890450991" status="passed">
+      <name>testGetAllowedLocalesNoDataArray</name>
+    </test-case>
+    <test-case start="1729890450991" stop="1729890450992" status="passed">
+      <name>testGetAllowedLocalesGivenDataArray</name>
+    </test-case>
+    <test-case start="1729890450992" stop="1729890450993" status="passed">
+      <name>testGetAllowedLocalesGivenRedundantDataArray</name>
+    </test-case>
+    <test-case start="1729890450993" stop="1729890450994" status="passed">
+      <name>testGetAllowedCurrenciesNoDataArray</name>
+    </test-case>
+    <test-case start="1729890450994" stop="1729890450995" status="passed">
+      <name>testGetAllowedCurrenciesGivenDataArray</name>
+    </test-case>
+    <test-case start="1729890450996" stop="1729890450997" status="passed">
+      <name>testGetAllowedCurrenciesGivenRedundantDataArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

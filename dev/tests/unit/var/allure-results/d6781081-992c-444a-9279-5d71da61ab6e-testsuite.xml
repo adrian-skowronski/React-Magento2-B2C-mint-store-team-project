@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392269" stop="1729890392292" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890392269" stop="1729890392270" status="passed">
+      <name>testGetLimitationTimePeriod</name>
+    </test-case>
+    <test-case start="1729890392271" stop="1729890392272" status="passed">
+      <name>testGetCustomerServiceEmail</name>
+    </test-case>
+    <test-case start="1729890392272" stop="1729890392273" status="passed">
+      <name>testGetAdminSessionLifetime</name>
+    </test-case>
+    <test-case start="1729890392273" stop="1729890392274" status="passed">
+      <name>testIsAdminAccountSharingIsEnabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890392274" stop="1729890392275" status="passed">
+      <name>testIsAdminAccountSharingIsEnabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890392276" stop="1729890392277" status="passed">
+      <name>testGetPasswordResetProtectionType with data set #0</name>
+    </test-case>
+    <test-case start="1729890392277" stop="1729890392278" status="passed">
+      <name>testGetPasswordResetProtectionType with data set #1</name>
+    </test-case>
+    <test-case start="1729890392279" stop="1729890392280" status="passed">
+      <name>testGetPasswordResetProtectionType with data set #2</name>
+    </test-case>
+    <test-case start="1729890392280" stop="1729890392281" status="passed">
+      <name>testGetPasswordResetProtectionType with data set #3</name>
+    </test-case>
+    <test-case start="1729890392281" stop="1729890392282" status="passed">
+      <name>testGetPasswordResetProtectionType with data set #4</name>
+    </test-case>
+    <test-case start="1729890392282" stop="1729890392283" status="passed">
+      <name>testGetPasswordResetProtectionType with data set #5</name>
+    </test-case>
+    <test-case start="1729890392284" stop="1729890392285" status="passed">
+      <name>testGetPasswordResetProtectionType with data set #6</name>
+    </test-case>
+    <test-case start="1729890392286" stop="1729890392286" status="passed">
+      <name>testGetPasswordResetProtectionType with data set #7</name>
+    </test-case>
+    <test-case start="1729890392287" stop="1729890392288" status="passed">
+      <name>testGetMaxNumberPasswordResetRequests with data set #0</name>
+    </test-case>
+    <test-case start="1729890392289" stop="1729890392289" status="passed">
+      <name>testGetMaxNumberPasswordResetRequests with data set #1</name>
+    </test-case>
+    <test-case start="1729890392290" stop="1729890392291" status="passed">
+      <name>testGetMinTimeBetweenPasswordResetRequests with data set #0</name>
+    </test-case>
+    <test-case start="1729890392291" stop="1729890392292" status="passed">
+      <name>testGetMinTimeBetweenPasswordResetRequests with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

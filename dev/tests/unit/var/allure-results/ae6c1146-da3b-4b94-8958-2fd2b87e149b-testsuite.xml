@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890443758" stop="1729890443788" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Form\Element\DateTest</name>
+  <test-cases>
+    <test-case start="1729890443759" stop="1729890443767" status="passed">
+      <name>testGetElementHtmlException</name>
+    </test-case>
+    <test-case start="1729890443769" stop="1729890443777" status="passed">
+      <name>testGetElementHtmlDateFormat with data set #0</name>
+    </test-case>
+    <test-case start="1729890443783" stop="1729890443787" status="passed">
+      <name>testGetElementHtmlDateFormat with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

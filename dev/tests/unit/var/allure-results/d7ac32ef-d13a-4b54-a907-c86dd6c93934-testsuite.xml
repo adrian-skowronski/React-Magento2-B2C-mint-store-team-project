@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890279791" stop="1729890279799" version="1.4.0">
+  <name>Magento\CatalogSearch\Test\Unit\Ui\DataProvider\Product\AddFulltextFilterToCollectionTest</name>
+  <test-cases>
+    <test-case start="1729890279792" stop="1729890279798" status="passed">
+      <name>testAddFilter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

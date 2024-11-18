@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454310" stop="1729890454324" version="1.4.0">
+  <name>Magento\Framework\ObjectManager\Test\Unit\Config\CompiledTest</name>
+  <test-cases>
+    <test-case start="1729890454311" stop="1729890454312" status="passed">
+      <name>testExtendArguments</name>
+    </test-case>
+    <test-case start="1729890454312" stop="1729890454313" status="passed">
+      <name>testVirtualTypes</name>
+    </test-case>
+    <test-case start="1729890454313" stop="1729890454314" status="passed">
+      <name>testPreferences</name>
+    </test-case>
+    <test-case start="1729890454314" stop="1729890454314" status="passed">
+      <name>testGetArgumentsSerialized</name>
+    </test-case>
+    <test-case start="1729890454315" stop="1729890454315" status="passed">
+      <name>testGetArgumentsSerializedEmpty</name>
+    </test-case>
+    <test-case start="1729890454315" stop="1729890454316" status="passed">
+      <name>testGetArgumentsUnserialized</name>
+    </test-case>
+    <test-case start="1729890454316" stop="1729890454317" status="passed">
+      <name>testGetArgumentsUnserializedEmpty</name>
+    </test-case>
+    <test-case start="1729890454317" stop="1729890454318" status="passed">
+      <name>testGetArgumentsNotDefined</name>
+    </test-case>
+    <test-case start="1729890454318" stop="1729890454319" status="passed">
+      <name>testConstructorFieldsValidation with data set #0</name>
+    </test-case>
+    <test-case start="1729890454319" stop="1729890454320" status="passed">
+      <name>testConstructorFieldsValidation with data set #1</name>
+    </test-case>
+    <test-case start="1729890454321" stop="1729890454321" status="passed">
+      <name>testExtendFieldsValidation with data set #0</name>
+    </test-case>
+    <test-case start="1729890454322" stop="1729890454323" status="passed">
+      <name>testExtendFieldsValidation with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

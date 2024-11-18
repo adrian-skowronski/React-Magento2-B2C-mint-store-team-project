@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325838" stop="1729890325844" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\Increment\NumericTest</name>
+  <test-cases>
+    <test-case start="1729890325839" stop="1729890325840" status="passed">
+      <name>testGetNextId with data set #0</name>
+    </test-case>
+    <test-case start="1729890325841" stop="1729890325841" status="passed">
+      <name>testGetNextId with data set #1</name>
+    </test-case>
+    <test-case start="1729890325841" stop="1729890325842" status="passed">
+      <name>testGetPadLength</name>
+    </test-case>
+    <test-case start="1729890325842" stop="1729890325843" status="passed">
+      <name>testFormat</name>
+    </test-case>
+    <test-case start="1729890325843" stop="1729890325843" status="passed">
+      <name>testFrontendFormat</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

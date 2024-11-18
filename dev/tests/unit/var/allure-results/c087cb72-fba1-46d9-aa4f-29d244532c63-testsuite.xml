@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890387560" stop="1729890387570" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Total\Config\BaseTest</name>
+  <test-cases>
+    <test-case start="1729890387561" stop="1729890387564" status="passed">
+      <name>testGetTotalModels</name>
+    </test-case>
+    <test-case start="1729890387564" stop="1729890387565" status="passed">
+      <name>testGetTotalModelsInvalidTotalModel</name>
+    </test-case>
+    <test-case start="1729890387566" stop="1729890387568" status="passed">
+      <name>testGetTotalUnserializeCachedCollectorCodes</name>
+    </test-case>
+    <test-case start="1729890387568" stop="1729890387570" status="passed">
+      <name>testGetTotalModelsSortingSubroutine</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

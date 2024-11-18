@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890397026" stop="1729890397179" version="1.4.0">
+  <name>Magento\Swatches\Test\Unit\Model\Plugin\EavAttributeTest</name>
+  <test-cases>
+    <test-case start="1729890397027" stop="1729890397053" status="passed">
+      <name>testBeforeSaveVisualSwatch</name>
+    </test-case>
+    <test-case start="1729890397053" stop="1729890397056" status="passed">
+      <name>testBeforeSaveTextSwatch</name>
+    </test-case>
+    <test-case start="1729890397056" stop="1729890397059" status="passed">
+      <name>testBeforeSaveWithFailedValidation</name>
+    </test-case>
+    <test-case start="1729890397059" stop="1729890397062" status="passed">
+      <name>testValidationIsSkippedForDeletedOption</name>
+    </test-case>
+    <test-case start="1729890397062" stop="1729890397064" status="passed">
+      <name>testBeforeSaveNotSwatch</name>
+    </test-case>
+    <test-case start="1729890397065" stop="1729890397082" status="passed">
+      <name>testAfterAfterSaveVisualSwatch with data set #0</name>
+    </test-case>
+    <test-case start="1729890397088" stop="1729890397104" status="passed">
+      <name>testAfterAfterSaveVisualSwatch with data set #1</name>
+    </test-case>
+    <test-case start="1729890397104" stop="1729890397113" status="passed">
+      <name>testAfterAfterSaveVisualSwatch with data set #2</name>
+    </test-case>
+    <test-case start="1729890397113" stop="1729890397127" status="passed">
+      <name>testAfterAfterSaveTextualSwatch</name>
+    </test-case>
+    <test-case start="1729890397128" stop="1729890397134" status="passed">
+      <name>testAfterAfterSaveVisualSwatchIsDelete</name>
+    </test-case>
+    <test-case start="1729890397134" stop="1729890397146" status="passed">
+      <name>testAfterAfterSaveTextualSwatchIsDelete</name>
+    </test-case>
+    <test-case start="1729890397147" stop="1729890397179" status="passed">
+      <name>testAfterAfterSaveNotSwatchAttribute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

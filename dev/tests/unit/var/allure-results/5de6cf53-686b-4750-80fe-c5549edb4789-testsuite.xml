@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890371504" stop="1729890371506" version="1.4.0">
+  <name>Magento\ReCaptchaCustomer\Test\Unit\Plugin\Customer\DisableLoginButtonTest</name>
+  <test-cases>
+    <test-case start="1729890371505" stop="1729890371506" status="passed">
+      <name>testAfterEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

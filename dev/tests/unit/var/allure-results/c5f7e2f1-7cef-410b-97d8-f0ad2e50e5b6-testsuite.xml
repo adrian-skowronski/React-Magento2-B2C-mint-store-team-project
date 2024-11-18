@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890370298" stop="1729890370309" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\Quote\ShippingAssignment\ShippingAssignmentProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890370298" stop="1729890370304" status="passed">
+      <name>testSaveWithDeletedCartItems</name>
+    </test-case>
+    <test-case start="1729890370304" stop="1729890370309" status="passed">
+      <name>testSaveWithNotExistingCustomerAddress</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

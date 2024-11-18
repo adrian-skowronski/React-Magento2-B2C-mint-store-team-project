@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422011" stop="1729890422013" version="1.4.0">
+  <name>Magento\Framework\Acl\Test\Unit\AclResource\TreeBuilderTest</name>
+  <test-cases>
+    <test-case start="1729890422012" stop="1729890422013" status="passed">
+      <name>testBuild</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

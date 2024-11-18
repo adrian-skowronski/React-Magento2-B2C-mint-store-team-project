@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890360249" stop="1729890360257" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Block\Express\ShortcutTest</name>
+  <test-cases>
+    <test-case start="1729890360249" stop="1729890360257" status="passed">
+      <name>testGetAlias</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

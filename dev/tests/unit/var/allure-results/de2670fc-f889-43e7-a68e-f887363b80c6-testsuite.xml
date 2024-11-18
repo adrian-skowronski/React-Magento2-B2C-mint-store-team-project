@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301440" stop="1729890301452" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Block\System\Config\Form\Field\RegexceptionsTest</name>
+  <test-cases>
+    <test-case start="1729890301440" stop="1729890301446" status="passed">
+      <name>testRenderCellTemplateValueColumn</name>
+    </test-case>
+    <test-case start="1729890301446" stop="1729890301449" status="passed">
+      <name>testRenderCellTemplateOtherColumn</name>
+    </test-case>
+    <test-case start="1729890301449" stop="1729890301452" status="passed">
+      <name>testRenderCellTemplateWrongColumnName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

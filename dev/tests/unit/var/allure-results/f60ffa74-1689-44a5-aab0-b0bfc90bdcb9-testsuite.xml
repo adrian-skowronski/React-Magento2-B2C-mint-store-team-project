@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890359468" stop="1729890359484" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Model\Method\FreeTest</name>
+  <test-cases>
+    <test-case start="1729890359468" stop="1729890359470" status="passed">
+      <name>testGetConfigPaymentAction with data set #0</name>
+    </test-case>
+    <test-case start="1729890359471" stop="1729890359472" status="passed">
+      <name>testGetConfigPaymentAction with data set #1</name>
+    </test-case>
+    <test-case start="1729890359473" stop="1729890359475" status="passed">
+      <name>testIsAvailable with data set #0</name>
+    </test-case>
+    <test-case start="1729890359476" stop="1729890359478" status="passed">
+      <name>testIsAvailable with data set #1</name>
+    </test-case>
+    <test-case start="1729890359478" stop="1729890359480" status="passed">
+      <name>testIsAvailable with data set #2</name>
+    </test-case>
+    <test-case start="1729890359481" stop="1729890359482" status="passed">
+      <name>testIsAvailable with data set #3</name>
+    </test-case>
+    <test-case start="1729890359482" stop="1729890359484" status="passed">
+      <name>testIsAvailable with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890396120" stop="1729890396126" version="1.4.0">
+  <name>Magento\Swagger\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890396120" stop="1729890396121" status="passed">
+      <name>testDisabledInProductionByDefault</name>
+    </test-case>
+    <test-case start="1729890396121" stop="1729890396122" status="passed">
+      <name>testUseCases with data set #0</name>
+    </test-case>
+    <test-case start="1729890396123" stop="1729890396123" status="passed">
+      <name>testUseCases with data set #1</name>
+    </test-case>
+    <test-case start="1729890396124" stop="1729890396124" status="passed">
+      <name>testUseCases with data set #2</name>
+    </test-case>
+    <test-case start="1729890396125" stop="1729890396126" status="passed">
+      <name>testUseCases with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

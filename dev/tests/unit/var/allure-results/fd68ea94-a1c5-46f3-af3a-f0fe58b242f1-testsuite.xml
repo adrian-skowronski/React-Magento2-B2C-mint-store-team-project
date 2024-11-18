@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452858" stop="1729890452867" version="1.4.0">
+  <name>Magento\Framework\Module\Test\Unit\PackageInfoTest</name>
+  <test-cases>
+    <test-case start="1729890452858" stop="1729890452859" status="passed">
+      <name>testGetModuleName</name>
+    </test-case>
+    <test-case start="1729890452860" stop="1729890452861" status="passed">
+      <name>testGetPackageName</name>
+    </test-case>
+    <test-case start="1729890452861" stop="1729890452862" status="passed">
+      <name>testGetRequireReturnModuleName</name>
+    </test-case>
+    <test-case start="1729890452862" stop="1729890452864" status="passed">
+      <name>testGetConflictReturnModuleName</name>
+    </test-case>
+    <test-case start="1729890452864" stop="1729890452865" status="passed">
+      <name>testGetVersion</name>
+    </test-case>
+    <test-case start="1729890452865" stop="1729890452867" status="passed">
+      <name>testGetRequiredBy</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

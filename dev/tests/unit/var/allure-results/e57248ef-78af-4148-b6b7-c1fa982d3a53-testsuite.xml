@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316489" stop="1729890316517" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\FileProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890316489" stop="1729890316490" status="passed">
+      <name>testGetStat</name>
+    </test-case>
+    <test-case start="1729890316490" stop="1729890316491" status="passed">
+      <name>testIsExist</name>
+    </test-case>
+    <test-case start="1729890316492" stop="1729890316493" status="passed">
+      <name>testGetViewUrlTest with data set #0</name>
+    </test-case>
+    <test-case start="1729890316493" stop="1729890316495" status="passed">
+      <name>testGetViewUrlTest with data set #1</name>
+    </test-case>
+    <test-case start="1729890316495" stop="1729890316496" status="passed">
+      <name>testGetViewUrlTest with data set #2</name>
+    </test-case>
+    <test-case start="1729890316497" stop="1729890316498" status="passed">
+      <name>testGetViewUrlTest with data set #3</name>
+    </test-case>
+    <test-case start="1729890316498" stop="1729890316500" status="passed">
+      <name>testRemoveUploadedFile</name>
+    </test-case>
+    <test-case start="1729890316500" stop="1729890316502" status="passed">
+      <name>testSaveTemporaryFile</name>
+    </test-case>
+    <test-case start="1729890316503" stop="1729890316505" status="passed">
+      <name>testSaveTemporaryFileWithError</name>
+    </test-case>
+    <test-case start="1729890316505" stop="1729890316506" status="passed">
+      <name>testMoveTemporaryFileUnableToCreateDirectory</name>
+    </test-case>
+    <test-case start="1729890316507" stop="1729890316508" status="passed">
+      <name>testMoveTemporaryFileDestinationFolderDoesNotExists</name>
+    </test-case>
+    <test-case start="1729890316509" stop="1729890316511" status="passed">
+      <name>testMoveTemporaryFile</name>
+    </test-case>
+    <test-case start="1729890316511" stop="1729890316513" status="passed">
+      <name>testMoveTemporaryFileNewFileName</name>
+    </test-case>
+    <test-case start="1729890316513" stop="1729890316515" status="passed">
+      <name>testMoveTemporaryFileWithException</name>
+    </test-case>
+    <test-case start="1729890316516" stop="1729890316517" status="passed">
+      <name>testGetMimeType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

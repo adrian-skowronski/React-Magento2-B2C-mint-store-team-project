@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319207" stop="1729890319219" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Model\DeploymentConfig\ChangeDetectorTest</name>
+  <test-cases>
+    <test-case start="1729890319208" stop="1729890319211" status="passed">
+      <name>testHasChanges with data set #0</name>
+    </test-case>
+    <test-case start="1729890319212" stop="1729890319213" status="passed">
+      <name>testHasChanges with data set #1</name>
+    </test-case>
+    <test-case start="1729890319214" stop="1729890319215" status="passed">
+      <name>testHasChanges with data set #2</name>
+    </test-case>
+    <test-case start="1729890319216" stop="1729890319217" status="passed">
+      <name>testHasChanges with data set #3</name>
+    </test-case>
+    <test-case start="1729890319218" stop="1729890319218" status="passed">
+      <name>testHasChanges with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

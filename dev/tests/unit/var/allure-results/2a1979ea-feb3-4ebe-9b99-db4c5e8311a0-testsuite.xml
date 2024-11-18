@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890388188" stop="1729890388694" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\OrderTest</name>
+  <test-cases>
+    <test-case start="1729890388189" stop="1729890388210" status="passed">
+      <name>testGetItems</name>
+    </test-case>
+    <test-case start="1729890388210" stop="1729890388214" status="passed">
+      <name>testGetItemById</name>
+    </test-case>
+    <test-case start="1729890388215" stop="1729890388221" status="passed">
+      <name>testGetItemByQuoteItemId with data set #0</name>
+    </test-case>
+    <test-case start="1729890388221" stop="1729890388227" status="passed">
+      <name>testGetItemByQuoteItemId with data set #1</name>
+    </test-case>
+    <test-case start="1729890388227" stop="1729890388232" status="passed">
+      <name>testGetItemByQuoteItemId with data set #2</name>
+    </test-case>
+    <test-case start="1729890388233" stop="1729890388239" status="passed">
+      <name>testGetAllVisibleItems with data set #0</name>
+    </test-case>
+    <test-case start="1729890388240" stop="1729890388245" status="passed">
+      <name>testGetAllVisibleItems with data set #1</name>
+    </test-case>
+    <test-case start="1729890388245" stop="1729890388250" status="passed">
+      <name>testGetAllVisibleItems with data set #2</name>
+    </test-case>
+    <test-case start="1729890388251" stop="1729890388257" status="passed">
+      <name>testGetAllVisibleItems with data set #3</name>
+    </test-case>
+    <test-case start="1729890388257" stop="1729890388262" status="passed">
+      <name>testGetAllVisibleItems with data set #4</name>
+    </test-case>
+    <test-case start="1729890388263" stop="1729890388267" status="passed">
+      <name>testCanCancelCanUnhold</name>
+    </test-case>
+    <test-case start="1729890388268" stop="1729890388273" status="passed">
+      <name>testCanCancelIsPaymentReview</name>
+    </test-case>
+    <test-case start="1729890388273" stop="1729890388278" status="passed">
+      <name>testCanInvoice</name>
+    </test-case>
+    <test-case start="1729890388279" stop="1729890388284" status="passed">
+      <name>testGetCustomerName with data set #0</name>
+    </test-case>
+    <test-case start="1729890388285" stop="1729890388290" status="passed">
+      <name>testGetCustomerName with data set #1</name>
+    </test-case>
+    <test-case start="1729890388290" stop="1729890388295" status="passed">
+      <name>testGetCustomerName with data set #2</name>
+    </test-case>
+    <test-case start="1729890388296" stop="1729890388301" status="passed">
+      <name>testCanNotInvoiceInSomeStates with data set #0</name>
+    </test-case>
+    <test-case start="1729890388301" stop="1729890388305" status="passed">
+      <name>testCanNotInvoiceInSomeStates with data set #1</name>
+    </test-case>
+    <test-case start="1729890388305" stop="1729890388309" status="passed">
+      <name>testCanNotInvoiceInSomeStates with data set #2</name>
+    </test-case>
+    <test-case start="1729890388309" stop="1729890388312" status="passed">
+      <name>testCanNotInvoiceWhenActionInvoiceFlagIsFalse</name>
+    </test-case>
+    <test-case start="1729890388313" stop="1729890388319" status="passed">
+      <name>testCanNotInvoiceWhenLockedInvoice</name>
+    </test-case>
+    <test-case start="1729890388320" stop="1729890388324" status="passed">
+      <name>testCanNotInvoiceWhenDidNotHaveQtyToInvoice</name>
+    </test-case>
+    <test-case start="1729890388324" stop="1729890388328" status="passed">
+      <name>testCanCreditMemo</name>
+    </test-case>
+    <test-case start="1729890388328" stop="1729890388335" status="passed">
+      <name>testCanNotCreditMemoWithTotalNull</name>
+    </test-case>
+    <test-case start="1729890388335" stop="1729890388339" status="passed">
+      <name>testCanNotCreditMemoWithAdjustmentNegative</name>
+    </test-case>
+    <test-case start="1729890388339" stop="1729890388343" status="passed">
+      <name>testCanCreditMemoWithAdjustmentNegativeLowerThanTotalPaid</name>
+    </test-case>
+    <test-case start="1729890388344" stop="1729890388350" status="passed">
+      <name>testCanNotCreditMemoWithSomeStates with data set #0</name>
+    </test-case>
+    <test-case start="1729890388351" stop="1729890388356" status="passed">
+      <name>testCanNotCreditMemoWithSomeStates with data set #1</name>
+    </test-case>
+    <test-case start="1729890388357" stop="1729890388361" status="passed">
+      <name>testCanNotCreditMemoWithSomeStates with data set #2</name>
+    </test-case>
+    <test-case start="1729890388361" stop="1729890388366" status="passed">
+      <name>testCanNotCreditMemoWithSomeStates with data set #3</name>
+    </test-case>
+    <test-case start="1729890388366" stop="1729890388370" status="passed">
+      <name>testCanNotCreditMemoWithForced</name>
+    </test-case>
+    <test-case start="1729890388370" stop="1729890388375" status="passed">
+      <name>testCanEditIfHasInvoices</name>
+    </test-case>
+    <test-case start="1729890388375" stop="1729890388390" status="passed">
+      <name>testCanReorder</name>
+    </test-case>
+    <test-case start="1729890388391" stop="1729890388395" status="passed">
+      <name>testCanReorderIsPaymentReview</name>
+    </test-case>
+    <test-case start="1729890388396" stop="1729890388400" status="passed">
+      <name>testCanReorderFlagReorderFalse</name>
+    </test-case>
+    <test-case start="1729890388400" stop="1729890388406" status="passed">
+      <name>testCanReorderProductNotExists</name>
+    </test-case>
+    <test-case start="1729890388406" stop="1729890388412" status="passed">
+      <name>testCanReorderProductNotSalable</name>
+    </test-case>
+    <test-case start="1729890388413" stop="1729890388419" status="passed">
+      <name>testCanCancelCanReviewPayment</name>
+    </test-case>
+    <test-case start="1729890388419" stop="1729890388427" status="passed">
+      <name>testCanCancelAllInvoiced</name>
+    </test-case>
+    <test-case start="1729890388427" stop="1729890388433" status="passed">
+      <name>testCanCancelState</name>
+    </test-case>
+    <test-case start="1729890388433" stop="1729890388440" status="passed">
+      <name>testCanCancelActionFlag with data set #0</name>
+    </test-case>
+    <test-case start="1729890388440" stop="1729890388446" status="passed">
+      <name>testCanCancelActionFlag with data set #1</name>
+    </test-case>
+    <test-case start="1729890388447" stop="1729890388456" status="passed">
+      <name>testCanVoidPayment with data set #0</name>
+    </test-case>
+    <test-case start="1729890388456" stop="1729890388465" status="passed">
+      <name>testCanVoidPayment with data set #1</name>
+    </test-case>
+    <test-case start="1729890388466" stop="1729890388473" status="passed">
+      <name>testCanVoidPayment with data set #2</name>
+    </test-case>
+    <test-case start="1729890388474" stop="1729890388486" status="passed">
+      <name>testCanVoidPayment with data set #3</name>
+    </test-case>
+    <test-case start="1729890388487" stop="1729890388498" status="passed">
+      <name>testCanVoidPayment with data set #4</name>
+    </test-case>
+    <test-case start="1729890388498" stop="1729890388511" status="passed">
+      <name>testCanVoidPayment with data set #5</name>
+    </test-case>
+    <test-case start="1729890388511" stop="1729890388524" status="passed">
+      <name>testCanVoidPayment with data set #6</name>
+    </test-case>
+    <test-case start="1729890388524" stop="1729890388536" status="passed">
+      <name>testCanVoidPayment with data set #7</name>
+    </test-case>
+    <test-case start="1729890388536" stop="1729890388545" status="passed">
+      <name>testCanVoidPayment with data set #8</name>
+    </test-case>
+    <test-case start="1729890388546" stop="1729890388559" status="passed">
+      <name>testCanVoidPayment with data set #9</name>
+    </test-case>
+    <test-case start="1729890388559" stop="1729890388572" status="passed">
+      <name>testCanVoidPayment with data set #10</name>
+    </test-case>
+    <test-case start="1729890388573" stop="1729890388584" status="passed">
+      <name>testCanVoidPayment with data set #11</name>
+    </test-case>
+    <test-case start="1729890388588" stop="1729890388594" status="passed">
+      <name>testCanVoidPayment with data set #12</name>
+    </test-case>
+    <test-case start="1729890388594" stop="1729890388605" status="passed">
+      <name>testCanVoidPayment with data set #13</name>
+    </test-case>
+    <test-case start="1729890388605" stop="1729890388612" status="passed">
+      <name>testCanVoidPayment with data set #14</name>
+    </test-case>
+    <test-case start="1729890388613" stop="1729890388624" status="passed">
+      <name>testCanVoidPayment with data set #15</name>
+    </test-case>
+    <test-case start="1729890388624" stop="1729890388633" status="passed">
+      <name>testCanVoidPayment with data set #16</name>
+    </test-case>
+    <test-case start="1729890388634" stop="1729890388642" status="passed">
+      <name>testCanVoidPayment with data set #17</name>
+    </test-case>
+    <test-case start="1729890388642" stop="1729890388645" status="passed">
+      <name>testGetIncrementId</name>
+    </test-case>
+    <test-case start="1729890388645" stop="1729890388650" status="passed">
+      <name>testGetEntityType</name>
+    </test-case>
+    <test-case start="1729890388650" stop="1729890388657" status="passed">
+      <name>testGetStatusHistories</name>
+    </test-case>
+    <test-case start="1729890388658" stop="1729890388661" status="passed">
+      <name>testLoadByIncrementIdAndStoreId</name>
+    </test-case>
+    <test-case start="1729890388661" stop="1729890388669" status="passed">
+      <name>testSetPaymentWithId</name>
+    </test-case>
+    <test-case start="1729890388669" stop="1729890388674" status="passed">
+      <name>testSetPaymentNoId</name>
+    </test-case>
+    <test-case start="1729890388675" stop="1729890388680" status="passed">
+      <name>testSetPaymentNull</name>
+    </test-case>
+    <test-case start="1729890388681" stop="1729890388686" status="passed">
+      <name>testResetOrderWillResetPayment</name>
+    </test-case>
+    <test-case start="1729890388687" stop="1729890388693" status="passed">
+      <name>testGetCreatedAtFormattedUsesCorrectLocale</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

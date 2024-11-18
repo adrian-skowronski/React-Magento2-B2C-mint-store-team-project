@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356227" stop="1729890356236" version="1.4.0">
+  <name>Magento\OfflineShipping\Test\Unit\Model\ResourceModel\Carrier\TablerateTest</name>
+  <test-cases>
+    <test-case start="1729890356227" stop="1729890356236" status="passed">
+      <name>testUploadAndImport</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

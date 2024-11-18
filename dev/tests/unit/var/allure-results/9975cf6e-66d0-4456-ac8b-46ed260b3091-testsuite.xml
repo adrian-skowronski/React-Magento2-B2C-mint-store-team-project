@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890268681" stop="1729890268706" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Block\Catalog\Product\View\Type\Bundle\OptionTest</name>
+  <test-cases>
+    <test-case start="1729890268682" stop="1729890268696" status="passed">
+      <name>testSetOption</name>
+    </test-case>
+    <test-case start="1729890268696" stop="1729890268706" status="passed">
+      <name>testRenderPriceString</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

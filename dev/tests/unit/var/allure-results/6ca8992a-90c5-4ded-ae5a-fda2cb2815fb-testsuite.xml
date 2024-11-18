@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271466" stop="1729890271469" version="1.4.0">
+  <name>Magento\Captcha\Test\Unit\Model\Filter\CaptchaConfigPostProcessorCompositeTest</name>
+  <test-cases>
+    <test-case start="1729890271467" stop="1729890271469" status="passed">
+      <name>testProcess</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

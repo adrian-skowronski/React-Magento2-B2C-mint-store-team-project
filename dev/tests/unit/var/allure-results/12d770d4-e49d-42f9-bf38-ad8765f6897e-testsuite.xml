@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451783" stop="1729890451800" version="1.4.0">
+  <name>Magento\Framework\Math\Test\Unit\RandomTest</name>
+  <test-cases>
+    <test-case start="1729890451784" stop="1729890451785" status="passed">
+      <name>testGetRandomString with data set #0</name>
+    </test-case>
+    <test-case start="1729890451786" stop="1729890451786" status="passed">
+      <name>testGetRandomString with data set #1</name>
+    </test-case>
+    <test-case start="1729890451787" stop="1729890451787" status="passed">
+      <name>testGetRandomString with data set #2</name>
+    </test-case>
+    <test-case start="1729890451788" stop="1729890451788" status="passed">
+      <name>testGetRandomString with data set #3</name>
+    </test-case>
+    <test-case start="1729890451789" stop="1729890451789" status="passed">
+      <name>testGetRandomString with data set #4</name>
+    </test-case>
+    <test-case start="1729890451790" stop="1729890451790" status="passed">
+      <name>testGetRandomString with data set #5</name>
+    </test-case>
+    <test-case start="1729890451791" stop="1729890451791" status="passed">
+      <name>testGetUniqueHash</name>
+    </test-case>
+    <test-case start="1729890451792" stop="1729890451793" status="passed">
+      <name>testGetRandomNumber with data set #0</name>
+    </test-case>
+    <test-case start="1729890451793" stop="1729890451794" status="passed">
+      <name>testGetRandomNumber with data set #1</name>
+    </test-case>
+    <test-case start="1729890451794" stop="1729890451795" status="passed">
+      <name>testGetRandomNumber with data set #2</name>
+    </test-case>
+    <test-case start="1729890451795" stop="1729890451796" status="passed">
+      <name>testGetRandomNumber with data set #3</name>
+    </test-case>
+    <test-case start="1729890451797" stop="1729890451797" status="passed">
+      <name>testGetRandomNumber with data set #4</name>
+    </test-case>
+    <test-case start="1729890451798" stop="1729890451798" status="passed">
+      <name>testGetRandomNumber with data set #5</name>
+    </test-case>
+    <test-case start="1729890451799" stop="1729890451799" status="passed">
+      <name>testGetRandomNumber with data set #6</name>
+    </test-case>
+    <test-case start="1729890451800" stop="1729890451800" status="passed">
+      <name>testGetRandomNumberProvider</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

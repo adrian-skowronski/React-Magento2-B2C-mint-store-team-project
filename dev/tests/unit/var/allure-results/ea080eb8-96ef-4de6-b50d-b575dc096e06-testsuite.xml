@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890409989" stop="1729890410008" version="1.4.0">
+  <name>Magento\Weee\Test\Unit\Model\WeeeConfigProviderTest</name>
+  <test-cases>
+    <test-case start="1729890409990" stop="1729890409992" status="passed">
+      <name>testGetConfig with data set #0</name>
+    </test-case>
+    <test-case start="1729890409993" stop="1729890409995" status="passed">
+      <name>testGetConfig with data set #1</name>
+    </test-case>
+    <test-case start="1729890409996" stop="1729890409997" status="passed">
+      <name>testGetConfig with data set #2</name>
+    </test-case>
+    <test-case start="1729890409998" stop="1729890410000" status="passed">
+      <name>testGetConfig with data set #3</name>
+    </test-case>
+    <test-case start="1729890410001" stop="1729890410003" status="passed">
+      <name>testGetConfig with data set #4</name>
+    </test-case>
+    <test-case start="1729890410003" stop="1729890410005" status="passed">
+      <name>testGetConfig with data set #5</name>
+    </test-case>
+    <test-case start="1729890410006" stop="1729890410008" status="passed">
+      <name>testGetConfig with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

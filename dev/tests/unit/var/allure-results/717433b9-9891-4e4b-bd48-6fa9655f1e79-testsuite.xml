@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890415483" stop="1729890415488" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Fixtures\ConfigsApplyFixtureTest</name>
+  <test-cases>
+    <test-case start="1729890415483" stop="1729890415485" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890415485" stop="1729890415486" status="passed">
+      <name>testNoFixtureConfigValue</name>
+    </test-case>
+    <test-case start="1729890415487" stop="1729890415487" status="passed">
+      <name>testGetActionTitle</name>
+    </test-case>
+    <test-case start="1729890415487" stop="1729890415488" status="passed">
+      <name>testIntroduceParamLabels</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

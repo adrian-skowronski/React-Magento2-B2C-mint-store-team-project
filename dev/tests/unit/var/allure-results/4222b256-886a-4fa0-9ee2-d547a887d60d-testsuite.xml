@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890303664" stop="1729890303694" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Structure\Mapper\SortingTest</name>
+  <test-cases>
+    <test-case start="1729890303664" stop="1729890303693" status="passed">
+      <name>testMap</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

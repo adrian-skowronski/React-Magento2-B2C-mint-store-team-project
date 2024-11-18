@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456744" stop="1729890456774" version="1.4.0">
+  <name>Magento\Framework\Session\Test\Unit\SaveHandler\Redis\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890456744" stop="1729890456748" status="passed">
+      <name>testGetLogLevel</name>
+    </test-case>
+    <test-case start="1729890456748" stop="1729890456749" status="passed">
+      <name>testGetHost</name>
+    </test-case>
+    <test-case start="1729890456749" stop="1729890456750" status="passed">
+      <name>testGetPort</name>
+    </test-case>
+    <test-case start="1729890456750" stop="1729890456751" status="passed">
+      <name>testGetDatabase</name>
+    </test-case>
+    <test-case start="1729890456751" stop="1729890456752" status="passed">
+      <name>testGetPassword</name>
+    </test-case>
+    <test-case start="1729890456753" stop="1729890456753" status="passed">
+      <name>testGetTimeout</name>
+    </test-case>
+    <test-case start="1729890456754" stop="1729890456754" status="passed">
+      <name>testGetPersistentIdentifier</name>
+    </test-case>
+    <test-case start="1729890456755" stop="1729890456755" status="passed">
+      <name>testGetCompressionThreshold</name>
+    </test-case>
+    <test-case start="1729890456756" stop="1729890456757" status="passed">
+      <name>testGetCompressionLibrary</name>
+    </test-case>
+    <test-case start="1729890456757" stop="1729890456758" status="passed">
+      <name>testGetMaxConcurrency</name>
+    </test-case>
+    <test-case start="1729890456758" stop="1729890456759" status="passed">
+      <name>testGetMaxLifetime</name>
+    </test-case>
+    <test-case start="1729890456759" stop="1729890456760" status="passed">
+      <name>testGetMinLifetime</name>
+    </test-case>
+    <test-case start="1729890456760" stop="1729890456761" status="passed">
+      <name>testGetDisableLocking</name>
+    </test-case>
+    <test-case start="1729890456761" stop="1729890456762" status="passed">
+      <name>testGetBotLifetime</name>
+    </test-case>
+    <test-case start="1729890456763" stop="1729890456764" status="passed">
+      <name>testGetBotFirstLifetime</name>
+    </test-case>
+    <test-case start="1729890456764" stop="1729890456765" status="passed">
+      <name>testGetFirstLifetime</name>
+    </test-case>
+    <test-case start="1729890456765" stop="1729890456766" status="passed">
+      <name>testBreakAfter</name>
+    </test-case>
+    <test-case start="1729890456766" stop="1729890456767" status="passed">
+      <name>testGetLifetimeAdmin</name>
+    </test-case>
+    <test-case start="1729890456768" stop="1729890456769" status="passed">
+      <name>testGetLifetimeFrontend</name>
+    </test-case>
+    <test-case start="1729890456769" stop="1729890456770" status="passed">
+      <name>testGetSentinelServers</name>
+    </test-case>
+    <test-case start="1729890456770" stop="1729890456771" status="passed">
+      <name>testGetSentinelMaster</name>
+    </test-case>
+    <test-case start="1729890456771" stop="1729890456772" status="passed">
+      <name>testGetSentinelVerifyMaster</name>
+    </test-case>
+    <test-case start="1729890456772" stop="1729890456773" status="passed">
+      <name>testGetSentinelConnectRetries</name>
+    </test-case>
+    <test-case start="1729890456774" stop="1729890456774" status="passed">
+      <name>testGetFailAfter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

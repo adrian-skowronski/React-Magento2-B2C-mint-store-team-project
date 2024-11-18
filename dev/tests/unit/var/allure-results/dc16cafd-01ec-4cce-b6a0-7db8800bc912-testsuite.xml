@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284196" stop="1729890284237" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Controller\Category\ViewTest</name>
+  <test-cases>
+    <test-case start="1729890284197" stop="1729890284223" status="passed">
+      <name>testApplyCustomLayoutUpdate with data set #0</name>
+    </test-case>
+    <test-case start="1729890284224" stop="1729890284230" status="passed">
+      <name>testApplyCustomLayoutUpdate with data set #1</name>
+    </test-case>
+    <test-case start="1729890284230" stop="1729890284237" status="passed">
+      <name>testApplyCustomLayoutUpdate with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

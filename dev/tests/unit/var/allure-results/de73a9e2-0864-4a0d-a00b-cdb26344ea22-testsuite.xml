@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408438" stop="1729890408443" version="1.4.0">
+  <name>Magento\Webapi\Test\Unit\ExceptionTest</name>
+  <test-cases>
+    <test-case start="1729890408438" stop="1729890408439" status="passed">
+      <name>testConstruct</name>
+    </test-case>
+    <test-case start="1729890408439" stop="1729890408440" status="passed">
+      <name>testConstructInvalidHttpCode with data set #0</name>
+    </test-case>
+    <test-case start="1729890408440" stop="1729890408441" status="passed">
+      <name>testConstructInvalidHttpCode with data set #1</name>
+    </test-case>
+    <test-case start="1729890408441" stop="1729890408442" status="passed">
+      <name>testGetOriginatorSender</name>
+    </test-case>
+    <test-case start="1729890408442" stop="1729890408443" status="passed">
+      <name>testGetOriginatorReceiver</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

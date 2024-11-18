@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890407397" stop="1729890407404" version="1.4.0">
+  <name>Magento\Variable\Test\Unit\Model\Config\Structure\AvailableVariablesTest</name>
+  <test-cases>
+    <test-case start="1729890407398" stop="1729890407402" status="passed">
+      <name>testGetConfigPaths with data set #0</name>
+    </test-case>
+    <test-case start="1729890407402" stop="1729890407403" status="passed">
+      <name>testGetConfigPaths with data set #1</name>
+    </test-case>
+    <test-case start="1729890407403" stop="1729890407404" status="passed">
+      <name>testGetFlatConfigPaths</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890331867" stop="1729890331886" version="1.4.0">
+  <name>Magento\ImportExport\Test\Unit\Model\Export\Config\XsdTest</name>
+  <test-cases>
+    <test-case start="1729890331867" stop="1729890331868" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidProductOptionsXml with data set "export_entity_name_must_be_unique"</name>
+    </test-case>
+    <test-case start="1729890331869" stop="1729890331870" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidProductOptionsXml with data set "export_fileFormat_name_must_be_unique"</name>
+    </test-case>
+    <test-case start="1729890331870" stop="1729890331872" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidProductOptionsXml with data set "attributes_with_type_modelName_and_invalid_value"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'entityType', attribu...e: 1\n'
+-    1 =&gt; 'Element 'entityType', attribute 'model': '1' is not a valid value of the atomic type 'modelName'.\n
++    1 =&gt; 'Element 'fileFormat', attribute 'model': [facet 'pattern'] The value '1model' is not accepted by the pattern '([\\]?[a-zA-Z_][a-zA-Z0-9_]*)+'.\n
+     Line: 1\n
+     '
+-    2 =&gt; 'Element 'fileFormat', attribu...e: 1\n'
+-    3 =&gt; 'Element 'fileFormat', attribu...e: 1\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-import-export/Test/Unit/Model/Export/Config/XsdTest.php(45): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-import-export/Test/Unit/Model/Export/Config/XsdTest.php(55): Magento\ImportExport\Test\Unit\Model\Export\Config\XsdTest-&gt;_loadDataForTest()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\ImportExport\Test\Unit\Model\Export\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidProductOptionsXml()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890331873" stop="1729890331874" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidProductOptionsXml with data set "productType_node_with_required_attribute"</name>
+    </test-case>
+    <test-case start="1729890331874" stop="1729890331875" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidProductOptionsXml with data set "fileFormat_node_with_required_attribute"</name>
+    </test-case>
+    <test-case start="1729890331876" stop="1729890331877" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidProductOptionsXml with data set "entity_node_with_required_attribute"</name>
+    </test-case>
+    <test-case start="1729890331877" stop="1729890331879" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidProductOptionsXml with data set "entity_node_with_missing_filter_type_attribute"</name>
+    </test-case>
+    <test-case start="1729890331879" stop="1729890331881" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidProductOptionsMergedXml with data set "fileFormat_node_with_required_attribute"</name>
+    </test-case>
+    <test-case start="1729890331881" stop="1729890331883" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidProductOptionsMergedXml with data set "entity_node_with_required_attribute"</name>
+    </test-case>
+    <test-case start="1729890331883" stop="1729890331884" status="passed">
+      <name>testSchemaCorrectlyIdentifiesValidXml with data set "product_options"</name>
+    </test-case>
+    <test-case start="1729890331885" stop="1729890331886" status="passed">
+      <name>testSchemaCorrectlyIdentifiesValidXml with data set "product_options_merged"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356121" stop="1729890356141" version="1.4.0">
+  <name>Magento\OfflineShipping\Test\Unit\Model\Quote\Address\FreeShippingTest</name>
+  <test-cases>
+    <test-case start="1729890356122" stop="1729890356132" status="passed">
+      <name>testIsFreeShipping with data set #0</name>
+    </test-case>
+    <test-case start="1729890356133" stop="1729890356135" status="passed">
+      <name>testIsFreeShipping with data set #1</name>
+    </test-case>
+    <test-case start="1729890356136" stop="1729890356138" status="passed">
+      <name>testIsFreeShipping with data set #2</name>
+    </test-case>
+    <test-case start="1729890356139" stop="1729890356141" status="passed">
+      <name>testIsFreeShipping with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

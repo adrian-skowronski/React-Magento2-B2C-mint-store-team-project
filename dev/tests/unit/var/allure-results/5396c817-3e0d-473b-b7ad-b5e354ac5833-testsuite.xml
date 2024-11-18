@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890313688" stop="1729890313731" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Controller\Account\ConfirmTest</name>
+  <test-cases>
+    <test-case start="1729890313688" stop="1729890313692" status="passed">
+      <name>testIsLoggedIn</name>
+    </test-case>
+    <test-case start="1729890313692" stop="1729890313695" status="passed">
+      <name>testNoCustomerIdInRequest with data set #0</name>
+    </test-case>
+    <test-case start="1729890313696" stop="1729890313699" status="passed">
+      <name>testNoCustomerIdInRequest with data set #1</name>
+    </test-case>
+    <test-case start="1729890313700" stop="1729890313706" status="passed">
+      <name>testSuccessMessage with data set #0</name>
+    </test-case>
+    <test-case start="1729890313707" stop="1729890313712" status="passed">
+      <name>testSuccessMessage with data set #1</name>
+    </test-case>
+    <test-case start="1729890313712" stop="1729890313716" status="passed">
+      <name>testSuccessMessage with data set #2</name>
+    </test-case>
+    <test-case start="1729890313717" stop="1729890313721" status="passed">
+      <name>testSuccessRedirect with data set #0</name>
+    </test-case>
+    <test-case start="1729890313722" stop="1729890313725" status="passed">
+      <name>testSuccessRedirect with data set #1</name>
+    </test-case>
+    <test-case start="1729890313726" stop="1729890313731" status="passed">
+      <name>testSuccessRedirect with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464946" stop="1729890464962" version="1.4.0">
+  <name>Magento\Framework\Webapi\Test\Unit\ErrorProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890464946" stop="1729890464947" status="passed">
+      <name>testRenderJson</name>
+    </test-case>
+    <test-case start="1729890464948" stop="1729890464949" status="passed">
+      <name>testRenderJsonInDeveloperMode</name>
+    </test-case>
+    <test-case start="1729890464949" stop="1729890464950" status="passed">
+      <name>testRenderXml</name>
+    </test-case>
+    <test-case start="1729890464950" stop="1729890464951" status="passed">
+      <name>testRenderXmlInDeveloperMode</name>
+    </test-case>
+    <test-case start="1729890464951" stop="1729890464952" status="passed">
+      <name>testRenderDefaultFormat</name>
+    </test-case>
+    <test-case start="1729890464953" stop="1729890464954" status="passed">
+      <name>testMaskExceptionInDeveloperMode</name>
+    </test-case>
+    <test-case start="1729890464954" stop="1729890464955" status="passed">
+      <name>testMaskException with data set "NoSuchEntityException"</name>
+    </test-case>
+    <test-case start="1729890464956" stop="1729890464957" status="passed">
+      <name>testMaskException with data set "NoSuchEntityException (Empty message)"</name>
+    </test-case>
+    <test-case start="1729890464958" stop="1729890464959" status="passed">
+      <name>testMaskException with data set "AuthorizationException"</name>
+    </test-case>
+    <test-case start="1729890464960" stop="1729890464961" status="passed">
+      <name>testMaskException with data set "Exception"</name>
+    </test-case>
+    <test-case start="1729890464961" stop="1729890464962" status="passed">
+      <name>testCriticalExceptionStackTrace</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890291515" stop="1729890291551" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Type\AbstractTypeTest</name>
+  <test-cases>
+    <test-case start="1729890291516" stop="1729890291524" status="passed">
+      <name>testIsSalable</name>
+    </test-case>
+    <test-case start="1729890291525" stop="1729890291530" status="passed">
+      <name>testGetAttributeById</name>
+    </test-case>
+    <test-case start="1729890291531" stop="1729890291532" status="passed">
+      <name>testAttributesCompare with data set #0</name>
+    </test-case>
+    <test-case start="1729890291534" stop="1729890291539" status="passed">
+      <name>testAttributesCompare with data set #1</name>
+    </test-case>
+    <test-case start="1729890291540" stop="1729890291543" status="passed">
+      <name>testAttributesCompare with data set #2</name>
+    </test-case>
+    <test-case start="1729890291545" stop="1729890291547" status="passed">
+      <name>testGetSetAttributes</name>
+    </test-case>
+    <test-case start="1729890291548" stop="1729890291550" status="passed">
+      <name>testHasOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

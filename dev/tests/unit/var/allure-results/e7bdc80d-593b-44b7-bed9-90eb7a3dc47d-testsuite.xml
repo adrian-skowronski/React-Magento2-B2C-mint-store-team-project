@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441332" stop="1729890441333" version="1.4.0">
+  <name>Magento\Framework\Console\Test\Unit\Exception\GenerationDirectoryAccessExceptionTest</name>
+  <test-cases>
+    <test-case start="1729890441332" stop="1729890441333" status="passed">
+      <name>testConstructor</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

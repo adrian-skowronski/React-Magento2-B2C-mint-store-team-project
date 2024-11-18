@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403172" stop="1729890403180" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Theme\ThemePackageInfoTest</name>
+  <test-cases>
+    <test-case start="1729890403172" stop="1729890403173" status="passed">
+      <name>testGetPackageName</name>
+    </test-case>
+    <test-case start="1729890403174" stop="1729890403175" status="passed">
+      <name>testGetPackageNameNonExist</name>
+    </test-case>
+    <test-case start="1729890403175" stop="1729890403176" status="passed">
+      <name>testGetFullThemePath</name>
+    </test-case>
+    <test-case start="1729890403177" stop="1729890403178" status="passed">
+      <name>testGetFullThemePathNonExist</name>
+    </test-case>
+    <test-case start="1729890403178" stop="1729890403180" status="passed">
+      <name>testGetPackageNameInvalidJson</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

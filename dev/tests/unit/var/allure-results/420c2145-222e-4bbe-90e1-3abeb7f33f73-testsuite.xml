@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395401" stop="1729890395422" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\StoreManagerTest</name>
+  <test-cases>
+    <test-case start="1729890395402" stop="1729890395403" status="passed">
+      <name>testGetStoreEmptyParameter</name>
+    </test-case>
+    <test-case start="1729890395404" stop="1729890395406" status="passed">
+      <name>testGetStoreStringParameter</name>
+    </test-case>
+    <test-case start="1729890395406" stop="1729890395411" status="passed">
+      <name>testGetStoreObjectStoreParameter</name>
+    </test-case>
+    <test-case start="1729890395411" stop="1729890395415" status="passed">
+      <name>testGetStores with data set "withoutDefaultAndId"</name>
+    </test-case>
+    <test-case start="1729890395416" stop="1729890395417" status="passed">
+      <name>testGetStores with data set "withoutDefaultAndCodeKey"</name>
+    </test-case>
+    <test-case start="1729890395418" stop="1729890395419" status="passed">
+      <name>testGetStores with data set "withDefaultAndId"</name>
+    </test-case>
+    <test-case start="1729890395420" stop="1729890395421" status="passed">
+      <name>testGetStores with data set "withDefaultAndCodeKey"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

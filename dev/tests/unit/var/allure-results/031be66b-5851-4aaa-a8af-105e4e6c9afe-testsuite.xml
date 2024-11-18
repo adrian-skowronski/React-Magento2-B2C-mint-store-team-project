@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890295882" stop="1729890295976" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Ui\DataProvider\Product\Form\Modifier\EavTest</name>
+  <test-cases>
+    <test-case start="1729890295883" stop="1729890295914" status="passed">
+      <name>testModifyData</name>
+    </test-case>
+    <test-case start="1729890295915" stop="1729890295923" status="passed">
+      <name>testSetupAttributeMetaDefaultAttribute with data set "default_null_prod_not_new_and_required"</name>
+    </test-case>
+    <test-case start="1729890295925" stop="1729890295934" status="passed">
+      <name>testSetupAttributeMetaDefaultAttribute with data set "default_null_prod_not_new_locked_and_required"</name>
+    </test-case>
+    <test-case start="1729890295935" stop="1729890295942" status="passed">
+      <name>testSetupAttributeMetaDefaultAttribute with data set "default_null_prod_not_new_and_not_required"</name>
+    </test-case>
+    <test-case start="1729890295943" stop="1729890295951" status="passed">
+      <name>testSetupAttributeMetaDefaultAttribute with data set "default_null_prod_new_and_not_required"</name>
+    </test-case>
+    <test-case start="1729890295952" stop="1729890295960" status="passed">
+      <name>testSetupAttributeMetaDefaultAttribute with data set "default_null_prod_new_locked_and_not_required"</name>
+    </test-case>
+    <test-case start="1729890295961" stop="1729890295968" status="passed">
+      <name>testSetupAttributeMetaDefaultAttribute with data set "default_null_prod_new_and_required"</name>
+    </test-case>
+    <test-case start="1729890295969" stop="1729890295976" status="passed">
+      <name>testSetupAttributeMetaDefaultAttribute with data set "datetime_null_prod_not_new_and_required"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890349729" stop="1729890349734" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Model\IntegrationTest</name>
+  <test-cases>
+    <test-case start="1729890349730" stop="1729890349732" status="passed">
+      <name>testLoadByConsumerId</name>
+    </test-case>
+    <test-case start="1729890349732" stop="1729890349733" status="passed">
+      <name>testLoadActiveIntegrationByConsumerId</name>
+    </test-case>
+    <test-case start="1729890349733" stop="1729890349734" status="passed">
+      <name>testGetStatus</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

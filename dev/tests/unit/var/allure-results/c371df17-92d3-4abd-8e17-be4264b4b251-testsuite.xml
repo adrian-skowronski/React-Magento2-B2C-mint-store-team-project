@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890410177" stop="1729890410198" version="1.4.0">
+  <name>Magento\Weee\Test\Unit\Plugin\Catalog\Controller\Adminhtml\Product\Initialization\Helper\ProcessTaxAttributeTest</name>
+  <test-cases>
+    <test-case start="1729890410177" stop="1729890410182" status="passed">
+      <name>testAfterInitializeFromDataWhenAttributesAreEmpty</name>
+    </test-case>
+    <test-case start="1729890410182" stop="1729890410186" status="passed">
+      <name>testAfterInitializeFromDataWhenAttributesDoNotIncludeWeee</name>
+    </test-case>
+    <test-case start="1729890410187" stop="1729890410193" status="passed">
+      <name>testAfterInitializeFromDataWhenAttributesIncludeWeee with data set "Product data includes wee"</name>
+    </test-case>
+    <test-case start="1729890410193" stop="1729890410198" status="passed">
+      <name>testAfterInitializeFromDataWhenAttributesIncludeWeee with data set "Product data does not include wee"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

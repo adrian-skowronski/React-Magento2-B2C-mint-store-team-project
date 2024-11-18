@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395972" stop="1729890395977" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\WebsiteRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890395973" stop="1729890395974" status="passed">
+      <name>testGetDefault</name>
+    </test-case>
+    <test-case start="1729890395974" stop="1729890395975" status="passed">
+      <name>testGetDefaultIsSeveral</name>
+    </test-case>
+    <test-case start="1729890395975" stop="1729890395977" status="passed">
+      <name>testGetDefaultIsZero</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

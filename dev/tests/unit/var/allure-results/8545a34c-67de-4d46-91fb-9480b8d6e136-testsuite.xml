@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890289955" stop="1729890289977" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Option\Validator\PoolTest</name>
+  <test-cases>
+    <test-case start="1729890289956" stop="1729890289969" status="passed">
+      <name>testGetSelectValidator</name>
+    </test-case>
+    <test-case start="1729890289974" stop="1729890289974" status="passed">
+      <name>testGetDefaultValidator</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

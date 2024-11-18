@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450637" stop="1729890450651" version="1.4.0">
+  <name>Magento\Framework\Indexer\Test\Unit\ScopeResolver\IndexScopeResolverTest</name>
+  <test-cases>
+    <test-case start="1729890450638" stop="1729890450639" status="passed">
+      <name>testResolve with data set #0</name>
+    </test-case>
+    <test-case start="1729890450640" stop="1729890450641" status="passed">
+      <name>testResolve with data set #1</name>
+    </test-case>
+    <test-case start="1729890450642" stop="1729890450643" status="passed">
+      <name>testResolve with data set #2</name>
+    </test-case>
+    <test-case start="1729890450644" stop="1729890450645" status="passed">
+      <name>testResolve with data set #3</name>
+    </test-case>
+    <test-case start="1729890450646" stop="1729890450648" status="passed">
+      <name>testResolve with data set #4</name>
+    </test-case>
+    <test-case start="1729890450649" stop="1729890450651" status="passed">
+      <name>testResolve with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

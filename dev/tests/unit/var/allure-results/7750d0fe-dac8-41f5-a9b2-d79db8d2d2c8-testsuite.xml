@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890424990" stop="1729890425002" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\DocRootLocatorTest</name>
+  <test-cases>
+    <test-case start="1729890424991" stop="1729890424994" status="passed">
+      <name>testIsPub with data set #0</name>
+    </test-case>
+    <test-case start="1729890424995" stop="1729890424996" status="passed">
+      <name>testIsPub with data set #1</name>
+    </test-case>
+    <test-case start="1729890424997" stop="1729890424999" status="passed">
+      <name>testIsPub with data set #2</name>
+    </test-case>
+    <test-case start="1729890424999" stop="1729890425002" status="passed">
+      <name>testIsPub with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

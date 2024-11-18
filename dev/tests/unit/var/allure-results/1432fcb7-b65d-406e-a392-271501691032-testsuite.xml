@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890320104" stop="1729890320147" version="1.4.0">
+  <name>Magento\Developer\Test\Unit\Model\Config\Backend\AllowedIpsTest</name>
+  <test-cases>
+    <test-case start="1729890320105" stop="1729890320108" status="passed">
+      <name>testBeforeSave with data set #0</name>
+    </test-case>
+    <test-case start="1729890320111" stop="1729890320113" status="passed">
+      <name>testBeforeSave with data set #1</name>
+    </test-case>
+    <test-case start="1729890320114" stop="1729890320118" status="passed">
+      <name>testBeforeSave with data set #2</name>
+    </test-case>
+    <test-case start="1729890320119" stop="1729890320121" status="passed">
+      <name>testBeforeSave with data set #3</name>
+    </test-case>
+    <test-case start="1729890320124" stop="1729890320129" status="passed">
+      <name>testBeforeSave with data set #4</name>
+    </test-case>
+    <test-case start="1729890320130" stop="1729890320131" status="passed">
+      <name>testBeforeSave with data set #5</name>
+    </test-case>
+    <test-case start="1729890320132" stop="1729890320137" status="passed">
+      <name>testBeforeSave with data set #6</name>
+    </test-case>
+    <test-case start="1729890320138" stop="1729890320139" status="passed">
+      <name>testBeforeSave with data set #7</name>
+    </test-case>
+    <test-case start="1729890320144" stop="1729890320146" status="passed">
+      <name>testBeforeSave with data set #8</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

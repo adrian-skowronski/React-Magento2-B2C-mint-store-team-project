@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890396025" stop="1729890396034" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Url\Plugin\RouteParamsResolverTest</name>
+  <test-cases>
+    <test-case start="1729890396025" stop="1729890396028" status="passed">
+      <name>testBeforeSetRouteParamsScopeInParams</name>
+    </test-case>
+    <test-case start="1729890396028" stop="1729890396030" status="passed">
+      <name>testBeforeSetRouteParamsScopeUseStoreInUrl</name>
+    </test-case>
+    <test-case start="1729890396030" stop="1729890396032" status="passed">
+      <name>testBeforeSetRouteParamsSingleStore</name>
+    </test-case>
+    <test-case start="1729890396032" stop="1729890396033" status="passed">
+      <name>testBeforeSetRouteParamsNoScopeInParams</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

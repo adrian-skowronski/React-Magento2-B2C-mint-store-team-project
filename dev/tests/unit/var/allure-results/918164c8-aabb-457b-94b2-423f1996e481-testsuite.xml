@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890277451" stop="1729890277492" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Model\CatalogRuleRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890277452" stop="1729890277466" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890277467" stop="1729890277472" status="passed">
+      <name>testEditRule</name>
+    </test-case>
+    <test-case start="1729890277473" stop="1729890277474" status="passed">
+      <name>testEnableSaveRule</name>
+    </test-case>
+    <test-case start="1729890277475" stop="1729890277476" status="passed">
+      <name>testDeleteRule</name>
+    </test-case>
+    <test-case start="1729890277477" stop="1729890277481" status="passed">
+      <name>testDeleteRuleById</name>
+    </test-case>
+    <test-case start="1729890277482" stop="1729890277485" status="passed">
+      <name>testUnableDeleteRule</name>
+    </test-case>
+    <test-case start="1729890277485" stop="1729890277489" status="passed">
+      <name>testGetRule</name>
+    </test-case>
+    <test-case start="1729890277489" stop="1729890277492" status="passed">
+      <name>testGetNonExistentRule</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

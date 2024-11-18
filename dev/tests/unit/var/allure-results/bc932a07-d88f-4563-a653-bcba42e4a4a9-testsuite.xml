@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890281811" stop="1729890281897" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Adminhtml\Product\Edit\Tab\InventoryTest</name>
+  <test-cases>
+    <test-case start="1729890281812" stop="1729890281816" status="passed">
+      <name>testGetBackordersOption with data set #0</name>
+    </test-case>
+    <test-case start="1729890281817" stop="1729890281818" status="passed">
+      <name>testGetBackordersOption with data set #1</name>
+    </test-case>
+    <test-case start="1729890281819" stop="1729890281821" status="passed">
+      <name>testGetStockOption with data set #0</name>
+    </test-case>
+    <test-case start="1729890281822" stop="1729890281823" status="passed">
+      <name>testGetStockOption with data set #1</name>
+    </test-case>
+    <test-case start="1729890281824" stop="1729890281825" status="passed">
+      <name>testGetProduct</name>
+    </test-case>
+    <test-case start="1729890281825" stop="1729890281827" status="passed">
+      <name>testGetStockItem</name>
+    </test-case>
+    <test-case start="1729890281828" stop="1729890281842" status="passed">
+      <name>testGetFieldValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890281842" stop="1729890281850" status="passed">
+      <name>testGetFieldValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890281851" stop="1729890281855" status="passed">
+      <name>testGetFieldValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890281856" stop="1729890281865" status="passed">
+      <name>testGetConfigFieldValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890281866" stop="1729890281871" status="passed">
+      <name>testGetConfigFieldValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890281872" stop="1729890281876" status="passed">
+      <name>testGetConfigFieldValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890281876" stop="1729890281878" status="passed">
+      <name>testGetDefaultConfigValue</name>
+    </test-case>
+    <test-case start="1729890281878" stop="1729890281881" status="passed">
+      <name>testIsReadonly</name>
+    </test-case>
+    <test-case start="1729890281882" stop="1729890281884" status="passed">
+      <name>testIsNew with data set #0</name>
+    </test-case>
+    <test-case start="1729890281885" stop="1729890281887" status="passed">
+      <name>testIsNew with data set #1</name>
+    </test-case>
+    <test-case start="1729890281887" stop="1729890281889" status="passed">
+      <name>testGetFieldSuffix</name>
+    </test-case>
+    <test-case start="1729890281889" stop="1729890281892" status="passed">
+      <name>testCanUseQtyDecimals</name>
+    </test-case>
+    <test-case start="1729890281892" stop="1729890281894" status="passed">
+      <name>testIsVirtual</name>
+    </test-case>
+    <test-case start="1729890281895" stop="1729890281897" status="passed">
+      <name>testIsSingleStoreMode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

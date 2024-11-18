@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890332352" stop="1729890332367" version="1.4.0">
+  <name>Magento\ImportExport\Test\Unit\Model\Import\ErrorProcessing\ProcessingErrorTest</name>
+  <test-cases>
+    <test-case start="1729890332352" stop="1729890332353" status="passed">
+      <name>testInit with data set #0</name>
+    </test-case>
+    <test-case start="1729890332353" stop="1729890332354" status="passed">
+      <name>testInit with data set #1</name>
+    </test-case>
+    <test-case start="1729890332355" stop="1729890332355" status="passed">
+      <name>testGetErrorCode with data set #0</name>
+    </test-case>
+    <test-case start="1729890332356" stop="1729890332356" status="passed">
+      <name>testGetErrorCode with data set #1</name>
+    </test-case>
+    <test-case start="1729890332357" stop="1729890332357" status="passed">
+      <name>testGetErrorMessage with data set #0</name>
+    </test-case>
+    <test-case start="1729890332358" stop="1729890332358" status="passed">
+      <name>testGetErrorMessage with data set #1</name>
+    </test-case>
+    <test-case start="1729890332359" stop="1729890332359" status="passed">
+      <name>testGetRowNumber with data set #0</name>
+    </test-case>
+    <test-case start="1729890332360" stop="1729890332360" status="passed">
+      <name>testGetRowNumber with data set #1</name>
+    </test-case>
+    <test-case start="1729890332361" stop="1729890332361" status="passed">
+      <name>testGetColumnName with data set #0</name>
+    </test-case>
+    <test-case start="1729890332362" stop="1729890332362" status="passed">
+      <name>testGetColumnName with data set #1</name>
+    </test-case>
+    <test-case start="1729890332363" stop="1729890332364" status="passed">
+      <name>testGetErrorLevel with data set #0</name>
+    </test-case>
+    <test-case start="1729890332364" stop="1729890332365" status="passed">
+      <name>testGetErrorLevel with data set #1</name>
+    </test-case>
+    <test-case start="1729890332366" stop="1729890332366" status="passed">
+      <name>testGetErrorDescription with data set #0</name>
+    </test-case>
+    <test-case start="1729890332367" stop="1729890332367" status="passed">
+      <name>testGetErrorDescription with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890320660" stop="1729890320692" version="1.4.0">
+  <name>Magento\Developer\Test\Unit\Model\View\Asset\PreProcessor\FrontendCompilationTest</name>
+  <test-cases>
+    <test-case start="1729890320660" stop="1729890320684" status="passed">
+      <name>testProcessException</name>
+    </test-case>
+    <test-case start="1729890320685" stop="1729890320692" status="passed">
+      <name>testProcess</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890391322" stop="1729890391343" version="1.4.0">
+  <name>Magento\SampleData\Test\Unit\Console\Command\SampleDataRemoveCommandTest</name>
+  <test-cases>
+    <test-case start="1729890391323" stop="1729890391327" status="passed">
+      <name>testExecute with data set "No sample data found in require"</name>
+    </test-case>
+    <test-case start="1729890391328" stop="1729890391331" status="passed">
+      <name>testExecute with data set "Successful sample data removing"</name>
+    </test-case>
+    <test-case start="1729890391332" stop="1729890391336" status="passed">
+      <name>testExecuteWithNoUpdate with data set "No sample data found in require"</name>
+    </test-case>
+    <test-case start="1729890391338" stop="1729890391342" status="passed">
+      <name>testExecuteWithNoUpdate with data set "Successful sample data removing"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

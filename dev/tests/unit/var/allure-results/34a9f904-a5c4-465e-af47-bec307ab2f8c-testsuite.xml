@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284452" stop="1729890284457" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\CustomerData\ProductFrontendActionSectionTest</name>
+  <test-cases>
+    <test-case start="1729890284452" stop="1729890284456" status="passed">
+      <name>testGetSectionData</name>
+    </test-case>
+    <test-case start="1729890284456" stop="1729890284457" status="passed">
+      <name>testGetSectionDataNoSync</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

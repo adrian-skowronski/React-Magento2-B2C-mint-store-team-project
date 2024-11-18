@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456597" stop="1729890456700" version="1.4.0">
+  <name>Magento\Framework\Session\Test\Unit\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890456597" stop="1729890456598" status="passed">
+      <name>testSetOptionsInvalidValue</name>
+    </test-case>
+    <test-case start="1729890456599" stop="1729890456601" status="passed">
+      <name>testSetOptions with data set #0</name>
+    </test-case>
+    <test-case start="1729890456601" stop="1729890456602" status="passed">
+      <name>testSetOptions with data set #1</name>
+    </test-case>
+    <test-case start="1729890456603" stop="1729890456604" status="passed">
+      <name>testSetOptions with data set #2</name>
+    </test-case>
+    <test-case start="1729890456604" stop="1729890456606" status="passed">
+      <name>testSetOptions with data set #3</name>
+    </test-case>
+    <test-case start="1729890456606" stop="1729890456609" status="passed">
+      <name>testSetOptions with data set #4</name>
+    </test-case>
+    <test-case start="1729890456609" stop="1729890456611" status="passed">
+      <name>testSetOptions with data set #5</name>
+    </test-case>
+    <test-case start="1729890456611" stop="1729890456613" status="passed">
+      <name>testSetOptions with data set #6</name>
+    </test-case>
+    <test-case start="1729890456613" stop="1729890456615" status="passed">
+      <name>testSetOptions with data set #7</name>
+    </test-case>
+    <test-case start="1729890456615" stop="1729890456617" status="passed">
+      <name>testSetOptions with data set #8</name>
+    </test-case>
+    <test-case start="1729890456617" stop="1729890456619" status="passed">
+      <name>testSetOptions with data set #9</name>
+    </test-case>
+    <test-case start="1729890456619" stop="1729890456621" status="passed">
+      <name>testSetOptions with data set #10</name>
+    </test-case>
+    <test-case start="1729890456621" stop="1729890456623" status="passed">
+      <name>testSetOptions with data set #11</name>
+    </test-case>
+    <test-case start="1729890456623" stop="1729890456625" status="passed">
+      <name>testSetOptions with data set #12</name>
+    </test-case>
+    <test-case start="1729890456625" stop="1729890456628" status="passed">
+      <name>testSetOptions with data set #13</name>
+    </test-case>
+    <test-case start="1729890456628" stop="1729890456629" status="passed">
+      <name>testSetOptions with data set #14</name>
+    </test-case>
+    <test-case start="1729890456630" stop="1729890456631" status="passed">
+      <name>testSetOptions with data set #15</name>
+    </test-case>
+    <test-case start="1729890456632" stop="1729890456633" status="passed">
+      <name>testSetOptions with data set #16</name>
+    </test-case>
+    <test-case start="1729890456633" stop="1729890456635" status="passed">
+      <name>testSetOptions with data set #17</name>
+    </test-case>
+    <test-case start="1729890456635" stop="1729890456637" status="passed">
+      <name>testSetOptions with data set #18</name>
+    </test-case>
+    <test-case start="1729890456637" stop="1729890456638" status="passed">
+      <name>testSetOptions with data set #19</name>
+    </test-case>
+    <test-case start="1729890456639" stop="1729890456640" status="passed">
+      <name>testSetOptions with data set #20</name>
+    </test-case>
+    <test-case start="1729890456641" stop="1729890456643" status="passed">
+      <name>testSetOptions with data set #21</name>
+    </test-case>
+    <test-case start="1729890456643" stop="1729890456644" status="passed">
+      <name>testSetOptions with data set #22</name>
+    </test-case>
+    <test-case start="1729890456645" stop="1729890456646" status="passed">
+      <name>testGetOptions</name>
+    </test-case>
+    <test-case start="1729890456646" stop="1729890456648" status="passed">
+      <name>testNameIsMutable</name>
+    </test-case>
+    <test-case start="1729890456648" stop="1729890456650" status="passed">
+      <name>testCookieLifetimeIsMutable</name>
+    </test-case>
+    <test-case start="1729890456651" stop="1729890456653" status="passed">
+      <name>testCookieLifetimeCanBeZero</name>
+    </test-case>
+    <test-case start="1729890456653" stop="1729890456655" status="passed">
+      <name>testSettingInvalidCookieLifetime</name>
+    </test-case>
+    <test-case start="1729890456655" stop="1729890456657" status="passed">
+      <name>testSettingInvalidCookieLifetime2</name>
+    </test-case>
+    <test-case start="1729890456657" stop="1729890456659" status="passed">
+      <name>testWrongMethodCall</name>
+    </test-case>
+    <test-case start="1729890456659" stop="1729890456661" status="passed">
+      <name>testCookieSecureDefaultsToIniSettings</name>
+    </test-case>
+    <test-case start="1729890456662" stop="1729890456663" status="passed">
+      <name>testCookieSecureIsMutable</name>
+    </test-case>
+    <test-case start="1729890456663" stop="1729890456665" status="passed">
+      <name>testCookieDomainIsMutable</name>
+    </test-case>
+    <test-case start="1729890456666" stop="1729890456667" status="passed">
+      <name>testCookieDomainCanBeEmpty</name>
+    </test-case>
+    <test-case start="1729890456667" stop="1729890456669" status="passed">
+      <name>testSettingInvalidCookieDomain</name>
+    </test-case>
+    <test-case start="1729890456669" stop="1729890456671" status="passed">
+      <name>testSettingInvalidCookieDomain2</name>
+    </test-case>
+    <test-case start="1729890456672" stop="1729890456673" status="passed">
+      <name>testCookieHttpOnlyDefaultsToIniSettings</name>
+    </test-case>
+    <test-case start="1729890456674" stop="1729890456676" status="passed">
+      <name>testCookieHttpOnlyIsMutable</name>
+    </test-case>
+    <test-case start="1729890456676" stop="1729890456678" status="passed">
+      <name>testUseCookiesDefaultsToIniSettings</name>
+    </test-case>
+    <test-case start="1729890456678" stop="1729890456680" status="passed">
+      <name>testUseCookiesIsMutable</name>
+    </test-case>
+    <test-case start="1729890456680" stop="1729890456682" status="passed">
+      <name>testUseOnlyCookiesDefaultsToIniSettings</name>
+    </test-case>
+    <test-case start="1729890456682" stop="1729890456684" status="passed">
+      <name>testUseOnlyCookiesIsMutable</name>
+    </test-case>
+    <test-case start="1729890456685" stop="1729890456686" status="passed">
+      <name>testRefererCheckDefaultsToIniSettings</name>
+    </test-case>
+    <test-case start="1729890456687" stop="1729890456688" status="passed">
+      <name>testRefererCheckIsMutable</name>
+    </test-case>
+    <test-case start="1729890456688" stop="1729890456691" status="passed">
+      <name>testRefererCheckMayBeEmpty</name>
+    </test-case>
+    <test-case start="1729890456691" stop="1729890456693" status="passed">
+      <name>testSetSavePath</name>
+    </test-case>
+    <test-case start="1729890456693" stop="1729890456696" status="passed">
+      <name>testConstructor with data set "all valid"</name>
+    </test-case>
+    <test-case start="1729890456696" stop="1729890456698" status="passed">
+      <name>testConstructor with data set "all invalid"</name>
+    </test-case>
+    <test-case start="1729890456698" stop="1729890456700" status="passed">
+      <name>testConstructor with data set "invalid_valid"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

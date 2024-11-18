@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352469" stop="1729890352473" version="1.4.0">
+  <name>Magento\Marketplace\Test\Unit\Controller\Index\IndexTest</name>
+  <test-cases>
+    <test-case start="1729890352470" stop="1729890352473" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

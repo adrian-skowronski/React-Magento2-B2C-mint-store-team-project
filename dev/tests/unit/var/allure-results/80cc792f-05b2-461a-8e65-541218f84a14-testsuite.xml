@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890458847" stop="1729890459001" version="1.4.0">
+  <name>Magento\Framework\Stdlib\Test\Unit\DateTime\TimezoneTest</name>
+  <test-cases>
+    <test-case start="1729890458848" stop="1729890458855" status="passed">
+      <name>testDateIncludeTime with data set "Parse d/m/y date without time"</name>
+    </test-case>
+    <test-case start="1729890458856" stop="1729890458857" status="passed">
+      <name>testDateIncludeTime with data set "Parse d/m/y date with time"</name>
+    </test-case>
+    <test-case start="1729890458860" stop="1729890458861" status="passed">
+      <name>testDateIncludeTime with data set "Parse m/d/y date without time"</name>
+    </test-case>
+    <test-case start="1729890458863" stop="1729890458864" status="passed">
+      <name>testDateIncludeTime with data set "Parse m/d/y date with time"</name>
+    </test-case>
+    <test-case start="1729890458865" stop="1729890458867" status="passed">
+      <name>testDateIncludeTime with data set "Parse greek d/m/y date without time"</name>
+    </test-case>
+    <test-case start="1729890458868" stop="1729890458870" status="passed">
+      <name>testDateIncludeTime with data set "Parse Saudi Arabia date without time"</name>
+    </test-case>
+    <test-case start="1729890458870" stop="1729890458872" status="passed">
+      <name>testDateIncludeTime with data set "Parse Saudi Arabia date with time"</name>
+    </test-case>
+    <test-case start="1729890458873" stop="1729890458878" status="passed">
+      <name>testDateIncludeTime with data set "Parse Saudi Arabia date with zero time"</name>
+    </test-case>
+    <test-case start="1729890458879" stop="1729890458880" status="passed">
+      <name>testDateIncludeTime with data set "Parse date in short style with long year 1999"</name>
+    </test-case>
+    <test-case start="1729890458881" stop="1729890458882" status="passed">
+      <name>testDateIncludeTime with data set "Parse date in short style with long year 2099"</name>
+    </test-case>
+    <test-case start="1729890458884" stop="1729890458886" status="passed">
+      <name>testDateIncludeTime with data set "Parse date in short style with short year 1999"</name>
+    </test-case>
+    <test-case start="1729890458887" stop="1729890458889" status="failed">
+      <name>testGetDatetimeFormat with data set #0</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'M/d/yy h:mm a'
++'M/d/yy h:mm a'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/Stdlib/Test/Unit/DateTime/TimezoneTest.php(213): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Stdlib\Test\Unit\DateTime\TimezoneTest-&gt;testGetDatetimeFormat()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890458890" stop="1729890458897" status="passed">
+      <name>testGetDatetimeFormat with data set #1</name>
+    </test-case>
+    <test-case start="1729890458898" stop="1729890458900" status="passed">
+      <name>testGetDateFormatWithLongYear with data set #0</name>
+    </test-case>
+    <test-case start="1729890458901" stop="1729890458902" status="passed">
+      <name>testConvertConfigTimeToUtc with data set "string"</name>
+    </test-case>
+    <test-case start="1729890458905" stop="1729890458918" status="passed">
+      <name>testConvertConfigTimeToUtc with data set "datetime"</name>
+    </test-case>
+    <test-case start="1729890458920" stop="1729890458922" status="passed">
+      <name>testConvertConfigTimeToUtc with data set "datetimeimmutable"</name>
+    </test-case>
+    <test-case start="1729890458925" stop="1729890458934" status="passed">
+      <name>testDate with data set "now_datetime_utc"</name>
+    </test-case>
+    <test-case start="1729890458935" stop="1729890458937" status="passed">
+      <name>testDate with data set "fixed_datetime_utc"</name>
+    </test-case>
+    <test-case start="1729890458937" stop="1729890458941" status="passed">
+      <name>testDate with data set "now_datetime_vancouver"</name>
+    </test-case>
+    <test-case start="1729890458941" stop="1729890458944" status="passed">
+      <name>testDate with data set "now_datetimeimmutable_utc"</name>
+    </test-case>
+    <test-case start="1729890458944" stop="1729890458945" status="passed">
+      <name>testDate with data set "fixed_datetimeimmutable_utc"</name>
+    </test-case>
+    <test-case start="1729890458946" stop="1729890458949" status="passed">
+      <name>testDate with data set "now_datetimeimmutable_vancouver"</name>
+    </test-case>
+    <test-case start="1729890458951" stop="1729890458951" status="passed">
+      <name>testConvertConfigTimeToUtcException with data set "datetime"</name>
+    </test-case>
+    <test-case start="1729890458954" stop="1729890458955" status="passed">
+      <name>testScopeDate with data set #0</name>
+    </test-case>
+    <test-case start="1729890458956" stop="1729890458957" status="passed">
+      <name>testScopeDate with data set #1</name>
+    </test-case>
+    <test-case start="1729890458958" stop="1729890458967" status="passed">
+      <name>testScopeDate with data set #2</name>
+    </test-case>
+    <test-case start="1729890458968" stop="1729890458970" status="passed">
+      <name>testScopeDate with data set #3</name>
+    </test-case>
+    <test-case start="1729890458971" stop="1729890458972" status="passed">
+      <name>testScopeDate with data set #4</name>
+    </test-case>
+    <test-case start="1729890458972" stop="1729890458973" status="passed">
+      <name>testScopeDate with data set #5</name>
+    </test-case>
+    <test-case start="1729890458974" stop="1729890458975" status="passed">
+      <name>testScopeDate with data set #6</name>
+    </test-case>
+    <test-case start="1729890458976" stop="1729890458977" status="passed">
+      <name>testScopeDate with data set #7</name>
+    </test-case>
+    <test-case start="1729890458978" stop="1729890458980" status="passed">
+      <name>testScopeDate with data set #8</name>
+    </test-case>
+    <test-case start="1729890458981" stop="1729890458982" status="passed">
+      <name>testScopeDate with data set #9</name>
+    </test-case>
+    <test-case start="1729890458983" stop="1729890458984" status="passed">
+      <name>testScopeDate with data set #10</name>
+    </test-case>
+    <test-case start="1729890458985" stop="1729890458986" status="passed">
+      <name>testScopeDate with data set #11</name>
+    </test-case>
+    <test-case start="1729890458987" stop="1729890458988" status="passed">
+      <name>testScopeDate with data set #12</name>
+    </test-case>
+    <test-case start="1729890458989" stop="1729890458991" status="passed">
+      <name>testScopeDate with data set #13</name>
+    </test-case>
+    <test-case start="1729890458991" stop="1729890458993" status="passed">
+      <name>testScopeDate with data set #14</name>
+    </test-case>
+    <test-case start="1729890458994" stop="1729890458995" status="passed">
+      <name>testScopeDate with data set #15</name>
+    </test-case>
+    <test-case start="1729890458996" stop="1729890458998" status="passed">
+      <name>testScopeDate with data set #16</name>
+    </test-case>
+    <test-case start="1729890458998" stop="1729890459000" status="passed">
+      <name>testScopeDate with data set #17</name>
+    </test-case>
+    <test-case start="1729890459000" stop="1729890459001" status="passed">
+      <name>testScopeDate with data set #18</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

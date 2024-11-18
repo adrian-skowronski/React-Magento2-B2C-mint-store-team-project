@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890394277" stop="1729890394296" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Controller\Store\RedirectTest</name>
+  <test-cases>
+    <test-case start="1729890394277" stop="1729890394290" status="passed">
+      <name>testRedirect with data set #0</name>
+    </test-case>
+    <test-case start="1729890394291" stop="1729890394293" status="passed">
+      <name>testRedirectWithThrowsException with data set #0</name>
+    </test-case>
+    <test-case start="1729890394294" stop="1729890394296" status="passed">
+      <name>testRedirectTargetIsNull</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

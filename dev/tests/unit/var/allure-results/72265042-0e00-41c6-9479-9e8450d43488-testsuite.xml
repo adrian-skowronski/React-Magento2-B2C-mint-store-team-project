@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890318128" stop="1729890318162" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\SessionTest</name>
+  <test-cases>
+    <test-case start="1729890318128" stop="1729890318133" status="passed">
+      <name>testSetCustomerAsLoggedIn</name>
+    </test-case>
+    <test-case start="1729890318133" stop="1729890318136" status="passed">
+      <name>testSetCustomerDataAsLoggedIn</name>
+    </test-case>
+    <test-case start="1729890318136" stop="1729890318140" status="passed">
+      <name>testAuthenticate</name>
+    </test-case>
+    <test-case start="1729890318140" stop="1729890318143" status="passed">
+      <name>testLoginById</name>
+    </test-case>
+    <test-case start="1729890318143" stop="1729890318146" status="passed">
+      <name>testIsLoggedIn with data set #0</name>
+    </test-case>
+    <test-case start="1729890318147" stop="1729890318149" status="passed">
+      <name>testIsLoggedIn with data set #1</name>
+    </test-case>
+    <test-case start="1729890318149" stop="1729890318151" status="passed">
+      <name>testIsLoggedIn with data set #2</name>
+    </test-case>
+    <test-case start="1729890318152" stop="1729890318154" status="passed">
+      <name>testIsLoggedIn with data set #3</name>
+    </test-case>
+    <test-case start="1729890318154" stop="1729890318157" status="passed">
+      <name>testSetCustomerRemovesFlagThatShowsIfCustomerIsEmulated</name>
+    </test-case>
+    <test-case start="1729890318157" stop="1729890318159" status="passed">
+      <name>testGetCustomerForGuestUser</name>
+    </test-case>
+    <test-case start="1729890318160" stop="1729890318162" status="passed">
+      <name>testGetCustomerForRegisteredUser</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

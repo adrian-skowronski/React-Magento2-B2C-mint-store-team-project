@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890274263" stop="1729890274304" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Api\StockStateTest</name>
+  <test-cases>
+    <test-case start="1729890274264" stop="1729890274278" status="passed">
+      <name>testVerifyStock</name>
+    </test-case>
+    <test-case start="1729890274278" stop="1729890274281" status="passed">
+      <name>testVerifyNotification</name>
+    </test-case>
+    <test-case start="1729890274281" stop="1729890274288" status="passed">
+      <name>testCheckQty</name>
+    </test-case>
+    <test-case start="1729890274288" stop="1729890274291" status="passed">
+      <name>testSuggestQty</name>
+    </test-case>
+    <test-case start="1729890274291" stop="1729890274294" status="passed">
+      <name>testGetStockQty</name>
+    </test-case>
+    <test-case start="1729890274294" stop="1729890274297" status="passed">
+      <name>testCheckQtyIncrements</name>
+    </test-case>
+    <test-case start="1729890274297" stop="1729890274303" status="passed">
+      <name>testCheckQuoteItemQty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

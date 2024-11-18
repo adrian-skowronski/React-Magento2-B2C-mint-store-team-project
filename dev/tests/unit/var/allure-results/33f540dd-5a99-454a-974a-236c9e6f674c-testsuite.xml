@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890411711" stop="1729890411743" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Model\ItemTest</name>
+  <test-cases>
+    <test-case start="1729890411712" stop="1729890411718" status="passed">
+      <name>testAddGetOptions with data set #0</name>
+    </test-case>
+    <test-case start="1729890411718" stop="1729890411720" status="passed">
+      <name>testAddGetOptions with data set #1</name>
+    </test-case>
+    <test-case start="1729890411720" stop="1729890411722" status="passed">
+      <name>testAddGetOptions with data set #2</name>
+    </test-case>
+    <test-case start="1729890411723" stop="1729890411724" status="passed">
+      <name>testRemoveOptionByCode with data set #0</name>
+    </test-case>
+    <test-case start="1729890411725" stop="1729890411726" status="passed">
+      <name>testRemoveOptionByCode with data set #1</name>
+    </test-case>
+    <test-case start="1729890411727" stop="1729890411728" status="passed">
+      <name>testRemoveOptionByCode with data set #2</name>
+    </test-case>
+    <test-case start="1729890411729" stop="1729890411731" status="passed">
+      <name>testCompareOptionsPositive</name>
+    </test-case>
+    <test-case start="1729890411732" stop="1729890411733" status="passed">
+      <name>testCompareOptionsNegative</name>
+    </test-case>
+    <test-case start="1729890411733" stop="1729890411736" status="passed">
+      <name>testCompareOptionsNegativeOptionsTwoHaveNotOption</name>
+    </test-case>
+    <test-case start="1729890411736" stop="1729890411739" status="passed">
+      <name>testSetAndSaveItemOptions</name>
+    </test-case>
+    <test-case start="1729890411739" stop="1729890411741" status="passed">
+      <name>testGetProductWithException</name>
+    </test-case>
+    <test-case start="1729890411741" stop="1729890411743" status="passed">
+      <name>testGetProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

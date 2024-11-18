@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890372915" stop="1729890372989" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Model\ResourceModel\Order\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890372916" stop="1729890372921" status="passed">
+      <name>testCheckIsLive</name>
+    </test-case>
+    <test-case start="1729890372922" stop="1729890372926" status="passed">
+      <name>testPrepareSummary with data set #0</name>
+    </test-case>
+    <test-case start="1729890372927" stop="1729890372930" status="passed">
+      <name>testPrepareSummary with data set #1</name>
+    </test-case>
+    <test-case start="1729890372931" stop="1729890372934" status="passed">
+      <name>testPrepareSummary with data set #2</name>
+    </test-case>
+    <test-case start="1729890372934" stop="1729890372937" status="passed">
+      <name>testGetDateRangeFirstPart with data set #0</name>
+    </test-case>
+    <test-case start="1729890372938" stop="1729890372940" status="passed">
+      <name>testGetDateRangeFirstPart with data set #1</name>
+    </test-case>
+    <test-case start="1729890372940" stop="1729890372942" status="passed">
+      <name>testGetDateRangeFirstPart with data set #2</name>
+    </test-case>
+    <test-case start="1729890372942" stop="1729890372944" status="passed">
+      <name>testGetDateRangeSecondPart with data set #0</name>
+    </test-case>
+    <test-case start="1729890372945" stop="1729890372947" status="passed">
+      <name>testGetDateRangeSecondPart with data set #1</name>
+    </test-case>
+    <test-case start="1729890372948" stop="1729890372951" status="passed">
+      <name>testGetDateRangeSecondPart with data set #2</name>
+    </test-case>
+    <test-case start="1729890372951" stop="1729890372953" status="passed">
+      <name>testGetDateRangeWithReturnObject</name>
+    </test-case>
+    <test-case start="1729890372954" stop="1729890372956" status="passed">
+      <name>testAddItemCountExpr</name>
+    </test-case>
+    <test-case start="1729890372957" stop="1729890372959" status="passed">
+      <name>testCalculateTotals with data set #0</name>
+    </test-case>
+    <test-case start="1729890372959" stop="1729890372962" status="passed">
+      <name>testCalculateTotals with data set #1</name>
+    </test-case>
+    <test-case start="1729890372962" stop="1729890372964" status="passed">
+      <name>testCalculateTotals with data set #2</name>
+    </test-case>
+    <test-case start="1729890372965" stop="1729890372968" status="passed">
+      <name>testCalculateTotals with data set #3</name>
+    </test-case>
+    <test-case start="1729890372969" stop="1729890372971" status="passed">
+      <name>testCalculateSales with data set #0</name>
+    </test-case>
+    <test-case start="1729890372972" stop="1729890372974" status="passed">
+      <name>testCalculateSales with data set #1</name>
+    </test-case>
+    <test-case start="1729890372975" stop="1729890372977" status="passed">
+      <name>testCalculateSales with data set #2</name>
+    </test-case>
+    <test-case start="1729890372977" stop="1729890372979" status="passed">
+      <name>testCalculateSales with data set #3</name>
+    </test-case>
+    <test-case start="1729890372980" stop="1729890372982" status="passed">
+      <name>testSetDateRange</name>
+    </test-case>
+    <test-case start="1729890372983" stop="1729890372986" status="passed">
+      <name>testSetStoreIds with data set #0</name>
+    </test-case>
+    <test-case start="1729890372986" stop="1729890372989" status="passed">
+      <name>testSetStoreIds with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

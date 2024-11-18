@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890420724" stop="1729890420732" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\Locale\LocaleFormatterTest</name>
+  <test-cases>
+    <test-case start="1729890420724" stop="1729890420726" status="passed">
+      <name>testGetLocaleJs</name>
+    </test-case>
+    <test-case start="1729890420726" stop="1729890420732" status="passed">
+      <name>testFormatNumber</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

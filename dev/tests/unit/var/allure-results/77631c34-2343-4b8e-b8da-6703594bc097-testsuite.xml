@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890371580" stop="1729890371587" version="1.4.0">
+  <name>Magento\ReCaptchaWebapiGraphQl\Test\Unit\Plugin\ValidationOverriderTest</name>
+  <test-cases>
+    <test-case start="1729890371581" stop="1729890371582" status="passed">
+      <name>testForUsers with data set "customer"</name>
+    </test-case>
+    <test-case start="1729890371583" stop="1729890371584" status="passed">
+      <name>testForUsers with data set "guest"</name>
+    </test-case>
+    <test-case start="1729890371584" stop="1729890371585" status="passed">
+      <name>testForUsers with data set "admin"</name>
+    </test-case>
+    <test-case start="1729890371586" stop="1729890371587" status="passed">
+      <name>testForUsers with data set "integration"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

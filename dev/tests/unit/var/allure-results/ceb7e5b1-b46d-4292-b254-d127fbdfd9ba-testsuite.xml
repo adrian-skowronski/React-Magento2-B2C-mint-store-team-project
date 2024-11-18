@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297522" stop="1729890297574" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Controller\Index\IndexTest</name>
+  <test-cases>
+    <test-case start="1729890297523" stop="1729890297549" status="passed">
+      <name>testRegenerateSessionIdOnExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890297550" stop="1729890297554" status="passed">
+      <name>testRegenerateSessionIdOnExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890297555" stop="1729890297560" status="passed">
+      <name>testRegenerateSessionIdOnExecute with data set #2</name>
+    </test-case>
+    <test-case start="1729890297561" stop="1729890297566" status="passed">
+      <name>testRegenerateSessionIdOnExecute with data set #3</name>
+    </test-case>
+    <test-case start="1729890297567" stop="1729890297570" status="passed">
+      <name>testOnepageCheckoutNotAvailable</name>
+    </test-case>
+    <test-case start="1729890297570" stop="1729890297574" status="passed">
+      <name>testInvalidQuote</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

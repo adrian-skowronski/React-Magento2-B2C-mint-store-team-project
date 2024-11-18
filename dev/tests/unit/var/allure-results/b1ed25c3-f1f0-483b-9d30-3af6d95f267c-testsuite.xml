@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461488" stop="1729890461493" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\GroupedCollectionTest</name>
+  <test-cases>
+    <test-case start="1729890461488" stop="1729890461489" status="passed">
+      <name>testAdd</name>
+    </test-case>
+    <test-case start="1729890461490" stop="1729890461490" status="passed">
+      <name>testRemove</name>
+    </test-case>
+    <test-case start="1729890461491" stop="1729890461493" status="passed">
+      <name>testGetGroups</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

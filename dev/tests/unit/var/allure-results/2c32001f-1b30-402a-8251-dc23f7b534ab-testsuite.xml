@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890377940" stop="1729890377953" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Block\Adminhtml\Order\Creditmemo\Create\ItemsTest</name>
+  <test-cases>
+    <test-case start="1729890377941" stop="1729890377944" status="passed">
+      <name>testCanReturnItemsToStock with data set "cannot subtract by config"</name>
+    </test-case>
+    <test-case start="1729890377945" stop="1729890377949" status="passed">
+      <name>testCanReturnItemsToStock with data set "manage stock is enabled"</name>
+    </test-case>
+    <test-case start="1729890377949" stop="1729890377953" status="passed">
+      <name>testCanReturnItemsToStock with data set "manage stock is disabled"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

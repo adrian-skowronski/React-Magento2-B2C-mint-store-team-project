@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262659" stop="1729890262681" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\ReportWriterTest</name>
+  <test-cases>
+    <test-case start="1729890262659" stop="1729890262666" status="passed">
+      <name>testWrite with data set #0</name>
+    </test-case>
+    <test-case start="1729890262666" stop="1729890262668" status="passed">
+      <name>testWrite with data set #1</name>
+    </test-case>
+    <test-case start="1729890262669" stop="1729890262671" status="passed">
+      <name>testWrite with data set #2</name>
+    </test-case>
+    <test-case start="1729890262672" stop="1729890262675" status="passed">
+      <name>testWrite with data set #3</name>
+    </test-case>
+    <test-case start="1729890262675" stop="1729890262678" status="passed">
+      <name>testWrite with data set #4</name>
+    </test-case>
+    <test-case start="1729890262678" stop="1729890262680" status="passed">
+      <name>testWriteErrorFile with data set #0</name>
+    </test-case>
+    <test-case start="1729890262680" stop="1729890262681" status="passed">
+      <name>testWriteEmptyReports</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

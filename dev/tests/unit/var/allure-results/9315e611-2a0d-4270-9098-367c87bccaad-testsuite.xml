@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451310" stop="1729890451322" version="1.4.0">
+  <name>Magento\Framework\Lock\Test\Unit\Backend\CacheTest</name>
+  <test-cases>
+    <test-case start="1729890451311" stop="1729890451314" status="passed">
+      <name>testUnlock</name>
+    </test-case>
+    <test-case start="1729890451314" stop="1729890451315" status="passed">
+      <name>testUnlockWithAnotherSign</name>
+    </test-case>
+    <test-case start="1729890451316" stop="1729890451317" status="passed">
+      <name>testUnlockWithEmptyLockSign</name>
+    </test-case>
+    <test-case start="1729890451319" stop="1729890451320" status="passed">
+      <name>testUnlockWithEmptyData</name>
+    </test-case>
+    <test-case start="1729890451320" stop="1729890451320" status="passed">
+      <name>testLockWithEmptyLockSign</name>
+    </test-case>
+    <test-case start="1729890451321" stop="1729890451322" status="passed">
+      <name>testLockWithNotEmptyData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

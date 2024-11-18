@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890333592" stop="1729890333674" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\IndexerTest</name>
+  <test-cases>
+    <test-case start="1729890333592" stop="1729890333602" status="passed">
+      <name>testLoadWithException</name>
+    </test-case>
+    <test-case start="1729890333602" stop="1729890333604" status="passed">
+      <name>testGetView</name>
+    </test-case>
+    <test-case start="1729890333604" stop="1729890333606" status="passed">
+      <name>testGetState</name>
+    </test-case>
+    <test-case start="1729890333607" stop="1729890333611" status="passed">
+      <name>testGetLatestUpdated with data set #0</name>
+    </test-case>
+    <test-case start="1729890333611" stop="1729890333614" status="passed">
+      <name>testGetLatestUpdated with data set #1</name>
+    </test-case>
+    <test-case start="1729890333614" stop="1729890333617" status="passed">
+      <name>testGetLatestUpdated with data set #2</name>
+    </test-case>
+    <test-case start="1729890333618" stop="1729890333619" status="passed">
+      <name>testGetLatestUpdated with data set #3</name>
+    </test-case>
+    <test-case start="1729890333620" stop="1729890333621" status="passed">
+      <name>testGetLatestUpdated with data set #4</name>
+    </test-case>
+    <test-case start="1729890333622" stop="1729890333624" status="passed">
+      <name>testGetLatestUpdated with data set #5</name>
+    </test-case>
+    <test-case start="1729890333625" stop="1729890333628" status="passed">
+      <name>testGetLatestUpdated with data set #6</name>
+    </test-case>
+    <test-case start="1729890333628" stop="1729890333630" status="passed">
+      <name>testGetLatestUpdated with data set #7</name>
+    </test-case>
+    <test-case start="1729890333631" stop="1729890333633" status="passed">
+      <name>testGetLatestUpdated with data set #8</name>
+    </test-case>
+    <test-case start="1729890333633" stop="1729890333635" status="passed">
+      <name>testGetLatestUpdated with data set #9</name>
+    </test-case>
+    <test-case start="1729890333636" stop="1729890333641" status="passed">
+      <name>testReindexAll</name>
+    </test-case>
+    <test-case start="1729890333641" stop="1729890333645" status="passed">
+      <name>testReindexAllWithException</name>
+    </test-case>
+    <test-case start="1729890333646" stop="1729890333649" status="passed">
+      <name>testReindexAllWithError</name>
+    </test-case>
+    <test-case start="1729890333649" stop="1729890333651" status="passed">
+      <name>testGetTitle</name>
+    </test-case>
+    <test-case start="1729890333651" stop="1729890333652" status="passed">
+      <name>testGetDescription</name>
+    </test-case>
+    <test-case start="1729890333652" stop="1729890333653" status="passed">
+      <name>testSetState</name>
+    </test-case>
+    <test-case start="1729890333653" stop="1729890333654" status="passed">
+      <name>testIsScheduled</name>
+    </test-case>
+    <test-case start="1729890333655" stop="1729890333658" status="passed">
+      <name>testSetScheduled with data set #0</name>
+    </test-case>
+    <test-case start="1729890333658" stop="1729890333660" status="passed">
+      <name>testSetScheduled with data set #1</name>
+    </test-case>
+    <test-case start="1729890333661" stop="1729890333662" status="passed">
+      <name>testGetStatus</name>
+    </test-case>
+    <test-case start="1729890333663" stop="1729890333664" status="passed">
+      <name>testStatus with data set #0</name>
+    </test-case>
+    <test-case start="1729890333665" stop="1729890333666" status="passed">
+      <name>testStatus with data set #1</name>
+    </test-case>
+    <test-case start="1729890333667" stop="1729890333668" status="passed">
+      <name>testStatus with data set #2</name>
+    </test-case>
+    <test-case start="1729890333668" stop="1729890333670" status="passed">
+      <name>testInvalidate</name>
+    </test-case>
+    <test-case start="1729890333670" stop="1729890333672" status="passed">
+      <name>testReindexRow</name>
+    </test-case>
+    <test-case start="1729890333672" stop="1729890333673" status="passed">
+      <name>testReindexList</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

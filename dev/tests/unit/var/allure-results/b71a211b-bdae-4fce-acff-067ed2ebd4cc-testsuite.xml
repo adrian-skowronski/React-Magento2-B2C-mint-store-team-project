@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464017" stop="1729890464031" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Layout\Reader\ContainerTest</name>
+  <test-cases>
+    <test-case start="1729890464018" stop="1729890464020" status="passed">
+      <name>testProcess with data set "container"</name>
+    </test-case>
+    <test-case start="1729890464021" stop="1729890464022" status="passed">
+      <name>testProcess with data set "referenceContainer"</name>
+    </test-case>
+    <test-case start="1729890464023" stop="1729890464024" status="passed">
+      <name>testProcess with data set "referenceContainerNoRemove"</name>
+    </test-case>
+    <test-case start="1729890464025" stop="1729890464026" status="passed">
+      <name>testProcess with data set "referenceContainerRemove"</name>
+    </test-case>
+    <test-case start="1729890464027" stop="1729890464029" status="passed">
+      <name>testProcess with data set "referenceContainerRemove2"</name>
+    </test-case>
+    <test-case start="1729890464029" stop="1729890464031" status="passed">
+      <name>testProcess with data set "referenceContainerDisplayFalse"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328348" stop="1729890328353" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Setup\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890328348" stop="1729890328350" status="passed">
+      <name>testValidate</name>
+    </test-case>
+    <test-case start="1729890328351" stop="1729890328351" status="passed">
+      <name>testValidateFail</name>
+    </test-case>
+    <test-case start="1729890328352" stop="1729890328352" status="passed">
+      <name>testValidateFailException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890315419" stop="1729890315429" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Address\Validator\CustomerTest</name>
+  <test-cases>
+    <test-case start="1729890315419" stop="1729890315420" status="passed">
+      <name>testValidateNewCustomerWithNewCustomerAddress</name>
+    </test-case>
+    <test-case start="1729890315421" stop="1729890315422" status="passed">
+      <name>testValidateNewCustomerWithExistingCustomerAddress</name>
+    </test-case>
+    <test-case start="1729890315423" stop="1729890315423" status="passed">
+      <name>testValidateExistingCustomerWithNewCustomerAddress</name>
+    </test-case>
+    <test-case start="1729890315424" stop="1729890315425" status="passed">
+      <name>testValidateExistingCustomerWithRelevantCustomerAddress</name>
+    </test-case>
+    <test-case start="1729890315425" stop="1729890315427" status="passed">
+      <name>testValidateExistingCustomerAddressWithNotRelevantCustomer</name>
+    </test-case>
+    <test-case start="1729890315427" stop="1729890315429" status="passed">
+      <name>testValidateExistingCustomerWithQuoteAddress</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890458063" stop="1729890458129" version="1.4.0">
+  <name>Magento\Framework\Stdlib\Test\Unit\ArrayManagerTest</name>
+  <test-cases>
+    <test-case start="1729890458064" stop="1729890458064" status="passed">
+      <name>testExists with data set #0</name>
+    </test-case>
+    <test-case start="1729890458065" stop="1729890458065" status="passed">
+      <name>testExists with data set #1</name>
+    </test-case>
+    <test-case start="1729890458066" stop="1729890458067" status="passed">
+      <name>testExists with data set #2</name>
+    </test-case>
+    <test-case start="1729890458067" stop="1729890458067" status="passed">
+      <name>testExistsCustomDelimiter</name>
+    </test-case>
+    <test-case start="1729890458068" stop="1729890458068" status="passed">
+      <name>testGet with data set #0</name>
+    </test-case>
+    <test-case start="1729890458069" stop="1729890458069" status="passed">
+      <name>testGet with data set #1</name>
+    </test-case>
+    <test-case start="1729890458070" stop="1729890458070" status="passed">
+      <name>testGet with data set #2</name>
+    </test-case>
+    <test-case start="1729890458071" stop="1729890458072" status="passed">
+      <name>testSet with data set #0</name>
+    </test-case>
+    <test-case start="1729890458072" stop="1729890458073" status="passed">
+      <name>testSet with data set #1</name>
+    </test-case>
+    <test-case start="1729890458073" stop="1729890458074" status="passed">
+      <name>testSet with data set #2</name>
+    </test-case>
+    <test-case start="1729890458075" stop="1729890458075" status="passed">
+      <name>testSet with data set #3</name>
+    </test-case>
+    <test-case start="1729890458076" stop="1729890458077" status="passed">
+      <name>testReplace with data set #0</name>
+    </test-case>
+    <test-case start="1729890458077" stop="1729890458078" status="passed">
+      <name>testReplace with data set #1</name>
+    </test-case>
+    <test-case start="1729890458079" stop="1729890458079" status="passed">
+      <name>testReplace with data set #2</name>
+    </test-case>
+    <test-case start="1729890458080" stop="1729890458080" status="passed">
+      <name>testReplace with data set #3</name>
+    </test-case>
+    <test-case start="1729890458081" stop="1729890458082" status="passed">
+      <name>testMove with data set #0</name>
+    </test-case>
+    <test-case start="1729890458083" stop="1729890458083" status="passed">
+      <name>testMove with data set #1</name>
+    </test-case>
+    <test-case start="1729890458084" stop="1729890458085" status="passed">
+      <name>testMove with data set #2</name>
+    </test-case>
+    <test-case start="1729890458085" stop="1729890458086" status="passed">
+      <name>testMove with data set #3</name>
+    </test-case>
+    <test-case start="1729890458087" stop="1729890458087" status="passed">
+      <name>testMove with data set #4</name>
+    </test-case>
+    <test-case start="1729890458088" stop="1729890458089" status="passed">
+      <name>testMerge with data set #0</name>
+    </test-case>
+    <test-case start="1729890458089" stop="1729890458090" status="passed">
+      <name>testMerge with data set #1</name>
+    </test-case>
+    <test-case start="1729890458091" stop="1729890458091" status="passed">
+      <name>testMerge with data set #2</name>
+    </test-case>
+    <test-case start="1729890458092" stop="1729890458092" status="passed">
+      <name>testMerge with data set #3</name>
+    </test-case>
+    <test-case start="1729890458093" stop="1729890458094" status="passed">
+      <name>testPopulate with data set #0</name>
+    </test-case>
+    <test-case start="1729890458095" stop="1729890458096" status="passed">
+      <name>testPopulate with data set #1</name>
+    </test-case>
+    <test-case start="1729890458097" stop="1729890458097" status="passed">
+      <name>testPopulate with data set #2</name>
+    </test-case>
+    <test-case start="1729890458098" stop="1729890458099" status="passed">
+      <name>testRemove with data set #0</name>
+    </test-case>
+    <test-case start="1729890458100" stop="1729890458100" status="passed">
+      <name>testRemove with data set #1</name>
+    </test-case>
+    <test-case start="1729890458101" stop="1729890458101" status="passed">
+      <name>testRemove with data set #2</name>
+    </test-case>
+    <test-case start="1729890458102" stop="1729890458102" status="passed">
+      <name>testRemove with data set #3</name>
+    </test-case>
+    <test-case start="1729890458103" stop="1729890458104" status="passed">
+      <name>testFindPaths with data set #0</name>
+    </test-case>
+    <test-case start="1729890458105" stop="1729890458106" status="passed">
+      <name>testFindPaths with data set #1</name>
+    </test-case>
+    <test-case start="1729890458106" stop="1729890458107" status="passed">
+      <name>testFindPaths with data set #2</name>
+    </test-case>
+    <test-case start="1729890458108" stop="1729890458109" status="passed">
+      <name>testFindPaths with data set #3</name>
+    </test-case>
+    <test-case start="1729890458110" stop="1729890458111" status="passed">
+      <name>testFindPaths with data set #4</name>
+    </test-case>
+    <test-case start="1729890458113" stop="1729890458114" status="passed">
+      <name>testFindPath with data set #0</name>
+    </test-case>
+    <test-case start="1729890458115" stop="1729890458116" status="passed">
+      <name>testFindPath with data set #1</name>
+    </test-case>
+    <test-case start="1729890458117" stop="1729890458117" status="passed">
+      <name>testFindPath with data set #2</name>
+    </test-case>
+    <test-case start="1729890458118" stop="1729890458119" status="passed">
+      <name>testFindPath with data set #3</name>
+    </test-case>
+    <test-case start="1729890458120" stop="1729890458121" status="passed">
+      <name>testFindPath with data set #4</name>
+    </test-case>
+    <test-case start="1729890458122" stop="1729890458123" status="passed">
+      <name>testSlicePath with data set #0</name>
+    </test-case>
+    <test-case start="1729890458124" stop="1729890458124" status="passed">
+      <name>testSlicePath with data set #1</name>
+    </test-case>
+    <test-case start="1729890458125" stop="1729890458126" status="passed">
+      <name>testSlicePath with data set #2</name>
+    </test-case>
+    <test-case start="1729890458127" stop="1729890458127" status="passed">
+      <name>testSlicePath with data set #3</name>
+    </test-case>
+    <test-case start="1729890458128" stop="1729890458128" status="passed">
+      <name>testSlicePath with data set #4</name>
+    </test-case>
+    <test-case start="1729890458129" stop="1729890458129" status="passed">
+      <name>testSlicePathCustomDelimiter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

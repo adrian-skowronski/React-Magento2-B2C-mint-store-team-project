@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890314325" stop="1729890314335" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Controller\Adminhtml\Index\NewsletterTest</name>
+  <test-cases>
+    <test-case start="1729890314325" stop="1729890314334" status="passed">
+      <name>testNewsletterAction</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374780" stop="1729890374786" version="1.4.0">
+  <name>Magento\Review\Test\Unit\Observer\PredispatchReviewObserverTest</name>
+  <test-cases>
+    <test-case start="1729890374781" stop="1729890374784" status="passed">
+      <name>testReviewEnabled</name>
+    </test-case>
+    <test-case start="1729890374785" stop="1729890374786" status="passed">
+      <name>testReviewDisabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

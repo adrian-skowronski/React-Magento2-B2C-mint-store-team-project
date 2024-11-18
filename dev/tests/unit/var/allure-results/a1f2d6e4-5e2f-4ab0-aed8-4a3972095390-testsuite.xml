@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319922" stop="1729890319926" version="1.4.0">
+  <name>Magento\Developer\Test\Unit\Console\Command\TemplateHintsStatusCommandTest</name>
+  <test-cases>
+    <test-case start="1729890319922" stop="1729890319924" status="passed">
+      <name>testScopeConfigInterfaceInstance</name>
+    </test-case>
+    <test-case start="1729890319924" stop="1729890319925" status="passed">
+      <name>testReinitableConfigInterfaceInstance</name>
+    </test-case>
+    <test-case start="1729890319925" stop="1729890319925" status="passed">
+      <name>testCommandInstance</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

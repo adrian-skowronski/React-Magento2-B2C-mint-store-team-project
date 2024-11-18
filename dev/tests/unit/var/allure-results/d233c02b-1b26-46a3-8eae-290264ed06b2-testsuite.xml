@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327676" stop="1729890327694" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Indexer\IndexerHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890327676" stop="1729890327683" status="passed">
+      <name>testIsAvailable</name>
+    </test-case>
+    <test-case start="1729890327683" stop="1729890327684" status="passed">
+      <name>testDeleteIndex</name>
+    </test-case>
+    <test-case start="1729890327684" stop="1729890327686" status="passed">
+      <name>testSaveIndex</name>
+    </test-case>
+    <test-case start="1729890327686" stop="1729890327688" status="passed">
+      <name>testCleanIndexCatalogSearchFullText</name>
+    </test-case>
+    <test-case start="1729890327688" stop="1729890327692" status="passed">
+      <name>testCleanIndex</name>
+    </test-case>
+    <test-case start="1729890327692" stop="1729890327694" status="passed">
+      <name>testUpdateIndex</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452877" stop="1729890452891" version="1.4.0">
+  <name>Magento\Framework\Module\Test\Unit\Plugin\DbStatusValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890452877" stop="1729890452881" status="passed">
+      <name>testAroundDispatch</name>
+    </test-case>
+    <test-case start="1729890452882" stop="1729890452883" status="passed">
+      <name>testAroundDispatchCached</name>
+    </test-case>
+    <test-case start="1729890452884" stop="1729890452885" status="passed">
+      <name>testAroundDispatchException with data set "schema is outdated"</name>
+    </test-case>
+    <test-case start="1729890452886" stop="1729890452887" status="passed">
+      <name>testAroundDispatchException with data set "data is outdated"</name>
+    </test-case>
+    <test-case start="1729890452888" stop="1729890452889" status="passed">
+      <name>testAroundDispatchException with data set "both schema and data are outdated"</name>
+    </test-case>
+    <test-case start="1729890452889" stop="1729890452891" status="passed">
+      <name>testAroundDispatchBlueGreen</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

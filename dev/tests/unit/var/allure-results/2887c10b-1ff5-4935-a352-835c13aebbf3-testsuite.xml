@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890273621" stop="1729890273731" version="1.4.0">
+  <name>Magento\CatalogImportExport\Test\Unit\Model\Import\UploaderTest</name>
+  <test-cases>
+    <test-case start="1729890273622" stop="1729890273646" status="passed">
+      <name>testMoveFileUrl with data set "https_no_file_ext"</name>
+    </test-case>
+    <test-case start="1729890273652" stop="1729890273658" status="passed">
+      <name>testMoveFileUrl with data set "https_invalid_chars"</name>
+    </test-case>
+    <test-case start="1729890273658" stop="1729890273664" status="passed">
+      <name>testMoveFileUrl with data set "https_invalid_chars_no_file_ext"</name>
+    </test-case>
+    <test-case start="1729890273669" stop="1729890273672" status="passed">
+      <name>testMoveFileUrl with data set "http_jpg"</name>
+    </test-case>
+    <test-case start="1729890273676" stop="1729890273689" status="passed">
+      <name>testMoveFileUrl with data set "https_jpg"</name>
+    </test-case>
+    <test-case start="1729890273689" stop="1729890273693" status="passed">
+      <name>testMoveFileUrl with data set "https_jpeg"</name>
+    </test-case>
+    <test-case start="1729890273694" stop="1729890273697" status="passed">
+      <name>testMoveFileUrl with data set "https_png"</name>
+    </test-case>
+    <test-case start="1729890273701" stop="1729890273706" status="passed">
+      <name>testMoveFileUrl with data set "https_gif"</name>
+    </test-case>
+    <test-case start="1729890273707" stop="1729890273710" status="passed">
+      <name>testMoveFileUrl with data set "https_one_query_param"</name>
+    </test-case>
+    <test-case start="1729890273711" stop="1729890273714" status="passed">
+      <name>testMoveFileUrl with data set "https_two_query_params"</name>
+    </test-case>
+    <test-case start="1729890273718" stop="1729890273721" status="passed">
+      <name>testMoveFileName</name>
+    </test-case>
+    <test-case start="1729890273721" stop="1729890273724" status="passed">
+      <name>testFilenameLength</name>
+    </test-case>
+    <test-case start="1729890273725" stop="1729890273727" status="passed">
+      <name>testMoveFileUrlDrivePool with data set #0</name>
+    </test-case>
+    <test-case start="1729890273728" stop="1729890273730" status="passed">
+      <name>testMoveFileUrlDrivePool with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890381819" stop="1729890381827" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Email\Container\TemplateTest</name>
+  <test-cases>
+    <test-case start="1729890381819" stop="1729890381820" status="passed">
+      <name>testSetTemplateId</name>
+    </test-case>
+    <test-case start="1729890381820" stop="1729890381821" status="passed">
+      <name>testSetTemplateOptions</name>
+    </test-case>
+    <test-case start="1729890381826" stop="1729890381826" status="passed">
+      <name>testSetTemplateVars</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264099" stop="1729890264103" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\App\UserConfigTest</name>
+  <test-cases>
+    <test-case start="1729890264100" stop="1729890264103" status="passed">
+      <name>testUserRequestCreation</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

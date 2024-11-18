@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287174" stop="1729890287178" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Product\FullTest</name>
+  <test-cases>
+    <test-case start="1729890287174" stop="1729890287175" status="passed">
+      <name>testExecuteFull</name>
+    </test-case>
+    <test-case start="1729890287176" stop="1729890287177" status="passed">
+      <name>testExecuteList</name>
+    </test-case>
+    <test-case start="1729890287177" stop="1729890287178" status="passed">
+      <name>testExecuteRow</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

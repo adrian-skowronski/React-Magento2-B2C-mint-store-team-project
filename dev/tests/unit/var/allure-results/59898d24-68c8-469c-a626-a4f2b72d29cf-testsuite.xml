@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890366142" stop="1729890366156" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\Cart\Totals\ItemConverterTest</name>
+  <test-cases>
+    <test-case start="1729890366142" stop="1729890366155" status="passed">
+      <name>testModelToDataObject</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

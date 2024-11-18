@@ -1,0 +1,1 @@
+/home/adrian-skowronski/www/mint/vendor/magento/module-admin-analytics/view/adminhtml/web/js/release-notification/modal/component-mixin.js

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285479" stop="1729890285507" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\CategoryLinkRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890285479" stop="1729890285484" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890285485" stop="1729890285489" status="passed">
+      <name>testSaveWithCouldNotSaveException</name>
+    </test-case>
+    <test-case start="1729890285490" stop="1729890285492" status="passed">
+      <name>testDeleteByIds</name>
+    </test-case>
+    <test-case start="1729890285492" stop="1729890285495" status="passed">
+      <name>testDeleteByIdsWithCouldNotSaveException</name>
+    </test-case>
+    <test-case start="1729890285495" stop="1729890285498" status="passed">
+      <name>testDeleteWithInputException</name>
+    </test-case>
+    <test-case start="1729890285499" stop="1729890285502" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890285502" stop="1729890285504" status="passed">
+      <name>testDeleteBySkus</name>
+    </test-case>
+    <test-case start="1729890285504" stop="1729890285505" status="passed">
+      <name>testDeleteBySkusWithInputException</name>
+    </test-case>
+    <test-case start="1729890285505" stop="1729890285507" status="passed">
+      <name>testDeleteSkusIdsWithCouldNotSaveException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

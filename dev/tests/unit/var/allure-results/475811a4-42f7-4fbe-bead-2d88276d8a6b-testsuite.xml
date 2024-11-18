@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297916" stop="1729890297919" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Model\Cart\RequestInfoFilterCompositeTest</name>
+  <test-cases>
+    <test-case start="1729890297916" stop="1729890297919" status="passed">
+      <name>testFilter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

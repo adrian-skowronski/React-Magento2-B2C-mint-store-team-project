@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461208" stop="1729890461221" version="1.4.0">
+  <name>Magento\Framework\Validator\Test\Unit\ObjectTest</name>
+  <test-cases>
+    <test-case start="1729890461208" stop="1729890461209" status="passed">
+      <name>testAddRule</name>
+    </test-case>
+    <test-case start="1729890461209" stop="1729890461210" status="passed">
+      <name>testGetMessages</name>
+    </test-case>
+    <test-case start="1729890461210" stop="1729890461212" status="passed">
+      <name>testIsValid with data set "only "field_one" is invalid"</name>
+    </test-case>
+    <test-case start="1729890461214" stop="1729890461214" status="passed">
+      <name>testIsValid with data set "only "field_two" is invalid"</name>
+    </test-case>
+    <test-case start="1729890461215" stop="1729890461216" status="passed">
+      <name>testIsValid with data set "entity as a whole is invalid"</name>
+    </test-case>
+    <test-case start="1729890461219" stop="1729890461220" status="passed">
+      <name>testIsValid with data set "errors aggregation"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395591" stop="1729890395608" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\StoreSwitcher\RedirectDataValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890395592" stop="1729890395594" status="passed">
+      <name>testValidation with data set #0</name>
+    </test-case>
+    <test-case start="1729890395595" stop="1729890395597" status="passed">
+      <name>testValidation with data set #1</name>
+    </test-case>
+    <test-case start="1729890395597" stop="1729890395600" status="passed">
+      <name>testValidation with data set #2</name>
+    </test-case>
+    <test-case start="1729890395600" stop="1729890395603" status="passed">
+      <name>testValidation with data set #3</name>
+    </test-case>
+    <test-case start="1729890395603" stop="1729890395605" status="passed">
+      <name>testValidation with data set #4</name>
+    </test-case>
+    <test-case start="1729890395606" stop="1729890395608" status="passed">
+      <name>testValidation with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

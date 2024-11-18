@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890354639" stop="1729890354643" version="1.4.0">
+  <name>Magento\NewRelicReporting\Test\Unit\Model\Observer\ReportConcurrentUsersToNewRelicTest</name>
+  <test-cases>
+    <test-case start="1729890354639" stop="1729890354640" status="passed">
+      <name>testReportConcurrentUsersToNewRelicModuleDisabledFromConfig</name>
+    </test-case>
+    <test-case start="1729890354640" stop="1729890354641" status="passed">
+      <name>testReportConcurrentUsersToNewRelicUserIsNotLoggedIn</name>
+    </test-case>
+    <test-case start="1729890354642" stop="1729890354643" status="passed">
+      <name>testReportConcurrentUsersToNewRelic</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

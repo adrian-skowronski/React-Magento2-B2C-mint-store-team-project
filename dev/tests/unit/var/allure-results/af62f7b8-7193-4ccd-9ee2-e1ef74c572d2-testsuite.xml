@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890381327" stop="1729890381359" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\CreditmemoTest</name>
+  <test-cases>
+    <test-case start="1729890381328" stop="1729890381337" status="passed">
+      <name>testGetOrder</name>
+    </test-case>
+    <test-case start="1729890381337" stop="1729890381339" status="passed">
+      <name>testGetEntityType</name>
+    </test-case>
+    <test-case start="1729890381339" stop="1729890381341" status="passed">
+      <name>testIsValidGrandTotalGrandTotalEmpty</name>
+    </test-case>
+    <test-case start="1729890381342" stop="1729890381343" status="passed">
+      <name>testIsValidGrandTotalGrandTotal</name>
+    </test-case>
+    <test-case start="1729890381344" stop="1729890381345" status="passed">
+      <name>testIsValidGrandTotal</name>
+    </test-case>
+    <test-case start="1729890381345" stop="1729890381347" status="passed">
+      <name>testGetIncrementId</name>
+    </test-case>
+    <test-case start="1729890381347" stop="1729890381355" status="passed">
+      <name>testGetItemsCollectionWithId</name>
+    </test-case>
+    <test-case start="1729890381355" stop="1729890381359" status="passed">
+      <name>testGetItemsCollectionWithoutId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

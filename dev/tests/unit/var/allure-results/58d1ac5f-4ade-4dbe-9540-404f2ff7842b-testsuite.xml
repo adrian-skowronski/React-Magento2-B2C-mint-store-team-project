@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297622" stop="1729890297633" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Controller\Sidebar\UpdateItemQtyTest</name>
+  <test-cases>
+    <test-case start="1729890297623" stop="1729890297625" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890297626" stop="1729890297628" status="passed">
+      <name>testExecuteWithLocalizedException</name>
+    </test-case>
+    <test-case start="1729890297628" stop="1729890297631" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+    <test-case start="1729890297631" stop="1729890297633" status="passed">
+      <name>testExecuteWithInvalidItemQty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

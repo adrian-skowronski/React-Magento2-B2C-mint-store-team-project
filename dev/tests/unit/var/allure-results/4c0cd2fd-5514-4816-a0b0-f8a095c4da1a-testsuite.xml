@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890282027" stop="1729890282038" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Adminhtml\Rss\NotifyStockTest</name>
+  <test-cases>
+    <test-case start="1729890282027" stop="1729890282032" status="passed">
+      <name>testGetRssData</name>
+    </test-case>
+    <test-case start="1729890282032" stop="1729890282034" status="passed">
+      <name>testGetCacheLifetime</name>
+    </test-case>
+    <test-case start="1729890282034" stop="1729890282036" status="passed">
+      <name>testIsAllowed</name>
+    </test-case>
+    <test-case start="1729890282036" stop="1729890282038" status="passed">
+      <name>testGetFeeds</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

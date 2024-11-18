@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301790" stop="1729890301800" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Console\Command\ConfigSet\LockEnvProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890301791" stop="1729890301792" status="passed">
+      <name>testProcess with data set #0</name>
+    </test-case>
+    <test-case start="1729890301793" stop="1729890301795" status="passed">
+      <name>testProcess with data set #1</name>
+    </test-case>
+    <test-case start="1729890301795" stop="1729890301797" status="passed">
+      <name>testProcess with data set #2</name>
+    </test-case>
+    <test-case start="1729890301797" stop="1729890301799" status="passed">
+      <name>testProcessNotReadableFs</name>
+    </test-case>
+    <test-case start="1729890301799" stop="1729890301800" status="passed">
+      <name>testCustomException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890333250" stop="1729890333268" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\Indexer\AbstractProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890333250" stop="1729890333255" status="passed">
+      <name>testGetIndexer</name>
+    </test-case>
+    <test-case start="1729890333255" stop="1729890333256" status="passed">
+      <name>testReindexAll</name>
+    </test-case>
+    <test-case start="1729890333256" stop="1729890333256" status="passed">
+      <name>testMarkIndexerAsInvalid</name>
+    </test-case>
+    <test-case start="1729890333257" stop="1729890333259" status="passed">
+      <name>testGetIndexerId</name>
+    </test-case>
+    <test-case start="1729890333260" stop="1729890333261" status="passed">
+      <name>testReindexRow with data set #0</name>
+    </test-case>
+    <test-case start="1729890333262" stop="1729890333264" status="passed">
+      <name>testReindexRow with data set #1</name>
+    </test-case>
+    <test-case start="1729890333265" stop="1729890333266" status="passed">
+      <name>testReindexList with data set #0</name>
+    </test-case>
+    <test-case start="1729890333266" stop="1729890333267" status="passed">
+      <name>testReindexList with data set #1</name>
+    </test-case>
+    <test-case start="1729890333267" stop="1729890333268" status="passed">
+      <name>testIsIndexerScheduled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

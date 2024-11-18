@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361371" stop="1729890361386" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Config\StructurePluginTest</name>
+  <test-cases>
+    <test-case start="1729890361372" stop="1729890361373" status="passed">
+      <name>testGetPaypalConfigCountriesWithOther</name>
+    </test-case>
+    <test-case start="1729890361374" stop="1729890361375" status="passed">
+      <name>testGetPaypalConfigCountries</name>
+    </test-case>
+    <test-case start="1729890361376" stop="1729890361377" status="passed">
+      <name>testAroundGetElementByPathPartsNonPayment with data set #0</name>
+    </test-case>
+    <test-case start="1729890361377" stop="1729890361378" status="passed">
+      <name>testAroundGetElementByPathPartsNonPayment with data set #1</name>
+    </test-case>
+    <test-case start="1729890361378" stop="1729890361379" status="passed">
+      <name>testAroundGetElementByPathPartsNonPayment with data set #2</name>
+    </test-case>
+    <test-case start="1729890361380" stop="1729890361381" status="passed">
+      <name>testAroundGetElementByPathPartsNonPayment with data set #3</name>
+    </test-case>
+    <test-case start="1729890361381" stop="1729890361382" status="passed">
+      <name>testAroundGetElementByPathPartsNoResult with data set #0</name>
+    </test-case>
+    <test-case start="1729890361383" stop="1729890361383" status="passed">
+      <name>testAroundGetElementByPathPartsNoResult with data set #1</name>
+    </test-case>
+    <test-case start="1729890361384" stop="1729890361385" status="passed">
+      <name>testAroundGetElementByPathParts with data set #0</name>
+    </test-case>
+    <test-case start="1729890361385" stop="1729890361386" status="passed">
+      <name>testAroundGetElementByPathParts with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

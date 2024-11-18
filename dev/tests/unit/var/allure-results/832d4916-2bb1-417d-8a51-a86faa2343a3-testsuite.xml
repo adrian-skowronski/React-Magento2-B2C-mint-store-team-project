@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393931" stop="1729890393943" version="1.4.0">
+  <name>Magento\Store\Test\Unit\App\Config\Source\RuntimeConfigSourceTest</name>
+  <test-cases>
+    <test-case start="1729890393932" stop="1729890393936" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890393937" stop="1729890393939" status="passed">
+      <name>testGetWhenDbIsNotAvailable</name>
+    </test-case>
+    <test-case start="1729890393940" stop="1729890393942" status="passed">
+      <name>testGetWhenDbIsEmpty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

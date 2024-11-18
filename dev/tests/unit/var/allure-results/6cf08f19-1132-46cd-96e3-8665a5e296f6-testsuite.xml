@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319373" stop="1729890319378" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Model\Plugin\ConfigChangeDetectorTest</name>
+  <test-cases>
+    <test-case start="1729890319374" stop="1729890319376" status="passed">
+      <name>testBeforeDispatchWithoutException</name>
+    </test-case>
+    <test-case start="1729890319376" stop="1729890319377" status="passed">
+      <name>testBeforeDispatchWithException</name>
+    </test-case>
+    <test-case start="1729890319377" stop="1729890319378" status="passed">
+      <name>testBeforeDispatchWithBlueGreen</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

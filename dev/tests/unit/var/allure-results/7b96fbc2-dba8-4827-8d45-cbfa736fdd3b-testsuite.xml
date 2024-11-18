@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890317443" stop="1729890317481" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Metadata\Form\SelectTest</name>
+  <test-cases>
+    <test-case start="1729890317444" stop="1729890317445" status="passed">
+      <name>testValidateValue with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890317446" stop="1729890317447" status="passed">
+      <name>testValidateValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890317447" stop="1729890317448" status="passed">
+      <name>testValidateValue with data set "zero"</name>
+    </test-case>
+    <test-case start="1729890317449" stop="1729890317449" status="passed">
+      <name>testValidateValue with data set "string"</name>
+    </test-case>
+    <test-case start="1729890317450" stop="1729890317451" status="passed">
+      <name>testValidateValue with data set "number"</name>
+    </test-case>
+    <test-case start="1729890317451" stop="1729890317452" status="passed">
+      <name>testValidateValue with data set "true"</name>
+    </test-case>
+    <test-case start="1729890317453" stop="1729890317454" status="passed">
+      <name>testValidateValue with data set "false"</name>
+    </test-case>
+    <test-case start="1729890317454" stop="1729890317456" status="passed">
+      <name>testValidateValueRequired with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890317456" stop="1729890317457" status="passed">
+      <name>testValidateValueRequired with data set "null"</name>
+    </test-case>
+    <test-case start="1729890317458" stop="1729890317459" status="passed">
+      <name>testValidateValueRequired with data set #0</name>
+    </test-case>
+    <test-case start="1729890317459" stop="1729890317460" status="passed">
+      <name>testValidateValueRequired with data set "string"</name>
+    </test-case>
+    <test-case start="1729890317461" stop="1729890317462" status="passed">
+      <name>testValidateValueRequired with data set "number"</name>
+    </test-case>
+    <test-case start="1729890317463" stop="1729890317464" status="passed">
+      <name>testValidateValueRequired with data set "true"</name>
+    </test-case>
+    <test-case start="1729890317464" stop="1729890317466" status="passed">
+      <name>testValidateValueRequired with data set "false"</name>
+    </test-case>
+    <test-case start="1729890317466" stop="1729890317468" status="passed">
+      <name>testOutputValue with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890317468" stop="1729890317470" status="passed">
+      <name>testOutputValue with data set "null"</name>
+    </test-case>
+    <test-case start="1729890317470" stop="1729890317472" status="passed">
+      <name>testOutputValue with data set "number"</name>
+    </test-case>
+    <test-case start="1729890317472" stop="1729890317474" status="passed">
+      <name>testOutputValue with data set "string"</name>
+    </test-case>
+    <test-case start="1729890317475" stop="1729890317477" status="passed">
+      <name>testOutputValue with data set "boolean"</name>
+    </test-case>
+    <test-case start="1729890317477" stop="1729890317479" status="passed">
+      <name>testOutputValue with data set "unknown"</name>
+    </test-case>
+    <test-case start="1729890317479" stop="1729890317481" status="passed">
+      <name>testOutputValue with data set "true"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890270998" stop="1729890271007" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Ui\DataProvider\Product\Form\Modifier\CompositeTest</name>
+  <test-cases>
+    <test-case start="1729890270999" stop="1729890271001" status="passed">
+      <name>testModifyMetaWithoutModifiers</name>
+    </test-case>
+    <test-case start="1729890271002" stop="1729890271003" status="passed">
+      <name>testModifyMetaBundleProduct</name>
+    </test-case>
+    <test-case start="1729890271004" stop="1729890271005" status="passed">
+      <name>testModifyMetaNonBundleProduct</name>
+    </test-case>
+    <test-case start="1729890271005" stop="1729890271007" status="passed">
+      <name>testModifyMetaWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

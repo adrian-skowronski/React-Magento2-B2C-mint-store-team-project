@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890401204" stop="1729890401214" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Block\Html\Header\LogoTest</name>
+  <test-cases>
+    <test-case start="1729890401205" stop="1729890401209" status="passed">
+      <name>testGetLogoSrc</name>
+    </test-case>
+    <test-case start="1729890401209" stop="1729890401211" status="passed">
+      <name>testGetLogoHeight</name>
+    </test-case>
+    <test-case start="1729890401212" stop="1729890401214" status="passed">
+      <name>testGetLogoWidth</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

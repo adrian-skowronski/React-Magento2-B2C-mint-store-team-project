@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890333373" stop="1729890333374" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\Indexer\DeferredCacheContextTest</name>
+  <test-cases>
+    <test-case start="1729890333373" stop="1729890333374" status="passed">
+      <name>test</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890295194" stop="1729890295201" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Pricing\Price\SpecialPriceTest</name>
+  <test-cases>
+    <test-case start="1729890295194" stop="1729890295197" status="passed">
+      <name>testGetValue with data set "validInterval"</name>
+    </test-case>
+    <test-case start="1729890295197" stop="1729890295199" status="passed">
+      <name>testGetValue with data set "validZeroValue"</name>
+    </test-case>
+    <test-case start="1729890295199" stop="1729890295201" status="passed">
+      <name>testGetValue with data set "invalidInterval"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

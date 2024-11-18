@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271980" stop="1729890272021" version="1.4.0">
+  <name>Magento\CatalogGraphQl\Test\Unit\Model\Resolver\Products\SearchCriteria\CollectionProcessor\FilterProcessor\CategoryFilterTest</name>
+  <test-cases>
+    <test-case start="1729890271980" stop="1729890271993" status="passed">
+      <name>testApplyWithConditionTypeEq</name>
+    </test-case>
+    <test-case start="1729890271993" stop="1729890271995" status="passed">
+      <name>testApplyWithConditionTypeInAndSingleCategory</name>
+    </test-case>
+    <test-case start="1729890271996" stop="1729890272001" status="passed">
+      <name>testApplyWithConditionTypeInAndMultipleCategories</name>
+    </test-case>
+    <test-case start="1729890272001" stop="1729890272004" status="passed">
+      <name>testApplyWithOtherSupportedConditionTypes with data set #0</name>
+    </test-case>
+    <test-case start="1729890272005" stop="1729890272008" status="passed">
+      <name>testApplyWithOtherSupportedConditionTypes with data set #1</name>
+    </test-case>
+    <test-case start="1729890272009" stop="1729890272010" status="passed">
+      <name>testApplyWithUnsupportedConditionTypes with data set #0</name>
+    </test-case>
+    <test-case start="1729890272011" stop="1729890272012" status="passed">
+      <name>testApplyWithUnsupportedConditionTypes with data set #1</name>
+    </test-case>
+    <test-case start="1729890272013" stop="1729890272014" status="passed">
+      <name>testApplyWithUnsupportedConditionTypes with data set #2</name>
+    </test-case>
+    <test-case start="1729890272015" stop="1729890272016" status="passed">
+      <name>testApplyWithUnsupportedConditionTypes with data set #3</name>
+    </test-case>
+    <test-case start="1729890272016" stop="1729890272018" status="passed">
+      <name>testApplyWithUnsupportedConditionTypes with data set #4</name>
+    </test-case>
+    <test-case start="1729890272019" stop="1729890272021" status="passed">
+      <name>testApplyWithUnsupportedConditionTypes with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

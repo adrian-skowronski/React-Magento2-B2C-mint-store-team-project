@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330799" stop="1729890330816" version="1.4.0">
+  <name>Magento\GroupedCatalogInventory\Test\Unit\Plugin\OutOfStockFilterTest</name>
+  <test-cases>
+    <test-case start="1729890330800" stop="1729890330805" status="passed">
+      <name>testFilterOnlyProcessesArray with data set #0</name>
+    </test-case>
+    <test-case start="1729890330805" stop="1729890330806" status="passed">
+      <name>testFilterOnlyProcessesArray with data set #1</name>
+    </test-case>
+    <test-case start="1729890330807" stop="1729890330807" status="passed">
+      <name>testFilterOnlyProcessesArray with data set #2</name>
+    </test-case>
+    <test-case start="1729890330808" stop="1729890330809" status="passed">
+      <name>testFilterIgnoresResultIfSuperGroupIsPresent</name>
+    </test-case>
+    <test-case start="1729890330810" stop="1729890330811" status="passed">
+      <name>testFilterRemovesOutOfStockProducts with data set #0</name>
+    </test-case>
+    <test-case start="1729890330812" stop="1729890330813" status="passed">
+      <name>testFilterRemovesOutOfStockProducts with data set #1</name>
+    </test-case>
+    <test-case start="1729890330814" stop="1729890330815" status="passed">
+      <name>testFilterRemovesOutOfStockProducts with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

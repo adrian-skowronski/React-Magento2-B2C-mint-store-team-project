@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294844" stop="1729890294858" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Observer\SynchronizeWebsiteAttributesOnStoreChangeTest</name>
+  <test-cases>
+    <test-case start="1729890294844" stop="1729890294846" status="passed">
+      <name>testExecuteInvalidStore with data set #0</name>
+    </test-case>
+    <test-case start="1729890294847" stop="1729890294848" status="passed">
+      <name>testExecuteStoreHasNoChanges with data set #0</name>
+    </test-case>
+    <test-case start="1729890294850" stop="1729890294851" status="passed">
+      <name>testExecuteWebsiteIdIsNoChangedAndNotNew with data set #0</name>
+    </test-case>
+    <test-case start="1729890294852" stop="1729890294854" status="passed">
+      <name>testExecuteSuccess with data set #0</name>
+    </test-case>
+    <test-case start="1729890294855" stop="1729890294858" status="passed">
+      <name>testExecuteSuccess with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

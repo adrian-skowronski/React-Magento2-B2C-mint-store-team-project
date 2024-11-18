@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890445964" stop="1729890445974" version="1.4.0">
+  <name>Magento\Framework\DataObject\Test\Unit\Copy\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890445965" stop="1729890445972" status="passed">
+      <name>testGetFieldsets</name>
+    </test-case>
+    <test-case start="1729890445972" stop="1729890445973" status="passed">
+      <name>testGetFieldset</name>
+    </test-case>
+    <test-case start="1729890445973" stop="1729890445974" status="passed">
+      <name>testGetFieldsetIfFieldsetIsEmpty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

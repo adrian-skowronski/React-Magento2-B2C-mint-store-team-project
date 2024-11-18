@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393199" stop="1729890393204" version="1.4.0">
+  <name>Magento\Shipping\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890393200" stop="1729890393202" status="passed">
+      <name>testDecodeTrackingHash with data set "Test with hash key is allowed"</name>
+    </test-case>
+    <test-case start="1729890393202" stop="1729890393204" status="passed">
+      <name>testDecodeTrackingHash with data set "Test with hash key is not allowed"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

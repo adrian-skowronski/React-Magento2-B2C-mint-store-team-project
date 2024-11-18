@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890363718" stop="1729890363753" version="1.4.0">
+  <name>Magento\Persistent\Test\Unit\Model\QuoteManagerTest</name>
+  <test-cases>
+    <test-case start="1729890363718" stop="1729890363724" status="passed">
+      <name>testSetGuestWithEmptyQuote</name>
+    </test-case>
+    <test-case start="1729890363724" stop="1729890363726" status="passed">
+      <name>testSetGuestWithEmptyQuoteId</name>
+    </test-case>
+    <test-case start="1729890363727" stop="1729890363730" status="passed">
+      <name>testSetGuestWhenShoppingCartAndQuoteAreNotPersistent</name>
+    </test-case>
+    <test-case start="1729890363730" stop="1729890363737" status="broken">
+      <name>testSetGuest</name>
+      <failure>
+        <message>Trying to configure method "setShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtensionInterface". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-persistent/Test/Unit/Model/QuoteManagerTest.php(432): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-persistent/Test/Unit/Model/QuoteManagerTest.php(260): Magento\Persistent\Test\Unit\Model\QuoteManagerTest-&gt;getExtensionAttributesMock()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Persistent\Test\Unit\Model\QuoteManagerTest-&gt;testSetGuest()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#13 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890363737" stop="1729890363739" status="passed">
+      <name>testExpireWithActiveQuoteAndCustomerId</name>
+    </test-case>
+    <test-case start="1729890363740" stop="1729890363742" status="passed">
+      <name>testExpire</name>
+    </test-case>
+    <test-case start="1729890363742" stop="1729890363747" status="passed">
+      <name>testConvertCustomerCartToGuest</name>
+    </test-case>
+    <test-case start="1729890363747" stop="1729890363749" status="passed">
+      <name>testConvertCustomerCartToGuestWithEmptyQuote</name>
+    </test-case>
+    <test-case start="1729890363750" stop="1729890363753" status="passed">
+      <name>testConvertCustomerCartToGuestWithEmptyQuoteId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

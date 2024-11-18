@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890354943" stop="1729890354952" version="1.4.0">
+  <name>Magento\NewRelicReporting\Test\Unit\Plugin\StatePluginTest</name>
+  <test-cases>
+    <test-case start="1729890354943" stop="1729890354945" status="passed">
+      <name>testSuccessfullySettingAppName</name>
+    </test-case>
+    <test-case start="1729890354946" stop="1729890354947" status="passed">
+      <name>testSuccessfullySettingAreaCode with data set "Separate apps config is disabled"</name>
+    </test-case>
+    <test-case start="1729890354948" stop="1729890354949" status="passed">
+      <name>testSuccessfullySettingAreaCode with data set "Application name is not configured"</name>
+    </test-case>
+    <test-case start="1729890354950" stop="1729890354952" status="passed">
+      <name>testSuccessfullySettingAreaCode with data set "New Relic is disabled"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

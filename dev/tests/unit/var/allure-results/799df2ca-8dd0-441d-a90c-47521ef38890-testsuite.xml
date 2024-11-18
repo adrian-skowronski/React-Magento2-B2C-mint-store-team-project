@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294155" stop="1729890294159" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ResourceModel\Product\CompositeBaseSelectProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890294155" stop="1729890294157" status="passed">
+      <name>testInitializeWithWrongProcessorInstance</name>
+    </test-case>
+    <test-case start="1729890294158" stop="1729890294159" status="passed">
+      <name>testProcess</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

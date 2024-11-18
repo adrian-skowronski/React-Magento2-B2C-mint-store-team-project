@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287767" stop="1729890287773" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Plugin\QuoteItemProductOptionTest</name>
+  <test-cases>
+    <test-case start="1729890287767" stop="1729890287770" status="passed">
+      <name>testBeforeItemToOrderItemEmptyOptions</name>
+    </test-case>
+    <test-case start="1729890287770" stop="1729890287773" status="passed">
+      <name>testBeforeItemToOrderItemWithOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

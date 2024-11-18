@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316241" stop="1729890316246" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\CustomerAuthUpdateTest</name>
+  <test-cases>
+    <test-case start="1729890316242" stop="1729890316245" status="passed">
+      <name>testSaveAuth</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

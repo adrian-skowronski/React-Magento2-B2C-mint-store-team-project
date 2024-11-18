@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890292030" stop="1729890292098" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest</name>
+  <test-cases>
+    <test-case start="1729890292032" stop="1729890292095" status="passed">
+      <name>testDeserialize with data set "request body with xml data"</name>
+    </test-case>
+    <test-case start="1729890292097" stop="1729890292098" status="passed">
+      <name>testDeserialize with data set "request body with json data"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

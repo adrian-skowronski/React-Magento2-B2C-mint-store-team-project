@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463148" stop="1729890463155" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\TextTest</name>
+  <test-cases>
+    <test-case start="1729890463148" stop="1729890463149" status="passed">
+      <name>testSetText</name>
+    </test-case>
+    <test-case start="1729890463149" stop="1729890463151" status="passed">
+      <name>testGetText</name>
+    </test-case>
+    <test-case start="1729890463152" stop="1729890463153" status="passed">
+      <name>testAddText with data set "before_false"</name>
+    </test-case>
+    <test-case start="1729890463153" stop="1729890463155" status="passed">
+      <name>testAddText with data set "before_true"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

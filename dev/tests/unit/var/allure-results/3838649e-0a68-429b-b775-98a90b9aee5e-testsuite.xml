@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890278388" stop="1729890278402" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Pricing\Price\CatalogRulePriceTest</name>
+  <test-cases>
+    <test-case start="1729890278388" stop="1729890278392" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+    <test-case start="1729890278392" stop="1729890278396" status="passed">
+      <name>testGetValueFromData</name>
+    </test-case>
+    <test-case start="1729890278397" stop="1729890278398" status="passed">
+      <name>testGetAmountNoBaseAmount</name>
+    </test-case>
+    <test-case start="1729890278398" stop="1729890278402" status="passed">
+      <name>testGetValueWithNullAmount</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

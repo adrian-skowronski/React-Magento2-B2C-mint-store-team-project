@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890362254" stop="1729890362263" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Payflow\Service\Response\Validator\SecureTokenTest</name>
+  <test-cases>
+    <test-case start="1729890362255" stop="1729890362256" status="passed">
+      <name>testValidation with data set #0</name>
+    </test-case>
+    <test-case start="1729890362256" stop="1729890362257" status="passed">
+      <name>testValidation with data set #1</name>
+    </test-case>
+    <test-case start="1729890362257" stop="1729890362258" status="passed">
+      <name>testValidation with data set #2</name>
+    </test-case>
+    <test-case start="1729890362259" stop="1729890362260" status="passed">
+      <name>testValidation with data set #3</name>
+    </test-case>
+    <test-case start="1729890362260" stop="1729890362261" status="passed">
+      <name>testValidation with data set #4</name>
+    </test-case>
+    <test-case start="1729890362262" stop="1729890362262" status="passed">
+      <name>testValidation with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

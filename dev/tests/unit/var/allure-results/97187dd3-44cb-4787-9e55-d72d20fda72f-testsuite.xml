@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452599" stop="1729890452626" version="1.4.0">
+  <name>Magento\Framework\Module\Test\Unit\ConflictCheckerTest</name>
+  <test-cases>
+    <test-case start="1729890452600" stop="1729890452604" status="passed">
+      <name>testCheckConflictsWhenEnableModules with data set #0</name>
+    </test-case>
+    <test-case start="1729890452605" stop="1729890452606" status="passed">
+      <name>testCheckConflictsWhenEnableModules with data set #1</name>
+    </test-case>
+    <test-case start="1729890452607" stop="1729890452608" status="passed">
+      <name>testCheckConflictsWhenEnableModules with data set #2</name>
+    </test-case>
+    <test-case start="1729890452608" stop="1729890452609" status="passed">
+      <name>testCheckConflictsWhenEnableModules with data set #3</name>
+    </test-case>
+    <test-case start="1729890452610" stop="1729890452611" status="passed">
+      <name>testCheckConflictsWhenEnableModules with data set #4</name>
+    </test-case>
+    <test-case start="1729890452611" stop="1729890452613" status="passed">
+      <name>testCheckConflictsWhenEnableModules with data set #5</name>
+    </test-case>
+    <test-case start="1729890452614" stop="1729890452615" status="passed">
+      <name>testCheckConflictsWhenEnableModules with data set #6</name>
+    </test-case>
+    <test-case start="1729890452616" stop="1729890452618" status="passed">
+      <name>testCheckConflictsWhenEnableModules with data set #7</name>
+    </test-case>
+    <test-case start="1729890452618" stop="1729890452620" status="passed">
+      <name>testCheckConflictsWhenEnableModules with data set #8</name>
+    </test-case>
+    <test-case start="1729890452621" stop="1729890452622" status="passed">
+      <name>testCheckConflictsWhenEnableModules with data set #9</name>
+    </test-case>
+    <test-case start="1729890452623" stop="1729890452624" status="passed">
+      <name>testCheckConflictWhenEnableModuleDifferentVersion</name>
+    </test-case>
+    <test-case start="1729890452625" stop="1729890452626" status="passed">
+      <name>testCheckConflictWhenEnableModuleDifferentVersionWithCurEnabledModules</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

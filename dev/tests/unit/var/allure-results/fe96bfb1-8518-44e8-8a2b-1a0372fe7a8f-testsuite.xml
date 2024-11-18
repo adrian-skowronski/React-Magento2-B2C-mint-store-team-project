@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418708" stop="1729890418862" version="1.4.0">
+  <name>PayPal\Braintree\Test\Unit\Block\FormTest</name>
+  <test-cases>
+    <test-case start="1729890418709" stop="1729890418715" status="passed">
+      <name>testGetCcAvailableTypes with data set #0</name>
+    </test-case>
+    <test-case start="1729890418716" stop="1729890418718" status="passed">
+      <name>testGetCcAvailableTypes with data set #1</name>
+    </test-case>
+    <test-case start="1729890418718" stop="1729890418722" status="passed">
+      <name>testGetCcAvailableTypes with data set #2</name>
+    </test-case>
+    <test-case start="1729890418722" stop="1729890418725" status="passed">
+      <name>testGetCcAvailableTypes with data set #3</name>
+    </test-case>
+    <test-case start="1729890418725" stop="1729890418861" status="passed">
+      <name>testIsVaultEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454681" stop="1729890454687" version="1.4.0">
+  <name>Magento\Framework\ObjectManager\Test\Unit\Relations\RuntimeTest</name>
+  <test-cases>
+    <test-case start="1729890454682" stop="1729890454683" status="passed">
+      <name>testGetParents with data set #0</name>
+    </test-case>
+    <test-case start="1729890454683" stop="1729890454684" status="passed">
+      <name>testGetParents with data set #1</name>
+    </test-case>
+    <test-case start="1729890454685" stop="1729890454686" status="passed">
+      <name>testGetParents with data set #2</name>
+    </test-case>
+    <test-case start="1729890454686" stop="1729890454687" status="passed">
+      <name>testHasIfNonExists</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

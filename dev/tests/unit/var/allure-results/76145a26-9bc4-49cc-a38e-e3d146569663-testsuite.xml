@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890267914" stop="1729890267953" version="1.4.0">
+  <name>Magento\Backup\Test\Unit\Controller\Adminhtml\Index\CreateTest</name>
+  <test-cases>
+    <test-case start="1729890267915" stop="1729890267942" status="passed">
+      <name>testExecuteNotPost</name>
+    </test-case>
+    <test-case start="1729890267945" stop="1729890267953" status="passed">
+      <name>testExecutePermission</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

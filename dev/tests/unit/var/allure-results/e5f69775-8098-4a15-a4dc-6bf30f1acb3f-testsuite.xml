@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890421790" stop="1729890421799" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890421791" stop="1729890421792" status="passed">
+      <name>testIsValid with data set #0</name>
+    </test-case>
+    <test-case start="1729890421793" stop="1729890421794" status="passed">
+      <name>testIsValid with data set #1</name>
+    </test-case>
+    <test-case start="1729890421795" stop="1729890421796" status="passed">
+      <name>testIsValid with data set #2</name>
+    </test-case>
+    <test-case start="1729890421796" stop="1729890421797" status="canceled">
+      <name>testAddValidator</name>
+      <failure>
+        <message>Skipped in #27500 due to testing protected/private methods and properties</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/framework/Test/Unit/ValidatorTest.php(144): PHPUnit\Framework\Assert::markTestSkipped()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Test\Unit\ValidatorTest-&gt;testAddValidator()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#12 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890421798" stop="1729890421799" status="passed">
+      <name>testSetTranslator</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890425752" stop="1729890426008" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Request\HttpTest</name>
+  <test-cases>
+    <test-case start="1729890425753" stop="1729890425755" status="passed">
+      <name>testGetOriginalPathInfoWithTestUri</name>
+    </test-case>
+    <test-case start="1729890425755" stop="1729890425757" status="passed">
+      <name>testGetOriginalPathInfoWithEmptyUri</name>
+    </test-case>
+    <test-case start="1729890425757" stop="1729890425759" status="passed">
+      <name>testGetBasePathWithPath</name>
+    </test-case>
+    <test-case start="1729890425759" stop="1729890425761" status="passed">
+      <name>testGetBasePathWithoutPath</name>
+    </test-case>
+    <test-case start="1729890425761" stop="1729890425763" status="passed">
+      <name>testSetRouteNameWithRouter</name>
+    </test-case>
+    <test-case start="1729890425763" stop="1729890425765" status="passed">
+      <name>testSetRouteNameWithNullRouterValue</name>
+    </test-case>
+    <test-case start="1729890425765" stop="1729890425766" status="passed">
+      <name>testGetFrontName</name>
+    </test-case>
+    <test-case start="1729890425767" stop="1729890425768" status="passed">
+      <name>testGetRouteNameWithNullValueRouteName</name>
+    </test-case>
+    <test-case start="1729890425768" stop="1729890425770" status="passed">
+      <name>testGetRouteName</name>
+    </test-case>
+    <test-case start="1729890425770" stop="1729890425771" status="passed">
+      <name>testGetFullActionName</name>
+    </test-case>
+    <test-case start="1729890425772" stop="1729890425773" status="passed">
+      <name>testInitForward</name>
+    </test-case>
+    <test-case start="1729890425773" stop="1729890425775" status="passed">
+      <name>testGetBeforeForwardInfo</name>
+    </test-case>
+    <test-case start="1729890425775" stop="1729890425778" status="passed">
+      <name>testIsAjax</name>
+    </test-case>
+    <test-case start="1729890425780" stop="1729890425788" status="passed">
+      <name>testGetDistroBaseUrl with data set "no SCRIPT_NAME"</name>
+    </test-case>
+    <test-case start="1729890425788" stop="1729890425790" status="passed">
+      <name>testGetDistroBaseUrl with data set "no HTTP_HOST"</name>
+    </test-case>
+    <test-case start="1729890425790" stop="1729890425792" status="passed">
+      <name>testGetDistroBaseUrl with data set "HTTPS off"</name>
+    </test-case>
+    <test-case start="1729890425793" stop="1729890425795" status="passed">
+      <name>testGetDistroBaseUrl with data set "no HTTPS"</name>
+    </test-case>
+    <test-case start="1729890425796" stop="1729890425797" status="passed">
+      <name>testGetDistroBaseUrl with data set "no SERVER_PORT"</name>
+    </test-case>
+    <test-case start="1729890425798" stop="1729890425799" status="passed">
+      <name>testGetDistroBaseUrl with data set "no HTTP but secure port"</name>
+    </test-case>
+    <test-case start="1729890425800" stop="1729890425802" status="passed">
+      <name>testGetDistroBaseUrl with data set "not secure not standard port"</name>
+    </test-case>
+    <test-case start="1729890425802" stop="1729890425804" status="passed">
+      <name>testGetDistroBaseUrl with data set "not standard secure port"</name>
+    </test-case>
+    <test-case start="1729890425805" stop="1729890425806" status="passed">
+      <name>testGetDistroBaseUrl with data set "custom path"</name>
+    </test-case>
+    <test-case start="1729890425807" stop="1729890425808" status="passed">
+      <name>testGetDistroBaseUrlPath with data set #0</name>
+    </test-case>
+    <test-case start="1729890425809" stop="1729890425810" status="passed">
+      <name>testGetDistroBaseUrlPath with data set #1</name>
+    </test-case>
+    <test-case start="1729890425811" stop="1729890425812" status="passed">
+      <name>testGetDistroBaseUrlPath with data set #2</name>
+    </test-case>
+    <test-case start="1729890425812" stop="1729890425813" status="passed">
+      <name>testGetDistroBaseUrlPath with data set #3</name>
+    </test-case>
+    <test-case start="1729890425814" stop="1729890425815" status="passed">
+      <name>testGetDistroBaseUrlPath with data set #4</name>
+    </test-case>
+    <test-case start="1729890425815" stop="1729890425816" status="passed">
+      <name>testGetDistroBaseUrlPath with data set #5</name>
+    </test-case>
+    <test-case start="1729890425817" stop="1729890425818" status="passed">
+      <name>testGetDistroBaseUrlPath with data set #6</name>
+    </test-case>
+    <test-case start="1729890425819" stop="1729890425820" status="passed">
+      <name>testGetDistroBaseUrlPath with data set #7</name>
+    </test-case>
+    <test-case start="1729890425822" stop="1729890425823" status="passed">
+      <name>testIsSecure with data set "Test 1"</name>
+    </test-case>
+    <test-case start="1729890425825" stop="1729890425827" status="passed">
+      <name>testIsSecure with data set "Test 2"</name>
+    </test-case>
+    <test-case start="1729890425828" stop="1729890425829" status="passed">
+      <name>testIsSecure with data set "Test 3"</name>
+    </test-case>
+    <test-case start="1729890425831" stop="1729890425832" status="passed">
+      <name>testIsSecure with data set "Test 4"</name>
+    </test-case>
+    <test-case start="1729890425833" stop="1729890425835" status="passed">
+      <name>testIsSecure with data set "Test 5"</name>
+    </test-case>
+    <test-case start="1729890425836" stop="1729890425837" status="passed">
+      <name>testIsSecure with data set "Test 6"</name>
+    </test-case>
+    <test-case start="1729890425838" stop="1729890425840" status="passed">
+      <name>testIsSecure with data set "Test 7"</name>
+    </test-case>
+    <test-case start="1729890425841" stop="1729890425842" status="passed">
+      <name>testIsSecure with data set "Test 8"</name>
+    </test-case>
+    <test-case start="1729890425843" stop="1729890425845" status="passed">
+      <name>testIsSecure with data set "Test 9"</name>
+    </test-case>
+    <test-case start="1729890425847" stop="1729890425849" status="passed">
+      <name>testIsSecure with data set "blank HTTPS with proxy set https"</name>
+    </test-case>
+    <test-case start="1729890425850" stop="1729890425852" status="passed">
+      <name>testIsSecure with data set "blank HTTPS with proxy set http"</name>
+    </test-case>
+    <test-case start="1729890425853" stop="1729890425854" status="passed">
+      <name>testIsSecure with data set "HTTPS off with HTTP_ prefixed proxy set to https"</name>
+    </test-case>
+    <test-case start="1729890425855" stop="1729890425865" status="passed">
+      <name>testIsSafeMethodTrue with data set "Test 1"</name>
+    </test-case>
+    <test-case start="1729890425866" stop="1729890425873" status="passed">
+      <name>testIsSafeMethodTrue with data set "Test 2"</name>
+    </test-case>
+    <test-case start="1729890425873" stop="1729890425883" status="passed">
+      <name>testIsSafeMethodTrue with data set "Test 3"</name>
+    </test-case>
+    <test-case start="1729890425884" stop="1729890425894" status="passed">
+      <name>testIsSafeMethodTrue with data set "Test 4"</name>
+    </test-case>
+    <test-case start="1729890425895" stop="1729890425901" status="passed">
+      <name>testIsSafeMethodFalse with data set "Test 1"</name>
+    </test-case>
+    <test-case start="1729890425901" stop="1729890425912" status="passed">
+      <name>testIsSafeMethodFalse with data set "Test 2"</name>
+    </test-case>
+    <test-case start="1729890425912" stop="1729890425922" status="passed">
+      <name>testIsSafeMethodFalse with data set "Test 3"</name>
+    </test-case>
+    <test-case start="1729890425923" stop="1729890425932" status="passed">
+      <name>testIsSafeMethodFalse with data set "Test 4"</name>
+    </test-case>
+    <test-case start="1729890425933" stop="1729890425943" status="passed">
+      <name>testIsSafeMethodFalse with data set "Test 5"</name>
+    </test-case>
+    <test-case start="1729890425944" stop="1729890425954" status="passed">
+      <name>testIsSafeMethodFalse with data set "Test 6"</name>
+    </test-case>
+    <test-case start="1729890425955" stop="1729890425956" status="passed">
+      <name>testGetPathInfo with data set #0</name>
+    </test-case>
+    <test-case start="1729890425958" stop="1729890425959" status="passed">
+      <name>testGetPathInfo with data set #1</name>
+    </test-case>
+    <test-case start="1729890425960" stop="1729890425962" status="passed">
+      <name>testGetPathInfo with data set #2</name>
+    </test-case>
+    <test-case start="1729890425963" stop="1729890425966" status="passed">
+      <name>testGetPathInfo with data set #3</name>
+    </test-case>
+    <test-case start="1729890425967" stop="1729890425968" status="passed">
+      <name>testGetPathInfo with data set #4</name>
+    </test-case>
+    <test-case start="1729890425969" stop="1729890425971" status="passed">
+      <name>testGetPathInfo with data set #5</name>
+    </test-case>
+    <test-case start="1729890425971" stop="1729890425973" status="passed">
+      <name>testGetPathInfo with data set #6</name>
+    </test-case>
+    <test-case start="1729890425974" stop="1729890425975" status="passed">
+      <name>testGetPathInfo with data set #7</name>
+    </test-case>
+    <test-case start="1729890425976" stop="1729890425978" status="passed">
+      <name>testGetPathInfo with data set #8</name>
+    </test-case>
+    <test-case start="1729890425979" stop="1729890425982" status="passed">
+      <name>testGetPathInfo with data set #9</name>
+    </test-case>
+    <test-case start="1729890425983" stop="1729890425986" status="passed">
+      <name>testGetPathInfo with data set #10</name>
+    </test-case>
+    <test-case start="1729890425988" stop="1729890425990" status="passed">
+      <name>testGetPathInfo with data set #11</name>
+    </test-case>
+    <test-case start="1729890425991" stop="1729890425992" status="passed">
+      <name>testGetPathInfo with data set #12</name>
+    </test-case>
+    <test-case start="1729890425993" stop="1729890425995" status="passed">
+      <name>testGetPathInfo with data set #13</name>
+    </test-case>
+    <test-case start="1729890425995" stop="1729890425997" status="passed">
+      <name>testGetPathInfo with data set #14</name>
+    </test-case>
+    <test-case start="1729890425997" stop="1729890426000" status="passed">
+      <name>testGetPathInfo with data set #15</name>
+    </test-case>
+    <test-case start="1729890426000" stop="1729890426003" status="passed">
+      <name>testGetPathInfo with data set #16</name>
+    </test-case>
+    <test-case start="1729890426004" stop="1729890426008" status="passed">
+      <name>testSetPathInfo</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

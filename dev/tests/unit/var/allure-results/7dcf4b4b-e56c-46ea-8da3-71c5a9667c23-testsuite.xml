@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358072" stop="1729890358083" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Block\Info\InstructionsTest</name>
+  <test-cases>
+    <test-case start="1729890358076" stop="1729890358080" status="passed">
+      <name>testGetInstructionAdditionalInformation</name>
+    </test-case>
+    <test-case start="1729890358080" stop="1729890358083" status="passed">
+      <name>testGetInstruction</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

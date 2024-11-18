@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287703" stop="1729890287709" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Locator\RegistryLocatorTest</name>
+  <test-cases>
+    <test-case start="1729890287703" stop="1729890287705" status="passed">
+      <name>testGetProduct</name>
+    </test-case>
+    <test-case start="1729890287705" stop="1729890287706" status="passed">
+      <name>testGetStore</name>
+    </test-case>
+    <test-case start="1729890287706" stop="1729890287707" status="passed">
+      <name>testGetProductWithException</name>
+    </test-case>
+    <test-case start="1729890287708" stop="1729890287709" status="passed">
+      <name>testGetStoreWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890259505" stop="1729890259610" version="1.4.0">
+  <name>Magento\AdobeStockClient\Test\Unit\Model\ConnectionFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890259505" stop="1729890259607" status="passed">
+      <name>testCreate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

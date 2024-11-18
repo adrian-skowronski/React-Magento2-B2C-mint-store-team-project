@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451482" stop="1729890451494" version="1.4.0">
+  <name>Magento\Framework\Logger\Test\Unit\LoggerProxyTest</name>
+  <test-cases>
+    <test-case start="1729890451482" stop="1729890451483" status="passed">
+      <name>logMessage with data set #0</name>
+    </test-case>
+    <test-case start="1729890451484" stop="1729890451485" status="passed">
+      <name>logMessage with data set #1</name>
+    </test-case>
+    <test-case start="1729890451485" stop="1729890451486" status="passed">
+      <name>logMessage with data set #2</name>
+    </test-case>
+    <test-case start="1729890451486" stop="1729890451487" status="passed">
+      <name>logMessage with data set #3</name>
+    </test-case>
+    <test-case start="1729890451488" stop="1729890451489" status="passed">
+      <name>logMessage with data set #4</name>
+    </test-case>
+    <test-case start="1729890451489" stop="1729890451490" status="passed">
+      <name>logMessage with data set #5</name>
+    </test-case>
+    <test-case start="1729890451490" stop="1729890451491" status="passed">
+      <name>logMessage with data set #6</name>
+    </test-case>
+    <test-case start="1729890451492" stop="1729890451492" status="passed">
+      <name>logMessage with data set #7</name>
+    </test-case>
+    <test-case start="1729890451493" stop="1729890451494" status="passed">
+      <name>createWithArguments</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

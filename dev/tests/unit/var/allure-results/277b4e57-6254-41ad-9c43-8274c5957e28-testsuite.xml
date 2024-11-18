@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403086" stop="1729890403092" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Theme\StoreThemesResolverTest</name>
+  <test-cases>
+    <test-case start="1729890403086" stop="1729890403087" status="passed">
+      <name>testInvalidConstructorArguments</name>
+    </test-case>
+    <test-case start="1729890403088" stop="1729890403089" status="passed">
+      <name>testGetThemes with data set #0</name>
+    </test-case>
+    <test-case start="1729890403089" stop="1729890403090" status="passed">
+      <name>testGetThemes with data set #1</name>
+    </test-case>
+    <test-case start="1729890403091" stop="1729890403092" status="passed">
+      <name>testGetThemes with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890380088" stop="1729890380093" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\AdminOrder\Product\Quote\InitializerTest</name>
+  <test-cases>
+    <test-case start="1729890380088" stop="1729890380091" status="passed">
+      <name>testInitWithDecimalQty</name>
+    </test-case>
+    <test-case start="1729890380091" stop="1729890380092" status="passed">
+      <name>testInitWithNonDecimalQty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

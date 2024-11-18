@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890440851" stop="1729890440855" version="1.4.0">
+  <name>Magento\Framework\Config\Test\Unit\DataTest</name>
+  <test-cases>
+    <test-case start="1729890440851" stop="1729890440852" status="passed">
+      <name>testGetConfigNotCached</name>
+    </test-case>
+    <test-case start="1729890440852" stop="1729890440853" status="passed">
+      <name>testGetConfigCached</name>
+    </test-case>
+    <test-case start="1729890440854" stop="1729890440855" status="passed">
+      <name>testReset</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

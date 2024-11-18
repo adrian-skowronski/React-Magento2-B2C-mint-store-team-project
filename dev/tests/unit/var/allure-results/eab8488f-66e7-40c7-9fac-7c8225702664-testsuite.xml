@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890405547" stop="1729890405550" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Config\Converter\StorageConfigTest</name>
+  <test-cases>
+    <test-case start="1729890405548" stop="1729890405549" status="passed">
+      <name>testConvert</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

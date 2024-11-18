@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404745" stop="1729890404753" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\Form\Element\MultiSelectTest</name>
+  <test-cases>
+    <test-case start="1729890404745" stop="1729890404746" status="passed">
+      <name>testGetComponentName</name>
+    </test-case>
+    <test-case start="1729890404747" stop="1729890404748" status="passed">
+      <name>testPrepare</name>
+    </test-case>
+    <test-case start="1729890404748" stop="1729890404749" status="passed">
+      <name>testGetHtmlId</name>
+    </test-case>
+    <test-case start="1729890404749" stop="1729890404750" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+    <test-case start="1729890404750" stop="1729890404751" status="passed">
+      <name>testGetFormInputName</name>
+    </test-case>
+    <test-case start="1729890404751" stop="1729890404752" status="passed">
+      <name>testIsReadonly</name>
+    </test-case>
+    <test-case start="1729890404752" stop="1729890404753" status="passed">
+      <name>testGetCssClasses</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

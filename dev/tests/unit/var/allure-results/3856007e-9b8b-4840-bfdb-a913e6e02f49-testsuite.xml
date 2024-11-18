@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890314478" stop="1729890314493" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Controller\Adminhtml\Index\ViewfileTest</name>
+  <test-cases>
+    <test-case start="1729890314479" stop="1729890314483" status="passed">
+      <name>testExecuteNoParamsShouldThrowException</name>
+    </test-case>
+    <test-case start="1729890314483" stop="1729890314486" status="passed">
+      <name>testExecuteParamFile</name>
+    </test-case>
+    <test-case start="1729890314486" stop="1729890314489" status="passed">
+      <name>testExecuteGetParamImage</name>
+    </test-case>
+    <test-case start="1729890314490" stop="1729890314493" status="passed">
+      <name>testExecuteInvalidFile</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

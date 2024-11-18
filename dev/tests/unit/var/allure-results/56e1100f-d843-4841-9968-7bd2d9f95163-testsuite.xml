@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262871" stop="1729890262877" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\ReportXml\DB\Assembler\JoinAssemblerTest</name>
+  <test-cases>
+    <test-case start="1729890262871" stop="1729890262873" status="passed">
+      <name>testAssembleEmpty</name>
+    </test-case>
+    <test-case start="1729890262874" stop="1729890262877" status="passed">
+      <name>testAssembleNotEmpty with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

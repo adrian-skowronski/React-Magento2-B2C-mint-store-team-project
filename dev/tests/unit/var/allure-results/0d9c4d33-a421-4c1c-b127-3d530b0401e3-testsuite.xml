@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890427384" stop="1729890427441" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Utility\AggregateInvokerTest</name>
+  <test-cases>
+    <test-case start="1729890427385" stop="1729890427402" status="passed">
+      <name>testMainFlow with data set #0</name>
+    </test-case>
+    <test-case start="1729890427405" stop="1729890427428" status="passed">
+      <name>testMainFlow with data set #1</name>
+    </test-case>
+    <test-case start="1729890427432" stop="1729890427434" status="passed">
+      <name>testMainFlow with data set #2</name>
+    </test-case>
+    <test-case start="1729890427435" stop="1729890427437" status="passed">
+      <name>testMainFlow with data set #3</name>
+    </test-case>
+    <test-case start="1729890427438" stop="1729890427440" status="passed">
+      <name>testMainFlow with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356822" stop="1729890356832" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Model\App\PageCachePluginTest</name>
+  <test-cases>
+    <test-case start="1729890356823" stop="1729890356826" status="passed">
+      <name>testBeforeSaveAddTag</name>
+    </test-case>
+    <test-case start="1729890356826" stop="1729890356828" status="passed">
+      <name>testBeforeSaveCompression</name>
+    </test-case>
+    <test-case start="1729890356829" stop="1729890356830" status="passed">
+      <name>testAfterSaveDecompression with data set "Compressed cache"</name>
+    </test-case>
+    <test-case start="1729890356831" stop="1729890356832" status="passed">
+      <name>testAfterSaveDecompression with data set "Non-compressed cache"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

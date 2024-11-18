@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890315326" stop="1729890315333" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Address\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890315326" stop="1729890315329" status="passed">
+      <name>testGetStore</name>
+    </test-case>
+    <test-case start="1729890315329" stop="1729890315331" status="passed">
+      <name>testSetStore</name>
+    </test-case>
+    <test-case start="1729890315331" stop="1729890315333" status="passed">
+      <name>testGetFormats</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

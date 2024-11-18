@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890399152" stop="1729890399230" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890399153" stop="1729890399153" status="passed">
+      <name>testDirectSettersGettersMethods with data set #0</name>
+    </test-case>
+    <test-case start="1729890399154" stop="1729890399154" status="passed">
+      <name>testDirectSettersGettersMethods with data set #1</name>
+    </test-case>
+    <test-case start="1729890399155" stop="1729890399156" status="passed">
+      <name>testDirectSettersGettersMethods with data set #2</name>
+    </test-case>
+    <test-case start="1729890399156" stop="1729890399157" status="passed">
+      <name>testDirectSettersGettersMethods with data set #3</name>
+    </test-case>
+    <test-case start="1729890399157" stop="1729890399158" status="passed">
+      <name>testDirectSettersGettersMethods with data set #4</name>
+    </test-case>
+    <test-case start="1729890399159" stop="1729890399159" status="passed">
+      <name>testDirectSettersGettersMethods with data set #5</name>
+    </test-case>
+    <test-case start="1729890399160" stop="1729890399160" status="passed">
+      <name>testDirectSettersGettersMethods with data set #6</name>
+    </test-case>
+    <test-case start="1729890399161" stop="1729890399162" status="passed">
+      <name>testGetCalculationSequence with data set #0</name>
+    </test-case>
+    <test-case start="1729890399163" stop="1729890399164" status="passed">
+      <name>testGetCalculationSequence with data set #1</name>
+    </test-case>
+    <test-case start="1729890399164" stop="1729890399165" status="passed">
+      <name>testGetCalculationSequence with data set #2</name>
+    </test-case>
+    <test-case start="1729890399166" stop="1729890399166" status="passed">
+      <name>testGetCalculationSequence with data set #3</name>
+    </test-case>
+    <test-case start="1729890399167" stop="1729890399168" status="passed">
+      <name>testScopeConfigMethods with data set #0</name>
+    </test-case>
+    <test-case start="1729890399169" stop="1729890399170" status="passed">
+      <name>testScopeConfigMethods with data set #1</name>
+    </test-case>
+    <test-case start="1729890399171" stop="1729890399172" status="passed">
+      <name>testScopeConfigMethods with data set #2</name>
+    </test-case>
+    <test-case start="1729890399172" stop="1729890399173" status="passed">
+      <name>testScopeConfigMethods with data set #3</name>
+    </test-case>
+    <test-case start="1729890399174" stop="1729890399175" status="passed">
+      <name>testScopeConfigMethods with data set #4</name>
+    </test-case>
+    <test-case start="1729890399176" stop="1729890399177" status="passed">
+      <name>testScopeConfigMethods with data set #5</name>
+    </test-case>
+    <test-case start="1729890399177" stop="1729890399178" status="passed">
+      <name>testScopeConfigMethods with data set #6</name>
+    </test-case>
+    <test-case start="1729890399179" stop="1729890399180" status="passed">
+      <name>testScopeConfigMethods with data set #7</name>
+    </test-case>
+    <test-case start="1729890399181" stop="1729890399181" status="passed">
+      <name>testScopeConfigMethods with data set #8</name>
+    </test-case>
+    <test-case start="1729890399182" stop="1729890399182" status="passed">
+      <name>testScopeConfigMethods with data set #9</name>
+    </test-case>
+    <test-case start="1729890399182" stop="1729890399183" status="passed">
+      <name>testScopeConfigMethods with data set #10</name>
+    </test-case>
+    <test-case start="1729890399183" stop="1729890399184" status="passed">
+      <name>testScopeConfigMethods with data set #11</name>
+    </test-case>
+    <test-case start="1729890399185" stop="1729890399186" status="passed">
+      <name>testScopeConfigMethods with data set #12</name>
+    </test-case>
+    <test-case start="1729890399186" stop="1729890399187" status="passed">
+      <name>testScopeConfigMethods with data set #13</name>
+    </test-case>
+    <test-case start="1729890399188" stop="1729890399189" status="passed">
+      <name>testScopeConfigMethods with data set #14</name>
+    </test-case>
+    <test-case start="1729890399189" stop="1729890399190" status="passed">
+      <name>testScopeConfigMethods with data set #15</name>
+    </test-case>
+    <test-case start="1729890399191" stop="1729890399192" status="passed">
+      <name>testScopeConfigMethods with data set #16</name>
+    </test-case>
+    <test-case start="1729890399192" stop="1729890399193" status="passed">
+      <name>testScopeConfigMethods with data set #17</name>
+    </test-case>
+    <test-case start="1729890399194" stop="1729890399195" status="passed">
+      <name>testScopeConfigMethods with data set #18</name>
+    </test-case>
+    <test-case start="1729890399196" stop="1729890399197" status="passed">
+      <name>testScopeConfigMethods with data set #19</name>
+    </test-case>
+    <test-case start="1729890399197" stop="1729890399198" status="passed">
+      <name>testScopeConfigMethods with data set #20</name>
+    </test-case>
+    <test-case start="1729890399199" stop="1729890399199" status="passed">
+      <name>testScopeConfigMethods with data set #21</name>
+    </test-case>
+    <test-case start="1729890399200" stop="1729890399201" status="passed">
+      <name>testScopeConfigMethods with data set #22</name>
+    </test-case>
+    <test-case start="1729890399202" stop="1729890399203" status="passed">
+      <name>testScopeConfigMethods with data set #23</name>
+    </test-case>
+    <test-case start="1729890399203" stop="1729890399204" status="passed">
+      <name>testScopeConfigMethods with data set #24</name>
+    </test-case>
+    <test-case start="1729890399205" stop="1729890399206" status="passed">
+      <name>testScopeConfigMethods with data set #25</name>
+    </test-case>
+    <test-case start="1729890399206" stop="1729890399207" status="passed">
+      <name>testScopeConfigMethods with data set #26</name>
+    </test-case>
+    <test-case start="1729890399208" stop="1729890399209" status="passed">
+      <name>testScopeConfigMethods with data set #27</name>
+    </test-case>
+    <test-case start="1729890399209" stop="1729890399210" status="passed">
+      <name>testScopeConfigMethods with data set #28</name>
+    </test-case>
+    <test-case start="1729890399211" stop="1729890399212" status="passed">
+      <name>testScopeConfigMethods with data set #29</name>
+    </test-case>
+    <test-case start="1729890399212" stop="1729890399213" status="passed">
+      <name>testScopeConfigMethods with data set #30</name>
+    </test-case>
+    <test-case start="1729890399214" stop="1729890399215" status="passed">
+      <name>testScopeConfigMethods with data set #31</name>
+    </test-case>
+    <test-case start="1729890399215" stop="1729890399216" status="passed">
+      <name>testScopeConfigMethods with data set #32</name>
+    </test-case>
+    <test-case start="1729890399216" stop="1729890399217" status="passed">
+      <name>testScopeConfigMethods with data set #33</name>
+    </test-case>
+    <test-case start="1729890399217" stop="1729890399219" status="passed">
+      <name>testScopeConfigMethods with data set #34</name>
+    </test-case>
+    <test-case start="1729890399219" stop="1729890399220" status="passed">
+      <name>testScopeConfigMethods with data set #35</name>
+    </test-case>
+    <test-case start="1729890399221" stop="1729890399221" status="passed">
+      <name>testScopeConfigMethods with data set #36</name>
+    </test-case>
+    <test-case start="1729890399222" stop="1729890399223" status="passed">
+      <name>testScopeConfigMethods with data set #37</name>
+    </test-case>
+    <test-case start="1729890399223" stop="1729890399224" status="passed">
+      <name>testScopeConfigMethods with data set #38</name>
+    </test-case>
+    <test-case start="1729890399225" stop="1729890399226" status="passed">
+      <name>testScopeConfigMethods with data set #39</name>
+    </test-case>
+    <test-case start="1729890399226" stop="1729890399227" status="passed">
+      <name>testScopeConfigMethods with data set #40</name>
+    </test-case>
+    <test-case start="1729890399228" stop="1729890399228" status="passed">
+      <name>testScopeConfigMethods with data set #41</name>
+    </test-case>
+    <test-case start="1729890399229" stop="1729890399230" status="passed">
+      <name>testScopeConfigMethods with data set #42</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

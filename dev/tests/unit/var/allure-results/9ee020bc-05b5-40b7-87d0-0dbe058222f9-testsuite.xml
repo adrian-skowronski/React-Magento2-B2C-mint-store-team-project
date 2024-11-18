@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890261900" stop="1729890261909" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Cron\CollectDataTest</name>
+  <test-cases>
+    <test-case start="1729890261901" stop="1729890261907" status="passed">
+      <name>testExecute with data set "Subscription is enabled"</name>
+    </test-case>
+    <test-case start="1729890261908" stop="1729890261909" status="passed">
+      <name>testExecute with data set "Subscription is disabled"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

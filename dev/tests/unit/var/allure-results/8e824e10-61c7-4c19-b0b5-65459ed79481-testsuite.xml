@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890409480" stop="1729890409490" version="1.4.0">
+  <name>Magento\Weee\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890409480" stop="1729890409481" status="passed">
+      <name>testScopeConfigMethods with data set #0</name>
+    </test-case>
+    <test-case start="1729890409482" stop="1729890409483" status="passed">
+      <name>testScopeConfigMethods with data set #1</name>
+    </test-case>
+    <test-case start="1729890409483" stop="1729890409485" status="passed">
+      <name>testScopeConfigMethods with data set #2</name>
+    </test-case>
+    <test-case start="1729890409485" stop="1729890409486" status="passed">
+      <name>testScopeConfigMethods with data set #3</name>
+    </test-case>
+    <test-case start="1729890409487" stop="1729890409487" status="passed">
+      <name>testScopeConfigMethods with data set #4</name>
+    </test-case>
+    <test-case start="1729890409488" stop="1729890409489" status="passed">
+      <name>testScopeConfigMethods with data set #5</name>
+    </test-case>
+    <test-case start="1729890409489" stop="1729890409490" status="passed">
+      <name>testScopeConfigMethods with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

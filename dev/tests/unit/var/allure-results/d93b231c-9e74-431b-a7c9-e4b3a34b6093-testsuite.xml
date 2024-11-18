@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406492" stop="1729890406505" version="1.4.0">
+  <name>Magento\UrlRewrite\Test\Unit\Controller\Url\Rewrite\InlineEditTest</name>
+  <test-cases>
+    <test-case start="1729890406493" stop="1729890406498" status="passed">
+      <name>testExecuteWithRuntimeException</name>
+    </test-case>
+    <test-case start="1729890406498" stop="1729890406501" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+    <test-case start="1729890406501" stop="1729890406503" status="passed">
+      <name>testExecuteWithoutData</name>
+    </test-case>
+    <test-case start="1729890406503" stop="1729890406505" status="passed">
+      <name>testExecuteAction</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

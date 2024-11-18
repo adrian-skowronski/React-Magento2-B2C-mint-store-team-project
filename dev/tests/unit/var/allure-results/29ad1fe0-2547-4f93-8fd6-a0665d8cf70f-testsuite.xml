@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451449" stop="1729890451453" version="1.4.0">
+  <name>Magento\Framework\Logger\Test\Unit\Handler\BaseTest</name>
+  <test-cases>
+    <test-case start="1729890451450" stop="1729890451450" status="passed">
+      <name>testSanitizeEmpty</name>
+    </test-case>
+    <test-case start="1729890451451" stop="1729890451451" status="passed">
+      <name>testSanitizeSimpleFilename</name>
+    </test-case>
+    <test-case start="1729890451451" stop="1729890451452" status="passed">
+      <name>testSanitizeLeadingSlashFilename</name>
+    </test-case>
+    <test-case start="1729890451452" stop="1729890451453" status="passed">
+      <name>testSanitizeParentLevelFolder</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

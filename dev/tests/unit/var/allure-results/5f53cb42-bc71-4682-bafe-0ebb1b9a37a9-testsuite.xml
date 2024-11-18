@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890373842" stop="1729890373855" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Model\ResourceModel\Review\Customer\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890373842" stop="1729890373852" status="passed">
+      <name>testGetSelectCountSqlWithoutHavingClauses</name>
+    </test-case>
+    <test-case start="1729890373853" stop="1729890373855" status="passed">
+      <name>testGetSelectCountSqlWithHavingClauses</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

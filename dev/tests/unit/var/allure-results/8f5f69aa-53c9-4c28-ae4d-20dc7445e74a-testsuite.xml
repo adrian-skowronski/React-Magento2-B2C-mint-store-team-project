@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441993" stop="1729890442003" version="1.4.0">
+  <name>Magento\Framework\DB\Test\Unit\DB\Logger\LoggerProxyTest</name>
+  <test-cases>
+    <test-case start="1729890441993" stop="1729890442001" status="passed">
+      <name>testNewWithAliasFile</name>
+    </test-case>
+    <test-case start="1729890442002" stop="1729890442003" status="passed">
+      <name>testNewWithAliasDisabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

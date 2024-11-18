@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418383" stop="1729890418384" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\I18n\Parser\Adapter\JsTest</name>
+  <test-cases>
+    <test-case start="1729890418383" stop="1729890418384" status="passed">
+      <name>testParse</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

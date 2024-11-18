@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890265179" stop="1729890265193" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Console\Command\CacheDisableCommandTest</name>
+  <test-cases>
+    <test-case start="1729890265180" stop="1729890265183" status="passed">
+      <name>testExecute with data set "implicit all"</name>
+    </test-case>
+    <test-case start="1729890265184" stop="1729890265187" status="passed">
+      <name>testExecute with data set "specified types"</name>
+    </test-case>
+    <test-case start="1729890265188" stop="1729890265191" status="passed">
+      <name>testExecute with data set "no changes"</name>
+    </test-case>
+    <test-case start="1729890265191" stop="1729890265193" status="passed">
+      <name>testExecuteInvalidCacheType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

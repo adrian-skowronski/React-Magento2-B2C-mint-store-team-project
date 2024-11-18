@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403827" stop="1729890403829" version="1.4.0">
+  <name>Magento\Translation\Test\Unit\Model\Inline\CacheManagerTest</name>
+  <test-cases>
+    <test-case start="1729890403827" stop="1729890403829" status="passed">
+      <name>testUpdateAndGetTranslations</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

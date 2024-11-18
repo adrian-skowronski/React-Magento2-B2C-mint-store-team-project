@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890428397" stop="1729890428409" version="1.4.0">
+  <name>Magento\Framework\Async\Test\Unit\CallbackDeferredTest</name>
+  <test-cases>
+    <test-case start="1729890428397" stop="1729890428402" status="passed">
+      <name>testSuccess</name>
+    </test-case>
+    <test-case start="1729890428402" stop="1729890428402" status="passed">
+      <name>testException</name>
+    </test-case>
+    <test-case start="1729890428403" stop="1729890428409" status="passed">
+      <name>testCanceling</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

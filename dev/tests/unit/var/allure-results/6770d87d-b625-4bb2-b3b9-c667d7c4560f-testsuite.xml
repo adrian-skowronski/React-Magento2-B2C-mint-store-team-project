@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456339" stop="1729890456345" version="1.4.0">
+  <name>Magento\Framework\Search\Test\Unit\Response\QueryResponseTest</name>
+  <test-cases>
+    <test-case start="1729890456340" stop="1729890456342" status="passed">
+      <name>testGetIterator</name>
+    </test-case>
+    <test-case start="1729890456342" stop="1729890456343" status="passed">
+      <name>testCount</name>
+    </test-case>
+    <test-case start="1729890456343" stop="1729890456345" status="passed">
+      <name>testGetAggregations</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

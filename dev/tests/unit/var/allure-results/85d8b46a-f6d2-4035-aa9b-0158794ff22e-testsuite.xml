@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890428658" stop="1729890428680" version="1.4.0">
+  <name>Magento\Framework\Backup\Test\Unit\FactoryTest</name>
+  <test-cases>
+    <test-case start="1729890428659" stop="1729890428660" status="passed">
+      <name>testCreateWrongType</name>
+    </test-case>
+    <test-case start="1729890428664" stop="1729890428665" status="passed">
+      <name>testCreate with data set #0</name>
+    </test-case>
+    <test-case start="1729890428666" stop="1729890428668" status="passed">
+      <name>testCreate with data set #1</name>
+    </test-case>
+    <test-case start="1729890428672" stop="1729890428672" status="passed">
+      <name>testCreate with data set #2</name>
+    </test-case>
+    <test-case start="1729890428676" stop="1729890428677" status="passed">
+      <name>testCreate with data set #3</name>
+    </test-case>
+    <test-case start="1729890428678" stop="1729890428679" status="passed">
+      <name>testCreate with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

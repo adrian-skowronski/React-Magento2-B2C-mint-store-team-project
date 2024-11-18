@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462775" stop="1729890462795" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\Html\Link\CurrentTest</name>
+  <test-cases>
+    <test-case start="1729890462776" stop="1729890462778" status="passed">
+      <name>testGetUrl</name>
+    </test-case>
+    <test-case start="1729890462779" stop="1729890462782" status="passed">
+      <name>testIsCurrentIfIsset</name>
+    </test-case>
+    <test-case start="1729890462783" stop="1729890462786" status="passed">
+      <name>testIsCurrent with data set "url with MCA"</name>
+    </test-case>
+    <test-case start="1729890462787" stop="1729890462791" status="passed">
+      <name>testIsCurrent with data set "url with CMS"</name>
+    </test-case>
+    <test-case start="1729890462791" stop="1729890462795" status="passed">
+      <name>testIsCurrent with data set "Test if is current false"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

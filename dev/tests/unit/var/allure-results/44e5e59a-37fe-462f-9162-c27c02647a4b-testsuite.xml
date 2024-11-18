@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890401950" stop="1729890401960" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Config\CustomizationTest</name>
+  <test-cases>
+    <test-case start="1729890401950" stop="1729890401953" status="passed">
+      <name>testGetAssignedThemeCustomizations</name>
+    </test-case>
+    <test-case start="1729890401953" stop="1729890401955" status="passed">
+      <name>testGetUnassignedThemeCustomizations</name>
+    </test-case>
+    <test-case start="1729890401955" stop="1729890401957" status="passed">
+      <name>testGetStoresByThemes</name>
+    </test-case>
+    <test-case start="1729890401957" stop="1729890401958" status="passed">
+      <name>testIsThemeAssignedToAnyStore</name>
+    </test-case>
+    <test-case start="1729890401959" stop="1729890401960" status="passed">
+      <name>testIsThemeAssignedToConcreteStore</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

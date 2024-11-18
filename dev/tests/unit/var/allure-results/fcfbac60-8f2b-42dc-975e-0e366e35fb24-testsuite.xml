@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890378306" stop="1729890378311" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Block\Guest\LinkTest</name>
+  <test-cases>
+    <test-case start="1729890378306" stop="1729890378310" status="passed">
+      <name>testToHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890420226" stop="1729890420237" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\DB\Query\GeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890420227" stop="1729890420230" status="passed">
+      <name>testGenerate</name>
+    </test-case>
+    <test-case start="1729890420231" stop="1729890420232" status="passed">
+      <name>testGenerateWithoutFromPart</name>
+    </test-case>
+    <test-case start="1729890420232" stop="1729890420233" status="passed">
+      <name>testGenerateWithRangeFieldWithoutAlias</name>
+    </test-case>
+    <test-case start="1729890420234" stop="1729890420235" status="passed">
+      <name>testGenerateWithInvalidWithWildcard</name>
+    </test-case>
+    <test-case start="1729890420235" stop="1729890420237" status="passed">
+      <name>testGenerateWithNonUniqueStrategy</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890299636" stop="1729890299669" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Controller\Adminhtml\Block\SaveTest</name>
+  <test-cases>
+    <test-case start="1729890299636" stop="1729890299643" status="passed">
+      <name>testSaveAction</name>
+    </test-case>
+    <test-case start="1729890299643" stop="1729890299647" status="passed">
+      <name>testSaveActionWithoutData</name>
+    </test-case>
+    <test-case start="1729890299647" stop="1729890299650" status="passed">
+      <name>testSaveActionNoId</name>
+    </test-case>
+    <test-case start="1729890299650" stop="1729890299654" status="passed">
+      <name>testSaveAndDuplicate</name>
+    </test-case>
+    <test-case start="1729890299655" stop="1729890299659" status="passed">
+      <name>testSaveAndClose</name>
+    </test-case>
+    <test-case start="1729890299660" stop="1729890299664" status="passed">
+      <name>testSaveActionWithMarginalSpace</name>
+    </test-case>
+    <test-case start="1729890299665" stop="1729890299668" status="passed">
+      <name>testSaveActionThrowsException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393902" stop="1729890393914" version="1.4.0">
+  <name>Magento\Store\Test\Unit\App\Config\Source\InitialConfigSourceTest</name>
+  <test-cases>
+    <test-case start="1729890393903" stop="1729890393906" status="passed">
+      <name>testGet with data set "simple path"</name>
+    </test-case>
+    <test-case start="1729890393906" stop="1729890393907" status="passed">
+      <name>testGet with data set "big path"</name>
+    </test-case>
+    <test-case start="1729890393908" stop="1729890393909" status="passed">
+      <name>testGet with data set "empty path"</name>
+    </test-case>
+    <test-case start="1729890393909" stop="1729890393910" status="passed">
+      <name>testGet with data set "null path"</name>
+    </test-case>
+    <test-case start="1729890393911" stop="1729890393912" status="passed">
+      <name>testGet with data set "leading path"</name>
+    </test-case>
+    <test-case start="1729890393913" stop="1729890393914" status="passed">
+      <name>testGetNotInstalled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

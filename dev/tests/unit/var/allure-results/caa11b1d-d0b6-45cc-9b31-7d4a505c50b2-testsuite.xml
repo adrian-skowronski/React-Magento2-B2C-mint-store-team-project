@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890401697" stop="1729890401704" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Controller\Adminhtml\System\Design\Wysiwyg\Files\DeleteFilesTest</name>
+  <test-cases>
+    <test-case start="1729890401697" stop="1729890401701" status="passed">
+      <name>testExecuteWithWrongRequest</name>
+    </test-case>
+    <test-case start="1729890401702" stop="1729890401704" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

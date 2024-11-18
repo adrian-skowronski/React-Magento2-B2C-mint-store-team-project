@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375519" stop="1729890375538" version="1.4.0">
+  <name>Magento\SalesInventory\Test\Unit\Model\Order\ReturnProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890375520" stop="1729890375537" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

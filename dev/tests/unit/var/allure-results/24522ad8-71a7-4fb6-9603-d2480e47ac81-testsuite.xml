@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890363685" stop="1729890363694" version="1.4.0">
+  <name>Magento\Persistent\Test\Unit\Model\Plugin\CustomerDataTest</name>
+  <test-cases>
+    <test-case start="1729890363686" stop="1729890363692" status="passed">
+      <name>testAroundGetSectionDataForPersistentSession</name>
+    </test-case>
+    <test-case start="1729890363693" stop="1729890363694" status="passed">
+      <name>testAroundGetSectionData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

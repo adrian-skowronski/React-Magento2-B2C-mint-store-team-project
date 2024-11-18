@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358736" stop="1729890358739" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Gateway\Http\Converter\HtmlFormConverterTest</name>
+  <test-cases>
+    <test-case start="1729890358737" stop="1729890358738" status="passed">
+      <name>testConvert</name>
+    </test-case>
+    <test-case start="1729890358739" stop="1729890358739" status="passed">
+      <name>testConvertNotValidHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

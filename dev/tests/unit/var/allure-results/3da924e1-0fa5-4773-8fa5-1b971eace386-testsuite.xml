@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890349204" stop="1729890349209" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Model\Config\AuthorizationConfigTest</name>
+  <test-cases>
+    <test-case start="1729890349205" stop="1729890349206" status="passed">
+      <name>testEnabled</name>
+    </test-case>
+    <test-case start="1729890349207" stop="1729890349208" status="passed">
+      <name>testDisabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

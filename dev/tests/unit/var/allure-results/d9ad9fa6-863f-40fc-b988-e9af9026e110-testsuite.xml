@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442208" stop="1729890442226" version="1.4.0">
+  <name>Magento\Framework\DB\Test\Unit\Helper\AbstractHelperTest</name>
+  <test-cases>
+    <test-case start="1729890442208" stop="1729890442210" status="passed">
+      <name>testEscapeLikeValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890442210" stop="1729890442212" status="passed">
+      <name>testEscapeLikeValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890442212" stop="1729890442213" status="passed">
+      <name>testEscapeLikeValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890442214" stop="1729890442216" status="passed">
+      <name>testEscapeLikeValue with data set #3</name>
+    </test-case>
+    <test-case start="1729890442216" stop="1729890442218" status="passed">
+      <name>testEscapeLikeValue with data set #4</name>
+    </test-case>
+    <test-case start="1729890442219" stop="1729890442220" status="passed">
+      <name>testEscapeLikeValue with data set #5</name>
+    </test-case>
+    <test-case start="1729890442221" stop="1729890442222" status="passed">
+      <name>testEscapeLikeValue with data set #6</name>
+    </test-case>
+    <test-case start="1729890442223" stop="1729890442224" status="passed">
+      <name>testEscapeLikeValue with data set #7</name>
+    </test-case>
+    <test-case start="1729890442224" stop="1729890442226" status="passed">
+      <name>testGetCILike</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

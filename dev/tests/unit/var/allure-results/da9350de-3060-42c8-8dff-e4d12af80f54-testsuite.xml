@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890306866" stop="1729890306933" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Block\Plugin\Product\Media\GalleryTest</name>
+  <test-cases>
+    <test-case start="1729890306867" stop="1729890306931" status="passed">
+      <name>testAfterGetOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

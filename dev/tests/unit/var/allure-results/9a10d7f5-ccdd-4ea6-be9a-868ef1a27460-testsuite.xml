@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284827" stop="1729890284860" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Attribute\Backend\DefaultBackendTest</name>
+  <test-cases>
+    <test-case start="1729890284827" stop="1729890284836" status="passed">
+      <name>testValidate with data set "basic-attribute"</name>
+    </test-case>
+    <test-case start="1729890284837" stop="1729890284841" status="passed">
+      <name>testValidate with data set "non-html-attribute"</name>
+    </test-case>
+    <test-case start="1729890284842" stop="1729890284845" status="passed">
+      <name>testValidate with data set "empty-html-attribute"</name>
+    </test-case>
+    <test-case start="1729890284846" stop="1729890284849" status="passed">
+      <name>testValidate with data set "invalid-html-attribute"</name>
+    </test-case>
+    <test-case start="1729890284850" stop="1729890284853" status="passed">
+      <name>testValidate with data set "valid-html-attribute"</name>
+    </test-case>
+    <test-case start="1729890284853" stop="1729890284857" status="passed">
+      <name>testValidate with data set "changed-invalid-html-attribute"</name>
+    </test-case>
+    <test-case start="1729890284857" stop="1729890284860" status="passed">
+      <name>testValidate with data set "changed-valid-html-attribute"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890267827" stop="1729890267834" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Service\V1\ModuleServiceTest</name>
+  <test-cases>
+    <test-case start="1729890267827" stop="1729890267834" status="passed">
+      <name>testGetModules</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

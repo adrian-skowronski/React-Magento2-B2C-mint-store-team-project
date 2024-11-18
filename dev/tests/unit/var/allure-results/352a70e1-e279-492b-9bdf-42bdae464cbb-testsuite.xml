@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890391732" stop="1729890391760" version="1.4.0">
+  <name>Magento\Search\Test\Unit\Model\QueryFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890391732" stop="1729890391739" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890391739" stop="1729890391743" status="passed">
+      <name>testGetNewQuery</name>
+    </test-case>
+    <test-case start="1729890391743" stop="1729890391746" status="passed">
+      <name>testGetQueryTwice</name>
+    </test-case>
+    <test-case start="1729890391746" stop="1729890391749" status="passed">
+      <name>testGetTooLongQuery</name>
+    </test-case>
+    <test-case start="1729890391749" stop="1729890391753" status="passed">
+      <name>testGetTooShortQuery</name>
+    </test-case>
+    <test-case start="1729890391754" stop="1729890391757" status="passed">
+      <name>testGetQueryWithoutId</name>
+    </test-case>
+    <test-case start="1729890391757" stop="1729890391760" status="passed">
+      <name>testInaccurateQueryTextMatch</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

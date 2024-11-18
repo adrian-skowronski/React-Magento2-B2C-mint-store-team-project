@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890380102" stop="1729890380111" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Config\Backend\Email\AsyncSendingTest</name>
+  <test-cases>
+    <test-case start="1729890380103" stop="1729890380105" status="passed">
+      <name>testAfterSave with data set #0</name>
+    </test-case>
+    <test-case start="1729890380106" stop="1729890380107" status="passed">
+      <name>testAfterSave with data set #1</name>
+    </test-case>
+    <test-case start="1729890380108" stop="1729890380109" status="passed">
+      <name>testAfterSave with data set #2</name>
+    </test-case>
+    <test-case start="1729890380110" stop="1729890380111" status="passed">
+      <name>testAfterSave with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450847" stop="1729890450859" version="1.4.0">
+  <name>Magento\Framework\Interception\Test\Unit\PluginList\PluginListTest</name>
+  <test-cases>
+    <test-case start="1729890450847" stop="1729890450852" status="passed">
+      <name>testGetPlugin</name>
+    </test-case>
+    <test-case start="1729890450852" stop="1729890450854" status="passed">
+      <name>testGetPlugins with data set #0</name>
+    </test-case>
+    <test-case start="1729890450855" stop="1729890450857" status="passed">
+      <name>testLoadScopedDataCached</name>
+    </test-case>
+    <test-case start="1729890450857" stop="1729890450859" status="passed">
+      <name>testLoadScopedDataGenerated</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

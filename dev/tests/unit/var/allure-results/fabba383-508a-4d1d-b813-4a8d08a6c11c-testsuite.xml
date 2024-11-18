@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890270845" stop="1729890270872" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Pricing\Render\FinalPriceBoxTest</name>
+  <test-cases>
+    <test-case start="1729890270845" stop="1729890270861" status="passed">
+      <name>testShowRangePrice with data set "bundle options different, custom options noop"</name>
+    </test-case>
+    <test-case start="1729890270862" stop="1729890270864" status="passed">
+      <name>testShowRangePrice with data set "bundle options same boolean, custom options same boolean"</name>
+    </test-case>
+    <test-case start="1729890270864" stop="1729890270868" status="passed">
+      <name>testShowRangePrice with data set "bundle options same numeric, custom options same"</name>
+    </test-case>
+    <test-case start="1729890270868" stop="1729890270872" status="passed">
+      <name>testShowRangePrice with data set "bundle options same numeric, custom options different"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

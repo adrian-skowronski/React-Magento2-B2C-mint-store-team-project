@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358626" stop="1729890358668" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Gateway\Data\Quote\QuoteAdapterTest</name>
+  <test-cases>
+    <test-case start="1729890358626" stop="1729890358644" status="passed">
+      <name>testGetCurrencyCode</name>
+    </test-case>
+    <test-case start="1729890358645" stop="1729890358649" status="passed">
+      <name>testGetOrderIncrementId</name>
+    </test-case>
+    <test-case start="1729890358649" stop="1729890358653" status="passed">
+      <name>testGetCustomerId</name>
+    </test-case>
+    <test-case start="1729890358653" stop="1729890358657" status="passed">
+      <name>testGetBillingAddressIsNull</name>
+    </test-case>
+    <test-case start="1729890358657" stop="1729890358660" status="passed">
+      <name>testGetBillingAddress</name>
+    </test-case>
+    <test-case start="1729890358661" stop="1729890358664" status="passed">
+      <name>testGetShippingAddressIsNull</name>
+    </test-case>
+    <test-case start="1729890358664" stop="1729890358667" status="passed">
+      <name>testGetShippingAddress</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

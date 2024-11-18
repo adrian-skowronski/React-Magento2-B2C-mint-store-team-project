@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461529" stop="1729890461549" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\MergeServiceTest</name>
+  <test-cases>
+    <test-case start="1729890461530" stop="1729890461530" status="passed">
+      <name>testGetMergedAssetsWrongContentType</name>
+    </test-case>
+    <test-case start="1729890461531" stop="1729890461535" status="passed">
+      <name>testGetMergedAssets with data set "js production mode"</name>
+    </test-case>
+    <test-case start="1729890461535" stop="1729890461537" status="passed">
+      <name>testGetMergedAssets with data set "css production mode"</name>
+    </test-case>
+    <test-case start="1729890461538" stop="1729890461539" status="passed">
+      <name>testGetMergedAssets with data set "js default mode"</name>
+    </test-case>
+    <test-case start="1729890461540" stop="1729890461542" status="passed">
+      <name>testGetMergedAssets with data set "css default mode"</name>
+    </test-case>
+    <test-case start="1729890461542" stop="1729890461545" status="passed">
+      <name>testGetMergedAssets with data set "js developer mode"</name>
+    </test-case>
+    <test-case start="1729890461546" stop="1729890461547" status="passed">
+      <name>testGetMergedAssets with data set "css developer mode"</name>
+    </test-case>
+    <test-case start="1729890461548" stop="1729890461549" status="passed">
+      <name>testCleanMergedJsCss</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

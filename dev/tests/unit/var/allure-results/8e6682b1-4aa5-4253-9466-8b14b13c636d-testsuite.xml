@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890453250" stop="1729890453309" version="1.4.0">
+  <name>Magento\Framework\Mview\Test\Unit\View\SubscriptionTest</name>
+  <test-cases>
+    <test-case start="1729890453251" stop="1729890453261" status="passed">
+      <name>testGetView</name>
+    </test-case>
+    <test-case start="1729890453262" stop="1729890453265" status="passed">
+      <name>testGetTableName</name>
+    </test-case>
+    <test-case start="1729890453265" stop="1729890453268" status="passed">
+      <name>testGetColumnName</name>
+    </test-case>
+    <test-case start="1729890453269" stop="1729890453288" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890453288" stop="1729890453304" status="passed">
+      <name>testRemove</name>
+    </test-case>
+    <test-case start="1729890453304" stop="1729890453309" status="passed">
+      <name>testBuildStatementIgnoredColumnSubscriptionLevel</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

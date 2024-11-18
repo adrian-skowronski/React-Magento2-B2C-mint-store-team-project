@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890362489" stop="1729890362578" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\PayflowproTest</name>
+  <test-cases>
+    <test-case start="1729890362490" stop="1729890362493" status="passed">
+      <name>testCanVoid with data set #0</name>
+    </test-case>
+    <test-case start="1729890362494" stop="1729890362498" status="passed">
+      <name>testCanVoid with data set #1</name>
+    </test-case>
+    <test-case start="1729890362498" stop="1729890362502" status="passed">
+      <name>testCanVoid with data set #2</name>
+    </test-case>
+    <test-case start="1729890362502" stop="1729890362504" status="passed">
+      <name>testCanCapturePartial</name>
+    </test-case>
+    <test-case start="1729890362504" stop="1729890362506" status="passed">
+      <name>testCanRefundPartialPerInvoice</name>
+    </test-case>
+    <test-case start="1729890362506" stop="1729890362510" status="passed">
+      <name>testFetchTransactionInfoForBN</name>
+    </test-case>
+    <test-case start="1729890362511" stop="1729890362514" status="passed">
+      <name>testSetTransStatus with data set #0</name>
+    </test-case>
+    <test-case start="1729890362514" stop="1729890362517" status="passed">
+      <name>testSetTransStatus with data set #1</name>
+    </test-case>
+    <test-case start="1729890362518" stop="1729890362520" status="passed">
+      <name>testIsActive with data set #0</name>
+    </test-case>
+    <test-case start="1729890362520" stop="1729890362523" status="passed">
+      <name>testIsActive with data set #1</name>
+    </test-case>
+    <test-case start="1729890362524" stop="1729890362527" status="passed">
+      <name>testIsActive with data set #2</name>
+    </test-case>
+    <test-case start="1729890362527" stop="1729890362531" status="passed">
+      <name>testCaptureWithBuildPlaceRequest</name>
+    </test-case>
+    <test-case start="1729890362532" stop="1729890362537" status="passed">
+      <name>testCaptureAmountRounding with data set #0</name>
+    </test-case>
+    <test-case start="1729890362537" stop="1729890362542" status="passed">
+      <name>testCaptureAmountRounding with data set #1</name>
+    </test-case>
+    <test-case start="1729890362543" stop="1729890362547" status="passed">
+      <name>testCaptureAmountRounding with data set #2</name>
+    </test-case>
+    <test-case start="1729890362548" stop="1729890362553" status="passed">
+      <name>testCaptureAmountRounding with data set #3</name>
+    </test-case>
+    <test-case start="1729890362553" stop="1729890362558" status="passed">
+      <name>testAuthorize</name>
+    </test-case>
+    <test-case start="1729890362559" stop="1729890362562" status="passed">
+      <name>testRefund</name>
+    </test-case>
+    <test-case start="1729890362562" stop="1729890362564" status="passed">
+      <name>testPostRequest</name>
+    </test-case>
+    <test-case start="1729890362564" stop="1729890362566" status="passed">
+      <name>testPostRequestException</name>
+    </test-case>
+    <test-case start="1729890362567" stop="1729890362570" status="passed">
+      <name>testAddRequestOrderInfo</name>
+    </test-case>
+    <test-case start="1729890362570" stop="1729890362573" status="passed">
+      <name>testAssignData</name>
+    </test-case>
+    <test-case start="1729890362573" stop="1729890362578" status="passed">
+      <name>testMapGatewayResponse with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

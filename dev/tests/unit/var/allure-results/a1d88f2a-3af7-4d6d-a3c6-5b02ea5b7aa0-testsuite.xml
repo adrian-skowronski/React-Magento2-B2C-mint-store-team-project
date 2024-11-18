@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890355972" stop="1729890355982" version="1.4.0">
+  <name>Magento\OfflineShipping\Test\Unit\Block\Adminhtml\Form\Field\ExportTest</name>
+  <test-cases>
+    <test-case start="1729890355972" stop="1729890355981" status="passed">
+      <name>testGetElementHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

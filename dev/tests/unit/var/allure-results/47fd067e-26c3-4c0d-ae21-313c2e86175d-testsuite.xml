@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890317671" stop="1729890317678" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Plugin\CustomerNotificationTest</name>
+  <test-cases>
+    <test-case start="1729890317671" stop="1729890317676" status="passed">
+      <name>testBeforeExecute</name>
+    </test-case>
+    <test-case start="1729890317676" stop="1729890317678" status="passed">
+      <name>testBeforeDispatchWithNoCustomerFound</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

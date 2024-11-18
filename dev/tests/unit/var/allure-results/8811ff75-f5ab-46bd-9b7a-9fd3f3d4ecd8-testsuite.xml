@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890298942" stop="1729890298950" version="1.4.0">
+  <name>Magento\CmsUrlRewrite\Test\Unit\Plugin\Cms\Model\ResourceModel\PageTest</name>
+  <test-cases>
+    <test-case start="1729890298942" stop="1729890298948" status="passed">
+      <name>testAfterDeletePositive</name>
+    </test-case>
+    <test-case start="1729890298948" stop="1729890298950" status="passed">
+      <name>testAfterDeleteNegative</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

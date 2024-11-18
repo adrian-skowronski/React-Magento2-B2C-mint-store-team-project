@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404805" stop="1729890404827" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\Form\Element\WysiwygTest</name>
+  <test-cases>
+    <test-case start="1729890404805" stop="1729890404817" status="passed">
+      <name>testGetComponentName</name>
+    </test-case>
+    <test-case start="1729890404817" stop="1729890404819" status="passed">
+      <name>testGetHtmlId</name>
+    </test-case>
+    <test-case start="1729890404819" stop="1729890404821" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+    <test-case start="1729890404821" stop="1729890404823" status="passed">
+      <name>testGetFormInputName</name>
+    </test-case>
+    <test-case start="1729890404823" stop="1729890404825" status="passed">
+      <name>testIsReadonly</name>
+    </test-case>
+    <test-case start="1729890404825" stop="1729890404827" status="passed">
+      <name>testGetCssClasses</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890324280" stop="1729890324292" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Ui\DataProvider\Product\Form\Modifier\Data\LinksTest</name>
+  <test-cases>
+    <test-case start="1729890324281" stop="1729890324285" status="passed">
+      <name>testGetLinksTitle with data set #0</name>
+    </test-case>
+    <test-case start="1729890324286" stop="1729890324287" status="passed">
+      <name>testGetLinksTitle with data set #1</name>
+    </test-case>
+    <test-case start="1729890324288" stop="1729890324289" status="passed">
+      <name>testGetLinksTitle with data set #2</name>
+    </test-case>
+    <test-case start="1729890324290" stop="1729890324291" status="passed">
+      <name>testGetLinksTitle with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

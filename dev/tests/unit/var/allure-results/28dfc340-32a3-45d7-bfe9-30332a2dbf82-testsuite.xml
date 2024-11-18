@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890281720" stop="1729890281727" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Adminhtml\Product\Edit\Button\CreateCategoryTest</name>
+  <test-cases>
+    <test-case start="1729890281721" stop="1729890281724" status="passed">
+      <name>testGetButtonData</name>
+    </test-case>
+    <test-case start="1729890281725" stop="1729890281726" status="passed">
+      <name>testGetUrl</name>
+    </test-case>
+    <test-case start="1729890281726" stop="1729890281727" status="passed">
+      <name>testGetProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

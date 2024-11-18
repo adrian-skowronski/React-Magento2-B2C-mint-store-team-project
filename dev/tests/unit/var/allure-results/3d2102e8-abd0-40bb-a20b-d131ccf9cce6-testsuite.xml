@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890321613" stop="1729890321679" version="1.4.0">
+  <name>Magento\Directory\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890321614" stop="1729890321622" status="passed">
+      <name>testGetRegionJson with data set #0</name>
+    </test-case>
+    <test-case start="1729890321623" stop="1729890321629" status="passed">
+      <name>testGetRegionJson with data set #1</name>
+    </test-case>
+    <test-case start="1729890321629" stop="1729890321632" status="passed">
+      <name>testGetCountriesWithStatesRequired with data set "empty_list"</name>
+    </test-case>
+    <test-case start="1729890321633" stop="1729890321637" status="passed">
+      <name>testGetCountriesWithStatesRequired with data set "null_list"</name>
+    </test-case>
+    <test-case start="1729890321638" stop="1729890321641" status="passed">
+      <name>testGetCountriesWithStatesRequired with data set "normal_list"</name>
+    </test-case>
+    <test-case start="1729890321641" stop="1729890321644" status="passed">
+      <name>testGetCountriesWithOptionalZip with data set "empty_list"</name>
+    </test-case>
+    <test-case start="1729890321645" stop="1729890321648" status="passed">
+      <name>testGetCountriesWithOptionalZip with data set "null_list"</name>
+    </test-case>
+    <test-case start="1729890321649" stop="1729890321652" status="passed">
+      <name>testGetCountriesWithOptionalZip with data set "normal_list"</name>
+    </test-case>
+    <test-case start="1729890321652" stop="1729890321655" status="passed">
+      <name>testGetDefaultCountry</name>
+    </test-case>
+    <test-case start="1729890321655" stop="1729890321658" status="passed">
+      <name>testGetCountryCollection</name>
+    </test-case>
+    <test-case start="1729890321659" stop="1729890321664" status="passed">
+      <name>testGetTopCountryCodesReturnsParsedConfigurationValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890321665" stop="1729890321668" status="passed">
+      <name>testGetTopCountryCodesReturnsParsedConfigurationValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890321670" stop="1729890321672" status="passed">
+      <name>testGetTopCountryCodesReturnsParsedConfigurationValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890321673" stop="1729890321675" status="passed">
+      <name>testGetTopCountryCodesReturnsParsedConfigurationValue with data set #3</name>
+    </test-case>
+    <test-case start="1729890321676" stop="1729890321679" status="passed">
+      <name>testGetCurrentScopeWithoutRequestParameters</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

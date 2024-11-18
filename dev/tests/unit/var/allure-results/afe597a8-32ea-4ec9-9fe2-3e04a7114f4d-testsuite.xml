@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374452" stop="1729890374468" version="1.4.0">
+  <name>Magento\Review\Test\Unit\Block\Product\ReviewTest</name>
+  <test-cases>
+    <test-case start="1729890374452" stop="1729890374462" status="passed">
+      <name>testGetIdentities</name>
+    </test-case>
+    <test-case start="1729890374463" stop="1729890374465" status="passed">
+      <name>testGetProductReviewUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890374465" stop="1729890374468" status="passed">
+      <name>testGetProductReviewUrl with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

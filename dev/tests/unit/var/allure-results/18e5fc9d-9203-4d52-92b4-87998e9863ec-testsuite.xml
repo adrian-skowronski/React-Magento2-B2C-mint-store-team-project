@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449607" stop="1729890449619" version="1.4.0">
+  <name>Magento\Framework\Filter\Test\Unit\Template\Tokenizer\VariableTest</name>
+  <test-cases>
+    <test-case start="1729890449608" stop="1729890449610" status="passed">
+      <name>testTokenize with data set #0</name>
+    </test-case>
+    <test-case start="1729890449610" stop="1729890449612" status="passed">
+      <name>testTokenize with data set #1</name>
+    </test-case>
+    <test-case start="1729890449613" stop="1729890449618" status="passed">
+      <name>testTokenize with data set #2</name>
+    </test-case>
+    <test-case start="1729890449619" stop="1729890449619" status="passed">
+      <name>testTokenize with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

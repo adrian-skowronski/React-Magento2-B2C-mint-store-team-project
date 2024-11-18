@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890324040" stop="1729890324047" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Model\Sample\DeleteHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890324041" stop="1729890324045" status="passed">
+      <name>testExecuteWithDownloadableProduct</name>
+    </test-case>
+    <test-case start="1729890324045" stop="1729890324047" status="passed">
+      <name>testExecuteWithOtherProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

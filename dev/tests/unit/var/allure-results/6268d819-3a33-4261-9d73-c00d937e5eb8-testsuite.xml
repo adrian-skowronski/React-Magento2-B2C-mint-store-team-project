@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890324132" stop="1729890324142" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Observer\IsAllowedGuestCheckoutObserverTest</name>
+  <test-cases>
+    <test-case start="1729890324133" stop="1729890324138" status="passed">
+      <name>testIsAllowedGuestCheckoutConfigSetToTrue with data set #0</name>
+    </test-case>
+    <test-case start="1729890324139" stop="1729890324140" status="passed">
+      <name>testIsAllowedGuestCheckoutConfigSetToTrue with data set #1</name>
+    </test-case>
+    <test-case start="1729890324141" stop="1729890324142" status="passed">
+      <name>testIsAllowedGuestCheckoutConfigSetToFalse</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

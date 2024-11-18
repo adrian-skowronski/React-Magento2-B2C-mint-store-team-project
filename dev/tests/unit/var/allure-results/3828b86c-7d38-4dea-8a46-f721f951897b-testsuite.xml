@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393369" stop="1729890393375" version="1.4.0">
+  <name>Magento\Shipping\Test\Unit\Model\ShipmentNotifierTest</name>
+  <test-cases>
+    <test-case start="1729890393370" stop="1729890393372" status="passed">
+      <name>testNotifySuccess</name>
+    </test-case>
+    <test-case start="1729890393373" stop="1729890393373" status="passed">
+      <name>testNotifyFail</name>
+    </test-case>
+    <test-case start="1729890393374" stop="1729890393375" status="passed">
+      <name>testNotifyException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890379076" stop="1729890379089" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Controller\Adminhtml\Order\Creditmemo\VoidActionTest</name>
+  <test-cases>
+    <test-case start="1729890379076" stop="1729890379079" status="passed">
+      <name>testExecuteNoCreditmemo</name>
+    </test-case>
+    <test-case start="1729890379079" stop="1729890379082" status="passed">
+      <name>testExecuteModelException</name>
+    </test-case>
+    <test-case start="1729890379082" stop="1729890379085" status="passed">
+      <name>testExecuteException</name>
+    </test-case>
+    <test-case start="1729890379085" stop="1729890379089" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890333196" stop="1729890333202" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\Config\DataTest</name>
+  <test-cases>
+    <test-case start="1729890333197" stop="1729890333200" status="passed">
+      <name>testConstructorWithCache</name>
+    </test-case>
+    <test-case start="1729890333200" stop="1729890333202" status="passed">
+      <name>testConstructorWithoutCache</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

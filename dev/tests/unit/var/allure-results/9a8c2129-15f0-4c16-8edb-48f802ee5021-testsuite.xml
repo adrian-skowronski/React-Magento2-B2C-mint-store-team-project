@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890261168" stop="1729890261176" version="1.4.0">
+  <name>Magento\AdvancedPricingImportExport\Test\Unit\Model\Import\AdvancedPricing\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890261168" stop="1729890261171" status="passed">
+      <name>testIsValid with data set #0</name>
+    </test-case>
+    <test-case start="1729890261171" stop="1729890261172" status="passed">
+      <name>testIsValid with data set #1</name>
+    </test-case>
+    <test-case start="1729890261173" stop="1729890261174" status="passed">
+      <name>testIsValidAddMessagesCall</name>
+    </test-case>
+    <test-case start="1729890261175" stop="1729890261175" status="passed">
+      <name>testInit</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

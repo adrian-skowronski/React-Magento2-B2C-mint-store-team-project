@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890278558" stop="1729890278591" version="1.4.0">
+  <name>Magento\CatalogSearch\Test\Unit\Model\Adapter\Aggregation\AggregationResolverTest</name>
+  <test-cases>
+    <test-case start="1729890278558" stop="1729890278579" status="passed">
+      <name>testIsNotApplicable</name>
+    </test-case>
+    <test-case start="1729890278579" stop="1729890278590" status="passed">
+      <name>testResolve</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

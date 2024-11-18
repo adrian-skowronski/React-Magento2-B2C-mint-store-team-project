@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890423004" stop="1729890423007" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Cache\RuntimeStaleCacheStateModifierTest</name>
+  <test-cases>
+    <test-case start="1729890423004" stop="1729890423005" status="passed">
+      <name>doesNotModifyStateWithoutNotification</name>
+    </test-case>
+    <test-case start="1729890423006" stop="1729890423006" status="passed">
+      <name>modifiesOnlyConfiguredCacheTypesOnNotifiedStaleCache</name>
+    </test-case>
+    <test-case start="1729890423006" stop="1729890423007" status="passed">
+      <name>doesNotPersistModifiedCacheTypes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

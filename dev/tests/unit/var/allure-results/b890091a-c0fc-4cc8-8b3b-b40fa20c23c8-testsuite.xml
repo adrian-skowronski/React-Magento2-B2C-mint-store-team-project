@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890364384" stop="1729890364397" version="1.4.0">
+  <name>Magento\Persistent\Test\Unit\Observer\RenewCookieObserverTest</name>
+  <test-cases>
+    <test-case start="1729890364385" stop="1729890364396" status="passed">
+      <name>testRenewCookie</name>
+    </test-case>
+    <test-case start="1729890364396" stop="1729890364397" status="passed">
+      <name>testRenewCookieWhenCannotProcessPersistentData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329892" stop="1729890329895" version="1.4.0">
+  <name>Magento\GiftMessage\Test\Unit\Observer\MultishippingEventCreateOrdersObserverTest</name>
+  <test-cases>
+    <test-case start="1729890329892" stop="1729890329895" status="passed">
+      <name>testMultishippingEventCreateOrders</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

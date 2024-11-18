@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442174" stop="1729890442195" version="1.4.0">
+  <name>Magento\Framework\DB\Test\Unit\GenericMapperTest</name>
+  <test-cases>
+    <test-case start="1729890442174" stop="1729890442181" status="passed">
+      <name>testMapCriteriaList</name>
+    </test-case>
+    <test-case start="1729890442181" stop="1729890442193" status="passed">
+      <name>testMapFilters</name>
+    </test-case>
+    <test-case start="1729890442193" stop="1729890442195" status="passed">
+      <name>testMapFields</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890390828" stop="1729890390846" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Plugin\Model\Export\OrderGridExportFilterColumnTest</name>
+  <test-cases>
+    <test-case start="1729890390829" stop="1729890390839" status="passed">
+      <name>testAfterGetHeaders with data set "test case when namespace is not `sales_order_grid`"</name>
+    </test-case>
+    <test-case start="1729890390839" stop="1729890390841" status="passed">
+      <name>testAfterGetHeaders with data set "test case when namespace is `sales_order_grid`"</name>
+    </test-case>
+    <test-case start="1729890390842" stop="1729890390843" status="passed">
+      <name>testAfterGetFields with data set "test case when namespace is not `sales_order_grid`"</name>
+    </test-case>
+    <test-case start="1729890390844" stop="1729890390846" status="passed">
+      <name>testAfterGetFields with data set "test case when namespace is `sales_order_grid`"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

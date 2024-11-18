@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890260958" stop="1729890260970" version="1.4.0">
+  <name>Magento\AdvancedPricingImportExport\Test\Unit\Model\CurrencyResolverTest</name>
+  <test-cases>
+    <test-case start="1729890260959" stop="1729890260969" status="passed">
+      <name>testShouldCacheResultOfGetWebsitesBaseCurrency</name>
+    </test-case>
+    <test-case start="1729890260969" stop="1729890260970" status="passed">
+      <name>testShouldCacheResultOfGetDefaultBaseCurrency</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

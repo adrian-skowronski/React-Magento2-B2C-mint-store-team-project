@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890300904" stop="1729890300940" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Model\Wysiwyg\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890300905" stop="1729890300921" status="passed">
+      <name>testGetConfig with data set "add_variables IS FALSE, add_widgets IS FALSE, isAuthorizationAllowed IS FALSE"</name>
+    </test-case>
+    <test-case start="1729890300921" stop="1729890300923" status="passed">
+      <name>testGetConfig with data set "add_variables IS TRUE, add_widgets IS TRUE, isAuthorizationAllowed IS TRUE"</name>
+    </test-case>
+    <test-case start="1729890300923" stop="1729890300926" status="passed">
+      <name>testGetSkinImagePlaceholderPath</name>
+    </test-case>
+    <test-case start="1729890300927" stop="1729890300929" status="passed">
+      <name>testIsEnabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890300930" stop="1729890300932" status="passed">
+      <name>testIsEnabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890300932" stop="1729890300934" status="passed">
+      <name>testIsEnabled with data set #2</name>
+    </test-case>
+    <test-case start="1729890300935" stop="1729890300936" status="passed">
+      <name>testIsHidden with data set #0</name>
+    </test-case>
+    <test-case start="1729890300937" stop="1729890300938" status="passed">
+      <name>testIsHidden with data set #1</name>
+    </test-case>
+    <test-case start="1729890300938" stop="1729890300940" status="passed">
+      <name>testIsHidden with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

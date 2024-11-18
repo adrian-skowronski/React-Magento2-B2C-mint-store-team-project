@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890279253" stop="1729890279278" version="1.4.0">
+  <name>Magento\CatalogSearch\Test\Unit\Model\Layer\Filter\PriceTest</name>
+  <test-cases>
+    <test-case start="1729890279253" stop="1729890279263" status="passed">
+      <name>testApplyWithEmptyRequest with data set #0</name>
+    </test-case>
+    <test-case start="1729890279263" stop="1729890279265" status="passed">
+      <name>testApplyWithEmptyRequest with data set #1</name>
+    </test-case>
+    <test-case start="1729890279265" stop="1729890279267" status="passed">
+      <name>testApplyWithEmptyRequest with data set #2</name>
+    </test-case>
+    <test-case start="1729890279267" stop="1729890279270" status="passed">
+      <name>testApply with data set #0</name>
+    </test-case>
+    <test-case start="1729890279270" stop="1729890279273" status="passed">
+      <name>testApply with data set #1</name>
+    </test-case>
+    <test-case start="1729890279273" stop="1729890279275" status="passed">
+      <name>testApply with data set #2</name>
+    </test-case>
+    <test-case start="1729890279276" stop="1729890279277" status="passed">
+      <name>testGetItems</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

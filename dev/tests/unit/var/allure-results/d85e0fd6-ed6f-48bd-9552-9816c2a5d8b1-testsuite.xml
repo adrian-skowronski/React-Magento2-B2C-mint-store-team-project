@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356870" stop="1729890356884" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Model\App\Response\HttpPluginTest</name>
+  <test-cases>
+    <test-case start="1729890356871" stop="1729890356877" status="passed">
+      <name>testBeforeSendResponse with data set "http_response_headers_not_sent"</name>
+    </test-case>
+    <test-case start="1729890356878" stop="1729890356879" status="passed">
+      <name>testBeforeSendResponse with data set "http_response_headers_sent"</name>
+    </test-case>
+    <test-case start="1729890356881" stop="1729890356882" status="passed">
+      <name>testBeforeSendResponse with data set "file_response_headers_not_sent"</name>
+    </test-case>
+    <test-case start="1729890356883" stop="1729890356884" status="passed">
+      <name>testBeforeSendResponse with data set "file_response_headers_sent"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

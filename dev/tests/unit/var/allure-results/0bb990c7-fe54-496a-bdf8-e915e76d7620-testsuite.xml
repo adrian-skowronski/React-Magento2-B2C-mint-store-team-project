@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890368861" stop="1729890369088" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\Quote\AddressTest</name>
+  <test-cases>
+    <test-case start="1729890368862" stop="1729890368954" status="passed">
+      <name>testValidateMinimumAmountDisabled</name>
+    </test-case>
+    <test-case start="1729890368954" stop="1729890368965" status="passed">
+      <name>testValidateMinimumAmountVirtual</name>
+    </test-case>
+    <test-case start="1729890368966" stop="1729890368976" status="passed">
+      <name>testValidateMinimumAmount</name>
+    </test-case>
+    <test-case start="1729890368977" stop="1729890368991" status="passed">
+      <name>testValidateMiniumumAmountWithoutDiscount</name>
+    </test-case>
+    <test-case start="1729890368991" stop="1729890369002" status="passed">
+      <name>testValidateMinimumAmountNegative</name>
+    </test-case>
+    <test-case start="1729890369002" stop="1729890369009" status="passed">
+      <name>testSetAndGetAppliedTaxes</name>
+    </test-case>
+    <test-case start="1729890369011" stop="1729890369018" status="passed">
+      <name>testGetAppliedTaxesWithEmptyValue</name>
+    </test-case>
+    <test-case start="1729890369019" stop="1729890369088" status="passed">
+      <name>testRequestShippingRates</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

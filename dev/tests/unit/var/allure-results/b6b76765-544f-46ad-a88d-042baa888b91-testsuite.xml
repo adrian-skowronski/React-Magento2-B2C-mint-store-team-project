@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890455485" stop="1729890455532" version="1.4.0">
+  <name>Magento\Framework\Pricing\Test\Unit\Render\RendererPoolTest</name>
+  <test-cases>
+    <test-case start="1729890455486" stop="1729890455489" status="passed">
+      <name>testCreatePriceRenderNoClassName</name>
+    </test-case>
+    <test-case start="1729890455489" stop="1729890455493" status="passed">
+      <name>testCreatePriceRenderNoPriceModel</name>
+    </test-case>
+    <test-case start="1729890455494" stop="1729890455498" status="passed">
+      <name>testCreatePriceRenderBlockNotPriceBox</name>
+    </test-case>
+    <test-case start="1729890455499" stop="1729890455503" status="passed">
+      <name>testCreatePriceRender</name>
+    </test-case>
+    <test-case start="1729890455503" stop="1729890455506" status="passed">
+      <name>testCreateAmountRenderNoAmountClass</name>
+    </test-case>
+    <test-case start="1729890455507" stop="1729890455509" status="passed">
+      <name>testCreateAmountRenderNotAmountInterface</name>
+    </test-case>
+    <test-case start="1729890455510" stop="1729890455519" status="passed">
+      <name>testCreateAmountRender</name>
+    </test-case>
+    <test-case start="1729890455519" stop="1729890455521" status="passed">
+      <name>testGetAdjustmentRendersNoRenderClass</name>
+    </test-case>
+    <test-case start="1729890455521" stop="1729890455524" status="passed">
+      <name>testGetAdjustmentRendersNoRenderTemplate</name>
+    </test-case>
+    <test-case start="1729890455524" stop="1729890455526" status="passed">
+      <name>testGetAdjustmentRenders</name>
+    </test-case>
+    <test-case start="1729890455527" stop="1729890455529" status="passed">
+      <name>testGetAmountRenderBlockTemplateNoTemplate</name>
+    </test-case>
+    <test-case start="1729890455529" stop="1729890455532" status="passed">
+      <name>testGetRenderBlockTemplate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

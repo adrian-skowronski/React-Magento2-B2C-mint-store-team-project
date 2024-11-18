@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302351" stop="1729890302355" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\ScopeDefinerTest</name>
+  <test-cases>
+    <test-case start="1729890302352" stop="1729890302352" status="passed">
+      <name>testGetScopeReturnsDefaultScopeIfNoScopeDataIsSpecified</name>
+    </test-case>
+    <test-case start="1729890302353" stop="1729890302353" status="passed">
+      <name>testGetScopeReturnsStoreScopeIfStoreIsSpecified</name>
+    </test-case>
+    <test-case start="1729890302354" stop="1729890302354" status="passed">
+      <name>testGetScopeReturnsWebsiteScopeIfWebsiteIsSpecified</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

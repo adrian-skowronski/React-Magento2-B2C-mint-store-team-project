@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890445400" stop="1729890445403" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Form\FilterFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890445400" stop="1729890445401" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890445402" stop="1729890445403" status="passed">
+      <name>testCreateWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

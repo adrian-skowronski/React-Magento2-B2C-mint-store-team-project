@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441742" stop="1729890441767" version="1.4.0">
+  <name>Magento\Framework\Css\Test\Unit\PreProcessor\Instruction\ImportTest</name>
+  <test-cases>
+    <test-case start="1729890441742" stop="1729890441745" status="passed">
+      <name>testProcess with data set "non-modular notation, no extension"</name>
+    </test-case>
+    <test-case start="1729890441746" stop="1729890441747" status="passed">
+      <name>testProcess with data set "modular, with extension"</name>
+    </test-case>
+    <test-case start="1729890441748" stop="1729890441749" status="passed">
+      <name>testProcess with data set "remote file import url()"</name>
+    </test-case>
+    <test-case start="1729890441750" stop="1729890441751" status="passed">
+      <name>testProcess with data set "invalid path"</name>
+    </test-case>
+    <test-case start="1729890441752" stop="1729890441753" status="passed">
+      <name>testProcess with data set "modular, no extension"</name>
+    </test-case>
+    <test-case start="1729890441754" stop="1729890441755" status="passed">
+      <name>testProcess with data set "no type"</name>
+    </test-case>
+    <test-case start="1729890441755" stop="1729890441757" status="passed">
+      <name>testProcess with data set "no media"</name>
+    </test-case>
+    <test-case start="1729890441757" stop="1729890441759" status="passed">
+      <name>testProcess with data set "with single line comment, replace"</name>
+    </test-case>
+    <test-case start="1729890441759" stop="1729890441761" status="passed">
+      <name>testProcess with data set "with single line comment, no replace"</name>
+    </test-case>
+    <test-case start="1729890441761" stop="1729890441763" status="passed">
+      <name>testProcess with data set "with multi line comment"</name>
+    </test-case>
+    <test-case start="1729890441763" stop="1729890441765" status="passed">
+      <name>testProcessNoImport</name>
+    </test-case>
+    <test-case start="1729890441765" stop="1729890441767" status="passed">
+      <name>testGetRelatedFiles</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

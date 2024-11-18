@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890419717" stop="1729890419724" version="1.4.0">
+  <name>PayPal\Braintree\Test\Unit\Model\Report\FilterMapperTest</name>
+  <test-cases>
+    <test-case start="1729890419717" stop="1729890419723" status="passed">
+      <name>testGetFilterPositiveApply</name>
+    </test-case>
+    <test-case start="1729890419723" stop="1729890419724" status="passed">
+      <name>testGetFilterNegativeApply</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

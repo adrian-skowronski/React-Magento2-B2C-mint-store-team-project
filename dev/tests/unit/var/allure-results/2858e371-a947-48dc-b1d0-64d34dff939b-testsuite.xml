@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319302" stop="1729890319305" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Model\DeploymentConfig\ValidatorFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890319303" stop="1729890319304" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890319304" stop="1729890319305" status="passed">
+      <name>testCreateWrongImplementation</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

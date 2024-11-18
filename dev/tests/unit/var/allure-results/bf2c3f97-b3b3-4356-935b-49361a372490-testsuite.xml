@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890421428" stop="1729890421491" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\TranslateTest</name>
+  <test-cases>
+    <test-case start="1729890421428" stop="1729890421435" status="passed">
+      <name>testLoadDataCachedTranslation with data set #0</name>
+    </test-case>
+    <test-case start="1729890421436" stop="1729890421439" status="passed">
+      <name>testLoadDataCachedTranslation with data set #1</name>
+    </test-case>
+    <test-case start="1729890421440" stop="1729890421442" status="passed">
+      <name>testLoadDataCachedTranslation with data set #2</name>
+    </test-case>
+    <test-case start="1729890421443" stop="1729890421446" status="passed">
+      <name>testLoadData with data set #0</name>
+    </test-case>
+    <test-case start="1729890421446" stop="1729890421451" status="passed">
+      <name>testLoadData with data set #1</name>
+    </test-case>
+    <test-case start="1729890421452" stop="1729890421456" status="passed">
+      <name>testLoadData with data set #2</name>
+    </test-case>
+    <test-case start="1729890421457" stop="1729890421460" status="passed">
+      <name>testLoadData with data set #3</name>
+    </test-case>
+    <test-case start="1729890421461" stop="1729890421466" status="passed">
+      <name>testLoadData with data set #4</name>
+    </test-case>
+    <test-case start="1729890421467" stop="1729890421472" status="passed">
+      <name>testLoadData with data set #5</name>
+    </test-case>
+    <test-case start="1729890421472" stop="1729890421476" status="passed">
+      <name>testGetData with data set #0</name>
+    </test-case>
+    <test-case start="1729890421476" stop="1729890421480" status="passed">
+      <name>testGetData with data set #1</name>
+    </test-case>
+    <test-case start="1729890421480" stop="1729890421482" status="passed">
+      <name>testGetLocale</name>
+    </test-case>
+    <test-case start="1729890421483" stop="1729890421485" status="passed">
+      <name>testSetLocale</name>
+    </test-case>
+    <test-case start="1729890421486" stop="1729890421488" status="passed">
+      <name>testGetTheme</name>
+    </test-case>
+    <test-case start="1729890421488" stop="1729890421491" status="passed">
+      <name>testLoadDataNoTheme</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890272237" stop="1729890272265" version="1.4.0">
+  <name>Magento\CatalogImportExport\Test\Unit\Model\Import\Product\TaxClassProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890272237" stop="1729890272254" status="passed">
+      <name>testUpsertTaxClassExist</name>
+    </test-case>
+    <test-case start="1729890272254" stop="1729890272257" status="passed">
+      <name>testUpsertTaxClassNotExist</name>
+    </test-case>
+    <test-case start="1729890272257" stop="1729890272259" status="passed">
+      <name>testUpsertTaxClassExistCaseInsensitive</name>
+    </test-case>
+    <test-case start="1729890272259" stop="1729890272262" status="passed">
+      <name>testUpsertTaxClassNone</name>
+    </test-case>
+    <test-case start="1729890272262" stop="1729890272264" status="passed">
+      <name>testUpsertTaxClassZero</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

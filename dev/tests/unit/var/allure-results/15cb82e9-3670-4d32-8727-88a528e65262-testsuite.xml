@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262887" stop="1729890262894" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\ReportXml\DB\ColumnsResolverTest</name>
+  <test-cases>
+    <test-case start="1729890262887" stop="1729890262888" status="passed">
+      <name>testGetColumnsWithoutAttributes</name>
+    </test-case>
+    <test-case start="1729890262889" stop="1729890262891" status="passed">
+      <name>testGetColumnsWithFunction with data set "COUNT( DISTINCT `cpe`.`name`) AS name"</name>
+    </test-case>
+    <test-case start="1729890262892" stop="1729890262894" status="passed">
+      <name>testGetColumnsWithFunction with data set "AVG(`cpe`.`name`) AS avg_name"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

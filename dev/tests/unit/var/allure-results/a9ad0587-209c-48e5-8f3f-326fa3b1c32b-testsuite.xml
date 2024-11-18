@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890279200" stop="1729890279240" version="1.4.0">
+  <name>Magento\CatalogSearch\Test\Unit\Model\Layer\Filter\DecimalTest</name>
+  <test-cases>
+    <test-case start="1729890279200" stop="1729890279213" status="passed">
+      <name>testApplyWithEmptyRequest with data set #0</name>
+    </test-case>
+    <test-case start="1729890279214" stop="1729890279217" status="passed">
+      <name>testApplyWithEmptyRequest with data set #1</name>
+    </test-case>
+    <test-case start="1729890279218" stop="1729890279220" status="passed">
+      <name>testApplyWithEmptyRequest with data set #2</name>
+    </test-case>
+    <test-case start="1729890279220" stop="1729890279233" status="passed">
+      <name>testApply</name>
+    </test-case>
+    <test-case start="1729890279233" stop="1729890279236" status="passed">
+      <name>testItemData with data set #0</name>
+    </test-case>
+    <test-case start="1729890279237" stop="1729890279240" status="passed">
+      <name>testItemData with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

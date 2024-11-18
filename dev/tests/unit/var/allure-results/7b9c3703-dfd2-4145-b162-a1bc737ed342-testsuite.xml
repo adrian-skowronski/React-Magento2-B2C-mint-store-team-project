@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890355655" stop="1729890355661" version="1.4.0">
+  <name>Magento\Newsletter\Test\Unit\Observer\PredispatchNewsletterObserverTest</name>
+  <test-cases>
+    <test-case start="1729890355656" stop="1729890355659" status="passed">
+      <name>testNewsletterEnabled</name>
+    </test-case>
+    <test-case start="1729890355659" stop="1729890355661" status="passed">
+      <name>testNewsletterDisabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

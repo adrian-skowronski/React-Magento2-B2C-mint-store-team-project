@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451506" stop="1729890451508" version="1.4.0">
+  <name>Magento\Framework\Logger\Test\Unit\MonologTest</name>
+  <test-cases>
+    <test-case start="1729890451506" stop="1729890451508" status="passed">
+      <name>testAddRecord</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

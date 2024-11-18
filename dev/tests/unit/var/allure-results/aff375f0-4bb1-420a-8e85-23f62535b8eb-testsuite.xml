@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462847" stop="1729890462860" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\Html\SelectTest</name>
+  <test-cases>
+    <test-case start="1729890462847" stop="1729890462848" status="passed">
+      <name>testAddOptionAndSetOptionsAndGetOptions</name>
+    </test-case>
+    <test-case start="1729890462849" stop="1729890462850" status="passed">
+      <name>testGetSetId</name>
+    </test-case>
+    <test-case start="1729890462850" stop="1729890462852" status="passed">
+      <name>testGetSetClass</name>
+    </test-case>
+    <test-case start="1729890462852" stop="1729890462853" status="passed">
+      <name>testGetSetTitle</name>
+    </test-case>
+    <test-case start="1729890462853" stop="1729890462855" status="passed">
+      <name>testGetHtmlJs</name>
+    </test-case>
+    <test-case start="1729890462855" stop="1729890462858" status="passed">
+      <name>testGetHtml</name>
+    </test-case>
+    <test-case start="1729890462858" stop="1729890462860" status="passed">
+      <name>testGetHtmlEscapes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

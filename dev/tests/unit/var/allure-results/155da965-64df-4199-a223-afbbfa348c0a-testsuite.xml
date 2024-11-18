@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890421510" stop="1729890421627" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\UrlTest</name>
+  <test-cases>
+    <test-case start="1729890421511" stop="1729890421516" status="passed">
+      <name>testGetCurrentUrl with data set "without_port"</name>
+    </test-case>
+    <test-case start="1729890421517" stop="1729890421521" status="passed">
+      <name>testGetCurrentUrl with data set "default_port"</name>
+    </test-case>
+    <test-case start="1729890421522" stop="1729890421525" status="passed">
+      <name>testGetCurrentUrl with data set "custom_port"</name>
+    </test-case>
+    <test-case start="1729890421526" stop="1729890421528" status="passed">
+      <name>testGetBaseUrlNotLinkType</name>
+    </test-case>
+    <test-case start="1729890421529" stop="1729890421531" status="passed">
+      <name>testGetUrlValidateFilter</name>
+    </test-case>
+    <test-case start="1729890421531" stop="1729890421536" status="passed">
+      <name>testGetUrl with data set "string query"</name>
+    </test-case>
+    <test-case start="1729890421537" stop="1729890421540" status="passed">
+      <name>testGetUrl with data set "array query"</name>
+    </test-case>
+    <test-case start="1729890421541" stop="1729890421545" status="passed">
+      <name>testGetUrl with data set "without query"</name>
+    </test-case>
+    <test-case start="1729890421545" stop="1729890421547" status="passed">
+      <name>testGetUrlIdempotentSetRoutePath</name>
+    </test-case>
+    <test-case start="1729890421548" stop="1729890421550" status="passed">
+      <name>testGetUrlIdempotentSetRouteName</name>
+    </test-case>
+    <test-case start="1729890421551" stop="1729890421554" status="passed">
+      <name>testGetUrlRouteHasParams</name>
+    </test-case>
+    <test-case start="1729890421554" stop="1729890421558" status="passed">
+      <name>testGetUrlRouteUseRewrite</name>
+    </test-case>
+    <test-case start="1729890421558" stop="1729890421565" status="passed">
+      <name>testGetUrlWithAsterisksPath</name>
+    </test-case>
+    <test-case start="1729890421565" stop="1729890421569" status="passed">
+      <name>testGetDirectUrl</name>
+    </test-case>
+    <test-case start="1729890421570" stop="1729890421572" status="passed">
+      <name>testGetRebuiltUrl with data set "with port"</name>
+    </test-case>
+    <test-case start="1729890421573" stop="1729890421575" status="passed">
+      <name>testGetRebuiltUrl with data set "without port"</name>
+    </test-case>
+    <test-case start="1729890421575" stop="1729890421578" status="passed">
+      <name>testGetRebuiltUrl with data set "http"</name>
+    </test-case>
+    <test-case start="1729890421578" stop="1729890421581" status="passed">
+      <name>testGetRedirectUrl</name>
+    </test-case>
+    <test-case start="1729890421581" stop="1729890421584" status="passed">
+      <name>testGetRedirectUrlWithSessionId</name>
+    </test-case>
+    <test-case start="1729890421584" stop="1729890421586" status="passed">
+      <name>testGetRouteUrlWithValidUrl</name>
+    </test-case>
+    <test-case start="1729890421587" stop="1729890421590" status="passed">
+      <name>testIsOwnOriginUrl with data set "is origin url"</name>
+    </test-case>
+    <test-case start="1729890421591" stop="1729890421595" status="passed">
+      <name>testIsOwnOriginUrl with data set "is not origin url"</name>
+    </test-case>
+    <test-case start="1729890421596" stop="1729890421599" status="passed">
+      <name>testGetConfigData with data set "secure url"</name>
+    </test-case>
+    <test-case start="1729890421600" stop="1729890421605" status="passed">
+      <name>testGetConfigData with data set "unsecure url"</name>
+    </test-case>
+    <test-case start="1729890421605" stop="1729890421608" status="passed">
+      <name>testGetConfigDataWithSecureIsForcedParam</name>
+    </test-case>
+    <test-case start="1729890421609" stop="1729890421611" status="passed">
+      <name>testSessionUrlVarWithMatchedHostsAndBaseUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890421612" stop="1729890421614" status="passed">
+      <name>testSessionUrlVarWithMatchedHostsAndBaseUrl with data set #1</name>
+    </test-case>
+    <test-case start="1729890421615" stop="1729890421617" status="passed">
+      <name>testSessionUrlVarWithMatchedHostsAndBaseUrl with data set #2</name>
+    </test-case>
+    <test-case start="1729890421617" stop="1729890421620" status="passed">
+      <name>testSessionUrlVarWithMatchedHostsAndBaseUrl with data set #3</name>
+    </test-case>
+    <test-case start="1729890421620" stop="1729890421623" status="passed">
+      <name>testSessionUrlVarWithoutMatchedHostsAndBaseUrl</name>
+    </test-case>
+    <test-case start="1729890421623" stop="1729890421627" status="passed">
+      <name>testSetRequest</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

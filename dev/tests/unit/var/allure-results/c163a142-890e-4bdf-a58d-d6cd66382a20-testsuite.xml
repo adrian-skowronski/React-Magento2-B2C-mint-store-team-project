@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451433" stop="1729890451439" version="1.4.0">
+  <name>Magento\Framework\Lock\Test\Unit\ProxyTest</name>
+  <test-cases>
+    <test-case start="1729890451433" stop="1729890451435" status="passed">
+      <name>testIsLocked</name>
+    </test-case>
+    <test-case start="1729890451436" stop="1729890451437" status="passed">
+      <name>testLock</name>
+    </test-case>
+    <test-case start="1729890451438" stop="1729890451439" status="passed">
+      <name>testUnlock</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

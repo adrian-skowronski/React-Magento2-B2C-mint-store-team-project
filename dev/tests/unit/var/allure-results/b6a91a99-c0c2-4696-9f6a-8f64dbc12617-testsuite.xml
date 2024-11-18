@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463838" stop="1729890463839" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Layout\Condition\AclConditionTest</name>
+  <test-cases>
+    <test-case start="1729890463838" stop="1729890463839" status="passed">
+      <name>testFilterAclElements</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

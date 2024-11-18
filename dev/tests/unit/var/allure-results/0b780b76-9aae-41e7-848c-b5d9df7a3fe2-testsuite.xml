@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328756" stop="1729890328760" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Model\Template\Config\FileIteratorTest</name>
+  <test-cases>
+    <test-case start="1729890328756" stop="1729890328758" status="passed">
+      <name>testIterator</name>
+    </test-case>
+    <test-case start="1729890328759" stop="1729890328760" status="passed">
+      <name>testIteratorNegative</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

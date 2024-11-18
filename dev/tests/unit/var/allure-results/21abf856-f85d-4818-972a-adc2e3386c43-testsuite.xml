@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284269" stop="1729890284275" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Controller\Product\Frontend\Action\SynchronizeTest</name>
+  <test-cases>
+    <test-case start="1729890284270" stop="1729890284273" status="passed">
+      <name>testExecuteAction</name>
+    </test-case>
+    <test-case start="1729890284274" stop="1729890284275" status="passed">
+      <name>testExecuteActionException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

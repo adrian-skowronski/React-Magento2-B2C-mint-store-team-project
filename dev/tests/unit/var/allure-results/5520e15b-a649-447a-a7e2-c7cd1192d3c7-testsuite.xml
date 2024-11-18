@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404398" stop="1729890404400" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\Control\LinkTest</name>
+  <test-cases>
+    <test-case start="1729890404398" stop="1729890404400" status="passed">
+      <name>testGetComponentName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

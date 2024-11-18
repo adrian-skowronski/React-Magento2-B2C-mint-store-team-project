@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890267231" stop="1729890267254" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Model\Session\AdminConfigTest</name>
+  <test-cases>
+    <test-case start="1729890267231" stop="1729890267247" status="passed">
+      <name>testSetCookiePathNonDefault</name>
+    </test-case>
+    <test-case start="1729890267247" stop="1729890267250" status="passed">
+      <name>testSetSessionSettingsByConstructor with data set #0</name>
+    </test-case>
+    <test-case start="1729890267250" stop="1729890267254" status="passed">
+      <name>testSetSessionSettingsByConstructor with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890283353" stop="1729890283397" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Controller\Adminhtml\Product\Action\Attribute\EditTest</name>
+  <test-cases>
+    <test-case start="1729890283353" stop="1729890283385" status="passed">
+      <name>testExecutePageRequested</name>
+    </test-case>
+    <test-case start="1729890283385" stop="1729890283391" status="passed">
+      <name>testExecutePageReload</name>
+    </test-case>
+    <test-case start="1729890283391" stop="1729890283396" status="passed">
+      <name>testExecutePageDirectAccess</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

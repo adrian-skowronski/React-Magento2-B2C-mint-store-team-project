@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890412221" stop="1729890412236" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Pricing\ConfiguredPrice\DownloadableTest</name>
+  <test-cases>
+    <test-case start="1729890412222" stop="1729890412227" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+    <test-case start="1729890412227" stop="1729890412228" status="passed">
+      <name>testGetValueNoLinksPurchasedSeparately</name>
+    </test-case>
+    <test-case start="1729890412229" stop="1729890412232" status="passed">
+      <name>testGetValueNoOptions</name>
+    </test-case>
+    <test-case start="1729890412232" stop="1729890412236" status="passed">
+      <name>testGetValueWithNoCustomOption</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

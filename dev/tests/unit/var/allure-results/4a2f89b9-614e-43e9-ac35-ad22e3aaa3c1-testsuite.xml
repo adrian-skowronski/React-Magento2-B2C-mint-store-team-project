@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890318893" stop="1729890318903" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Ui\Component\Listing\ColumnsTest</name>
+  <test-cases>
+    <test-case start="1729890318893" stop="1729890318897" status="passed">
+      <name>testPrepareWithAddColumn</name>
+    </test-case>
+    <test-case start="1729890318898" stop="1729890318900" status="passed">
+      <name>testPrepareWithUpdateColumn</name>
+    </test-case>
+    <test-case start="1729890318901" stop="1729890318903" status="passed">
+      <name>testPrepareWithUpdateStaticColumn</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

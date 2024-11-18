@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375843" stop="1729890375858" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\Converter\ToModelTest</name>
+  <test-cases>
+    <test-case start="1729890375843" stop="1729890375846" status="passed">
+      <name>testDataModelToArray</name>
+    </test-case>
+    <test-case start="1729890375846" stop="1729890375849" status="passed">
+      <name>testToModel</name>
+    </test-case>
+    <test-case start="1729890375849" stop="1729890375852" status="passed">
+      <name>testFormattingDate with data set "mm/dd/yyyy to yyyy-mm-dd"</name>
+    </test-case>
+    <test-case start="1729890375853" stop="1729890375855" status="passed">
+      <name>testFormattingDate with data set "yyyy-mm-dd to yyyy-mm-dd"</name>
+    </test-case>
+    <test-case start="1729890375856" stop="1729890375857" status="passed">
+      <name>testFormattingDate with data set "yymmdd to yyyy-mm-dd"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

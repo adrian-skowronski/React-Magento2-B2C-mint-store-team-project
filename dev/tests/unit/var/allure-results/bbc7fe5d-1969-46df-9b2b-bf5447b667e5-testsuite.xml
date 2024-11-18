@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890258241" stop="1729890258257" version="1.4.0">
+  <name>Magento\AdobeIms\Test\Unit\Model\GetTokenTest</name>
+  <test-cases>
+    <test-case start="1729890258243" stop="1729890258256" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

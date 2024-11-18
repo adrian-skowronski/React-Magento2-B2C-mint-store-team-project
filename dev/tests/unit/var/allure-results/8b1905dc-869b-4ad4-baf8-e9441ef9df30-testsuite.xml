@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890378320" stop="1729890378338" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Block\Items\AbstractTest</name>
+  <test-cases>
+    <test-case start="1729890378320" stop="1729890378323" status="passed">
+      <name>testGetItemRenderer</name>
+    </test-case>
+    <test-case start="1729890378323" stop="1729890378325" status="passed">
+      <name>testGetItemRendererThrowsExceptionForNonexistentRenderer</name>
+    </test-case>
+    <test-case start="1729890378325" stop="1729890378329" status="passed">
+      <name>testGetItemHtml with data set #0</name>
+    </test-case>
+    <test-case start="1729890378329" stop="1729890378331" status="passed">
+      <name>testGetItemHtml with data set #1</name>
+    </test-case>
+    <test-case start="1729890378332" stop="1729890378334" status="passed">
+      <name>testGetItemHtml with data set #2</name>
+    </test-case>
+    <test-case start="1729890378335" stop="1729890378338" status="passed">
+      <name>testGetItemHtml with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

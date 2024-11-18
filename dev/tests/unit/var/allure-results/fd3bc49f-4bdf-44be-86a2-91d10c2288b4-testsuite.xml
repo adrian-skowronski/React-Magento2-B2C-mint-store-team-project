@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890377223" stop="1729890377240" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Observer\RuleQuoteRecollectTotalsObserverTest</name>
+  <test-cases>
+    <test-case start="1729890377224" stop="1729890377227" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890377227" stop="1729890377228" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890377229" stop="1729890377230" status="passed">
+      <name>testExecute with data set #2</name>
+    </test-case>
+    <test-case start="1729890377231" stop="1729890377232" status="passed">
+      <name>testExecute with data set #3</name>
+    </test-case>
+    <test-case start="1729890377232" stop="1729890377233" status="passed">
+      <name>testExecute with data set #4</name>
+    </test-case>
+    <test-case start="1729890377234" stop="1729890377235" status="passed">
+      <name>testExecute with data set #5</name>
+    </test-case>
+    <test-case start="1729890377236" stop="1729890377236" status="passed">
+      <name>testExecute with data set #6</name>
+    </test-case>
+    <test-case start="1729890377237" stop="1729890377238" status="passed">
+      <name>testExecute with data set #7</name>
+    </test-case>
+    <test-case start="1729890377239" stop="1729890377240" status="passed">
+      <name>testExecute with data set #8</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

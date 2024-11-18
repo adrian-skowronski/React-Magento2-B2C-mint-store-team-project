@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271332" stop="1729890271337" version="1.4.0">
+  <name>Magento\Captcha\Test\Unit\Model\Config\Form\FrontendTest</name>
+  <test-cases>
+    <test-case start="1729890271333" stop="1729890271335" status="passed">
+      <name>testToOptionArray with data set "Empty captcha frontend areas"</name>
+    </test-case>
+    <test-case start="1729890271335" stop="1729890271337" status="passed">
+      <name>testToOptionArray with data set "With two captcha frontend area"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

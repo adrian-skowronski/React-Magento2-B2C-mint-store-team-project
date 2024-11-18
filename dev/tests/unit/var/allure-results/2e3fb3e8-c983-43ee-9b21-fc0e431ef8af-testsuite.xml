@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890261442" stop="1729890261457" version="1.4.0">
+  <name>Magento\AdvancedPricingImportExport\Test\Unit\Model\Indexer\Product\Price\Plugin\ImportTest</name>
+  <test-cases>
+    <test-case start="1729890261442" stop="1729890261452" status="passed">
+      <name>testAfterSaveReindexIsOnSave</name>
+    </test-case>
+    <test-case start="1729890261452" stop="1729890261454" status="passed">
+      <name>testAfterSaveReindexIsOnSchedule</name>
+    </test-case>
+    <test-case start="1729890261454" stop="1729890261455" status="passed">
+      <name>testAfterDeleteReindexIsOnSave</name>
+    </test-case>
+    <test-case start="1729890261455" stop="1729890261456" status="passed">
+      <name>testAfterDeleteReindexIsOnSchedule</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

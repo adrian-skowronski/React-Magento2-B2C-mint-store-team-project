@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451701" stop="1729890451709" version="1.4.0">
+  <name>Magento\Framework\Math\Test\Unit\CalculatorTest</name>
+  <test-cases>
+    <test-case start="1729890451703" stop="1729890451704" status="passed">
+      <name>testDeltaRound with data set #0</name>
+    </test-case>
+    <test-case start="1729890451705" stop="1729890451706" status="passed">
+      <name>testDeltaRound with data set #1</name>
+    </test-case>
+    <test-case start="1729890451707" stop="1729890451708" status="passed">
+      <name>testDeltaRound with data set #2</name>
+    </test-case>
+    <test-case start="1729890451708" stop="1729890451709" status="passed">
+      <name>testDeltaRound with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

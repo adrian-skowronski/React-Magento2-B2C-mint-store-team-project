@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890427585" stop="1729890427593" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\View\Asset\MaterializationStrategy\FactoryTest</name>
+  <test-cases>
+    <test-case start="1729890427586" stop="1729890427589" status="passed">
+      <name>testCreateEmptyStrategies</name>
+    </test-case>
+    <test-case start="1729890427589" stop="1729890427591" status="passed">
+      <name>testCreateSupported</name>
+    </test-case>
+    <test-case start="1729890427592" stop="1729890427593" status="passed">
+      <name>testCreateException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

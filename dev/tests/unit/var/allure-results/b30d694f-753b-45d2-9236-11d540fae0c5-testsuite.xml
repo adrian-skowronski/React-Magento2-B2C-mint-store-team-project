@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285671" stop="1729890285752" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\CategoryTest</name>
+  <test-cases>
+    <test-case start="1729890285672" stop="1729890285675" status="passed">
+      <name>testFormatUrlKey</name>
+    </test-case>
+    <test-case start="1729890285676" stop="1729890285679" status="pending">
+      <name>testMoveWhenCannotFindParentCategory</name>
+      <failure>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-catalog/Test/Unit/Model/CategoryTest.php(217): PHPUnit\Framework\Assert::markTestIncomplete()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Catalog\Test\Unit\Model\CategoryTest-&gt;testMoveWhenCannotFindParentCategory()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#12 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890285679" stop="1729890285681" status="passed">
+      <name>testMoveWhenCannotFindNewCategory</name>
+    </test-case>
+    <test-case start="1729890285682" stop="1729890285684" status="pending">
+      <name>testMoveWhenParentCategoryIsSameAsChildCategory</name>
+      <failure>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-catalog/Test/Unit/Model/CategoryTest.php(263): PHPUnit\Framework\Assert::markTestIncomplete()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Catalog\Test\Unit\Model\CategoryTest-&gt;testMoveWhenParentCategoryIsSameAsChildCategory()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#12 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890285684" stop="1729890285688" status="passed">
+      <name>testMovePrimaryWorkflow</name>
+    </test-case>
+    <test-case start="1729890285688" stop="1729890285690" status="passed">
+      <name>testGetUseFlatResourceFalse</name>
+    </test-case>
+    <test-case start="1729890285690" stop="1729890285693" status="passed">
+      <name>testGetUseFlatResourceTrue</name>
+    </test-case>
+    <test-case start="1729890285694" stop="1729890285697" status="passed">
+      <name>testReindexFlatEnabled with data set "set 1"</name>
+    </test-case>
+    <test-case start="1729890285698" stop="1729890285700" status="passed">
+      <name>testReindexFlatEnabled with data set "set 2"</name>
+    </test-case>
+    <test-case start="1729890285701" stop="1729890285704" status="passed">
+      <name>testReindexFlatEnabled with data set "set 3"</name>
+    </test-case>
+    <test-case start="1729890285704" stop="1729890285707" status="passed">
+      <name>testReindexFlatEnabled with data set "set 4"</name>
+    </test-case>
+    <test-case start="1729890285708" stop="1729890285710" status="passed">
+      <name>testReindexFlatDisabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890285711" stop="1729890285713" status="passed">
+      <name>testReindexFlatDisabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890285714" stop="1729890285716" status="passed">
+      <name>testReindexFlatDisabled with data set #2</name>
+    </test-case>
+    <test-case start="1729890285717" stop="1729890285719" status="passed">
+      <name>testReindexFlatDisabled with data set #3</name>
+    </test-case>
+    <test-case start="1729890285719" stop="1729890285722" status="passed">
+      <name>testReindexFlatDisabled with data set #4</name>
+    </test-case>
+    <test-case start="1729890285723" stop="1729890285725" status="passed">
+      <name>testReindexFlatDisabled with data set #5</name>
+    </test-case>
+    <test-case start="1729890285726" stop="1729890285728" status="passed">
+      <name>testReindexFlatDisabled with data set #6</name>
+    </test-case>
+    <test-case start="1729890285729" stop="1729890285732" status="passed">
+      <name>testReindexFlatDisabled with data set #7</name>
+    </test-case>
+    <test-case start="1729890285733" stop="1729890285735" status="passed">
+      <name>testReindexFlatDisabled with data set #8</name>
+    </test-case>
+    <test-case start="1729890285735" stop="1729890285738" status="passed">
+      <name>testGetCustomAttributes</name>
+    </test-case>
+    <test-case start="1729890285739" stop="1729890285742" status="passed">
+      <name>testGetImageWithAttributeCode with data set #0</name>
+    </test-case>
+    <test-case start="1729890285743" stop="1729890285747" status="passed">
+      <name>testGetImageWithAttributeCode with data set #1</name>
+    </test-case>
+    <test-case start="1729890285748" stop="1729890285752" status="passed">
+      <name>testGetImageWithoutAttributeCode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

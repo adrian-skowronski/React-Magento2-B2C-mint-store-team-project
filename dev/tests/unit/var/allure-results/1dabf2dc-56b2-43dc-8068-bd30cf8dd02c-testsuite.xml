@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890260981" stop="1729890261040" version="1.4.0">
+  <name>Magento\AdvancedPricingImportExport\Test\Unit\Model\Export\AdvancedPricingTest</name>
+  <test-cases>
+    <test-case start="1729890260981" stop="1729890261035" status="passed">
+      <name>testExportZeroConditionCalls</name>
+    </test-case>
+    <test-case start="1729890261036" stop="1729890261040" status="passed">
+      <name>testExportCurrentPageCalls</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

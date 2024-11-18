@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890276287" stop="1729890276361" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\Spi\StockRegistryProviderTest</name>
+  <test-cases>
+    <test-case start="1729890276287" stop="1729890276332" status="passed">
+      <name>testGetStock</name>
+    </test-case>
+    <test-case start="1729890276332" stop="1729890276341" status="passed">
+      <name>testGetStockItem</name>
+    </test-case>
+    <test-case start="1729890276341" stop="1729890276361" status="passed">
+      <name>testGetStockStatus</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

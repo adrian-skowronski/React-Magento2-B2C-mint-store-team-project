@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890259835" stop="1729890259876" version="1.4.0">
+  <name>Magento\AdobeStockClient\Test\Unit\Model\SearchParametersProvider\ContentTypeTest</name>
+  <test-cases>
+    <test-case start="1729890259838" stop="1729890259873" status="passed">
+      <name>testApplyWithValuePhoto</name>
+    </test-case>
+    <test-case start="1729890259873" stop="1729890259876" status="passed">
+      <name>testApplyWithValueIllustration</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

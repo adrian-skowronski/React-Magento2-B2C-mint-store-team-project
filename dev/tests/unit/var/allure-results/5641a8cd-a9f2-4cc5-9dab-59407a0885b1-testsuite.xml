@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890443364" stop="1729890443499" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Form\Element\AbstractElementTest</name>
+  <test-cases>
+    <test-case start="1729890443365" stop="1729890443370" status="passed">
+      <name>testAddElement</name>
+    </test-case>
+    <test-case start="1729890443371" stop="1729890443375" status="passed">
+      <name>testGetHtmlId</name>
+    </test-case>
+    <test-case start="1729890443375" stop="1729890443377" status="passed">
+      <name>testGetNameWithoutSuffix</name>
+    </test-case>
+    <test-case start="1729890443378" stop="1729890443379" status="passed">
+      <name>testGetNameWithSuffix</name>
+    </test-case>
+    <test-case start="1729890443380" stop="1729890443384" status="passed">
+      <name>testRemoveField</name>
+    </test-case>
+    <test-case start="1729890443385" stop="1729890443387" status="passed">
+      <name>testGetHtmlAttributes</name>
+    </test-case>
+    <test-case start="1729890443387" stop="1729890443389" status="passed">
+      <name>testAddClass</name>
+    </test-case>
+    <test-case start="1729890443389" stop="1729890443391" status="passed">
+      <name>testRemoveClass</name>
+    </test-case>
+    <test-case start="1729890443391" stop="1729890443392" status="passed">
+      <name>testGetEscapedValueWithoutFilter</name>
+    </test-case>
+    <test-case start="1729890443393" stop="1729890443395" status="passed">
+      <name>testGetEscapedValueWithFilter</name>
+    </test-case>
+    <test-case start="1729890443396" stop="1729890443398" status="passed">
+      <name>testGetElementHtml with data set #0</name>
+    </test-case>
+    <test-case start="1729890443398" stop="1729890443400" status="passed">
+      <name>testGetElementHtml with data set #1</name>
+    </test-case>
+    <test-case start="1729890443400" stop="1729890443402" status="passed">
+      <name>testGetElementHtml with data set #2</name>
+    </test-case>
+    <test-case start="1729890443403" stop="1729890443405" status="passed">
+      <name>testGetElementHtml with data set #3</name>
+    </test-case>
+    <test-case start="1729890443406" stop="1729890443407" status="passed">
+      <name>testGetElementHtml with data set #4</name>
+    </test-case>
+    <test-case start="1729890443408" stop="1729890443409" status="passed">
+      <name>testGetLabelHtml with data set #0</name>
+    </test-case>
+    <test-case start="1729890443410" stop="1729890443411" status="passed">
+      <name>testGetLabelHtml with data set #1</name>
+    </test-case>
+    <test-case start="1729890443412" stop="1729890443413" status="passed">
+      <name>testGetLabelHtml with data set #2</name>
+    </test-case>
+    <test-case start="1729890443414" stop="1729890443416" status="passed">
+      <name>testGetLabelHtml with data set #3</name>
+    </test-case>
+    <test-case start="1729890443417" stop="1729890443419" status="passed">
+      <name>testGetDefaultHtml with data set #0</name>
+    </test-case>
+    <test-case start="1729890443420" stop="1729890443421" status="passed">
+      <name>testGetDefaultHtml with data set #1</name>
+    </test-case>
+    <test-case start="1729890443423" stop="1729890443426" status="passed">
+      <name>testGetDefaultHtml with data set #2</name>
+    </test-case>
+    <test-case start="1729890443427" stop="1729890443429" status="passed">
+      <name>testGetDefaultHtml with data set #3</name>
+    </test-case>
+    <test-case start="1729890443429" stop="1729890443432" status="passed">
+      <name>testGetHtmlWithoutRenderer</name>
+    </test-case>
+    <test-case start="1729890443433" stop="1729890443438" status="passed">
+      <name>testGetHtmlWithRenderer</name>
+    </test-case>
+    <test-case start="1729890443439" stop="1729890443441" status="passed">
+      <name>testSerialize with data set #0</name>
+    </test-case>
+    <test-case start="1729890443442" stop="1729890443445" status="passed">
+      <name>testSerialize with data set #1</name>
+    </test-case>
+    <test-case start="1729890443447" stop="1729890443449" status="passed">
+      <name>testSerialize with data set #2</name>
+    </test-case>
+    <test-case start="1729890443450" stop="1729890443452" status="passed">
+      <name>testSerialize with data set #3</name>
+    </test-case>
+    <test-case start="1729890443453" stop="1729890443455" status="passed">
+      <name>testGetHtmlContainerIdWithoutId</name>
+    </test-case>
+    <test-case start="1729890443455" stop="1729890443457" status="passed">
+      <name>testGetHtmlContainerIdWithContainerId</name>
+    </test-case>
+    <test-case start="1729890443457" stop="1729890443459" status="passed">
+      <name>testGetHtmlContainerIdWithFieldContainerIdPrefix</name>
+    </test-case>
+    <test-case start="1729890443467" stop="1729890443480" status="passed">
+      <name>testAddElementValues with data set #0</name>
+    </test-case>
+    <test-case start="1729890443483" stop="1729890443486" status="passed">
+      <name>testAddElementValues with data set #1</name>
+    </test-case>
+    <test-case start="1729890443489" stop="1729890443494" status="passed">
+      <name>testGetDefaultHtmlDataProvider</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

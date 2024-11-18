@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890355297" stop="1729890355342" version="1.4.0">
+  <name>Magento\Newsletter\Test\Unit\Model\QueueTest</name>
+  <test-cases>
+    <test-case start="1729890355297" stop="1729890355316" status="passed">
+      <name>testSendPerSubscriber1</name>
+    </test-case>
+    <test-case start="1729890355316" stop="1729890355321" status="passed">
+      <name>testSendPerSubscriberZeroSize</name>
+    </test-case>
+    <test-case start="1729890355322" stop="1729890355326" status="passed">
+      <name>testSendPerSubscriber2</name>
+    </test-case>
+    <test-case start="1729890355327" stop="1729890355328" status="passed">
+      <name>testGetDataForSave</name>
+    </test-case>
+    <test-case start="1729890355328" stop="1729890355339" status="passed">
+      <name>testGetTemplate</name>
+    </test-case>
+    <test-case start="1729890355340" stop="1729890355342" status="passed">
+      <name>testGetStores</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

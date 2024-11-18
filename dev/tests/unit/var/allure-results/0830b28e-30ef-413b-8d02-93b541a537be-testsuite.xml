@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890396105" stop="1729890396110" version="1.4.0">
+  <name>Magento\Swagger\Test\Unit\Controller\Index\IndexTest</name>
+  <test-cases>
+    <test-case start="1729890396105" stop="1729890396108" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890396108" stop="1729890396109" status="passed">
+      <name>testDispatchRejectsWhenDisabled</name>
+    </test-case>
+    <test-case start="1729890396109" stop="1729890396110" status="passed">
+      <name>testDispatchIsSuccessfulWhenEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

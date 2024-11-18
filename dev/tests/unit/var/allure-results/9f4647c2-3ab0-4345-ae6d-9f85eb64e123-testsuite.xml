@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890415806" stop="1729890415810" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\Address\AddressDataGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890415806" stop="1729890415808" status="passed">
+      <name>testPostcode</name>
+    </test-case>
+    <test-case start="1729890415808" stop="1729890415810" status="passed">
+      <name>testAddressStructure</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

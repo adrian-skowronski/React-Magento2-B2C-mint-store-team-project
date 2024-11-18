@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353338" stop="1729890353388" version="1.4.0">
+  <name>Magento\MessageQueue\Test\Unit\Model\Cron\ConsumersRunnerTest</name>
+  <test-cases>
+    <test-case start="1729890353338" stop="1729890353343" status="passed">
+      <name>testRunDisabled</name>
+    </test-case>
+    <test-case start="1729890353344" stop="1729890353347" status="passed">
+      <name>testRun with data set #0</name>
+    </test-case>
+    <test-case start="1729890353348" stop="1729890353350" status="passed">
+      <name>testRun with data set #1</name>
+    </test-case>
+    <test-case start="1729890353351" stop="1729890353353" status="passed">
+      <name>testRun with data set #2</name>
+    </test-case>
+    <test-case start="1729890353353" stop="1729890353355" status="passed">
+      <name>testRun with data set #3</name>
+    </test-case>
+    <test-case start="1729890353355" stop="1729890353357" status="passed">
+      <name>testRun with data set #4</name>
+    </test-case>
+    <test-case start="1729890353358" stop="1729890353360" status="passed">
+      <name>testRun with data set #5</name>
+    </test-case>
+    <test-case start="1729890353360" stop="1729890353362" status="passed">
+      <name>testRun with data set #6</name>
+    </test-case>
+    <test-case start="1729890353362" stop="1729890353364" status="passed">
+      <name>testRun with data set #7</name>
+    </test-case>
+    <test-case start="1729890353365" stop="1729890353367" status="passed">
+      <name>testRunMultiProcesses with data set #0</name>
+    </test-case>
+    <test-case start="1729890353368" stop="1729890353369" status="passed">
+      <name>testRunMultiProcesses with data set #1</name>
+    </test-case>
+    <test-case start="1729890353370" stop="1729890353372" status="passed">
+      <name>testRunMultiProcesses with data set #2</name>
+    </test-case>
+    <test-case start="1729890353373" stop="1729890353375" status="passed">
+      <name>testRunBasedOnOnlySpawnWhenMessageAvailableConsumerConfiguration with data set #0</name>
+    </test-case>
+    <test-case start="1729890353376" stop="1729890353378" status="passed">
+      <name>testRunBasedOnOnlySpawnWhenMessageAvailableConsumerConfiguration with data set #1</name>
+    </test-case>
+    <test-case start="1729890353378" stop="1729890353380" status="passed">
+      <name>testRunBasedOnOnlySpawnWhenMessageAvailableConsumerConfiguration with data set #2</name>
+    </test-case>
+    <test-case start="1729890353380" stop="1729890353382" status="passed">
+      <name>testRunBasedOnOnlySpawnWhenMessageAvailableConsumerConfiguration with data set #3</name>
+    </test-case>
+    <test-case start="1729890353383" stop="1729890353385" status="passed">
+      <name>testRunBasedOnOnlySpawnWhenMessageAvailableConsumerConfiguration with data set #4</name>
+    </test-case>
+    <test-case start="1729890353386" stop="1729890353388" status="passed">
+      <name>testRunBasedOnOnlySpawnWhenMessageAvailableConsumerConfiguration with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

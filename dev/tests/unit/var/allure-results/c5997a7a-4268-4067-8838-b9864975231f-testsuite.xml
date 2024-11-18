@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302212" stop="1729890302226" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\ImporterTest</name>
+  <test-cases>
+    <test-case start="1729890302212" stop="1729890302223" status="passed">
+      <name>testImport</name>
+    </test-case>
+    <test-case start="1729890302223" stop="1729890302226" status="passed">
+      <name>testImportWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

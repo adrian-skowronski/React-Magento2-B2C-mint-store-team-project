@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890270956" stop="1729890270960" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Ui\DataProvider\Product\Form\Modifier\BundleQuantityTest</name>
+  <test-cases>
+    <test-case start="1729890270957" stop="1729890270959" status="passed">
+      <name>testModifyMeta</name>
+    </test-case>
+    <test-case start="1729890270959" stop="1729890270960" status="passed">
+      <name>testModifyData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

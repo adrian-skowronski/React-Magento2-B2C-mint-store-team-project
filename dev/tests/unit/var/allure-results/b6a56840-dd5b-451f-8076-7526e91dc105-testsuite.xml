@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890455030" stop="1729890455043" version="1.4.0">
+  <name>Magento\Framework\Pricing\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890455031" stop="1729890455032" status="passed">
+      <name>testCurrency with data set #0</name>
+    </test-case>
+    <test-case start="1729890455033" stop="1729890455034" status="passed">
+      <name>testCurrency with data set #1</name>
+    </test-case>
+    <test-case start="1729890455035" stop="1729890455036" status="passed">
+      <name>testCurrency with data set #2</name>
+    </test-case>
+    <test-case start="1729890455037" stop="1729890455039" status="passed">
+      <name>testCurrencyByStore with data set #0</name>
+    </test-case>
+    <test-case start="1729890455040" stop="1729890455041" status="passed">
+      <name>testCurrencyByStore with data set #1</name>
+    </test-case>
+    <test-case start="1729890455042" stop="1729890455043" status="passed">
+      <name>testCurrencyByStore with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

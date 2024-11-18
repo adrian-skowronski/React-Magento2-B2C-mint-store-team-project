@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890318975" stop="1729890318998" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Console\Command\App\ConfigImport\ProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890318975" stop="1729890318980" status="passed">
+      <name>testImport with data set #0</name>
+    </test-case>
+    <test-case start="1729890318980" stop="1729890318982" status="passed">
+      <name>testImport with data set #1</name>
+    </test-case>
+    <test-case start="1729890318983" stop="1729890318985" status="passed">
+      <name>testImport with data set #2</name>
+    </test-case>
+    <test-case start="1729890318985" stop="1729890318987" status="passed">
+      <name>testImport with data set #3</name>
+    </test-case>
+    <test-case start="1729890318988" stop="1729890318989" status="passed">
+      <name>testImportWithException</name>
+    </test-case>
+    <test-case start="1729890318989" stop="1729890318992" status="passed">
+      <name>testImportWithValidation</name>
+    </test-case>
+    <test-case start="1729890318992" stop="1729890318994" status="passed">
+      <name>testImportNothingToImport with data set #0</name>
+    </test-case>
+    <test-case start="1729890318994" stop="1729890318996" status="passed">
+      <name>testImportNothingToImport with data set #1</name>
+    </test-case>
+    <test-case start="1729890318996" stop="1729890318998" status="passed">
+      <name>testImportNothingToImport with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

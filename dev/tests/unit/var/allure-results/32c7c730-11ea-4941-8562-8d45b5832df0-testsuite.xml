@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890401039" stop="1729890401043" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Block\Adminhtml\Design\Config\Edit\ScopeTest</name>
+  <test-cases>
+    <test-case start="1729890401039" stop="1729890401041" status="passed">
+      <name>testGetScopeTitle</name>
+    </test-case>
+    <test-case start="1729890401042" stop="1729890401043" status="passed">
+      <name>testGetScopeTitleDefault</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

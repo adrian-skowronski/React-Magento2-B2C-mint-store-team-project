@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374396" stop="1729890374412" version="1.4.0">
+  <name>Magento\Review\Test\Unit\Block\FormTest</name>
+  <test-cases>
+    <test-case start="1729890374396" stop="1729890374402" status="passed">
+      <name>testGetProductInfo</name>
+    </test-case>
+    <test-case start="1729890374402" stop="1729890374405" status="passed">
+      <name>testGetAction with data set #0</name>
+    </test-case>
+    <test-case start="1729890374406" stop="1729890374409" status="passed">
+      <name>testGetAction with data set #1</name>
+    </test-case>
+    <test-case start="1729890374409" stop="1729890374412" status="passed">
+      <name>testGetJsLayout</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

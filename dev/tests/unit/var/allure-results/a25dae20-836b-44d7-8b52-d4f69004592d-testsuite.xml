@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890385780" stop="1729890386165" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\PaymentTest</name>
+  <test-cases>
+    <test-case start="1729890385781" stop="1729890385797" status="passed">
+      <name>testCancel</name>
+    </test-case>
+    <test-case start="1729890385797" stop="1729890385806" status="passed">
+      <name>testPlace</name>
+    </test-case>
+    <test-case start="1729890385806" stop="1729890385811" status="passed">
+      <name>testPlaceActionOrder</name>
+    </test-case>
+    <test-case start="1729890385811" stop="1729890385819" status="passed">
+      <name>testPlaceActionAuthorizeInitializeNeeded</name>
+    </test-case>
+    <test-case start="1729890385820" stop="1729890385825" status="passed">
+      <name>testPlaceActionAuthorizeFraud</name>
+    </test-case>
+    <test-case start="1729890385825" stop="1729890385830" status="passed">
+      <name>testPlaceActionAuthorizeCapture</name>
+    </test-case>
+    <test-case start="1729890385831" stop="1729890385838" status="passed">
+      <name>testPlaceWithSaleOperationSupported</name>
+    </test-case>
+    <test-case start="1729890385839" stop="1729890385842" status="passed">
+      <name>testAuthorize with data set #0</name>
+    </test-case>
+    <test-case start="1729890385842" stop="1729890385844" status="passed">
+      <name>testAuthorize with data set #1</name>
+    </test-case>
+    <test-case start="1729890385844" stop="1729890385850" status="passed">
+      <name>testAcceptApprovePaymentTrue</name>
+    </test-case>
+    <test-case start="1729890385850" stop="1729890385854" status="passed">
+      <name>testAcceptApprovePaymentFalse with data set "Fraud = 1"</name>
+    </test-case>
+    <test-case start="1729890385854" stop="1729890385858" status="passed">
+      <name>testAcceptApprovePaymentFalse with data set "Fraud = 0"</name>
+    </test-case>
+    <test-case start="1729890385858" stop="1729890385861" status="passed">
+      <name>testAcceptApprovePaymentFalseOrderState with data set "Fraud = 1"</name>
+    </test-case>
+    <test-case start="1729890385861" stop="1729890385865" status="passed">
+      <name>testAcceptApprovePaymentFalseOrderState with data set "Fraud = 0"</name>
+    </test-case>
+    <test-case start="1729890385865" stop="1729890385870" status="passed">
+      <name>testDenyPaymentFalse</name>
+    </test-case>
+    <test-case start="1729890385870" stop="1729890385873" status="passed">
+      <name>testDenyPaymentIpn</name>
+    </test-case>
+    <test-case start="1729890385874" stop="1729890385877" status="passed">
+      <name>testDenyPaymentNegative with data set "Fraud = 1"</name>
+    </test-case>
+    <test-case start="1729890385877" stop="1729890385882" status="passed">
+      <name>testDenyPaymentNegative with data set "Fraud = 0"</name>
+    </test-case>
+    <test-case start="1729890385882" stop="1729890385885" status="passed">
+      <name>testDenyPaymentNegativeStateReview</name>
+    </test-case>
+    <test-case start="1729890385886" stop="1729890385888" status="passed">
+      <name>testDenyPaymentIpnNegativeStateReview</name>
+    </test-case>
+    <test-case start="1729890385889" stop="1729890385894" status="passed">
+      <name>testUpdateOnlineTransactionApproved</name>
+    </test-case>
+    <test-case start="1729890385894" stop="1729890385900" status="passed">
+      <name>testUpdateOnlineTransactionApprovedIpn</name>
+    </test-case>
+    <test-case start="1729890385900" stop="1729890385905" status="passed">
+      <name>testUpdateOnlineTransactionDenied</name>
+    </test-case>
+    <test-case start="1729890385906" stop="1729890385909" status="passed">
+      <name>testUpdateOnlineTransactionDeniedFalse with data set "Fraud = 1"</name>
+    </test-case>
+    <test-case start="1729890385909" stop="1729890385913" status="passed">
+      <name>testUpdateOnlineTransactionDeniedFalse with data set "Fraud = 0"</name>
+    </test-case>
+    <test-case start="1729890385913" stop="1729890385919" status="passed">
+      <name>testUpdateOnlineTransactionDeniedFalseHistoryComment</name>
+    </test-case>
+    <test-case start="1729890385920" stop="1729890385925" status="passed">
+      <name>testAcceptWithoutInvoiceResultTrue</name>
+    </test-case>
+    <test-case start="1729890385925" stop="1729890385928" status="passed">
+      <name>testDenyWithoutInvoiceResultFalse</name>
+    </test-case>
+    <test-case start="1729890385928" stop="1729890385935" status="passed">
+      <name>testCanCaptureNoAuthorizationTransaction</name>
+    </test-case>
+    <test-case start="1729890385936" stop="1729890385941" status="passed">
+      <name>testCanCaptureCreateTransaction</name>
+    </test-case>
+    <test-case start="1729890385941" stop="1729890385944" status="passed">
+      <name>testCanCaptureAuthorizationTransaction</name>
+    </test-case>
+    <test-case start="1729890385944" stop="1729890385947" status="passed">
+      <name>testCannotCapture</name>
+    </test-case>
+    <test-case start="1729890385947" stop="1729890385952" status="passed">
+      <name>testPay</name>
+    </test-case>
+    <test-case start="1729890385953" stop="1729890385958" status="passed">
+      <name>testPayWithMultipleInvoices</name>
+    </test-case>
+    <test-case start="1729890385958" stop="1729890386110" status="passed">
+      <name>testGetOrder</name>
+    </test-case>
+    <test-case start="1729890386111" stop="1729890386113" status="passed">
+      <name>testGetOrderDefault</name>
+    </test-case>
+    <test-case start="1729890386114" stop="1729890386120" status="passed">
+      <name>testGetOrderNull</name>
+    </test-case>
+    <test-case start="1729890386120" stop="1729890386124" status="passed">
+      <name>testCancelInvoice</name>
+    </test-case>
+    <test-case start="1729890386124" stop="1729890386128" status="passed">
+      <name>testRegisterRefundNotificationTransactionExists</name>
+    </test-case>
+    <test-case start="1729890386129" stop="1729890386139" status="passed">
+      <name>testRegisterRefundNotification</name>
+    </test-case>
+    <test-case start="1729890386139" stop="1729890386143" status="passed">
+      <name>testRegisterRefundNotificationWrongAmount</name>
+    </test-case>
+    <test-case start="1729890386144" stop="1729890386150" status="passed">
+      <name>testCanRefund with data set #0</name>
+    </test-case>
+    <test-case start="1729890386150" stop="1729890386153" status="passed">
+      <name>testCanRefund with data set #1</name>
+    </test-case>
+    <test-case start="1729890386153" stop="1729890386159" status="passed">
+      <name>testRefund</name>
+    </test-case>
+    <test-case start="1729890386160" stop="1729890386162" status="passed">
+      <name>testIsCaptureFinal</name>
+    </test-case>
+    <test-case start="1729890386162" stop="1729890386165" status="passed">
+      <name>testGetShouldCloseParentTransaction</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

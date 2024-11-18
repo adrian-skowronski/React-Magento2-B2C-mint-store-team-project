@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890321377" stop="1729890321397" version="1.4.0">
+  <name>Magento\Dhl\Test\Unit\Model\Validator\XmlValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890321377" stop="1729890321380" status="passed">
+      <name>testValidateValidXml</name>
+    </test-case>
+    <test-case start="1729890321382" stop="1729890321390" status="passed">
+      <name>testValidateInvalidXml with data set #0</name>
+    </test-case>
+    <test-case start="1729890321391" stop="1729890321392" status="passed">
+      <name>testValidateInvalidXml with data set #1</name>
+    </test-case>
+    <test-case start="1729890321394" stop="1729890321396" status="passed">
+      <name>testValidateInvalidXml with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

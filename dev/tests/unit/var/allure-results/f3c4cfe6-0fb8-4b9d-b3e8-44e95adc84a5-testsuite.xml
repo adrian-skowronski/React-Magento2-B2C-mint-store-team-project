@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890351312" stop="1729890351354" version="1.4.0">
+  <name>Magento\InventoryReservations\Test\Unit\Model\ReservationBuilderTest</name>
+  <test-cases>
+    <test-case start="1729890351313" stop="1729890351336" status="passed">
+      <name>testBuild</name>
+    </test-case>
+    <test-case start="1729890351336" stop="1729890351342" status="passed">
+      <name>testThrowValidationException with data set "with_missing_stock_id"</name>
+    </test-case>
+    <test-case start="1729890351343" stop="1729890351347" status="passed">
+      <name>testThrowValidationException with data set "with_missing_sku"</name>
+    </test-case>
+    <test-case start="1729890351347" stop="1729890351354" status="passed">
+      <name>testThrowValidationException with data set "with_missing_qty"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

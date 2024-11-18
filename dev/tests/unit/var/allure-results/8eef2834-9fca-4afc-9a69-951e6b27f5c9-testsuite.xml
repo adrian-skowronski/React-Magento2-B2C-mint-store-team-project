@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890414602" stop="1729890414714" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Console\Command\ModuleEnableDisableCommandTest</name>
+  <test-cases>
+    <test-case start="1729890414603" stop="1729890414619" status="passed">
+      <name>testExecute with data set "enable, do not clear static content"</name>
+    </test-case>
+    <test-case start="1729890414620" stop="1729890414630" status="passed">
+      <name>testExecute with data set "disable, do not clear static content"</name>
+    </test-case>
+    <test-case start="1729890414631" stop="1729890414641" status="passed">
+      <name>testExecute with data set "enable, clear static content"</name>
+    </test-case>
+    <test-case start="1729890414642" stop="1729890414649" status="passed">
+      <name>testExecute with data set "disable, clear static content"</name>
+    </test-case>
+    <test-case start="1729890414650" stop="1729890414652" status="passed">
+      <name>testExecuteEnableInvalidModule</name>
+    </test-case>
+    <test-case start="1729890414653" stop="1729890414657" status="passed">
+      <name>testExecuteDisableInvalidModule</name>
+    </test-case>
+    <test-case start="1729890414662" stop="1729890414668" status="passed">
+      <name>testExecuteAll with data set "enable"</name>
+    </test-case>
+    <test-case start="1729890414670" stop="1729890414675" status="passed">
+      <name>testExecuteAll with data set "disable"</name>
+    </test-case>
+    <test-case start="1729890414678" stop="1729890414680" status="passed">
+      <name>testExecuteWithConstraints with data set "enable"</name>
+    </test-case>
+    <test-case start="1729890414681" stop="1729890414687" status="passed">
+      <name>testExecuteWithConstraints with data set "disable"</name>
+    </test-case>
+    <test-case start="1729890414688" stop="1729890414691" status="passed">
+      <name>testExecuteForce with data set "enable"</name>
+    </test-case>
+    <test-case start="1729890414692" stop="1729890414699" status="passed">
+      <name>testExecuteForce with data set "disable"</name>
+    </test-case>
+    <test-case start="1729890414702" stop="1729890414706" status="passed">
+      <name>testExecuteNoChanges with data set "enable"</name>
+    </test-case>
+    <test-case start="1729890414707" stop="1729890414711" status="passed">
+      <name>testExecuteNoChanges with data set "disable"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

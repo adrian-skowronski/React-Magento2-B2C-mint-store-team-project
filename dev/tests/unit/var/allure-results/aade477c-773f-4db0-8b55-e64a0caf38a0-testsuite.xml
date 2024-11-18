@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461872" stop="1729890461874" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\RemoteTest</name>
+  <test-cases>
+    <test-case start="1729890461873" stop="1729890461873" status="passed">
+      <name>testGetUrl</name>
+    </test-case>
+    <test-case start="1729890461873" stop="1729890461874" status="passed">
+      <name>testGetContentType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

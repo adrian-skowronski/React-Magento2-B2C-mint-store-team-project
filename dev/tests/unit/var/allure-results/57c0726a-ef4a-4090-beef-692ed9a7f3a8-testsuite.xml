@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890279112" stop="1729890279153" version="1.4.0">
+  <name>Magento\CatalogSearch\Test\Unit\Model\Layer\Filter\AttributeTest</name>
+  <test-cases>
+    <test-case start="1729890279113" stop="1729890279134" status="passed">
+      <name>testApplyFilter with data set "Attribute with 'text' backend type"</name>
+    </test-case>
+    <test-case start="1729890279134" stop="1729890279138" status="passed">
+      <name>testApplyFilter with data set "Attribute with 'int' backend type"</name>
+    </test-case>
+    <test-case start="1729890279139" stop="1729890279141" status="passed">
+      <name>testGetItemsWithApply</name>
+    </test-case>
+    <test-case start="1729890279141" stop="1729890279144" status="passed">
+      <name>testGetItemsWithoutApply</name>
+    </test-case>
+    <test-case start="1729890279145" stop="1729890279149" status="passed">
+      <name>testGetItemsOnlyWithResults</name>
+    </test-case>
+    <test-case start="1729890279150" stop="1729890279153" status="passed">
+      <name>testGetItemsIfFacetedDataIsEmpty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462824" stop="1729890462838" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\Html\LinksTest</name>
+  <test-cases>
+    <test-case start="1729890462824" stop="1729890462826" status="passed">
+      <name>testGetLinks</name>
+    </test-case>
+    <test-case start="1729890462827" stop="1729890462835" status="passed">
+      <name>testSetActive</name>
+    </test-case>
+    <test-case start="1729890462835" stop="1729890462838" status="passed">
+      <name>testRenderLink</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

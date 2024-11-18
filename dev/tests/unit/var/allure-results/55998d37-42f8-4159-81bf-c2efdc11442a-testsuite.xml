@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285537" stop="1729890285596" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\CategoryManagementTest</name>
+  <test-cases>
+    <test-case start="1729890285537" stop="1729890285543" status="passed">
+      <name>testGetTree</name>
+    </test-case>
+    <test-case start="1729890285543" stop="1729890285545" status="passed">
+      <name>testGetTreeWithNullArguments</name>
+    </test-case>
+    <test-case start="1729890285545" stop="1729890285556" status="passed">
+      <name>testGetTreeForAllScope</name>
+    </test-case>
+    <test-case start="1729890285556" stop="1729890285571" status="passed">
+      <name>testMove</name>
+    </test-case>
+    <test-case start="1729890285572" stop="1729890285583" status="passed">
+      <name>testMoveWithException</name>
+    </test-case>
+    <test-case start="1729890285583" stop="1729890285594" status="passed">
+      <name>testMoveWithCouldNotMoveException</name>
+    </test-case>
+    <test-case start="1729890285594" stop="1729890285596" status="passed">
+      <name>testGetCount</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

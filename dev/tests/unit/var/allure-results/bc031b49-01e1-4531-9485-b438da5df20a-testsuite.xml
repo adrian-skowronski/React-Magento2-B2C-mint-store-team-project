@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449194" stop="1729890449199" version="1.4.0">
+  <name>Magento\Framework\Filesystem\Test\Unit\File\WriteFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890449194" stop="1729890449196" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890449196" stop="1729890449197" status="passed">
+      <name>testCreateWithDriverCode</name>
+    </test-case>
+    <test-case start="1729890449197" stop="1729890449198" status="passed">
+      <name>testCreateWithMode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

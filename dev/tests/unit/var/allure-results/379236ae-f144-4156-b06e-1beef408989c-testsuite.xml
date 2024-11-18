@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456831" stop="1729890456841" version="1.4.0">
+  <name>Magento\Framework\Session\Test\Unit\SaveHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890456831" stop="1729890456834" status="passed">
+      <name>testWriteSessionMaxSizeValid</name>
+    </test-case>
+    <test-case start="1729890456835" stop="1729890456836" status="passed">
+      <name>testWriteSessionMaxSizeNull</name>
+    </test-case>
+    <test-case start="1729890456836" stop="1729890456837" status="passed">
+      <name>testWriteMoreThanSessionMaxSize</name>
+    </test-case>
+    <test-case start="1729890456838" stop="1729890456839" status="passed">
+      <name>testReadMoreThanSessionMaxSize</name>
+    </test-case>
+    <test-case start="1729890456839" stop="1729890456841" status="passed">
+      <name>testReadSessionMaxZero</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

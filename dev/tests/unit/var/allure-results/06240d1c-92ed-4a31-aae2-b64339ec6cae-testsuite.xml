@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890286723" stop="1729890286739" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Product\Eav\Action\RowTest</name>
+  <test-cases>
+    <test-case start="1729890286723" stop="1729890286725" status="passed">
+      <name>testEmptyId</name>
+    </test-case>
+    <test-case start="1729890286725" stop="1729890286739" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

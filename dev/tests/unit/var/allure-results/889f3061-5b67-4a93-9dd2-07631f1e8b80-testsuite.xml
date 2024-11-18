@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890318696" stop="1729890318712" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Ui\Component\DataProvider\DocumentTest</name>
+  <test-cases>
+    <test-case start="1729890318697" stop="1729890318699" status="passed">
+      <name>testGetGenderAttribute with data set "with valid gender label and value"</name>
+    </test-case>
+    <test-case start="1729890318700" stop="1729890318701" status="passed">
+      <name>testGetGenderAttribute with data set "with empty gender label"</name>
+    </test-case>
+    <test-case start="1729890318702" stop="1729890318704" status="passed">
+      <name>testGetGenderAttribute with data set "with empty gender value"</name>
+    </test-case>
+    <test-case start="1729890318704" stop="1729890318706" status="passed">
+      <name>testGetGenderAttribute with data set "with empty gender label and value"</name>
+    </test-case>
+    <test-case start="1729890318706" stop="1729890318707" status="passed">
+      <name>testGetGroupAttribute</name>
+    </test-case>
+    <test-case start="1729890318708" stop="1729890318709" status="passed">
+      <name>testGetWebsiteAttribute</name>
+    </test-case>
+    <test-case start="1729890318709" stop="1729890318711" status="passed">
+      <name>testGetConfirmationAttribute</name>
+    </test-case>
+    <test-case start="1729890318711" stop="1729890318712" status="passed">
+      <name>testGetAccountLockValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

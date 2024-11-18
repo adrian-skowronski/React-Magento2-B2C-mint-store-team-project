@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890307492" stop="1729890307583" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Controller\Adminhtml\Product\Builder\PluginTest</name>
+  <test-cases>
+    <test-case start="1729890307493" stop="1729890307570" status="passed">
+      <name>testAfterBuild</name>
+    </test-case>
+    <test-case start="1729890307571" stop="1729890307574" status="passed">
+      <name>testAfterBuildWhenProductNotHaveAttributeAndRequiredParameters</name>
+    </test-case>
+    <test-case start="1729890307574" stop="1729890307582" status="passed">
+      <name>testAfterBuildWhenAttributesAreEmpty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

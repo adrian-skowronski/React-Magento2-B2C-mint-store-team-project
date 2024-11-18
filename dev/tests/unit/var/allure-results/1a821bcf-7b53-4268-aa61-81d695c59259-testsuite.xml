@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890405208" stop="1729890405219" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Config\Converter\ButtonsTest</name>
+  <test-cases>
+    <test-case start="1729890405210" stop="1729890405216" status="passed">
+      <name>testConvert</name>
+    </test-case>
+    <test-case start="1729890405217" stop="1729890405218" status="passed">
+      <name>testConvertEmptyButtons</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

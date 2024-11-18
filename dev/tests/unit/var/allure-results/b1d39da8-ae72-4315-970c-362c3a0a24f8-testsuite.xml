@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890269501" stop="1729890269506" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Model\Plugin\Frontend\ProductIdentitiesExtenderTest</name>
+  <test-cases>
+    <test-case start="1729890269501" stop="1729890269506" status="passed">
+      <name>testAfterGetIdentities</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

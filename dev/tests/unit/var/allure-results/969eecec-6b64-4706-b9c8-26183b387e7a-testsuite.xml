@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418475" stop="1729890418490" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\I18n\Parser\Adapter\Php\Tokenizer\TokenTest</name>
+  <test-cases>
+    <test-case start="1729890418475" stop="1729890418476" status="passed">
+      <name>testIsNew with data set "new"</name>
+    </test-case>
+    <test-case start="1729890418476" stop="1729890418477" status="passed">
+      <name>testIsNew with data set "namespace"</name>
+    </test-case>
+    <test-case start="1729890418477" stop="1729890418478" status="passed">
+      <name>testIsNew with data set "identifier"</name>
+    </test-case>
+    <test-case start="1729890418479" stop="1729890418479" status="passed">
+      <name>testIsNamespaceSeparator with data set "new"</name>
+    </test-case>
+    <test-case start="1729890418480" stop="1729890418480" status="passed">
+      <name>testIsNamespaceSeparator with data set "namespace"</name>
+    </test-case>
+    <test-case start="1729890418481" stop="1729890418481" status="passed">
+      <name>testIsNamespaceSeparator with data set "identifier"</name>
+    </test-case>
+    <test-case start="1729890418483" stop="1729890418483" status="passed">
+      <name>testIsIdentifier with data set "new"</name>
+    </test-case>
+    <test-case start="1729890418484" stop="1729890418484" status="passed">
+      <name>testIsIdentifier with data set "namespace"</name>
+    </test-case>
+    <test-case start="1729890418485" stop="1729890418485" status="passed">
+      <name>testIsIdentifier with data set "identifier"</name>
+    </test-case>
+    <test-case start="1729890418486" stop="1729890418486" status="passed">
+      <name>testIsNewDataProvider</name>
+    </test-case>
+    <test-case start="1729890418487" stop="1729890418487" status="passed">
+      <name>testIsNamespaceSeparatorDataProvider</name>
+    </test-case>
+    <test-case start="1729890418488" stop="1729890418488" status="passed">
+      <name>testIsIdentifierDataProvider</name>
+    </test-case>
+    <test-case start="1729890418489" stop="1729890418489" status="passed">
+      <name>testIsConcatenateOperatorTrue</name>
+    </test-case>
+    <test-case start="1729890418489" stop="1729890418490" status="passed">
+      <name>testIsConcatenateOperatorFalse</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

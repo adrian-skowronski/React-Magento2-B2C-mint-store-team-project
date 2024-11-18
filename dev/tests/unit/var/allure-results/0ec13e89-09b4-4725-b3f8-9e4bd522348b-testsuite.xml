@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890420708" stop="1729890420714" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\Interception\InterceptorTest</name>
+  <test-cases>
+    <test-case start="1729890420708" stop="1729890420714" status="passed">
+      <name>testCallPlugins</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890295549" stop="1729890295587" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Ui\Component\ColumnFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890295549" stop="1729890295556" status="passed">
+      <name>testCreatedObject</name>
+    </test-case>
+    <test-case start="1729890295557" stop="1729890295560" status="passed">
+      <name>testCreateWithNotFilterableInGridAttribute with data set "without"</name>
+    </test-case>
+    <test-case start="1729890295561" stop="1729890295565" status="passed">
+      <name>testCreateWithNotFilterableInGridAttribute with data set "with"</name>
+    </test-case>
+    <test-case start="1729890295566" stop="1729890295571" status="passed">
+      <name>testCreateDateColumn with data set #0</name>
+    </test-case>
+    <test-case start="1729890295571" stop="1729890295576" status="passed">
+      <name>testCreateDateColumn with data set #1</name>
+    </test-case>
+    <test-case start="1729890295576" stop="1729890295586" status="passed">
+      <name>testCreateAttributeWithSource</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

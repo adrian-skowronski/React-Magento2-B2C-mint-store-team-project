@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404074" stop="1729890404162" version="1.4.0">
+  <name>Magento\TwoFactorAuth\Test\Unit\Model\Provider\Engine\GoogleTest</name>
+  <test-cases>
+    <test-case start="1729890404074" stop="1729890404082" status="passed">
+      <name>testIsEnabled</name>
+    </test-case>
+    <test-case start="1729890404082" stop="1729890404083" status="passed">
+      <name>testVerifyWithNoToken</name>
+    </test-case>
+    <test-case start="1729890404083" stop="1729890404085" status="passed">
+      <name>testVerifyWithBadToken</name>
+    </test-case>
+    <test-case start="1729890404085" stop="1729890404087" status="passed">
+      <name>testVerifyWithGoodToken</name>
+    </test-case>
+    <test-case start="1729890404088" stop="1729890404090" status="passed">
+      <name>testVerifyWithGoodTokenAndWindowFromUserConfig</name>
+    </test-case>
+    <test-case start="1729890404090" stop="1729890404092" status="passed">
+      <name>testVerifyWithGoodTokenAndWindowFromScopeConfig</name>
+    </test-case>
+    <test-case start="1729890404092" stop="1729890404094" status="passed">
+      <name>testVerifyWindowFromUserConfigOverridesScopeConfig</name>
+    </test-case>
+    <test-case start="1729890404094" stop="1729890404162" status="passed">
+      <name>testGetQrCodeAsPng</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

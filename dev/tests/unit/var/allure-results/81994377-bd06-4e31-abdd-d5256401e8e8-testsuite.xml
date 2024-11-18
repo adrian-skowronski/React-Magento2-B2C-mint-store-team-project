@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285281" stop="1729890285311" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Category\FileInfoTest</name>
+  <test-cases>
+    <test-case start="1729890285282" stop="1729890285284" status="passed">
+      <name>testGetMimeType</name>
+    </test-case>
+    <test-case start="1729890285284" stop="1729890285287" status="passed">
+      <name>testGetStat</name>
+    </test-case>
+    <test-case start="1729890285288" stop="1729890285291" status="passed">
+      <name>testIsExist with data set #0</name>
+    </test-case>
+    <test-case start="1729890285291" stop="1729890285293" status="passed">
+      <name>testIsExist with data set #1</name>
+    </test-case>
+    <test-case start="1729890285294" stop="1729890285297" status="passed">
+      <name>testIsExist with data set #2</name>
+    </test-case>
+    <test-case start="1729890285298" stop="1729890285301" status="passed">
+      <name>testIsBeginsWithMediaDirectoryPath with data set #0</name>
+    </test-case>
+    <test-case start="1729890285302" stop="1729890285304" status="passed">
+      <name>testIsBeginsWithMediaDirectoryPath with data set #1</name>
+    </test-case>
+    <test-case start="1729890285305" stop="1729890285308" status="passed">
+      <name>testIsBeginsWithMediaDirectoryPath with data set #2</name>
+    </test-case>
+    <test-case start="1729890285308" stop="1729890285310" status="passed">
+      <name>testIsBeginsWithMediaDirectoryPath with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

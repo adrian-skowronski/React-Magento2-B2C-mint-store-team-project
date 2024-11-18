@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464505" stop="1729890464534" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Page\Config\RendererTest</name>
+  <test-cases>
+    <test-case start="1729890464506" stop="1729890464508" status="passed">
+      <name>testRenderElementAttributes</name>
+    </test-case>
+    <test-case start="1729890464508" stop="1729890464511" status="passed">
+      <name>testRenderMetadata</name>
+    </test-case>
+    <test-case start="1729890464511" stop="1729890464513" status="passed">
+      <name>testRenderMetadataWithMsApplicationTileImageAsset</name>
+    </test-case>
+    <test-case start="1729890464513" stop="1729890464514" status="passed">
+      <name>testRenderTitle</name>
+    </test-case>
+    <test-case start="1729890464514" stop="1729890464516" status="passed">
+      <name>testPrepareFavicon</name>
+    </test-case>
+    <test-case start="1729890464516" stop="1729890464518" status="passed">
+      <name>testPrepareFaviconDefault</name>
+    </test-case>
+    <test-case start="1729890464518" stop="1729890464521" status="passed">
+      <name>testRenderAssets with data set #0</name>
+    </test-case>
+    <test-case start="1729890464521" stop="1729890464523" status="passed">
+      <name>testRenderAssets with data set #1</name>
+    </test-case>
+    <test-case start="1729890464524" stop="1729890464526" status="passed">
+      <name>testRenderAssets with data set #2</name>
+    </test-case>
+    <test-case start="1729890464527" stop="1729890464529" status="passed">
+      <name>testRenderAssets with data set #3</name>
+    </test-case>
+    <test-case start="1729890464530" stop="1729890464532" status="passed">
+      <name>testRenderAssets with data set #4</name>
+    </test-case>
+    <test-case start="1729890464533" stop="1729890464534" status="passed">
+      <name>testRenderAssetWithNoContentType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

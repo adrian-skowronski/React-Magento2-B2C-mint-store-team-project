@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404624" stop="1729890404632" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\FiltersTest</name>
+  <test-cases>
+    <test-case start="1729890404625" stop="1729890404629" status="passed">
+      <name>testUpdate with data set #0</name>
+    </test-case>
+    <test-case start="1729890404630" stop="1729890404632" status="passed">
+      <name>testUpdate with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

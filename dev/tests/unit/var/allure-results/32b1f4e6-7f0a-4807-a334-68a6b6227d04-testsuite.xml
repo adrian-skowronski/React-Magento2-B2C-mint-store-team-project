@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890387394" stop="1729890387413" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\StateResolverTest</name>
+  <test-cases>
+    <test-case start="1729890387394" stop="1729890387395" status="passed">
+      <name>testStateComplete</name>
+    </test-case>
+    <test-case start="1729890387395" stop="1729890387404" status="passed">
+      <name>testStateClosed</name>
+    </test-case>
+    <test-case start="1729890387404" stop="1729890387408" status="passed">
+      <name>testStateNew</name>
+    </test-case>
+    <test-case start="1729890387408" stop="1729890387413" status="passed">
+      <name>testStateProcessing</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

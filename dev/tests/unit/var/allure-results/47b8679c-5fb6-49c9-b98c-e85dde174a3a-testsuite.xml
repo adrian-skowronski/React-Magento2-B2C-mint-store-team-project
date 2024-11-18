@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890407246" stop="1729890407334" version="1.4.0">
+  <name>Magento\Usps\Test\Unit\Model\CarrierTest</name>
+  <test-cases>
+    <test-case start="1729890407247" stop="1729890407257" status="passed">
+      <name>testGetCodeArray with data set #0</name>
+    </test-case>
+    <test-case start="1729890407257" stop="1729890407261" status="passed">
+      <name>testGetCodeArray with data set #1</name>
+    </test-case>
+    <test-case start="1729890407261" stop="1729890407265" status="passed">
+      <name>testGetCodeArray with data set #2</name>
+    </test-case>
+    <test-case start="1729890407266" stop="1729890407271" status="passed">
+      <name>testGetCodeArray with data set #3</name>
+    </test-case>
+    <test-case start="1729890407272" stop="1729890407275" status="passed">
+      <name>testGetCodeBool</name>
+    </test-case>
+    <test-case start="1729890407275" stop="1729890407283" status="passed">
+      <name>testReturnOfShipment</name>
+    </test-case>
+    <test-case start="1729890407283" stop="1729890407289" status="passed">
+      <name>testFormattingFloatValuesForIntlShipmentRequest</name>
+    </test-case>
+    <test-case start="1729890407289" stop="1729890407293" status="passed">
+      <name>testCollectRatesErrorMessage</name>
+    </test-case>
+    <test-case start="1729890407293" stop="1729890407298" status="passed">
+      <name>testFilterDebugData with data set #0</name>
+    </test-case>
+    <test-case start="1729890407299" stop="1729890407304" status="passed">
+      <name>testIsGirthAllowed with data set #0</name>
+    </test-case>
+    <test-case start="1729890407304" stop="1729890407308" status="passed">
+      <name>testIsGirthAllowed with data set #1</name>
+    </test-case>
+    <test-case start="1729890407309" stop="1729890407312" status="passed">
+      <name>testIsGirthAllowed with data set #2</name>
+    </test-case>
+    <test-case start="1729890407313" stop="1729890407321" status="passed">
+      <name>testUpdateFreeMethodQuote with data set #0</name>
+    </test-case>
+    <test-case start="1729890407321" stop="1729890407327" status="passed">
+      <name>testUpdateFreeMethodQuote with data set #1</name>
+    </test-case>
+    <test-case start="1729890407327" stop="1729890407333" status="passed">
+      <name>testUpdateFreeMethodQuote with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

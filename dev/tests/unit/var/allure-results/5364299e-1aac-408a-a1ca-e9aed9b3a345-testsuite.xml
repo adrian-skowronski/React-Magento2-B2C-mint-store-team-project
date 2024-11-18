@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262535" stop="1729890262543" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\FileRecorderTest</name>
+  <test-cases>
+    <test-case start="1729890262536" stop="1729890262538" status="passed">
+      <name>testRecordNewFile with data set "File doesn't exist"</name>
+    </test-case>
+    <test-case start="1729890262539" stop="1729890262541" status="passed">
+      <name>testRecordNewFile with data set "Existing file into subdirectory"</name>
+    </test-case>
+    <test-case start="1729890262542" stop="1729890262543" status="passed">
+      <name>testRecordNewFile with data set "Existing file doesn't into subdirectory"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

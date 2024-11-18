@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376179" stop="1729890376181" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\ResourceModel\ReadHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890376180" stop="1729890376181" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

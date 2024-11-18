@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890405850" stop="1729890405889" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\DataProvider\EavValidationRulesTest</name>
+  <test-cases>
+    <test-case start="1729890405851" stop="1729890405853" status="passed">
+      <name>testBuild with data set #0</name>
+    </test-case>
+    <test-case start="1729890405853" stop="1729890405854" status="passed">
+      <name>testBuild with data set #1</name>
+    </test-case>
+    <test-case start="1729890405855" stop="1729890405856" status="passed">
+      <name>testBuild with data set #2</name>
+    </test-case>
+    <test-case start="1729890405857" stop="1729890405858" status="passed">
+      <name>testBuild with data set #3</name>
+    </test-case>
+    <test-case start="1729890405859" stop="1729890405860" status="passed">
+      <name>testBuild with data set #4</name>
+    </test-case>
+    <test-case start="1729890405861" stop="1729890405862" status="passed">
+      <name>testBuild with data set #5</name>
+    </test-case>
+    <test-case start="1729890405863" stop="1729890405864" status="passed">
+      <name>testBuild with data set #6</name>
+    </test-case>
+    <test-case start="1729890405865" stop="1729890405870" status="passed">
+      <name>testBuild with data set #7</name>
+    </test-case>
+    <test-case start="1729890405870" stop="1729890405872" status="passed">
+      <name>testBuild with data set #8</name>
+    </test-case>
+    <test-case start="1729890405874" stop="1729890405877" status="passed">
+      <name>testBuild with data set #9</name>
+    </test-case>
+    <test-case start="1729890405878" stop="1729890405879" status="passed">
+      <name>testBuild with data set #10</name>
+    </test-case>
+    <test-case start="1729890405880" stop="1729890405881" status="passed">
+      <name>testBuild with data set #11</name>
+    </test-case>
+    <test-case start="1729890405883" stop="1729890405885" status="passed">
+      <name>testBuild with data set #12</name>
+    </test-case>
+    <test-case start="1729890405886" stop="1729890405889" status="passed">
+      <name>testBuild with data set #13</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

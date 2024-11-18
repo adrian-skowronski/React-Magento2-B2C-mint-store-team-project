@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890425022" stop="1729890425045" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\ErrorHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890425023" stop="1729890425023" status="passed">
+      <name>testHandler with data set #0</name>
+    </test-case>
+    <test-case start="1729890425024" stop="1729890425025" status="passed">
+      <name>testHandler with data set #1</name>
+    </test-case>
+    <test-case start="1729890425025" stop="1729890425026" status="passed">
+      <name>testHandlerException with data set #0</name>
+    </test-case>
+    <test-case start="1729890425027" stop="1729890425027" status="passed">
+      <name>testHandlerException with data set #1</name>
+    </test-case>
+    <test-case start="1729890425028" stop="1729890425029" status="passed">
+      <name>testHandlerException with data set #2</name>
+    </test-case>
+    <test-case start="1729890425029" stop="1729890425030" status="passed">
+      <name>testHandlerException with data set #3</name>
+    </test-case>
+    <test-case start="1729890425031" stop="1729890425031" status="passed">
+      <name>testHandlerException with data set #4</name>
+    </test-case>
+    <test-case start="1729890425032" stop="1729890425032" status="passed">
+      <name>testHandlerException with data set #5</name>
+    </test-case>
+    <test-case start="1729890425033" stop="1729890425033" status="passed">
+      <name>testHandlerException with data set #6</name>
+    </test-case>
+    <test-case start="1729890425034" stop="1729890425035" status="passed">
+      <name>testHandlerException with data set #7</name>
+    </test-case>
+    <test-case start="1729890425035" stop="1729890425036" status="passed">
+      <name>testHandlerException with data set #8</name>
+    </test-case>
+    <test-case start="1729890425036" stop="1729890425037" status="passed">
+      <name>testHandlerException with data set #9</name>
+    </test-case>
+    <test-case start="1729890425038" stop="1729890425039" status="passed">
+      <name>testHandlerException with data set #10</name>
+    </test-case>
+    <test-case start="1729890425039" stop="1729890425040" status="passed">
+      <name>testHandlerException with data set #11</name>
+    </test-case>
+    <test-case start="1729890425040" stop="1729890425041" status="passed">
+      <name>testHandlerException with data set #12</name>
+    </test-case>
+    <test-case start="1729890425042" stop="1729890425042" status="passed">
+      <name>testHandlerException with data set #13</name>
+    </test-case>
+    <test-case start="1729890425043" stop="1729890425043" status="passed">
+      <name>testHandlerException with data set #14</name>
+    </test-case>
+    <test-case start="1729890425044" stop="1729890425045" status="passed">
+      <name>testHandlerException with data set #15</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

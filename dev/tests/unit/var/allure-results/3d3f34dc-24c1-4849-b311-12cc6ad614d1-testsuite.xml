@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280342" stop="1729890280346" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Model\ObjectRegistryTest</name>
+  <test-cases>
+    <test-case start="1729890280343" stop="1729890280343" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890280344" stop="1729890280344" status="passed">
+      <name>testGetNotExistObject</name>
+    </test-case>
+    <test-case start="1729890280344" stop="1729890280345" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890280345" stop="1729890280346" status="passed">
+      <name>testGetEmptyList</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

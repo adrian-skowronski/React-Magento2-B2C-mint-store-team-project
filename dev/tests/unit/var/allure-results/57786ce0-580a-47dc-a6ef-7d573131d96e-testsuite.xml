@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890363294" stop="1729890363305" version="1.4.0">
+  <name>Magento\Persistent\Test\Unit\CustomerData\PersistentTest</name>
+  <test-cases>
+    <test-case start="1729890363295" stop="1729890363301" status="passed">
+      <name>testGetSectionDataWhenDisablePersistent</name>
+    </test-case>
+    <test-case start="1729890363301" stop="1729890363303" status="passed">
+      <name>testGetSectionDataWhenCustomerNotLoggedInReturnsEmptyArray</name>
+    </test-case>
+    <test-case start="1729890363303" stop="1729890363305" status="passed">
+      <name>testGetSectionDataCustomerLoginAndEnablePersistent</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

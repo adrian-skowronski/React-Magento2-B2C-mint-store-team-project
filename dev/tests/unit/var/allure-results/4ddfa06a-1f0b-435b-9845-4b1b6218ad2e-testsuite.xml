@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418253" stop="1729890418258" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\I18n\FactoryTest</name>
+  <test-cases>
+    <test-case start="1729890418254" stop="1729890418254" status="passed">
+      <name>testCreateDictionaryWriter with data set #0</name>
+    </test-case>
+    <test-case start="1729890418255" stop="1729890418255" status="passed">
+      <name>testCreateDictionaryWriter with data set #1</name>
+    </test-case>
+    <test-case start="1729890418256" stop="1729890418257" status="passed">
+      <name>testCreateDictionaryWriter with data set #2</name>
+    </test-case>
+    <test-case start="1729890418257" stop="1729890418258" status="passed">
+      <name>testCreateDictionaryWriter with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

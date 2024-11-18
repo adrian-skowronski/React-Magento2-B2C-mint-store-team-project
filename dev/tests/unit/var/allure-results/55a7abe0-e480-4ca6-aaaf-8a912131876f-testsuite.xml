@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462745" stop="1729890462759" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\Html\CalendarTest</name>
+  <test-cases>
+    <test-case start="1729890462746" stop="1729890462749" status="passed">
+      <name>testToHtmlWithDifferentLocales with data set #0</name>
+    </test-case>
+    <test-case start="1729890462750" stop="1729890462752" status="passed">
+      <name>testToHtmlWithDifferentLocales with data set #1</name>
+    </test-case>
+    <test-case start="1729890462753" stop="1729890462756" status="passed">
+      <name>testToHtmlWithDifferentLocales with data set #2</name>
+    </test-case>
+    <test-case start="1729890462756" stop="1729890462759" status="passed">
+      <name>testGetYearRange</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

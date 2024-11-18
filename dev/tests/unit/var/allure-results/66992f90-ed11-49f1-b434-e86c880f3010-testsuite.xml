@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406065" stop="1729890406086" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Model\ManagerTest</name>
+  <test-cases>
+    <test-case start="1729890406066" stop="1729890406073" status="passed">
+      <name>testGetReader</name>
+    </test-case>
+    <test-case start="1729890406074" stop="1729890406075" status="passed">
+      <name>testPrepareDataWithoutName</name>
+    </test-case>
+    <test-case start="1729890406075" stop="1729890406077" status="passed">
+      <name>testPrepareGetData with data set #0</name>
+    </test-case>
+    <test-case start="1729890406078" stop="1729890406080" status="passed">
+      <name>testPrepareGetData with data set #1</name>
+    </test-case>
+    <test-case start="1729890406081" stop="1729890406082" status="passed">
+      <name>testCreateRawComponentData with data set #0</name>
+    </test-case>
+    <test-case start="1729890406083" stop="1729890406084" status="passed">
+      <name>testCreateRawComponentData with data set #1</name>
+    </test-case>
+    <test-case start="1729890406084" stop="1729890406085" status="passed">
+      <name>testCreateRawComponentData with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

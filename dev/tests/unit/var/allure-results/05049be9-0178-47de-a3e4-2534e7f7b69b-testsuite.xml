@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890447940" stop="1729890447956" version="1.4.0">
+  <name>Magento\Framework\EntityManager\Test\Unit\Operation\CreateTest</name>
+  <test-cases>
+    <test-case start="1729890447941" stop="1729890447955" status="passed">
+      <name>testDuplicateExceptionProcessingOnExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

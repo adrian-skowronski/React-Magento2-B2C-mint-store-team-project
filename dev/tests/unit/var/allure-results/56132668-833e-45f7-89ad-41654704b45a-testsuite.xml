@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890324253" stop="1729890324269" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Ui\DataProvider\Product\Form\Modifier\CompositeTest</name>
+  <test-cases>
+    <test-case start="1729890324254" stop="1729890324256" status="passed">
+      <name>testModifyDataCanNotShowDownloadablePanel</name>
+    </test-case>
+    <test-case start="1729890324257" stop="1729890324258" status="passed">
+      <name>testModifyMetaCanNotShowDownloadablePanel</name>
+    </test-case>
+    <test-case start="1729890324258" stop="1729890324260" status="passed">
+      <name>testModifyData with data set #0</name>
+    </test-case>
+    <test-case start="1729890324260" stop="1729890324261" status="passed">
+      <name>testModifyData with data set #1</name>
+    </test-case>
+    <test-case start="1729890324262" stop="1729890324263" status="passed">
+      <name>testModifyData with data set #2</name>
+    </test-case>
+    <test-case start="1729890324264" stop="1729890324265" status="passed">
+      <name>testModifyMeta with data set #0</name>
+    </test-case>
+    <test-case start="1729890324266" stop="1729890324267" status="passed">
+      <name>testModifyMeta with data set #1</name>
+    </test-case>
+    <test-case start="1729890324268" stop="1729890324269" status="passed">
+      <name>testModifyMeta with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

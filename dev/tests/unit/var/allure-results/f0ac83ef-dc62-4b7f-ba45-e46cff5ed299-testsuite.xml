@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890460232" stop="1729890460238" version="1.4.0">
+  <name>Magento\Framework\Url\Test\Unit\SecurityInfoTest</name>
+  <test-cases>
+    <test-case start="1729890460232" stop="1729890460233" status="passed">
+      <name>testIsSecureChecksIfUrlIsInSecureList with data set #0</name>
+    </test-case>
+    <test-case start="1729890460233" stop="1729890460234" status="passed">
+      <name>testIsSecureChecksIfUrlIsInSecureList with data set #1</name>
+    </test-case>
+    <test-case start="1729890460234" stop="1729890460235" status="passed">
+      <name>testIsSecureChecksIfUrlIsInSecureList with data set #2</name>
+    </test-case>
+    <test-case start="1729890460235" stop="1729890460236" status="passed">
+      <name>testIsSecureChecksIfUrlIsInSecureList with data set #3</name>
+    </test-case>
+    <test-case start="1729890460236" stop="1729890460237" status="passed">
+      <name>testIsSecureChecksIfUrlIsInSecureList with data set #4</name>
+    </test-case>
+    <test-case start="1729890460237" stop="1729890460237" status="passed">
+      <name>testIsSecureChecksIfUrlIsInSecureList with data set #5</name>
+    </test-case>
+    <test-case start="1729890460238" stop="1729890460238" status="passed">
+      <name>testIsSecureChecksIfUrlIsInSecureList with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

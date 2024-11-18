@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374072" stop="1729890374075" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Observer\WishlistShareObserverTest</name>
+  <test-cases>
+    <test-case start="1729890374072" stop="1729890374073" status="passed">
+      <name>testExecuteWhenReportIsDisabled</name>
+    </test-case>
+    <test-case start="1729890374074" stop="1729890374075" status="passed">
+      <name>testExecuteWhenReportIsEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

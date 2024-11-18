@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890380414" stop="1729890380417" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\IncrementTest</name>
+  <test-cases>
+    <test-case start="1729890380414" stop="1729890380416" status="passed">
+      <name>testGetCurrentValue</name>
+    </test-case>
+    <test-case start="1729890380416" stop="1729890380417" status="passed">
+      <name>testNextValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

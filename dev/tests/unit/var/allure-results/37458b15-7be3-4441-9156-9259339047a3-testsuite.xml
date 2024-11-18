@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441481" stop="1729890441485" version="1.4.0">
+  <name>Magento\Framework\Controller\Test\Unit\Router\Route\FactoryTest</name>
+  <test-cases>
+    <test-case start="1729890441482" stop="1729890441483" status="passed">
+      <name>testCreateRoute</name>
+    </test-case>
+    <test-case start="1729890441484" stop="1729890441484" status="passed">
+      <name>testCreateRouteNegative</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

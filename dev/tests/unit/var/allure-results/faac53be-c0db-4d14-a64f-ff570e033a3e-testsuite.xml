@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353845" stop="1729890353853" version="1.4.0">
+  <name>Magento\Multishipping\Test\Unit\Controller\Checkout\Address\ShippingSavedTest</name>
+  <test-cases>
+    <test-case start="1729890353846" stop="1729890353849" status="passed">
+      <name>testExecuteResetsCheckoutIfCustomerHasAddedNewShippingAddressAndItIsTheOnlyAddressHeHas</name>
+    </test-case>
+    <test-case start="1729890353850" stop="1729890353853" status="passed">
+      <name>testExecuteDoesNotResetCheckoutIfCustomerHasMoreThanOneAddress</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

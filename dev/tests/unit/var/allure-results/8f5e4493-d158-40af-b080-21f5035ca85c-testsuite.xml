@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890333015" stop="1729890333044" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Console\Command\IndexerStatusCommandTest</name>
+  <test-cases>
+    <test-case start="1729890333015" stop="1729890333044" status="passed">
+      <name>testExecuteAll with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

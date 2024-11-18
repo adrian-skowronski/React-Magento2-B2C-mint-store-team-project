@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890377022" stop="1729890377099" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890377023" stop="1729890377040" status="passed">
+      <name>testCanApplyRules</name>
+    </test-case>
+    <test-case start="1729890377040" stop="1729890377042" status="passed">
+      <name>testProcess</name>
+    </test-case>
+    <test-case start="1729890377043" stop="1729890377045" status="passed">
+      <name>testApplyRulesThatAppliedRuleIdsAreCollected</name>
+    </test-case>
+    <test-case start="1729890377046" stop="1729890377048" status="passed">
+      <name>testInit</name>
+    </test-case>
+    <test-case start="1729890377048" stop="1729890377050" status="passed">
+      <name>testCanApplyDiscount</name>
+    </test-case>
+    <test-case start="1729890377051" stop="1729890377058" status="passed">
+      <name>testInitTotalsCanApplyDiscount</name>
+    </test-case>
+    <test-case start="1729890377058" stop="1729890377061" status="passed">
+      <name>testInitTotalsNoItems</name>
+    </test-case>
+    <test-case start="1729890377061" stop="1729890377066" status="broken">
+      <name>testProcessShippingAmountNoRules</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtensionInterface". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(717): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(516): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;setupAddressMock()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;testProcessShippingAmountNoRules()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#13 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890377066" stop="1729890377069" status="broken">
+      <name>testProcessShippingAmountProcessDisabled</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtensionInterface". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(717): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(539): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;setupAddressMock()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;testProcessShippingAmountProcessDisabled()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#13 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890377070" stop="1729890377074" status="broken">
+      <name>testProcessShippingAmountActions with data set #0</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtensionInterface". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(717): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(592): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;setupAddressMock()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;testProcessShippingAmountActions()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#14 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890377075" stop="1729890377078" status="broken">
+      <name>testProcessShippingAmountActions with data set #1</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtensionInterface". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(717): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(592): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;setupAddressMock()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;testProcessShippingAmountActions()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#14 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890377078" stop="1729890377081" status="broken">
+      <name>testProcessShippingAmountActions with data set #2</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtensionInterface". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(717): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(592): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;setupAddressMock()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;testProcessShippingAmountActions()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#14 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890377082" stop="1729890377084" status="broken">
+      <name>testProcessShippingAmountActions with data set #3</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtensionInterface". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(717): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(592): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;setupAddressMock()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;testProcessShippingAmountActions()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#14 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890377085" stop="1729890377089" status="broken">
+      <name>testProcessShippingAmountActions with data set #4</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtensionInterface". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(717): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(592): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;setupAddressMock()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;testProcessShippingAmountActions()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#14 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890377090" stop="1729890377093" status="broken">
+      <name>testProcessShippingAmountWithFullFixedPercentDiscount with data set "verify shipping discount when shipping amount is greater than zero"</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtensionInterface". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(717): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(663): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;setupAddressMock()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;testProcessShippingAmountWithFullFixedPercentDiscount()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#14 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890377093" stop="1729890377096" status="broken">
+      <name>testProcessShippingAmountWithFullFixedPercentDiscount with data set "verify shipping discount when shipping amount is zero"</name>
+      <failure>
+        <message>Trying to configure method "getShippingAssignments" with addMethods(), but it exists in class "Magento\Quote\Api\Data\CartExtensionInterface". Use onlyMethods() for methods that exist in the class</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(717): PHPUnit\Framework\MockObject\MockBuilder-&gt;addMethods()
+#1 /home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/Test/Unit/Model/ValidatorTest.php(663): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;setupAddressMock()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\SalesRule\Test\Unit\Model\ValidatorTest-&gt;testProcessShippingAmountWithFullFixedPercentDiscount()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#14 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890377096" stop="1729890377099" status="passed">
+      <name>testReset</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

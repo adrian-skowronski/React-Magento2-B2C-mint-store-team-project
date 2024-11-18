@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328333" stop="1729890328337" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Setup\InstallConfigTest</name>
+  <test-cases>
+    <test-case start="1729890328333" stop="1729890328336" status="passed">
+      <name>testConfigure</name>
+    </test-case>
+    <test-case start="1729890328336" stop="1729890328337" status="passed">
+      <name>testConfigureWithEmptyInput</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

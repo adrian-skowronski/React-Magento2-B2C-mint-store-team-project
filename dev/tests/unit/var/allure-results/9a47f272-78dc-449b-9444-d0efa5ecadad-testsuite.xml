@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294409" stop="1729890294412" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ResourceModel\Product\Indexer\Price\CompositeProductBatchSizeAdjusterTest</name>
+  <test-cases>
+    <test-case start="1729890294409" stop="1729890294412" status="passed">
+      <name>testAdjust</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

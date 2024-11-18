@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325228" stop="1729890325233" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\Attribute\Backend\JsonEncodedTest</name>
+  <test-cases>
+    <test-case start="1729890325228" stop="1729890325230" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+    <test-case start="1729890325230" stop="1729890325231" status="passed">
+      <name>testBeforeSaveWithAlreadyEncodedValue</name>
+    </test-case>
+    <test-case start="1729890325231" stop="1729890325232" status="passed">
+      <name>testAfterLoad</name>
+    </test-case>
+    <test-case start="1729890325233" stop="1729890325233" status="passed">
+      <name>testAfterLoadWithNullAttributeValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

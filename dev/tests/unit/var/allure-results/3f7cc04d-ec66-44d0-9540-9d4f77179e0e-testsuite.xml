@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463711" stop="1729890463716" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Layout\Argument\Interpreter\HelperMethodTest</name>
+  <test-cases>
+    <test-case start="1729890463712" stop="1729890463713" status="passed">
+      <name>testEvaluate</name>
+    </test-case>
+    <test-case start="1729890463714" stop="1729890463714" status="passed">
+      <name>testEvaluateException with data set "wrong method format"</name>
+    </test-case>
+    <test-case start="1729890463715" stop="1729890463716" status="passed">
+      <name>testEvaluateException with data set "non-existing method"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

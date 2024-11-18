@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375695" stop="1729890375711" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Block\Rss\DiscountsTest</name>
+  <test-cases>
+    <test-case start="1729890375695" stop="1729890375701" status="passed">
+      <name>testGetRssData</name>
+    </test-case>
+    <test-case start="1729890375701" stop="1729890375703" status="passed">
+      <name>testGetCacheLifetime</name>
+    </test-case>
+    <test-case start="1729890375704" stop="1729890375706" status="passed">
+      <name>testIsAllowed with data set #0</name>
+    </test-case>
+    <test-case start="1729890375707" stop="1729890375709" status="passed">
+      <name>testIsAllowed with data set #1</name>
+    </test-case>
+    <test-case start="1729890375709" stop="1729890375711" status="passed">
+      <name>testGetFeeds</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

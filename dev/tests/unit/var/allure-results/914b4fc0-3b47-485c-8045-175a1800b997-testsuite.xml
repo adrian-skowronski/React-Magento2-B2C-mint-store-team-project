@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271903" stop="1729890271916" version="1.4.0">
+  <name>Magento\CatalogGraphQl\Test\Unit\Model\Resolver\Product\Price\DiscountTest</name>
+  <test-cases>
+    <test-case start="1729890271904" stop="1729890271906" status="passed">
+      <name>testGetPriceDiscount with data set #0</name>
+    </test-case>
+    <test-case start="1729890271906" stop="1729890271907" status="passed">
+      <name>testGetPriceDiscount with data set #1</name>
+    </test-case>
+    <test-case start="1729890271907" stop="1729890271908" status="passed">
+      <name>testGetPriceDiscount with data set #2</name>
+    </test-case>
+    <test-case start="1729890271909" stop="1729890271910" status="passed">
+      <name>testGetPriceDiscount with data set #3</name>
+    </test-case>
+    <test-case start="1729890271910" stop="1729890271911" status="passed">
+      <name>testGetPriceDiscount with data set #4</name>
+    </test-case>
+    <test-case start="1729890271911" stop="1729890271912" status="passed">
+      <name>testGetPriceDiscount with data set #5</name>
+    </test-case>
+    <test-case start="1729890271913" stop="1729890271913" status="passed">
+      <name>testGetPriceDiscount with data set #6</name>
+    </test-case>
+    <test-case start="1729890271914" stop="1729890271915" status="passed">
+      <name>testGetPriceDiscount with data set #7</name>
+    </test-case>
+    <test-case start="1729890271915" stop="1729890271916" status="passed">
+      <name>testGetPriceDiscount with data set #8</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

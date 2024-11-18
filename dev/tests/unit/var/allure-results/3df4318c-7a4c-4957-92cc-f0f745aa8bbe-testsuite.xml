@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418009" stop="1729890418011" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\Di\Compiler\Config\Chain\PreferencesResolvingTest</name>
+  <test-cases>
+    <test-case start="1729890418009" stop="1729890418010" status="passed">
+      <name>testEmptyConfigModify</name>
+    </test-case>
+    <test-case start="1729890418010" stop="1729890418011" status="passed">
+      <name>testPreferencesResolvingModify</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

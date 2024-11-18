@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392441" stop="1729890392459" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Model\ResourceModel\PasswordResetRequestEvent\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890392441" stop="1729890392444" status="passed">
+      <name>testFilterByAccountReference</name>
+    </test-case>
+    <test-case start="1729890392444" stop="1729890392446" status="passed">
+      <name>testFilterByIp</name>
+    </test-case>
+    <test-case start="1729890392447" stop="1729890392449" status="passed">
+      <name>testFilterByRequestType</name>
+    </test-case>
+    <test-case start="1729890392449" stop="1729890392452" status="passed">
+      <name>testFilterByLifetime</name>
+    </test-case>
+    <test-case start="1729890392452" stop="1729890392454" status="passed">
+      <name>testFilterLastItem</name>
+    </test-case>
+    <test-case start="1729890392454" stop="1729890392457" status="passed">
+      <name>testFilterByIpOrAccountReference</name>
+    </test-case>
+    <test-case start="1729890392457" stop="1729890392459" status="passed">
+      <name>testDeleteRecordsOlderThen</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890411439" stop="1729890411471" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Controller\Shared\CartTest</name>
+  <test-cases>
+    <test-case start="1729890411440" stop="1729890411454" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890411455" stop="1729890411461" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890411461" stop="1729890411464" status="passed">
+      <name>testExecuteLocalizedException</name>
+    </test-case>
+    <test-case start="1729890411464" stop="1729890411468" status="passed">
+      <name>testExecuteProductException</name>
+    </test-case>
+    <test-case start="1729890411469" stop="1729890411471" status="passed">
+      <name>testExecuteException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

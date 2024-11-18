@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393046" stop="1729890393067" version="1.4.0">
+  <name>Magento\Shipping\Test\Unit\Controller\Adminhtml\Order\Shipment\RemoveTrackTest</name>
+  <test-cases>
+    <test-case start="1729890393047" stop="1729890393056" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890393056" stop="1729890393059" status="passed">
+      <name>testExecuteTrackIdFail</name>
+    </test-case>
+    <test-case start="1729890393060" stop="1729890393063" status="passed">
+      <name>testExecuteShipmentLoadFail</name>
+    </test-case>
+    <test-case start="1729890393063" stop="1729890393067" status="passed">
+      <name>testExecuteDeleteFail</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

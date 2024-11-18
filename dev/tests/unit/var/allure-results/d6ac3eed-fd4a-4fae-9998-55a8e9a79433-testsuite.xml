@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890326085" stop="1729890326088" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\ResourceModel\Entity\Attribute\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890326085" stop="1729890326088" status="passed">
+      <name>testSetInAllAttributeSetsFilter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

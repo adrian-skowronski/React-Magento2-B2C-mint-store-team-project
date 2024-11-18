@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461862" stop="1729890461863" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\PropertyGroupTest</name>
+  <test-cases>
+    <test-case start="1729890461862" stop="1729890461862" status="passed">
+      <name>testGetProperties</name>
+    </test-case>
+    <test-case start="1729890461863" stop="1729890461863" status="passed">
+      <name>testGetProperty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

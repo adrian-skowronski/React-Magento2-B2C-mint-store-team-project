@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890429827" stop="1729890439849" version="1.4.0">
+  <name>Magento\Framework\Cache\Test\Unit\LockGuardedCacheLoaderTest</name>
+  <test-cases>
+    <test-case start="1729890429828" stop="1729890429829" status="passed">
+      <name>testOptimisticDataRead</name>
+    </test-case>
+    <test-case start="1729890429829" stop="1729890439838" status="passed">
+      <name>testDataCollectedAfterDeadlineReached</name>
+    </test-case>
+    <test-case start="1729890439839" stop="1729890439844" status="passed">
+      <name>testDataWrite</name>
+    </test-case>
+    <test-case start="1729890439845" stop="1729890439849" status="passed">
+      <name>testDataCollectedWithParallelGeneration</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

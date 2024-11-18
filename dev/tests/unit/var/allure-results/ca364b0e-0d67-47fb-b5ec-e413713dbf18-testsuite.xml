@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287440" stop="1729890287447" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Layer\Filter\DataProvider\DecimalTest</name>
+  <test-cases>
+    <test-case start="1729890287441" stop="1729890287443" status="passed">
+      <name>testGetMaxValue</name>
+    </test-case>
+    <test-case start="1729890287443" stop="1729890287444" status="passed">
+      <name>testGetMinValue</name>
+    </test-case>
+    <test-case start="1729890287444" stop="1729890287445" status="passed">
+      <name>testGetRangeItemCounts</name>
+    </test-case>
+    <test-case start="1729890287445" stop="1729890287446" status="passed">
+      <name>testGetRange</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461612" stop="1729890461615" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\MergeStrategy\FileExistsTest</name>
+  <test-cases>
+    <test-case start="1729890461612" stop="1729890461613" status="passed">
+      <name>testMergeExists</name>
+    </test-case>
+    <test-case start="1729890461614" stop="1729890461615" status="passed">
+      <name>testMergeNotExists</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

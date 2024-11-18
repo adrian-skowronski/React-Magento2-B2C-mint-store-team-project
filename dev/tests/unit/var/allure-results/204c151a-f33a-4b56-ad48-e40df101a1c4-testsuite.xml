@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361069" stop="1729890361097" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Api\NvpTest</name>
+  <test-cases>
+    <test-case start="1729890361070" stop="1729890361074" status="passed">
+      <name>testCall with data set #0</name>
+    </test-case>
+    <test-case start="1729890361074" stop="1729890361077" status="passed">
+      <name>testCall with data set #1</name>
+    </test-case>
+    <test-case start="1729890361077" stop="1729890361080" status="passed">
+      <name>testCall with data set #2</name>
+    </test-case>
+    <test-case start="1729890361081" stop="1729890361083" status="passed">
+      <name>testCall with data set #3</name>
+    </test-case>
+    <test-case start="1729890361083" stop="1729890361085" status="passed">
+      <name>testCall with data set #4</name>
+    </test-case>
+    <test-case start="1729890361086" stop="1729890361089" status="passed">
+      <name>testCallGetExpressCheckoutDetails with data set #0</name>
+    </test-case>
+    <test-case start="1729890361089" stop="1729890361091" status="passed">
+      <name>testCallDoReauthorization</name>
+    </test-case>
+    <test-case start="1729890361092" stop="1729890361093" status="passed">
+      <name>testGetDebugReplacePrivateDataKeys</name>
+    </test-case>
+    <test-case start="1729890361093" stop="1729890361097" status="passed">
+      <name>testCallTransactionHasBeenCompleted</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

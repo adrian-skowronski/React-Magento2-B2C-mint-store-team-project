@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890263254" stop="1729890263257" version="1.4.0">
+  <name>Magento\AsynchronousOperations\Test\Unit\Controller\Cron\BulkCleanupTest</name>
+  <test-cases>
+    <test-case start="1729890263255" stop="1729890263257" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

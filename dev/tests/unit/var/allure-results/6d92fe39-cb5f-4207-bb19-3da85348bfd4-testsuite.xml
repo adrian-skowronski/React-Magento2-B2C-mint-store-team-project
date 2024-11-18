@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393651" stop="1729890393659" version="1.4.0">
+  <name>Magento\Sitemap\Test\Unit\Model\ItemProvider\CompositeTest</name>
+  <test-cases>
+    <test-case start="1729890393651" stop="1729890393652" status="passed">
+      <name>testNoResolvers</name>
+    </test-case>
+    <test-case start="1729890393652" stop="1729890393653" status="passed">
+      <name>testGetItems with data set #0</name>
+    </test-case>
+    <test-case start="1729890393653" stop="1729890393655" status="passed">
+      <name>testGetItems with data set #1</name>
+    </test-case>
+    <test-case start="1729890393656" stop="1729890393657" status="passed">
+      <name>testGetItems with data set #2</name>
+    </test-case>
+    <test-case start="1729890393657" stop="1729890393658" status="passed">
+      <name>testGetItems with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

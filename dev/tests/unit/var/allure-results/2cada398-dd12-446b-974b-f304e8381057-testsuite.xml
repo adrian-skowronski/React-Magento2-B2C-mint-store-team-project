@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890445867" stop="1729890445885" version="1.4.0">
+  <name>Magento\Framework\DataObject\Test\Unit\CacheTest</name>
+  <test-cases>
+    <test-case start="1729890445867" stop="1729890445875" status="passed">
+      <name>testSaveWhenArgumentIsNotObject</name>
+    </test-case>
+    <test-case start="1729890445875" stop="1729890445875" status="passed">
+      <name>testSaveWhenObjectAlreadyExistsInRegistry</name>
+    </test-case>
+    <test-case start="1729890445876" stop="1729890445876" status="passed">
+      <name>testSaveAndDeleteWhenHashAlreadyExist</name>
+    </test-case>
+    <test-case start="1729890445876" stop="1729890445877" status="passed">
+      <name>testReferenceWhenReferenceAlreadyExist</name>
+    </test-case>
+    <test-case start="1729890445877" stop="1729890445878" status="passed">
+      <name>testReferenceWhenReferenceEmpty</name>
+    </test-case>
+    <test-case start="1729890445878" stop="1729890445879" status="passed">
+      <name>testLoadWhenReferenceAndObjectAlreadyExists</name>
+    </test-case>
+    <test-case start="1729890445879" stop="1729890445880" status="passed">
+      <name>testLoad</name>
+    </test-case>
+    <test-case start="1729890445880" stop="1729890445880" status="passed">
+      <name>testDeleteWhenIdxIsObject</name>
+    </test-case>
+    <test-case start="1729890445881" stop="1729890445881" status="passed">
+      <name>testDeleteIfReferencesExists</name>
+    </test-case>
+    <test-case start="1729890445881" stop="1729890445882" status="passed">
+      <name>testDeleteByClass</name>
+    </test-case>
+    <test-case start="1729890445882" stop="1729890445883" status="passed">
+      <name>testDebug</name>
+    </test-case>
+    <test-case start="1729890445883" stop="1729890445884" status="passed">
+      <name>testGetAndDeleteTags</name>
+    </test-case>
+    <test-case start="1729890445884" stop="1729890445885" status="passed">
+      <name>testSinglton</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

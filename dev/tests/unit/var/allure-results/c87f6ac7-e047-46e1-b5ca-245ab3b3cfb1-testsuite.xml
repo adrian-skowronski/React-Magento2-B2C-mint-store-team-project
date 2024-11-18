@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890278996" stop="1729890279026" version="1.4.0">
+  <name>Magento\CatalogSearch\Test\Unit\Model\Indexer\FulltextTest</name>
+  <test-cases>
+    <test-case start="1729890278996" stop="1729890279013" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890279013" stop="1729890279019" status="passed">
+      <name>testExecuteFull</name>
+    </test-case>
+    <test-case start="1729890279019" stop="1729890279023" status="passed">
+      <name>testExecuteList</name>
+    </test-case>
+    <test-case start="1729890279023" stop="1729890279026" status="passed">
+      <name>testExecuteRow</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

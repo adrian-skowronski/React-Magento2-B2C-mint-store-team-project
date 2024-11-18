@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418583" stop="1729890418594" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\Setup\SetupCacheTest</name>
+  <test-cases>
+    <test-case start="1729890418583" stop="1729890418584" status="passed">
+      <name>testSetRow</name>
+    </test-case>
+    <test-case start="1729890418584" stop="1729890418585" status="passed">
+      <name>testSetField</name>
+    </test-case>
+    <test-case start="1729890418585" stop="1729890418586" status="passed">
+      <name>testGetNonexistent with data set #0</name>
+    </test-case>
+    <test-case start="1729890418586" stop="1729890418587" status="passed">
+      <name>testGetNonexistent with data set #1</name>
+    </test-case>
+    <test-case start="1729890418587" stop="1729890418587" status="passed">
+      <name>testRemove</name>
+    </test-case>
+    <test-case start="1729890418588" stop="1729890418589" status="passed">
+      <name>testHas with data set "existing"</name>
+    </test-case>
+    <test-case start="1729890418589" stop="1729890418590" status="passed">
+      <name>testHas with data set "nonexistent field"</name>
+    </test-case>
+    <test-case start="1729890418591" stop="1729890418591" status="passed">
+      <name>testHas with data set "nonexistent row"</name>
+    </test-case>
+    <test-case start="1729890418592" stop="1729890418592" status="passed">
+      <name>testHas with data set "nonexistent parent"</name>
+    </test-case>
+    <test-case start="1729890418593" stop="1729890418594" status="passed">
+      <name>testHas with data set "nonexistent table"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890261640" stop="1729890261673" version="1.4.0">
+  <name>Magento\AdvancedSearch\Test\Unit\Model\ResourceModel\IndexTest</name>
+  <test-cases>
+    <test-case start="1729890261640" stop="1729890261655" status="passed">
+      <name>testGetPriceIndexDataUsesFrontendPriceIndexerTable</name>
+    </test-case>
+    <test-case start="1729890261656" stop="1729890261660" status="passed">
+      <name>testGetPriceIndexData with data set #0</name>
+    </test-case>
+    <test-case start="1729890261661" stop="1729890261665" status="passed">
+      <name>testGetPriceIndexData with data set #1</name>
+    </test-case>
+    <test-case start="1729890261665" stop="1729890261668" status="passed">
+      <name>testGetPriceIndexData with data set #2</name>
+    </test-case>
+    <test-case start="1729890261669" stop="1729890261673" status="passed">
+      <name>testGetPriceIndexData with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

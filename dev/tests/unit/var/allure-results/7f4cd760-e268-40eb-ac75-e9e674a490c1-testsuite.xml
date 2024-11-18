@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890419746" stop="1729890419760" version="1.4.0">
+  <name>PayPal\Braintree\Test\Unit\Model\Report\TransactionsCollectionTest</name>
+  <test-cases>
+    <test-case start="1729890419746" stop="1729890419748" status="passed">
+      <name>testGetItems</name>
+    </test-case>
+    <test-case start="1729890419749" stop="1729890419749" status="passed">
+      <name>testGetItemsEmptyCollection</name>
+    </test-case>
+    <test-case start="1729890419750" stop="1729890419752" status="passed">
+      <name>testGetItemsWithLimit</name>
+    </test-case>
+    <test-case start="1729890419752" stop="1729890419756" status="passed">
+      <name>testGetItemsWithNullLimit</name>
+    </test-case>
+    <test-case start="1729890419756" stop="1729890419757" status="passed">
+      <name>testAddToFilter with data set #0</name>
+    </test-case>
+    <test-case start="1729890419758" stop="1729890419759" status="passed">
+      <name>testAddToFilter with data set #1</name>
+    </test-case>
+    <test-case start="1729890419759" stop="1729890419760" status="passed">
+      <name>testAddToFilter with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

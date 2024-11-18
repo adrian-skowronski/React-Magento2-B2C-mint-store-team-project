@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328201" stop="1729890328215" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\SearchAdapter\Query\Builder\MatchQueryTest</name>
+  <test-cases>
+    <test-case start="1729890328202" stop="1729890328205" status="passed">
+      <name>testBuild with data set "match query without minimum_should_match"</name>
+    </test-case>
+    <test-case start="1729890328205" stop="1729890328207" status="passed">
+      <name>testBuild with data set "match_phrase query without minimum_should_match"</name>
+    </test-case>
+    <test-case start="1729890328207" stop="1729890328209" status="passed">
+      <name>testBuild with data set "match query with minimum_should_match"</name>
+    </test-case>
+    <test-case start="1729890328209" stop="1729890328211" status="passed">
+      <name>testBuild with data set "match_phrase query with minimum_should_match"</name>
+    </test-case>
+    <test-case start="1729890328211" stop="1729890328213" status="passed">
+      <name>testBuild with data set "match_phrase_prefix query with minimum_should_match"</name>
+    </test-case>
+    <test-case start="1729890328213" stop="1729890328215" status="passed">
+      <name>testBuild with data set "match_phrase_prefix query with no minimum_should_match"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

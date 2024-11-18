@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890459325" stop="1729890459327" version="1.4.0">
+  <name>Magento\Framework\Translate\Test\Unit\AdapterAbstractTest</name>
+  <test-cases>
+    <test-case start="1729890459325" stop="1729890459326" status="passed">
+      <name>testIsTranslated</name>
+    </test-case>
+    <test-case start="1729890459326" stop="1729890459326" status="passed">
+      <name>testSetLocale</name>
+    </test-case>
+    <test-case start="1729890459327" stop="1729890459327" status="passed">
+      <name>testToString</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

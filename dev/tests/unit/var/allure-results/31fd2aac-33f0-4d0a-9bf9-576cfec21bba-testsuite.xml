@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890428484" stop="1729890428491" version="1.4.0">
+  <name>Magento\Framework\Authorization\Test\Unit\Policy\AclTest</name>
+  <test-cases>
+    <test-case start="1729890428484" stop="1729890428487" status="passed">
+      <name>testIsAllowedReturnsTrueIfResourceIsAllowedToRole</name>
+    </test-case>
+    <test-case start="1729890428487" stop="1729890428488" status="passed">
+      <name>testIsAllowedReturnsFalseIfRoleDoesntExist</name>
+    </test-case>
+    <test-case start="1729890428489" stop="1729890428491" status="passed">
+      <name>testIsAllowedReturnsTrueIfResourceDoesntExistAndAllResourcesAreNotPermitted</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

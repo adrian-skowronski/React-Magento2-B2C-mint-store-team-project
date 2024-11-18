@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264312" stop="1729890264334" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\Widget\ButtonTest</name>
+  <test-cases>
+    <test-case start="1729890264313" stop="1729890264325" status="passed">
+      <name>testGetAttributesHtml with data set #0</name>
+    </test-case>
+    <test-case start="1729890264325" stop="1729890264327" status="passed">
+      <name>testGetAttributesHtml with data set #1</name>
+    </test-case>
+    <test-case start="1729890264328" stop="1729890264330" status="passed">
+      <name>testGetAttributesHtml with data set #2</name>
+    </test-case>
+    <test-case start="1729890264331" stop="1729890264334" status="passed">
+      <name>testOnClickAttribute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

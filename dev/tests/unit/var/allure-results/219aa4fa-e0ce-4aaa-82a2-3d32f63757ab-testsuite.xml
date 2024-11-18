@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890423173" stop="1729890423181" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Cache\Type\FrontendPoolTest</name>
+  <test-cases>
+    <test-case start="1729890423173" stop="1729890423177" status="passed">
+      <name>testGet with data set "retrieval from config"</name>
+    </test-case>
+    <test-case start="1729890423177" stop="1729890423179" status="passed">
+      <name>testGet with data set "retrieval from map"</name>
+    </test-case>
+    <test-case start="1729890423180" stop="1729890423181" status="passed">
+      <name>testGet with data set "fallback to default id"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

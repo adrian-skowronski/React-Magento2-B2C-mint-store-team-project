@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890439879" stop="1729890439902" version="1.4.0">
+  <name>Magento\Framework\Code\Test\Unit\GeneratedFilesTest</name>
+  <test-cases>
+    <test-case start="1729890439879" stop="1729890439881" status="passed">
+      <name>itRequestsRegenerationProperly</name>
+    </test-case>
+    <test-case start="1729890439881" stop="1729890439883" status="passed">
+      <name>itDoesNotCleanGeneratedFilesIfNoFlagIsPresent</name>
+    </test-case>
+    <test-case start="1729890439883" stop="1729890439884" status="passed">
+      <name>itDoesNotCleanGeneratedFilesIfProcessIsLocked</name>
+    </test-case>
+    <test-case start="1729890439885" stop="1729890439887" status="passed">
+      <name>itDoesNotCleanGeneratedFilesWhenCheckingFlagExistsDueToExceptions with data set "Magento\Framework\Exception\RuntimeException"</name>
+    </test-case>
+    <test-case start="1729890439887" stop="1729890439888" status="passed">
+      <name>itDoesNotCleanGeneratedFilesWhenCheckingFlagExistsDueToExceptions with data set "Magento\Framework\Exception\FileSystemException"</name>
+    </test-case>
+    <test-case start="1729890439889" stop="1729890439890" status="passed">
+      <name>itDoesNotCleanGeneratedFilesWhenCheckingProcessLockDueToExceptions with data set "Magento\Framework\Exception\RuntimeException"</name>
+    </test-case>
+    <test-case start="1729890439891" stop="1729890439893" status="passed">
+      <name>itDoesNotCleanGeneratedFilesWhenCheckingProcessLockDueToExceptions with data set "Magento\Framework\Exception\FileSystemException"</name>
+    </test-case>
+    <test-case start="1729890439893" stop="1729890439895" status="passed">
+      <name>itDoesNotCleanGeneratedFilesIfProcessLockIsNotAcquired</name>
+    </test-case>
+    <test-case start="1729890439895" stop="1729890439897" status="passed">
+      <name>itDoesNotCleanGeneratedFilesIfProcessLockIsNotAcquiredDueToException</name>
+    </test-case>
+    <test-case start="1729890439897" stop="1729890439900" status="passed">
+      <name>itCleansGeneratedFilesProperly</name>
+    </test-case>
+    <test-case start="1729890439900" stop="1729890439902" status="passed">
+      <name>itRequestsRegenerationAndUnlockUponFileSystemException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

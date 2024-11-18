@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890429798" stop="1729890429807" version="1.4.0">
+  <name>Magento\Framework\Cache\Test\Unit\InvalidateLoggerTest</name>
+  <test-cases>
+    <test-case start="1729890429798" stop="1729890429802" status="passed">
+      <name>testCritical</name>
+    </test-case>
+    <test-case start="1729890429803" stop="1729890429805" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890429805" stop="1729890429807" status="passed">
+      <name>testMakeParams</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

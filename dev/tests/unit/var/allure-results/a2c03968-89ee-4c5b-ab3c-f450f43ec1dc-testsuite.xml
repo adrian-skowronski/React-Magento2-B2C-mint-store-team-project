@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890350724" stop="1729890350763" version="1.4.0">
+  <name>Magento\InventoryCatalog\Test\Unit\Plugin\Catalog\Block\ProductList\UpdateToolbarCountTest</name>
+  <test-cases>
+    <test-case start="1729890350726" stop="1729890350753" status="passed">
+      <name>testAfterGetTotalNumReturnValidResult with data set "verify total number of products when OUT OF STOCK status YES"</name>
+    </test-case>
+    <test-case start="1729890350754" stop="1729890350758" status="passed">
+      <name>testAfterGetTotalNumReturnValidResult with data set "verify total number of products when OUT OF STOCK status NO"</name>
+    </test-case>
+    <test-case start="1729890350758" stop="1729890350763" status="passed">
+      <name>testAfterGetTotalNumReturnValidResult with data set "verify total number of products when category is empty and OUT OF STOCK status YES"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

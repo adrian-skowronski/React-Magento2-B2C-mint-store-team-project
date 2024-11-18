@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890260223" stop="1729890260230" version="1.4.0">
+  <name>Magento\AdobeStockImageAdminUi\Test\Unit\Controller\Adminhtml\License\ConfirmationTest</name>
+  <test-cases>
+    <test-case start="1729890260223" stop="1729890260227" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890260227" stop="1729890260230" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

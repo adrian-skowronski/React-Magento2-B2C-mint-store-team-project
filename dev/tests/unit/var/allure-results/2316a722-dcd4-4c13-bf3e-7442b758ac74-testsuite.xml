@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361893" stop="1729890361938" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Payflow\AvsEmsCodeMapperTest</name>
+  <test-cases>
+    <test-case start="1729890361894" stop="1729890361906" status="passed">
+      <name>testGetCode with data set #0</name>
+    </test-case>
+    <test-case start="1729890361906" stop="1729890361909" status="passed">
+      <name>testGetCode with data set #1</name>
+    </test-case>
+    <test-case start="1729890361910" stop="1729890361913" status="passed">
+      <name>testGetCode with data set #2</name>
+    </test-case>
+    <test-case start="1729890361913" stop="1729890361916" status="passed">
+      <name>testGetCode with data set #3</name>
+    </test-case>
+    <test-case start="1729890361916" stop="1729890361919" status="passed">
+      <name>testGetCode with data set #4</name>
+    </test-case>
+    <test-case start="1729890361919" stop="1729890361922" status="passed">
+      <name>testGetCode with data set #5</name>
+    </test-case>
+    <test-case start="1729890361923" stop="1729890361926" status="passed">
+      <name>testGetCode with data set #6</name>
+    </test-case>
+    <test-case start="1729890361926" stop="1729890361929" status="passed">
+      <name>testGetCode with data set #7</name>
+    </test-case>
+    <test-case start="1729890361929" stop="1729890361931" status="passed">
+      <name>testGetCode with data set #8</name>
+    </test-case>
+    <test-case start="1729890361931" stop="1729890361933" status="passed">
+      <name>testGetCode with data set #9</name>
+    </test-case>
+    <test-case start="1729890361934" stop="1729890361935" status="passed">
+      <name>testGetCode with data set #10</name>
+    </test-case>
+    <test-case start="1729890361936" stop="1729890361937" status="passed">
+      <name>testGetCodeWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

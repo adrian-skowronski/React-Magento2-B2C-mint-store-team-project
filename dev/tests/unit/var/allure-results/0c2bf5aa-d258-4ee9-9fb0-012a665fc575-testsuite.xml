@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890365382" stop="1729890365473" version="1.4.0">
+  <name>Magento\ProductVideo\Test\Unit\Model\Plugin\Catalog\Product\Gallery\CreateHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890365383" stop="1729890365425" status="passed">
+      <name>testAfterExecute with data set "new_video"</name>
+    </test-case>
+    <test-case start="1729890365425" stop="1729890365445" status="passed">
+      <name>testAfterExecute with data set "image"</name>
+    </test-case>
+    <test-case start="1729890365446" stop="1729890365455" status="passed">
+      <name>testAfterExecute with data set "new_video_with_additional_data"</name>
+    </test-case>
+    <test-case start="1729890365456" stop="1729890365462" status="passed">
+      <name>testAfterExecute with data set "not_new_video"</name>
+    </test-case>
+    <test-case start="1729890365463" stop="1729890365466" status="passed">
+      <name>testAfterExecuteEmpty</name>
+    </test-case>
+    <test-case start="1729890365467" stop="1729890365473" status="passed">
+      <name>testBeforeExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

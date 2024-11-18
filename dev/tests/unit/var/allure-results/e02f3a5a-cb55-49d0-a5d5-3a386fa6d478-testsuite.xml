@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328069" stop="1729890328072" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\SearchAdapter\Filter\Builder\RangeTest</name>
+  <test-cases>
+    <test-case start="1729890328070" stop="1729890328072" status="passed">
+      <name>testBuildFilter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

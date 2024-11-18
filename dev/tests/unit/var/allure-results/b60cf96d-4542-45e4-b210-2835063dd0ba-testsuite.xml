@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890283800" stop="1729890283939" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Controller\Adminhtml\Product\Initialization\HelperTest</name>
+  <test-cases>
+    <test-case start="1729890283801" stop="1729890283854" status="passed">
+      <name>testInitialize with data set #0</name>
+    </test-case>
+    <test-case start="1729890283855" stop="1729890283863" status="passed">
+      <name>testInitialize with data set #1</name>
+    </test-case>
+    <test-case start="1729890283864" stop="1729890283871" status="passed">
+      <name>testInitialize with data set #2</name>
+    </test-case>
+    <test-case start="1729890283872" stop="1729890283878" status="passed">
+      <name>testInitialize with data set #3</name>
+    </test-case>
+    <test-case start="1729890283879" stop="1729890283894" status="passed">
+      <name>testInitialize with data set #4</name>
+    </test-case>
+    <test-case start="1729890283895" stop="1729890283903" status="passed">
+      <name>testInitialize with data set #5</name>
+    </test-case>
+    <test-case start="1729890283904" stop="1729890283913" status="passed">
+      <name>testInitialize with data set #6</name>
+    </test-case>
+    <test-case start="1729890283914" stop="1729890283924" status="passed">
+      <name>testInitialize with data set #7</name>
+    </test-case>
+    <test-case start="1729890283925" stop="1729890283927" status="passed">
+      <name>testMergeProductOptions with data set "options are not array, empty array is returned"</name>
+    </test-case>
+    <test-case start="1729890283928" stop="1729890283929" status="passed">
+      <name>testMergeProductOptions with data set "replacement is not array, original options are returned"</name>
+    </test-case>
+    <test-case start="1729890283930" stop="1729890283932" status="passed">
+      <name>testMergeProductOptions with data set "ids do not match, no replacement occurs"</name>
+    </test-case>
+    <test-case start="1729890283932" stop="1729890283935" status="passed">
+      <name>testMergeProductOptions with data set "key2 is replaced, key1 is not (checkbox is not checked)"</name>
+    </test-case>
+    <test-case start="1729890283936" stop="1729890283938" status="passed">
+      <name>testMergeProductOptions with data set "key1 is replaced, key2 has no default value"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

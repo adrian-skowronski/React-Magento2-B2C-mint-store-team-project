@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890289844" stop="1729890289885" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Option\Validator\DefaultValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890289846" stop="1729890289851" status="passed">
+      <name>testIsValidTitle with data set #0</name>
+    </test-case>
+    <test-case start="1729890289851" stop="1729890289853" status="passed">
+      <name>testIsValidTitle with data set #1</name>
+    </test-case>
+    <test-case start="1729890289854" stop="1729890289856" status="passed">
+      <name>testIsValidTitle with data set #2</name>
+    </test-case>
+    <test-case start="1729890289861" stop="1729890289863" status="passed">
+      <name>testIsValidTitle with data set #3</name>
+    </test-case>
+    <test-case start="1729890289864" stop="1729890289866" status="passed">
+      <name>testIsValidFail with data set #0</name>
+    </test-case>
+    <test-case start="1729890289867" stop="1729890289868" status="passed">
+      <name>testIsValidFail with data set #1</name>
+    </test-case>
+    <test-case start="1729890289869" stop="1729890289871" status="passed">
+      <name>testValidationPrice with data set #0</name>
+    </test-case>
+    <test-case start="1729890289877" stop="1729890289879" status="passed">
+      <name>testValidationPrice with data set #1</name>
+    </test-case>
+    <test-case start="1729890289880" stop="1729890289882" status="passed">
+      <name>testValidationPrice with data set #2</name>
+    </test-case>
+    <test-case start="1729890289883" stop="1729890289884" status="passed">
+      <name>testValidationPrice with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

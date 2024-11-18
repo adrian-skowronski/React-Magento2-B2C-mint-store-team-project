@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890373718" stop="1729890373747" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Model\ResourceModel\Report\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890373719" stop="1729890373721" status="passed">
+      <name>testGetPeriods</name>
+    </test-case>
+    <test-case start="1729890373721" stop="1729890373722" status="passed">
+      <name>testGetStoreIds</name>
+    </test-case>
+    <test-case start="1729890373723" stop="1729890373725" status="passed">
+      <name>testGetSize with data set #0</name>
+    </test-case>
+    <test-case start="1729890373725" stop="1729890373726" status="passed">
+      <name>testGetSize with data set #1</name>
+    </test-case>
+    <test-case start="1729890373727" stop="1729890373728" status="passed">
+      <name>testGetSize with data set #2</name>
+    </test-case>
+    <test-case start="1729890373729" stop="1729890373730" status="passed">
+      <name>testGetSize with data set #3</name>
+    </test-case>
+    <test-case start="1729890373731" stop="1729890373732" status="passed">
+      <name>testGetSize with data set #4</name>
+    </test-case>
+    <test-case start="1729890373732" stop="1729890373733" status="passed">
+      <name>testGetSize with data set #5</name>
+    </test-case>
+    <test-case start="1729890373734" stop="1729890373735" status="passed">
+      <name>testGetPageSize</name>
+    </test-case>
+    <test-case start="1729890373735" stop="1729890373738" status="passed">
+      <name>testGetReports with data set #0</name>
+    </test-case>
+    <test-case start="1729890373738" stop="1729890373739" status="passed">
+      <name>testGetReports with data set #1</name>
+    </test-case>
+    <test-case start="1729890373740" stop="1729890373741" status="passed">
+      <name>testGetReports with data set #2</name>
+    </test-case>
+    <test-case start="1729890373741" stop="1729890373742" status="passed">
+      <name>testGetReports with data set #3</name>
+    </test-case>
+    <test-case start="1729890373743" stop="1729890373744" status="passed">
+      <name>testGetReports with data set #4</name>
+    </test-case>
+    <test-case start="1729890373745" stop="1729890373745" status="passed">
+      <name>testGetReports with data set #5</name>
+    </test-case>
+    <test-case start="1729890373746" stop="1729890373746" status="passed">
+      <name>testLoadData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

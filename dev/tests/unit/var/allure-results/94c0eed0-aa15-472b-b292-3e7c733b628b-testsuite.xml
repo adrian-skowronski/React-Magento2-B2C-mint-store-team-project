@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890257685" stop="1729890257712" version="1.4.0">
+  <name>Magento\AdminNotification\Test\Unit\Model\FeedTest</name>
+  <test-cases>
+    <test-case start="1729890257686" stop="1729890257701" status="passed">
+      <name>testCheckUpdate with data set #0</name>
+    </test-case>
+    <test-case start="1729890257702" stop="1729890257708" status="passed">
+      <name>testCheckUpdate with data set #1</name>
+    </test-case>
+    <test-case start="1729890257709" stop="1729890257712" status="passed">
+      <name>testCheckUpdate with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

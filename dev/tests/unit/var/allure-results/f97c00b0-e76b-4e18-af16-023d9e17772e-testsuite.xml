@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890323643" stop="1729890323680" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890323643" stop="1729890323650" status="passed">
+      <name>testIsValid</name>
+    </test-case>
+    <test-case start="1729890323651" stop="1729890323653" status="passed">
+      <name>testIsValidSkipLinkContent</name>
+    </test-case>
+    <test-case start="1729890323653" stop="1729890323656" status="passed">
+      <name>testIsValidSkipSampleContent</name>
+    </test-case>
+    <test-case start="1729890323657" stop="1729890323659" status="passed">
+      <name>testIsValidThrowsExceptionIfSortOrderIsInvalid with data set #0</name>
+    </test-case>
+    <test-case start="1729890323659" stop="1729890323662" status="passed">
+      <name>testIsValidThrowsExceptionIfSortOrderIsInvalid with data set #1</name>
+    </test-case>
+    <test-case start="1729890323662" stop="1729890323665" status="passed">
+      <name>testIsValidThrowsExceptionIfSortOrderIsInvalid with data set #2</name>
+    </test-case>
+    <test-case start="1729890323665" stop="1729890323668" status="passed">
+      <name>testIsValidThrowsExceptionIfPriceIsInvalid with data set #0</name>
+    </test-case>
+    <test-case start="1729890323669" stop="1729890323671" status="passed">
+      <name>testIsValidThrowsExceptionIfPriceIsInvalid with data set #1</name>
+    </test-case>
+    <test-case start="1729890323672" stop="1729890323674" status="passed">
+      <name>testIsValidThrowsExceptionIfNumberOfDownloadsIsInvalid with data set #0</name>
+    </test-case>
+    <test-case start="1729890323675" stop="1729890323677" status="passed">
+      <name>testIsValidThrowsExceptionIfNumberOfDownloadsIsInvalid with data set #1</name>
+    </test-case>
+    <test-case start="1729890323677" stop="1729890323680" status="passed">
+      <name>testIsValidThrowsExceptionIfNumberOfDownloadsIsInvalid with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

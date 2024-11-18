@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325281" stop="1729890325288" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\Attribute\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890325281" stop="1729890325284" status="passed">
+      <name>testGetLockedFieldsEmpty</name>
+    </test-case>
+    <test-case start="1729890325284" stop="1729890325287" status="passed">
+      <name>testGetLockedFields</name>
+    </test-case>
+    <test-case start="1729890325287" stop="1729890325288" status="passed">
+      <name>testGetEntityAttributesLockedFields</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

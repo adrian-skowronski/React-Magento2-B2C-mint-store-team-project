@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890398142" stop="1729890398245" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Block\Item\Price\RendererTest</name>
+  <test-cases>
+    <test-case start="1729890398143" stop="1729890398154" status="passed">
+      <name>testDisplayPriceInclTax with data set "cart"</name>
+    </test-case>
+    <test-case start="1729890398155" stop="1729890398158" status="passed">
+      <name>testDisplayPriceInclTax with data set "anythingelse"</name>
+    </test-case>
+    <test-case start="1729890398159" stop="1729890398162" status="passed">
+      <name>testDisplayPriceInclTax with data set "sale"</name>
+    </test-case>
+    <test-case start="1729890398163" stop="1729890398168" status="passed">
+      <name>testDisplayPriceInclTax with data set "email"</name>
+    </test-case>
+    <test-case start="1729890398170" stop="1729890398173" status="passed">
+      <name>testDisplayPriceExclTax with data set "cart"</name>
+    </test-case>
+    <test-case start="1729890398174" stop="1729890398177" status="passed">
+      <name>testDisplayPriceExclTax with data set "anythingelse"</name>
+    </test-case>
+    <test-case start="1729890398178" stop="1729890398181" status="passed">
+      <name>testDisplayPriceExclTax with data set "sale"</name>
+    </test-case>
+    <test-case start="1729890398181" stop="1729890398184" status="passed">
+      <name>testDisplayPriceExclTax with data set "email"</name>
+    </test-case>
+    <test-case start="1729890398185" stop="1729890398188" status="passed">
+      <name>testDisplayBothPrices with data set "cart"</name>
+    </test-case>
+    <test-case start="1729890398188" stop="1729890398191" status="passed">
+      <name>testDisplayBothPrices with data set "anythingelse"</name>
+    </test-case>
+    <test-case start="1729890398192" stop="1729890398195" status="passed">
+      <name>testDisplayBothPrices with data set "sale"</name>
+    </test-case>
+    <test-case start="1729890398195" stop="1729890398198" status="passed">
+      <name>testDisplayBothPrices with data set "email"</name>
+    </test-case>
+    <test-case start="1729890398198" stop="1729890398206" status="passed">
+      <name>testFormatPriceQuoteItem</name>
+    </test-case>
+    <test-case start="1729890398207" stop="1729890398216" status="passed">
+      <name>testFormatPriceOrderItem</name>
+    </test-case>
+    <test-case start="1729890398216" stop="1729890398221" status="passed">
+      <name>testFormatPriceInvoiceItem</name>
+    </test-case>
+    <test-case start="1729890398221" stop="1729890398223" status="passed">
+      <name>testGetZone</name>
+    </test-case>
+    <test-case start="1729890398224" stop="1729890398227" status="passed">
+      <name>testGetStoreId</name>
+    </test-case>
+    <test-case start="1729890398227" stop="1729890398231" status="passed">
+      <name>testGetItemDisplayPriceExclTaxQuoteItem</name>
+    </test-case>
+    <test-case start="1729890398231" stop="1729890398235" status="passed">
+      <name>testGetItemDisplayPriceExclTaxOrderItem</name>
+    </test-case>
+    <test-case start="1729890398236" stop="1729890398240" status="passed">
+      <name>testGetTotalAmount</name>
+    </test-case>
+    <test-case start="1729890398240" stop="1729890398245" status="passed">
+      <name>testGetBaseTotalAmount</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

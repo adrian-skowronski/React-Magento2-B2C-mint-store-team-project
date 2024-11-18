@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284490" stop="1729890284612" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Helper\ImageTest</name>
+  <test-cases>
+    <test-case start="1729890284491" stop="1729890284511" status="passed">
+      <name>testInit with data set #0</name>
+    </test-case>
+    <test-case start="1729890284511" stop="1729890284513" status="passed">
+      <name>testInitKeepFrame with data set #0</name>
+    </test-case>
+    <test-case start="1729890284514" stop="1729890284518" status="passed">
+      <name>testInitKeepFrame with data set #1</name>
+    </test-case>
+    <test-case start="1729890284519" stop="1729890284522" status="passed">
+      <name>testInitKeepFrame with data set #2</name>
+    </test-case>
+    <test-case start="1729890284523" stop="1729890284527" status="passed">
+      <name>testInitKeepFrame with data set #3</name>
+    </test-case>
+    <test-case start="1729890284527" stop="1729890284529" status="passed">
+      <name>testGetType</name>
+    </test-case>
+    <test-case start="1729890284529" stop="1729890284532" status="passed">
+      <name>testGetWidth</name>
+    </test-case>
+    <test-case start="1729890284532" stop="1729890284536" status="passed">
+      <name>testGetUrlWithOutProduct</name>
+    </test-case>
+    <test-case start="1729890284536" stop="1729890284539" status="passed">
+      <name>testGetHeight with data set "data"</name>
+    </test-case>
+    <test-case start="1729890284541" stop="1729890284544" status="passed">
+      <name>testGetFrame with data set "data"</name>
+    </test-case>
+    <test-case start="1729890284544" stop="1729890284551" status="passed">
+      <name>testGetLabel with data set #0</name>
+    </test-case>
+    <test-case start="1729890284552" stop="1729890284559" status="passed">
+      <name>testGetLabel with data set #1</name>
+    </test-case>
+    <test-case start="1729890284560" stop="1729890284571" status="passed">
+      <name>testGetResizedImageInfo with data set #0</name>
+    </test-case>
+    <test-case start="1729890284572" stop="1729890284584" status="passed">
+      <name>testGetResizedImageInfo with data set #1</name>
+    </test-case>
+    <test-case start="1729890284585" stop="1729890284594" status="passed">
+      <name>testGetResizedImageInfo with data set #2</name>
+    </test-case>
+    <test-case start="1729890284595" stop="1729890284604" status="passed">
+      <name>testGetResizedImageInfo with data set #3</name>
+    </test-case>
+    <test-case start="1729890284605" stop="1729890284611" status="passed">
+      <name>testGetResizedImageInfo with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

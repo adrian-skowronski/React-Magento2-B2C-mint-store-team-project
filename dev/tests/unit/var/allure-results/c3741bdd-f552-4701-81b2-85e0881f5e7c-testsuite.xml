@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890407831" stop="1729890407849" version="1.4.0">
+  <name>Magento\Vault\Test\Unit\Model\PaymentTokenRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890407832" stop="1729890407844" status="passed">
+      <name>testRepositoryGetList</name>
+    </test-case>
+    <test-case start="1729890407844" stop="1729890407846" status="passed">
+      <name>testRepositoryGetById</name>
+    </test-case>
+    <test-case start="1729890407846" stop="1729890407847" status="passed">
+      <name>testRepositoryDelete</name>
+    </test-case>
+    <test-case start="1729890407847" stop="1729890407849" status="passed">
+      <name>testRepositorySave</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

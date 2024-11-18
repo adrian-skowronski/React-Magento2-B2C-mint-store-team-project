@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890366768" stop="1729890366829" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\GuestCart\GuestCartItemRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890366771" stop="1729890366797" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890366798" stop="1729890366816" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890366818" stop="1729890366829" status="passed">
+      <name>testDeleteById</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

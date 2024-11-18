@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422119" stop="1729890422126" version="1.4.0">
+  <name>Magento\Framework\Api\Test\Unit\Api\ImageContentValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890422119" stop="1729890422121" status="passed">
+      <name>testIsValidEmptyContent</name>
+    </test-case>
+    <test-case start="1729890422121" stop="1729890422122" status="passed">
+      <name>testIsValidEmptyProperties</name>
+    </test-case>
+    <test-case start="1729890422122" stop="1729890422123" status="passed">
+      <name>testIsValidInvalidMIMEType</name>
+    </test-case>
+    <test-case start="1729890422123" stop="1729890422125" status="passed">
+      <name>testIsValidInvalidName</name>
+    </test-case>
+    <test-case start="1729890422125" stop="1729890422126" status="passed">
+      <name>testIsValid</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

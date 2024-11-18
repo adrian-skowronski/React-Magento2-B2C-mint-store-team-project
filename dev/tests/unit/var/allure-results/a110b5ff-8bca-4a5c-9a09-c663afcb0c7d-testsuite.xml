@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890394183" stop="1729890394202" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Block\Store\SwitcherTest</name>
+  <test-cases>
+    <test-case start="1729890394183" stop="1729890394197" status="passed">
+      <name>testGetStoreCount</name>
+    </test-case>
+    <test-case start="1729890394197" stop="1729890394202" status="passed">
+      <name>testGetStoreCountWithNotEqualLocale</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

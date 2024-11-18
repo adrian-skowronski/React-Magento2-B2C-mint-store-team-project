@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890411618" stop="1729890411638" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Helper\RssTest</name>
+  <test-cases>
+    <test-case start="1729890411618" stop="1729890411621" status="passed">
+      <name>testGetWishlistWithWishlistId</name>
+    </test-case>
+    <test-case start="1729890411621" stop="1729890411624" status="passed">
+      <name>testGetWishlistWithCustomerId</name>
+    </test-case>
+    <test-case start="1729890411624" stop="1729890411627" status="passed">
+      <name>testGetCustomerWithSession</name>
+    </test-case>
+    <test-case start="1729890411628" stop="1729890411630" status="passed">
+      <name>testIsRssAllow with data set #0</name>
+    </test-case>
+    <test-case start="1729890411631" stop="1729890411633" status="passed">
+      <name>testIsRssAllow with data set #1</name>
+    </test-case>
+    <test-case start="1729890411633" stop="1729890411636" status="passed">
+      <name>testIsRssAllow with data set #2</name>
+    </test-case>
+    <test-case start="1729890411636" stop="1729890411638" status="passed">
+      <name>testIsRssAllow with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890416981" stop="1729890416984" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\LicenseTest</name>
+  <test-cases>
+    <test-case start="1729890416981" stop="1729890416983" status="passed">
+      <name>testGetContents</name>
+    </test-case>
+    <test-case start="1729890416983" stop="1729890416984" status="passed">
+      <name>testGetContentsNoFile</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

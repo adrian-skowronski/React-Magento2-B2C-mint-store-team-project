@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375882" stop="1729890375923" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\Coupon\MassgeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890375883" stop="1729890375886" status="passed">
+      <name>testGenerateCode with data set #0</name>
+    </test-case>
+    <test-case start="1729890375886" stop="1729890375888" status="passed">
+      <name>testGenerateCode with data set #1</name>
+    </test-case>
+    <test-case start="1729890375889" stop="1729890375890" status="passed">
+      <name>testGetDelimiter with data set #0</name>
+    </test-case>
+    <test-case start="1729890375891" stop="1729890375892" status="passed">
+      <name>testGetDelimiter with data set #1</name>
+    </test-case>
+    <test-case start="1729890375893" stop="1729890375903" status="passed">
+      <name>testGeneratePool</name>
+    </test-case>
+    <test-case start="1729890375904" stop="1729890375912" status="passed">
+      <name>testGeneratePoolException</name>
+    </test-case>
+    <test-case start="1729890375913" stop="1729890375915" status="passed">
+      <name>testValidateData with data set #0</name>
+    </test-case>
+    <test-case start="1729890375915" stop="1729890375917" status="passed">
+      <name>testValidateData with data set #1</name>
+    </test-case>
+    <test-case start="1729890375917" stop="1729890375919" status="passed">
+      <name>testValidateData with data set #2</name>
+    </test-case>
+    <test-case start="1729890375919" stop="1729890375921" status="passed">
+      <name>testValidateData with data set #3</name>
+    </test-case>
+    <test-case start="1729890375921" stop="1729890375923" status="passed">
+      <name>testGetGeneratedCount</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

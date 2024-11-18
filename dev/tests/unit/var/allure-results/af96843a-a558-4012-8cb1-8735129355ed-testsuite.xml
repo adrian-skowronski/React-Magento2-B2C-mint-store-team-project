@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890397847" stop="1729890397891" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Block\Adminhtml\Items\Price\RendererTest</name>
+  <test-cases>
+    <test-case start="1729890397848" stop="1729890397861" status="passed">
+      <name>testDisplayPriceInclTax</name>
+    </test-case>
+    <test-case start="1729890397862" stop="1729890397869" status="passed">
+      <name>testDisplayPriceExclTax</name>
+    </test-case>
+    <test-case start="1729890397869" stop="1729890397873" status="passed">
+      <name>testDisplayBothPrices</name>
+    </test-case>
+    <test-case start="1729890397873" stop="1729890397877" status="passed">
+      <name>testDisplayPrices</name>
+    </test-case>
+    <test-case start="1729890397878" stop="1729890397882" status="passed">
+      <name>testFormatPrice</name>
+    </test-case>
+    <test-case start="1729890397884" stop="1729890397890" status="passed">
+      <name>testGetTotalAmount</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271196" stop="1729890271216" version="1.4.0">
+  <name>Magento\Captcha\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890271196" stop="1729890271203" status="passed">
+      <name>testGetCaptcha</name>
+    </test-case>
+    <test-case start="1729890271204" stop="1729890271207" status="passed">
+      <name>testGetConfigNode</name>
+    </test-case>
+    <test-case start="1729890271207" stop="1729890271210" status="passed">
+      <name>testGetFonts</name>
+    </test-case>
+    <test-case start="1729890271210" stop="1729890271213" status="passed">
+      <name>testGetImgDir</name>
+    </test-case>
+    <test-case start="1729890271214" stop="1729890271216" status="passed">
+      <name>testGetImgUrl</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

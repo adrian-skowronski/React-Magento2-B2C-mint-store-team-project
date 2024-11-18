@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890261971" stop="1729890261976" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\AnalyticsTokenTest</name>
+  <test-cases>
+    <test-case start="1729890261971" stop="1729890261973" status="passed">
+      <name>testStoreToken</name>
+    </test-case>
+    <test-case start="1729890261973" stop="1729890261974" status="passed">
+      <name>testGetToken</name>
+    </test-case>
+    <test-case start="1729890261974" stop="1729890261976" status="passed">
+      <name>testIsTokenExist</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

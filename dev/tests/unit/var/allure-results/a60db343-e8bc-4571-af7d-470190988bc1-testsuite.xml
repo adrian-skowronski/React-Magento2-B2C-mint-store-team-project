@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329603" stop="1729890329621" version="1.4.0">
+  <name>Magento\GiftMessage\Test\Unit\Model\CartRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890329604" stop="1729890329613" status="passed">
+      <name>testGetWithOutMessageId</name>
+    </test-case>
+    <test-case start="1729890329613" stop="1729890329615" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890329615" stop="1729890329617" status="passed">
+      <name>testSaveWithInputException</name>
+    </test-case>
+    <test-case start="1729890329617" stop="1729890329618" status="passed">
+      <name>testSaveWithInvalidTransitionException</name>
+    </test-case>
+    <test-case start="1729890329619" stop="1729890329621" status="passed">
+      <name>testSave</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

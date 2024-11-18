@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392303" stop="1729890392311" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Model\Plugin\AccountManagementTest</name>
+  <test-cases>
+    <test-case start="1729890392304" stop="1729890392306" status="passed">
+      <name>testBeforeInitiatePasswordReset with data set #0</name>
+    </test-case>
+    <test-case start="1729890392307" stop="1729890392308" status="passed">
+      <name>testBeforeInitiatePasswordReset with data set #1</name>
+    </test-case>
+    <test-case start="1729890392308" stop="1729890392309" status="passed">
+      <name>testBeforeInitiatePasswordReset with data set #2</name>
+    </test-case>
+    <test-case start="1729890392310" stop="1729890392311" status="passed">
+      <name>testBeforeInitiatePasswordReset with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

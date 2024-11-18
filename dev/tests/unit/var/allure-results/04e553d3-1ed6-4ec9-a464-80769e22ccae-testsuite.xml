@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890457281" stop="1729890457289" version="1.4.0">
+  <name>Magento\Framework\Setup\Test\Unit\Declaration\Schema\Db\MySQL\Definition\Constraints\InternalTest</name>
+  <test-cases>
+    <test-case start="1729890457282" stop="1729890457285" status="passed">
+      <name>testToDefinition with data set #0</name>
+    </test-case>
+    <test-case start="1729890457285" stop="1729890457286" status="passed">
+      <name>testToDefinition with data set #1</name>
+    </test-case>
+    <test-case start="1729890457287" stop="1729890457288" status="passed">
+      <name>testFromDefinition with data set #0</name>
+    </test-case>
+    <test-case start="1729890457288" stop="1729890457289" status="passed">
+      <name>testFromDefinition with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890326870" stop="1729890326876" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Adapter\BatchDataMapper\DataMapperFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890326870" stop="1729890326871" status="passed">
+      <name>testCreateEmpty</name>
+    </test-case>
+    <test-case start="1729890326871" stop="1729890326872" status="passed">
+      <name>testCreateWrongType</name>
+    </test-case>
+    <test-case start="1729890326872" stop="1729890326873" status="passed">
+      <name>testCreateFailure</name>
+    </test-case>
+    <test-case start="1729890326874" stop="1729890326875" status="passed">
+      <name>testCreate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

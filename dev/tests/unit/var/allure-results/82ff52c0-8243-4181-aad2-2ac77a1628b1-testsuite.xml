@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374013" stop="1729890374025" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Observer\EventSaverTest</name>
+  <test-cases>
+    <test-case start="1729890374013" stop="1729890374019" status="passed">
+      <name>testSaveWithSubject</name>
+    </test-case>
+    <test-case start="1729890374020" stop="1729890374023" status="passed">
+      <name>testSaveWithoutSubjectWhenLoggedIn</name>
+    </test-case>
+    <test-case start="1729890374023" stop="1729890374025" status="passed">
+      <name>testSaveWithoutSubjectForGuest</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890306711" stop="1729890306781" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Block\Adminhtml\Product\Steps\SelectAttributesTest</name>
+  <test-cases>
+    <test-case start="1729890306712" stop="1729890306757" status="passed">
+      <name>testGetAddNewAttributeButton with data set #0</name>
+    </test-case>
+    <test-case start="1729890306766" stop="1729890306775" status="passed">
+      <name>testGetAddNewAttributeButton with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

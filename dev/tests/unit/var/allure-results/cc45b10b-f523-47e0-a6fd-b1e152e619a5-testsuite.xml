@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280662" stop="1729890280699" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Observer\CategoryUrlPathAutogeneratorObserverTest</name>
+  <test-cases>
+    <test-case start="1729890280662" stop="1729890280669" status="passed">
+      <name>testShouldFormatUrlKeyAndGenerateUrlPathIfUrlKeyIsNotUsingDefaultValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890280669" stop="1729890280671" status="passed">
+      <name>testShouldFormatUrlKeyAndGenerateUrlPathIfUrlKeyIsNotUsingDefaultValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890280672" stop="1729890280674" status="passed">
+      <name>testShouldResetUrlPathAndUrlKeyIfUrlKeyIsUsingDefaultValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890280674" stop="1729890280676" status="passed">
+      <name>testShouldResetUrlPathAndUrlKeyIfUrlKeyIsUsingDefaultValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890280677" stop="1729890280678" status="passed">
+      <name>testShouldResetUrlPathAndUrlKeyIfUrlKeyIsUsingDefaultValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890280678" stop="1729890280679" status="passed">
+      <name>testShouldResetUrlPathAndUrlKeyIfUrlKeyIsUsingDefaultValue with data set #3</name>
+    </test-case>
+    <test-case start="1729890280680" stop="1729890280684" status="passed">
+      <name>testShouldUpdateUrlPathForChildrenIfUrlKeyIsUsingDefaultValueForSpecificStore</name>
+    </test-case>
+    <test-case start="1729890280685" stop="1729890280686" status="passed">
+      <name>testShouldThrowExceptionIfUrlKeyIsEmpty with data set #0</name>
+    </test-case>
+    <test-case start="1729890280686" stop="1729890280688" status="passed">
+      <name>testShouldThrowExceptionIfUrlKeyIsEmpty with data set #1</name>
+    </test-case>
+    <test-case start="1729890280688" stop="1729890280690" status="passed">
+      <name>testShouldThrowExceptionIfUrlKeyIsEmpty with data set #2</name>
+    </test-case>
+    <test-case start="1729890280690" stop="1729890280692" status="passed">
+      <name>testUrlPathAttributeUpdating</name>
+    </test-case>
+    <test-case start="1729890280693" stop="1729890280695" status="passed">
+      <name>testChildrenUrlPathAttributeNoUpdatingIfParentUrlPathIsNotChanged</name>
+    </test-case>
+    <test-case start="1729890280695" stop="1729890280699" status="passed">
+      <name>testChildrenUrlPathAttributeUpdatingForSpecificStore</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

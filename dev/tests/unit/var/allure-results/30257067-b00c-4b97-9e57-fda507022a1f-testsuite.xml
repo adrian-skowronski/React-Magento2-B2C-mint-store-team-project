@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890390879" stop="1729890390882" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Setup\SalesOrderPaymentDataConverterTest</name>
+  <test-cases>
+    <test-case start="1729890390879" stop="1729890390882" status="passed">
+      <name>testConvert</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

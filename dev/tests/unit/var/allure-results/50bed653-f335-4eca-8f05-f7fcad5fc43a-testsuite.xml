@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890277886" stop="1729890277893" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Model\Product\PriceModifierTest</name>
+  <test-cases>
+    <test-case start="1729890277887" stop="1729890277890" status="passed">
+      <name>testModifyPriceIfPriceExists with data set "resulted_price_exists"</name>
+    </test-case>
+    <test-case start="1729890277890" stop="1729890277892" status="passed">
+      <name>testModifyPriceIfPriceExists with data set "resulted_price_not_exists"</name>
+    </test-case>
+    <test-case start="1729890277892" stop="1729890277893" status="passed">
+      <name>testModifyPriceIfPriceNotExist</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

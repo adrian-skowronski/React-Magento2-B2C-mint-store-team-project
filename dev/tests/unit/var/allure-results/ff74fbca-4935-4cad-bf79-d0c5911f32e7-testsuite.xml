@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890349792" stop="1729890349812" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Model\Oauth\ConsumerTest</name>
+  <test-cases>
+    <test-case start="1729890349792" stop="1729890349799" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+    <test-case start="1729890349800" stop="1729890349801" status="passed">
+      <name>testValidate</name>
+    </test-case>
+    <test-case start="1729890349801" stop="1729890349802" status="passed">
+      <name>testValidateInvalidData</name>
+    </test-case>
+    <test-case start="1729890349803" stop="1729890349804" status="passed">
+      <name>testValidateInvalidCallback</name>
+    </test-case>
+    <test-case start="1729890349804" stop="1729890349805" status="passed">
+      <name>testValidateInvalidRejectedCallback</name>
+    </test-case>
+    <test-case start="1729890349806" stop="1729890349807" status="passed">
+      <name>testValidateInvalidConsumerKey</name>
+    </test-case>
+    <test-case start="1729890349808" stop="1729890349809" status="passed">
+      <name>testValidateInvalidConsumerSecret</name>
+    </test-case>
+    <test-case start="1729890349809" stop="1729890349811" status="passed">
+      <name>testGetConsumerExpirationPeriodValid</name>
+    </test-case>
+    <test-case start="1729890349811" stop="1729890349812" status="passed">
+      <name>testGetConsumerExpirationPeriodExpired</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890369436" stop="1729890369451" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\Quote\Item\Option\ComparatorTest</name>
+  <test-cases>
+    <test-case start="1729890369437" stop="1729890369438" status="passed">
+      <name>testCompare with data set #0</name>
+    </test-case>
+    <test-case start="1729890369439" stop="1729890369440" status="passed">
+      <name>testCompare with data set #1</name>
+    </test-case>
+    <test-case start="1729890369440" stop="1729890369441" status="passed">
+      <name>testCompare with data set #2</name>
+    </test-case>
+    <test-case start="1729890369442" stop="1729890369443" status="passed">
+      <name>testCompare with data set #3</name>
+    </test-case>
+    <test-case start="1729890369444" stop="1729890369445" status="passed">
+      <name>testCompare with data set #4</name>
+    </test-case>
+    <test-case start="1729890369446" stop="1729890369447" status="passed">
+      <name>testCompare with data set #5</name>
+    </test-case>
+    <test-case start="1729890369448" stop="1729890369449" status="passed">
+      <name>testCompare with data set #6</name>
+    </test-case>
+    <test-case start="1729890369450" stop="1729890369451" status="passed">
+      <name>testCompare with data set #7</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

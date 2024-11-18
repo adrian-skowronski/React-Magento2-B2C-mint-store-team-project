@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264257" stop="1729890264284" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\Store\SwitcherTest</name>
+  <test-cases>
+    <test-case start="1729890264258" stop="1729890264263" status="passed">
+      <name>testGetWebsites</name>
+    </test-case>
+    <test-case start="1729890264264" stop="1729890264267" status="passed">
+      <name>testGetWebsitesIfSetWebsiteIds</name>
+    </test-case>
+    <test-case start="1729890264267" stop="1729890264271" status="passed">
+      <name>testAfterGetCurrentStoreName with data set "test storeName with valid requested store"</name>
+    </test-case>
+    <test-case start="1729890264271" stop="1729890264275" status="passed">
+      <name>testAfterGetCurrentStoreName with data set "test storeName with invalid requested store"</name>
+    </test-case>
+    <test-case start="1729890264275" stop="1729890264279" status="passed">
+      <name>testGetCurrentWebsiteName with data set "test websiteName with valid requested website"</name>
+    </test-case>
+    <test-case start="1729890264280" stop="1729890264284" status="passed">
+      <name>testGetCurrentWebsiteName with data set "test websiteName with invalid requested website"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890326339" stop="1729890326365" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Setup\AddAttributeOptionTest</name>
+  <test-cases>
+    <test-case start="1729890326340" stop="1729890326343" status="passed">
+      <name>testAddNewOptions</name>
+    </test-case>
+    <test-case start="1729890326343" stop="1729890326346" status="passed">
+      <name>testAddExistingOptionsWithTheSameSortOrder</name>
+    </test-case>
+    <test-case start="1729890326347" stop="1729890326350" status="passed">
+      <name>testAddExistingOptionsWithDifferentSortOrder</name>
+    </test-case>
+    <test-case start="1729890326351" stop="1729890326354" status="passed">
+      <name>testAddMixedOptions</name>
+    </test-case>
+    <test-case start="1729890326355" stop="1729890326357" status="passed">
+      <name>testAddNewOption</name>
+    </test-case>
+    <test-case start="1729890326357" stop="1729890326359" status="passed">
+      <name>testAddNewOptionWithoutDefaultValue</name>
+    </test-case>
+    <test-case start="1729890326359" stop="1729890326362" status="passed">
+      <name>testDeleteOption</name>
+    </test-case>
+    <test-case start="1729890326362" stop="1729890326365" status="passed">
+      <name>testUpdateOption</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

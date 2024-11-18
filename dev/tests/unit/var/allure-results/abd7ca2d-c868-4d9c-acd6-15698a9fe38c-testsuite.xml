@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374135" stop="1729890374151" version="1.4.0">
+  <name>Magento\RequireJs\Test\Unit\Model\FileManagerTest</name>
+  <test-cases>
+    <test-case start="1729890374135" stop="1729890374137" status="passed">
+      <name>testCreateRequireJsConfigAsset with data set #0</name>
+    </test-case>
+    <test-case start="1729890374138" stop="1729890374140" status="passed">
+      <name>testCreateRequireJsConfigAsset with data set #1</name>
+    </test-case>
+    <test-case start="1729890374140" stop="1729890374142" status="passed">
+      <name>testCreateRequireJsAssetDevMode</name>
+    </test-case>
+    <test-case start="1729890374142" stop="1729890374146" status="passed">
+      <name>testCreateBundleJsPool</name>
+    </test-case>
+    <test-case start="1729890374146" stop="1729890374147" status="passed">
+      <name>testCreateMinResolverAsset</name>
+    </test-case>
+    <test-case start="1729890374147" stop="1729890374149" status="passed">
+      <name>testCreateRequireJsMixinsAsset</name>
+    </test-case>
+    <test-case start="1729890374149" stop="1729890374151" status="passed">
+      <name>testClearBundleJsPool</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

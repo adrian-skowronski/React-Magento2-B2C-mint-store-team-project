@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890359494" stop="1729890359497" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Model\Method\LoggerTest</name>
+  <test-cases>
+    <test-case start="1729890359495" stop="1729890359495" status="passed">
+      <name>testDebugOn</name>
+    </test-case>
+    <test-case start="1729890359495" stop="1729890359496" status="passed">
+      <name>testDebugOnNoReplaceKeys</name>
+    </test-case>
+    <test-case start="1729890359496" stop="1729890359497" status="passed">
+      <name>testDebugOff</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

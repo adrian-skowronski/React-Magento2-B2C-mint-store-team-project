@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890357429" stop="1729890357433" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Observer\InvalidateCacheTest</name>
+  <test-cases>
+    <test-case start="1729890357429" stop="1729890357432" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890357432" stop="1729890357433" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

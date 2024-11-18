@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418314" stop="1729890418327" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\I18n\Pack\Writer\File\CsvTest</name>
+  <test-cases>
+    <test-case start="1729890418315" stop="1729890418318" status="passed">
+      <name>testWriteDictionaryWithRuntimeException with data set #0</name>
+    </test-case>
+    <test-case start="1729890418318" stop="1729890418320" status="passed">
+      <name>testWriteDictionaryWithRuntimeException with data set #1</name>
+    </test-case>
+    <test-case start="1729890418320" stop="1729890418321" status="passed">
+      <name>testWriteDictionaryWithRuntimeException with data set #2</name>
+    </test-case>
+    <test-case start="1729890418322" stop="1729890418323" status="passed">
+      <name>testWriteDictionaryWithInvalidArgumentException</name>
+    </test-case>
+    <test-case start="1729890418324" stop="1729890418325" status="passed">
+      <name>testWriteDictionaryWherePathIsNull</name>
+    </test-case>
+    <test-case start="1729890418325" stop="1729890418327" status="passed">
+      <name>testWriteDictionary</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

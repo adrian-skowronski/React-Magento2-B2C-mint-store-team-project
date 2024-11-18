@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403812" stop="1729890403817" version="1.4.0">
+  <name>Magento\Translation\Test\Unit\Model\FileManagerTest</name>
+  <test-cases>
+    <test-case start="1729890403813" stop="1729890403814" status="passed">
+      <name>testCreateTranslateConfigAsset</name>
+    </test-case>
+    <test-case start="1729890403814" stop="1729890403815" status="passed">
+      <name>testGetTranslationFileTimestamp</name>
+    </test-case>
+    <test-case start="1729890403816" stop="1729890403817" status="passed">
+      <name>testGetTranslationFilePath</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890458473" stop="1729890458589" version="1.4.0">
+  <name>Magento\Framework\Stdlib\Test\Unit\DateTime\DateTimeFormatterTest</name>
+  <test-cases>
+    <test-case start="1729890458476" stop="1729890458480" status="passed">
+      <name>testFormatObject with data set #0</name>
+    </test-case>
+    <test-case start="1729890458480" stop="1729890458483" status="passed">
+      <name>testFormatObject with data set #1</name>
+    </test-case>
+    <test-case start="1729890458484" stop="1729890458485" status="passed">
+      <name>testFormatObject with data set #2</name>
+    </test-case>
+    <test-case start="1729890458486" stop="1729890458487" status="passed">
+      <name>testFormatObject with data set #3</name>
+    </test-case>
+    <test-case start="1729890458487" stop="1729890458495" status="passed">
+      <name>testFormatObject with data set #4</name>
+    </test-case>
+    <test-case start="1729890458495" stop="1729890458497" status="passed">
+      <name>testFormatObject with data set #5</name>
+    </test-case>
+    <test-case start="1729890458498" stop="1729890458499" status="passed">
+      <name>testFormatObject with data set #6</name>
+    </test-case>
+    <test-case start="1729890458499" stop="1729890458508" status="passed">
+      <name>testFormatObject with data set #7</name>
+    </test-case>
+    <test-case start="1729890458509" stop="1729890458511" status="passed">
+      <name>testFormatObject with data set #8</name>
+    </test-case>
+    <test-case start="1729890458512" stop="1729890458517" status="passed">
+      <name>testFormatObject with data set #9</name>
+    </test-case>
+    <test-case start="1729890458518" stop="1729890458519" status="passed">
+      <name>testFormatObject with data set #10</name>
+    </test-case>
+    <test-case start="1729890458520" stop="1729890458522" status="passed">
+      <name>testFormatObject with data set #11</name>
+    </test-case>
+    <test-case start="1729890458523" stop="1729890458525" status="passed">
+      <name>testFormatObject with data set #12</name>
+    </test-case>
+    <test-case start="1729890458526" stop="1729890458527" status="passed">
+      <name>testFormatObject with data set #13</name>
+    </test-case>
+    <test-case start="1729890458528" stop="1729890458529" status="passed">
+      <name>testFormatObject with data set #14</name>
+    </test-case>
+    <test-case start="1729890458530" stop="1729890458532" status="passed">
+      <name>testFormatObject with data set #15</name>
+    </test-case>
+    <test-case start="1729890458532" stop="1729890458534" status="passed">
+      <name>testFormatObject with data set #16</name>
+    </test-case>
+    <test-case start="1729890458535" stop="1729890458537" status="passed">
+      <name>testFormatObject with data set #17</name>
+    </test-case>
+    <test-case start="1729890458538" stop="1729890458539" status="passed">
+      <name>testFormatObject with data set #18</name>
+    </test-case>
+    <test-case start="1729890458540" stop="1729890458541" status="passed">
+      <name>testFormatObject with data set #19</name>
+    </test-case>
+    <test-case start="1729890458542" stop="1729890458543" status="passed">
+      <name>testFormatObject with data set #20</name>
+    </test-case>
+    <test-case start="1729890458544" stop="1729890458545" status="passed">
+      <name>testFormatObject with data set #21</name>
+    </test-case>
+    <test-case start="1729890458546" stop="1729890458547" status="passed">
+      <name>testFormatObject with data set #22</name>
+    </test-case>
+    <test-case start="1729890458547" stop="1729890458549" status="passed">
+      <name>testFormatObject with data set #23</name>
+    </test-case>
+    <test-case start="1729890458549" stop="1729890458551" status="passed">
+      <name>testFormatObject with data set #24</name>
+    </test-case>
+    <test-case start="1729890458551" stop="1729890458552" status="passed">
+      <name>testFormatObject with data set #25</name>
+    </test-case>
+    <test-case start="1729890458553" stop="1729890458554" status="passed">
+      <name>testFormatObject with data set #26</name>
+    </test-case>
+    <test-case start="1729890458555" stop="1729890458556" status="passed">
+      <name>testFormatObject with data set #27</name>
+    </test-case>
+    <test-case start="1729890458557" stop="1729890458558" status="passed">
+      <name>testFormatObject with data set #28</name>
+    </test-case>
+    <test-case start="1729890458558" stop="1729890458560" status="passed">
+      <name>testFormatObject with data set #29</name>
+    </test-case>
+    <test-case start="1729890458561" stop="1729890458562" status="passed">
+      <name>testFormatObject with data set #30</name>
+    </test-case>
+    <test-case start="1729890458562" stop="1729890458563" status="passed">
+      <name>testFormatObject with data set #31</name>
+    </test-case>
+    <test-case start="1729890458564" stop="1729890458565" status="passed">
+      <name>testFormatObject with data set #32</name>
+    </test-case>
+    <test-case start="1729890458566" stop="1729890458567" status="passed">
+      <name>testFormatObject with data set #33</name>
+    </test-case>
+    <test-case start="1729890458567" stop="1729890458568" status="passed">
+      <name>testFormatObject with data set #34</name>
+    </test-case>
+    <test-case start="1729890458569" stop="1729890458570" status="passed">
+      <name>testFormatObject with data set #35</name>
+    </test-case>
+    <test-case start="1729890458571" stop="1729890458572" status="passed">
+      <name>testFormatObject with data set #36</name>
+    </test-case>
+    <test-case start="1729890458572" stop="1729890458573" status="passed">
+      <name>testFormatObject with data set #37</name>
+    </test-case>
+    <test-case start="1729890458574" stop="1729890458575" status="passed">
+      <name>testFormatObject with data set #38</name>
+    </test-case>
+    <test-case start="1729890458576" stop="1729890458577" status="passed">
+      <name>testFormatObject with data set #39</name>
+    </test-case>
+    <test-case start="1729890458577" stop="1729890458578" status="passed">
+      <name>testFormatObjectIfPassedWrongFormat</name>
+    </test-case>
+    <test-case start="1729890458579" stop="1729890458580" status="failed">
+      <name>testFormatObjectNumericFormat with data set #0</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Mar 30, 2022, 12:01:02 AM'
++'Mar 30, 2022, 12:01:02 AM'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/Stdlib/Test/Unit/DateTime/DateTimeFormatterTest.php(165): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Stdlib\Test\Unit\DateTime\DateTimeFormatterTest-&gt;testFormatObjectNumericFormat()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890458580" stop="1729890458582" status="failed">
+      <name>testFormatObjectNumericFormat with data set #1</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'12:01:02 AM Greenwich Mean Time'
++'12:01:02 AM Greenwich Mean Time'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/Stdlib/Test/Unit/DateTime/DateTimeFormatterTest.php(165): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Stdlib\Test\Unit\DateTime\DateTimeFormatterTest-&gt;testFormatObjectNumericFormat()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890458582" stop="1729890458584" status="failed">
+      <name>testFormatObjectNumericFormat with data set #2</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'3/30/22, 12:01:02 AM Greenwich Mean Time'
++'3/30/22, 12:01:02 AM Greenwich Mean Time'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/Stdlib/Test/Unit/DateTime/DateTimeFormatterTest.php(165): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Stdlib\Test\Unit\DateTime\DateTimeFormatterTest-&gt;testFormatObjectNumericFormat()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890458584" stop="1729890458585" status="failed">
+      <name>testFormatObjectNumericFormat with data set #3</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Mar 30, 2022, 12:01:02 AM Greenwich Mean Time'
++'Mar 30, 2022, 12:01:02 AM Greenwich Mean Time'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/Stdlib/Test/Unit/DateTime/DateTimeFormatterTest.php(165): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Stdlib\Test\Unit\DateTime\DateTimeFormatterTest-&gt;testFormatObjectNumericFormat()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890458586" stop="1729890458587" status="failed">
+      <name>testFormatObjectNumericFormat with data set #4</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'March 30, 2022 at 12:01:02 AM Greenwich Mean Time'
++'March 30, 2022 at 12:01:02 AM Greenwich Mean Time'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/Stdlib/Test/Unit/DateTime/DateTimeFormatterTest.php(165): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Stdlib\Test\Unit\DateTime\DateTimeFormatterTest-&gt;testFormatObjectNumericFormat()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890458587" stop="1729890458589" status="failed">
+      <name>testFormatObjectNumericFormat with data set #5</name>
+      <failure>
+        <message>Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Wednesday, March 30, 2022 at 12:01:02 AM Greenwich Mean Time'
++'Wednesday, March 30, 2022 at 12:01:02 AM Greenwich Mean Time'
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/Stdlib/Test/Unit/DateTime/DateTimeFormatterTest.php(165): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Stdlib\Test\Unit\DateTime\DateTimeFormatterTest-&gt;testFormatObjectNumericFormat()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

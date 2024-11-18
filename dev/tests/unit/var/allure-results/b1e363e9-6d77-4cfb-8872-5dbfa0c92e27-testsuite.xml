@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890440079" stop="1729890440083" version="1.4.0">
+  <name>Magento\Framework\Code\Test\Unit\Minifier\Adapter\Js\JShrinkTest</name>
+  <test-cases>
+    <test-case start="1729890440079" stop="1729890440083" status="passed">
+      <name>testMinify</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

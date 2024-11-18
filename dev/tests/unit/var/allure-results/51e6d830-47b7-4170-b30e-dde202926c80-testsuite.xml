@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422655" stop="1729890422664" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Action\ForwardTest</name>
+  <test-cases>
+    <test-case start="1729890422656" stop="1729890422658" status="passed">
+      <name>testDispatch</name>
+    </test-case>
+    <test-case start="1729890422659" stop="1729890422661" status="passed">
+      <name>testGetRequest</name>
+    </test-case>
+    <test-case start="1729890422661" stop="1729890422662" status="passed">
+      <name>testGetResponse</name>
+    </test-case>
+    <test-case start="1729890422663" stop="1729890422664" status="passed">
+      <name>testResponseHeaders</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

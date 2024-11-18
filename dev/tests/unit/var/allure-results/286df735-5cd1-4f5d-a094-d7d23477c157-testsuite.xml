@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890308738" stop="1729890308786" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Helper\Product\Options\LoaderTest</name>
+  <test-cases>
+    <test-case start="1729890308739" stop="1729890308786" status="passed">
+      <name>testLoad</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

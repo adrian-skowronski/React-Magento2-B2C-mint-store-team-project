@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890426269" stop="1729890426283" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Response\Http\FileFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890426270" stop="1729890426271" status="passed">
+      <name>testCreateIfContentDoesntHaveRequiredKeys</name>
+    </test-case>
+    <test-case start="1729890426272" stop="1729890426273" status="passed">
+      <name>testCreateIfFileNotExist</name>
+    </test-case>
+    <test-case start="1729890426273" stop="1729890426276" status="passed">
+      <name>testCreateArrayContent</name>
+    </test-case>
+    <test-case start="1729890426277" stop="1729890426280" status="passed">
+      <name>testCreateArrayContentRm</name>
+    </test-case>
+    <test-case start="1729890426280" stop="1729890426283" status="passed">
+      <name>testCreateStringContent</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

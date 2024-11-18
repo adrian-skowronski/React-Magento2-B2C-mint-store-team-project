@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890443987" stop="1729890444182" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Form\Element\EditorTest</name>
+  <test-cases>
+    <test-case start="1729890443987" stop="1729890443998" status="passed">
+      <name>testConstruct</name>
+    </test-case>
+    <test-case start="1729890443999" stop="1729890444037" status="passed">
+      <name>testGetElementHtml</name>
+    </test-case>
+    <test-case start="1729890444072" stop="1729890444094" status="passed">
+      <name>testIsEnabled with data set "Global disabled, attribute isnt set"</name>
+    </test-case>
+    <test-case start="1729890444095" stop="1729890444107" status="passed">
+      <name>testIsEnabled with data set "Global disabled, attribute disabled"</name>
+    </test-case>
+    <test-case start="1729890444121" stop="1729890444130" status="passed">
+      <name>testIsEnabled with data set "Global disabled, attribute enabled"</name>
+    </test-case>
+    <test-case start="1729890444134" stop="1729890444138" status="passed">
+      <name>testIsEnabled with data set "Global enabled, attribute isnt set"</name>
+    </test-case>
+    <test-case start="1729890444139" stop="1729890444142" status="passed">
+      <name>testIsEnabled with data set "Global enabled, attribute disabled"</name>
+    </test-case>
+    <test-case start="1729890444142" stop="1729890444150" status="passed">
+      <name>testIsEnabled with data set "Global enabled, attribute enabled"</name>
+    </test-case>
+    <test-case start="1729890444152" stop="1729890444157" status="passed">
+      <name>testIsHidden</name>
+    </test-case>
+    <test-case start="1729890444158" stop="1729890444165" status="passed">
+      <name>testTranslate</name>
+    </test-case>
+    <test-case start="1729890444165" stop="1729890444169" status="passed">
+      <name>testGetConfig</name>
+    </test-case>
+    <test-case start="1729890444170" stop="1729890444180" status="passed">
+      <name>testGetTranslatedString</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395504" stop="1729890395526" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\StoreSwitcher\HashProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890395505" stop="1729890395519" status="passed">
+      <name>testShouldProcessIfDataValidationPassed</name>
+    </test-case>
+    <test-case start="1729890395519" stop="1729890395522" status="passed">
+      <name>testShouldNotProcessIfDataValidationFailed</name>
+    </test-case>
+    <test-case start="1729890395522" stop="1729890395524" status="passed">
+      <name>testShouldNotProcessIfDataUnserializationFailed</name>
+    </test-case>
+    <test-case start="1729890395524" stop="1729890395525" status="passed">
+      <name>testShouldNotProcessIfDataIsNotPresentInTheRequest</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

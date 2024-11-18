@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376882" stop="1729890376896" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\RulesApplierTest</name>
+  <test-cases>
+    <test-case start="1729890376883" stop="1729890376891" status="passed">
+      <name>testApplyRules with data set #0</name>
+    </test-case>
+    <test-case start="1729890376891" stop="1729890376894" status="passed">
+      <name>testApplyRules with data set #1</name>
+    </test-case>
+    <test-case start="1729890376895" stop="1729890376896" status="passed">
+      <name>testAddCouponDescriptionWithRuleDescriptionIsUsed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

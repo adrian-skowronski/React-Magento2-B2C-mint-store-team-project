@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395542" stop="1729890395548" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\StoreSwitcher\RedirectDataCacheSerializerTest</name>
+  <test-cases>
+    <test-case start="1729890395542" stop="1729890395544" status="passed">
+      <name>testSerialize</name>
+    </test-case>
+    <test-case start="1729890395544" stop="1729890395545" status="passed">
+      <name>testSerializeShouldThrowExceptionIfCannotSaveCache</name>
+    </test-case>
+    <test-case start="1729890395545" stop="1729890395546" status="passed">
+      <name>testUnserialize</name>
+    </test-case>
+    <test-case start="1729890395546" stop="1729890395547" status="passed">
+      <name>testUnserializeShouldThrowExceptionIfCacheHasExpired</name>
+    </test-case>
+    <test-case start="1729890395547" stop="1729890395548" status="passed">
+      <name>testUnserializeShouldThrowExceptionIfCacheKeyIsInvalid</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403357" stop="1729890403369" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Uploader\ServiceTest</name>
+  <test-cases>
+    <test-case start="1729890403358" stop="1729890403360" status="passed">
+      <name>testUploadLimitNotConfigured</name>
+    </test-case>
+    <test-case start="1729890403360" stop="1729890403361" status="passed">
+      <name>testGetCssUploadMaxSize</name>
+    </test-case>
+    <test-case start="1729890403361" stop="1729890403362" status="passed">
+      <name>testGetJsUploadMaxSize</name>
+    </test-case>
+    <test-case start="1729890403362" stop="1729890403363" status="passed">
+      <name>testGetFileContent</name>
+    </test-case>
+    <test-case start="1729890403363" stop="1729890403365" status="passed">
+      <name>testUploadCssFile</name>
+    </test-case>
+    <test-case start="1729890403365" stop="1729890403366" status="passed">
+      <name>testUploadInvalidCssFile</name>
+    </test-case>
+    <test-case start="1729890403366" stop="1729890403368" status="passed">
+      <name>testUploadJsFile</name>
+    </test-case>
+    <test-case start="1729890403368" stop="1729890403369" status="passed">
+      <name>testUploadInvalidJsFile</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

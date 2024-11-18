@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890349131" stop="1729890349153" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Model\AuthorizationServiceTest</name>
+  <test-cases>
+    <test-case start="1729890349132" stop="1729890349140" status="passed">
+      <name>testRemovePermissions</name>
+    </test-case>
+    <test-case start="1729890349141" stop="1729890349143" status="passed">
+      <name>testRemovePermissionsException</name>
+    </test-case>
+    <test-case start="1729890349143" stop="1729890349146" status="passed">
+      <name>testGrantPermissions</name>
+    </test-case>
+    <test-case start="1729890349147" stop="1729890349149" status="passed">
+      <name>testGrantPermissionsNoRole</name>
+    </test-case>
+    <test-case start="1729890349149" stop="1729890349151" status="passed">
+      <name>testGrantPermissionsException</name>
+    </test-case>
+    <test-case start="1729890349152" stop="1729890349153" status="passed">
+      <name>testGrantAllPermissions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

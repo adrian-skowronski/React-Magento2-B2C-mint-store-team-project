@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890385298" stop="1729890385327" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Payment\InfoTest</name>
+  <test-cases>
+    <test-case start="1729890385299" stop="1729890385300" status="passed">
+      <name>testGetDataCcNumber with data set #0</name>
+    </test-case>
+    <test-case start="1729890385301" stop="1729890385302" status="passed">
+      <name>testGetDataCcNumber with data set #1</name>
+    </test-case>
+    <test-case start="1729890385302" stop="1729890385306" status="passed">
+      <name>testGetMethodInstanceWithRealMethod</name>
+    </test-case>
+    <test-case start="1729890385306" stop="1729890385308" status="passed">
+      <name>testGetMethodInstanceWithUnrealMethod</name>
+    </test-case>
+    <test-case start="1729890385308" stop="1729890385309" status="passed">
+      <name>testGetMethodInstanceWithNoMethod</name>
+    </test-case>
+    <test-case start="1729890385310" stop="1729890385311" status="passed">
+      <name>testGetMethodInstanceRequestedMethod</name>
+    </test-case>
+    <test-case start="1729890385312" stop="1729890385313" status="passed">
+      <name>testEncrypt</name>
+    </test-case>
+    <test-case start="1729890385314" stop="1729890385315" status="passed">
+      <name>testDecrypt</name>
+    </test-case>
+    <test-case start="1729890385316" stop="1729890385317" status="passed">
+      <name>testSetAdditionalInformationException</name>
+    </test-case>
+    <test-case start="1729890385318" stop="1729890385319" status="passed">
+      <name>testSetAdditionalInformationMultipleTypes with data set #0</name>
+    </test-case>
+    <test-case start="1729890385319" stop="1729890385320" status="passed">
+      <name>testSetAdditionalInformationMultipleTypes with data set #1</name>
+    </test-case>
+    <test-case start="1729890385321" stop="1729890385322" status="passed">
+      <name>testGetAdditionalInformationByKey</name>
+    </test-case>
+    <test-case start="1729890385322" stop="1729890385323" status="passed">
+      <name>testUnsAdditionalInformation</name>
+    </test-case>
+    <test-case start="1729890385324" stop="1729890385325" status="passed">
+      <name>testHasAdditionalInformation</name>
+    </test-case>
+    <test-case start="1729890385325" stop="1729890385327" status="passed">
+      <name>testInitAdditionalInformationWithUnserialize</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

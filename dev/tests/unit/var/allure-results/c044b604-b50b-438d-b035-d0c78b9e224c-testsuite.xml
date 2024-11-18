@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418989" stop="1729890419020" version="1.4.0">
+  <name>PayPal\Braintree\Test\Unit\Gateway\Command\CaptureStrategyCommandTest</name>
+  <test-cases>
+    <test-case start="1729890418990" stop="1729890419003" status="passed">
+      <name>testSaleExecute</name>
+    </test-case>
+    <test-case start="1729890419003" stop="1729890419013" status="passed">
+      <name>testCaptureExecute</name>
+    </test-case>
+    <test-case start="1729890419014" stop="1729890419018" status="passed">
+      <name>testExpiredAuthorizationPerformVaultCaptureExecute</name>
+    </test-case>
+    <test-case start="1729890419018" stop="1729890419020" status="passed">
+      <name>testVaultCaptureExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

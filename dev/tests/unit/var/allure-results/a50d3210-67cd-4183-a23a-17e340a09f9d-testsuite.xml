@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402592" stop="1729890402599" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Favicon\FaviconTest</name>
+  <test-cases>
+    <test-case start="1729890402592" stop="1729890402595" status="passed">
+      <name>testGetFaviconFileNegative</name>
+    </test-case>
+    <test-case start="1729890402595" stop="1729890402597" status="passed">
+      <name>testGetFaviconFile</name>
+    </test-case>
+    <test-case start="1729890402598" stop="1729890402599" status="passed">
+      <name>testGetDefaultFavicon</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

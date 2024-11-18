@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890269380" stop="1729890269423" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Model\OptionRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890269381" stop="1729890269388" status="passed">
+      <name>testGetThrowsExceptionIfProductIsSimple</name>
+    </test-case>
+    <test-case start="1729890269388" stop="1729890269391" status="passed">
+      <name>testGetThrowsExceptionIfOptionDoesNotExist</name>
+    </test-case>
+    <test-case start="1729890269392" stop="1729890269398" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890269399" stop="1729890269400" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890269400" stop="1729890269403" status="passed">
+      <name>testDeleteThrowsExceptionIfCannotDelete</name>
+    </test-case>
+    <test-case start="1729890269403" stop="1729890269407" status="passed">
+      <name>testDeleteById</name>
+    </test-case>
+    <test-case start="1729890269407" stop="1729890269410" status="passed">
+      <name>testDeleteByIdException</name>
+    </test-case>
+    <test-case start="1729890269411" stop="1729890269415" status="passed">
+      <name>testSaveExistingOption</name>
+    </test-case>
+    <test-case start="1729890269415" stop="1729890269419" status="passed">
+      <name>testSaveNewOption</name>
+    </test-case>
+    <test-case start="1729890269419" stop="1729890269421" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890269421" stop="1729890269423" status="passed">
+      <name>testGetListException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

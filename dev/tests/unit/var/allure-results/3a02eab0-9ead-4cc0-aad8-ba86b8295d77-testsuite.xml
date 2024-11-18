@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890459931" stop="1729890459979" version="1.4.0">
+  <name>Magento\Framework\Url\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890459933" stop="1729890459938" status="passed">
+      <name>testGetCurrentBase64Url</name>
+    </test-case>
+    <test-case start="1729890459940" stop="1729890459942" status="passed">
+      <name>testGetEncodedUrl with data set "no url"</name>
+    </test-case>
+    <test-case start="1729890459943" stop="1729890459945" status="passed">
+      <name>testGetEncodedUrl with data set "with url"</name>
+    </test-case>
+    <test-case start="1729890459946" stop="1729890459948" status="passed">
+      <name>testAddRequestParam with data set "string"</name>
+    </test-case>
+    <test-case start="1729890459950" stop="1729890459954" status="passed">
+      <name>testAddRequestParam with data set "numeric key"</name>
+    </test-case>
+    <test-case start="1729890459955" stop="1729890459958" status="passed">
+      <name>testAddRequestParam with data set "single param"</name>
+    </test-case>
+    <test-case start="1729890459959" stop="1729890459961" status="passed">
+      <name>testAddRequestParam with data set "valid/invalid param"</name>
+    </test-case>
+    <test-case start="1729890459962" stop="1729890459964" status="passed">
+      <name>testAddRequestParam with data set "mixed"</name>
+    </test-case>
+    <test-case start="1729890459965" stop="1729890459967" status="passed">
+      <name>testAddRequestParam with data set "object"</name>
+    </test-case>
+    <test-case start="1729890459972" stop="1729890459973" status="passed">
+      <name>testRemoveRequestParam with data set "no match"</name>
+    </test-case>
+    <test-case start="1729890459974" stop="1729890459976" status="passed">
+      <name>testRemoveRequestParam with data set "one match"</name>
+    </test-case>
+    <test-case start="1729890459977" stop="1729890459979" status="passed">
+      <name>testRemoveRequestParam with data set "array match"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

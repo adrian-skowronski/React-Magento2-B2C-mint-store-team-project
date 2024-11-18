@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890313169" stop="1729890313217" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Block\Form\RegisterTest</name>
+  <test-cases>
+    <test-case start="1729890313170" stop="1729890313172" status="passed">
+      <name>testGetConfig with data set #0</name>
+    </test-case>
+    <test-case start="1729890313173" stop="1729890313174" status="passed">
+      <name>testGetConfig with data set #1</name>
+    </test-case>
+    <test-case start="1729890313175" stop="1729890313177" status="passed">
+      <name>testGetPostActionUrl</name>
+    </test-case>
+    <test-case start="1729890313177" stop="1729890313179" status="passed">
+      <name>testGetBackUrlNullData</name>
+    </test-case>
+    <test-case start="1729890313179" stop="1729890313181" status="passed">
+      <name>testGetBackUrlNotNullData</name>
+    </test-case>
+    <test-case start="1729890313181" stop="1729890313183" status="passed">
+      <name>testGetFormDataNotNullFormData</name>
+    </test-case>
+    <test-case start="1729890313183" stop="1729890313184" status="passed">
+      <name>testGetFormDataNullFormData</name>
+    </test-case>
+    <test-case start="1729890313185" stop="1729890313186" status="passed">
+      <name>testGetFormDataNullFormDataCustomerFormData</name>
+    </test-case>
+    <test-case start="1729890313186" stop="1729890313188" status="passed">
+      <name>testGetFormDataCustomerFormDataRegionId</name>
+    </test-case>
+    <test-case start="1729890313189" stop="1729890313190" status="passed">
+      <name>testGetCountryIdFormData</name>
+    </test-case>
+    <test-case start="1729890313190" stop="1729890313193" status="passed">
+      <name>testGetCountryIdParentNullData</name>
+    </test-case>
+    <test-case start="1729890313193" stop="1729890313195" status="passed">
+      <name>testGetCountryIdParentNotNullData</name>
+    </test-case>
+    <test-case start="1729890313195" stop="1729890313197" status="passed">
+      <name>testGetRegionByRegion</name>
+    </test-case>
+    <test-case start="1729890313197" stop="1729890313199" status="passed">
+      <name>testGetRegionByRegionId</name>
+    </test-case>
+    <test-case start="1729890313199" stop="1729890313201" status="passed">
+      <name>testGetRegionNull</name>
+    </test-case>
+    <test-case start="1729890313202" stop="1729890313203" status="passed">
+      <name>testIsNewsletterEnabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890313204" stop="1729890313205" status="passed">
+      <name>testIsNewsletterEnabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890313206" stop="1729890313207" status="passed">
+      <name>testIsNewsletterEnabled with data set #2</name>
+    </test-case>
+    <test-case start="1729890313208" stop="1729890313209" status="passed">
+      <name>testIsNewsletterEnabled with data set #3</name>
+    </test-case>
+    <test-case start="1729890313210" stop="1729890313214" status="passed">
+      <name>testRestoreSessionData</name>
+    </test-case>
+    <test-case start="1729890313214" stop="1729890313215" status="passed">
+      <name>testGetMinimumPasswordLength</name>
+    </test-case>
+    <test-case start="1729890313216" stop="1729890313217" status="passed">
+      <name>testGetRequiredCharacterClassesNumber</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

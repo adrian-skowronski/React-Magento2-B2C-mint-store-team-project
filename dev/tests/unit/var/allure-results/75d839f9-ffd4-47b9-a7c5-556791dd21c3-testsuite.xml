@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406730" stop="1729890406764" version="1.4.0">
+  <name>Magento\User\Test\Unit\Block\Role\Grid\UserTest</name>
+  <test-cases>
+    <test-case start="1729890406730" stop="1729890406735" status="passed">
+      <name>testGetGridUrlSuccessfulUrl</name>
+    </test-case>
+    <test-case start="1729890406736" stop="1729890406742" status="passed">
+      <name>testGetUsersPositiveNumberOfRolesAndJsonFalse</name>
+    </test-case>
+    <test-case start="1729890406742" stop="1729890406745" status="passed">
+      <name>testGetUsersPositiveNumberOfRolesAndJsonTrue</name>
+    </test-case>
+    <test-case start="1729890406746" stop="1729890406749" status="passed">
+      <name>testGetUsersNoRolesAndJsonFalse</name>
+    </test-case>
+    <test-case start="1729890406749" stop="1729890406758" status="passed">
+      <name>testPrepareColumns</name>
+    </test-case>
+    <test-case start="1729890406758" stop="1729890406761" status="passed">
+      <name>testGetUsersCorrectInRoleUser</name>
+    </test-case>
+    <test-case start="1729890406761" stop="1729890406764" status="passed">
+      <name>testGetUsersIncorrectInRoleUser</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

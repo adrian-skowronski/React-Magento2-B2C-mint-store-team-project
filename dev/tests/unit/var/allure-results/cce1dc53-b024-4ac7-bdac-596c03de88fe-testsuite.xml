@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890290372" stop="1729890290409" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Price\PricePersistenceTest</name>
+  <test-cases>
+    <test-case start="1729890290373" stop="1729890290380" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890290381" stop="1729890290385" status="passed">
+      <name>testUpdate</name>
+    </test-case>
+    <test-case start="1729890290386" stop="1729890290390" status="passed">
+      <name>testUpdateWithException</name>
+    </test-case>
+    <test-case start="1729890290391" stop="1729890290396" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890290396" stop="1729890290400" status="passed">
+      <name>testDeleteWithException</name>
+    </test-case>
+    <test-case start="1729890290401" stop="1729890290403" status="passed">
+      <name>testRetrieveSkuById with data set #0</name>
+    </test-case>
+    <test-case start="1729890290404" stop="1729890290405" status="passed">
+      <name>testRetrieveSkuById with data set #1</name>
+    </test-case>
+    <test-case start="1729890290406" stop="1729890290408" status="passed">
+      <name>testRetrieveSkuById with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

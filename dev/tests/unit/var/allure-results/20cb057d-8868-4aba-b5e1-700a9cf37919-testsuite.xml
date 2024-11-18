@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451519" stop="1729890451530" version="1.4.0">
+  <name>Magento\Framework\Mail\Test\Unit\AddressConverterTest</name>
+  <test-cases>
+    <test-case start="1729890451520" stop="1729890451524" status="passed">
+      <name>testConvert with data set #0</name>
+    </test-case>
+    <test-case start="1729890451525" stop="1729890451526" status="passed">
+      <name>testConvert with data set #1</name>
+    </test-case>
+    <test-case start="1729890451527" stop="1729890451528" status="passed">
+      <name>testConvert with data set #2</name>
+    </test-case>
+    <test-case start="1729890451529" stop="1729890451530" status="passed">
+      <name>testConvert with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

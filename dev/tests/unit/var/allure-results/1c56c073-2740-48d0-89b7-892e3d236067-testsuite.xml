@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890351390" stop="1729890351404" version="1.4.0">
+  <name>Magento\InventoryReservations\Test\Unit\Model\SnakeToCamelCaseConverterTest</name>
+  <test-cases>
+    <test-case start="1729890351391" stop="1729890351392" status="passed">
+      <name>testArrayElementConversion with data set "with_empty_data"</name>
+    </test-case>
+    <test-case start="1729890351394" stop="1729890351395" status="passed">
+      <name>testArrayElementConversion with data set "to_lowercase"</name>
+    </test-case>
+    <test-case start="1729890351396" stop="1729890351399" status="passed">
+      <name>testArrayElementConversion with data set "underscore_to_camelcase"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

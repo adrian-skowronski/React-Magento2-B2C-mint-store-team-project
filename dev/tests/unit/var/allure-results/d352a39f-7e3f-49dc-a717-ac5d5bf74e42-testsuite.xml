@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356449" stop="1729890356476" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Block\JavascriptTest</name>
+  <test-cases>
+    <test-case start="1729890356450" stop="1729890356463" status="passed">
+      <name>testGetScriptOptions with data set "http"</name>
+    </test-case>
+    <test-case start="1729890356464" stop="1729890356469" status="passed">
+      <name>testGetScriptOptions with data set "https"</name>
+    </test-case>
+    <test-case start="1729890356470" stop="1729890356476" status="passed">
+      <name>testGetScriptOptionsPrivateContent with data set "http"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

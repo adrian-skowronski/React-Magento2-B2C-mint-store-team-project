@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375461" stop="1729890375462" version="1.4.0">
+  <name>Magento\Rule\Test\Unit\Model\Condition\Sql\ExpressionTest</name>
+  <test-cases>
+    <test-case start="1729890375462" stop="1729890375462" status="passed">
+      <name>testExpression</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

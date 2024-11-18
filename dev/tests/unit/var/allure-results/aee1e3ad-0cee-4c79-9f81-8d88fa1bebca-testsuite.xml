@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408306" stop="1729890408315" version="1.4.0">
+  <name>Magento\Webapi\Test\Unit\Controller\Rest\RequestValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890408306" stop="1729890408308" status="passed">
+      <name>testSecureRouteAndRequest with data set #0</name>
+    </test-case>
+    <test-case start="1729890408308" stop="1729890408310" status="passed">
+      <name>testSecureRouteAndRequest with data set #1</name>
+    </test-case>
+    <test-case start="1729890408310" stop="1729890408312" status="passed">
+      <name>testSecureRouteAndRequest with data set #2</name>
+    </test-case>
+    <test-case start="1729890408312" stop="1729890408313" status="passed">
+      <name>testInSecureRequestOverSecureRoute</name>
+    </test-case>
+    <test-case start="1729890408313" stop="1729890408315" status="passed">
+      <name>testAuthorizationFailed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

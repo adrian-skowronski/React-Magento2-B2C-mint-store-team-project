@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890359169" stop="1729890359175" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Model\Checks\CanUseForCurrencyTest</name>
+  <test-cases>
+    <test-case start="1729890359169" stop="1729890359173" status="passed">
+      <name>testIsApplicable with data set #0</name>
+    </test-case>
+    <test-case start="1729890359173" stop="1729890359175" status="passed">
+      <name>testIsApplicable with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

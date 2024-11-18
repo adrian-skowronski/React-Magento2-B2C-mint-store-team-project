@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890355489" stop="1729890355520" version="1.4.0">
+  <name>Magento\Newsletter\Test\Unit\Model\TemplateTest</name>
+  <test-cases>
+    <test-case start="1729890355489" stop="1729890355494" status="passed">
+      <name>testGetProcessedTemplateSubject</name>
+    </test-case>
+    <test-case start="1729890355494" stop="1729890355502" status="passed">
+      <name>testGetProcessedTemplate with data set "default"</name>
+    </test-case>
+    <test-case start="1729890355503" stop="1729890355507" status="passed">
+      <name>testGetProcessedTemplate with data set "logo variables set"</name>
+    </test-case>
+    <test-case start="1729890355508" stop="1729890355511" status="passed">
+      <name>testIsValidForSend with data set "should be valid"</name>
+    </test-case>
+    <test-case start="1729890355512" stop="1729890355514" status="passed">
+      <name>testIsValidForSend with data set "no sender name so not valid"</name>
+    </test-case>
+    <test-case start="1729890355515" stop="1729890355517" status="passed">
+      <name>testIsValidForSend with data set "no sender email so not valid"</name>
+    </test-case>
+    <test-case start="1729890355517" stop="1729890355520" status="passed">
+      <name>testIsValidForSend with data set "no subject so not valid"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890380682" stop="1729890380690" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Creditmemo\Item\Validation\CreateQuantityValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890380682" stop="1729890380685" status="passed">
+      <name>testValidateCreditMemoProductItems with data set "testValidateCreditMemoProductItems"</name>
+    </test-case>
+    <test-case start="1729890380685" stop="1729890380687" status="passed">
+      <name>testValidateCreditMemoProductItems with data set "testValidateWithException"</name>
+    </test-case>
+    <test-case start="1729890380687" stop="1729890380689" status="passed">
+      <name>testValidateCreditMemoProductItems with data set "testValidateWithContext"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

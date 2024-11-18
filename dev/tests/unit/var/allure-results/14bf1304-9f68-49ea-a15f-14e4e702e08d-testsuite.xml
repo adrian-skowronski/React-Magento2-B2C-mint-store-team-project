@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284872" stop="1729890284901" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Attribute\Backend\TierPrice\SaveHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890284873" stop="1729890284888" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890284888" stop="1729890284895" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+    <test-case start="1729890284895" stop="1729890284901" status="passed">
+      <name>testExecuteWithWebsitePrice with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

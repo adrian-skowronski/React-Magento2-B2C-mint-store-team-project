@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890258516" stop="1729890258613" version="1.4.0">
+  <name>Magento\AdobeIms\Test\Unit\Model\UserProfileTest</name>
+  <test-cases>
+    <test-case start="1729890258516" stop="1729890258520" status="passed">
+      <name>testAccessToken</name>
+    </test-case>
+    <test-case start="1729890258521" stop="1729890258526" status="passed">
+      <name>testRefreshToken</name>
+    </test-case>
+    <test-case start="1729890258526" stop="1729890258530" status="passed">
+      <name>testAccessTokenExpiresAt</name>
+    </test-case>
+    <test-case start="1729890258536" stop="1729890258538" status="passed">
+      <name>testCreatedAt</name>
+    </test-case>
+    <test-case start="1729890258546" stop="1729890258548" status="passed">
+      <name>testUpdatedAt</name>
+    </test-case>
+    <test-case start="1729890258548" stop="1729890258555" status="passed">
+      <name>testAccountType</name>
+    </test-case>
+    <test-case start="1729890258562" stop="1729890258564" status="passed">
+      <name>testEmail</name>
+    </test-case>
+    <test-case start="1729890258564" stop="1729890258576" status="passed">
+      <name>testImage</name>
+    </test-case>
+    <test-case start="1729890258585" stop="1729890258592" status="passed">
+      <name>testName</name>
+    </test-case>
+    <test-case start="1729890258593" stop="1729890258594" status="passed">
+      <name>testUserId</name>
+    </test-case>
+    <test-case start="1729890258594" stop="1729890258611" status="passed">
+      <name>testExtensionAttributes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

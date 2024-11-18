@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441566" stop="1729890441571" version="1.4.0">
+  <name>Magento\Framework\Convert\Test\Unit\ObjectTest</name>
+  <test-cases>
+    <test-case start="1729890441566" stop="1729890441568" status="passed">
+      <name>testToOptionArray</name>
+    </test-case>
+    <test-case start="1729890441568" stop="1729890441569" status="passed">
+      <name>testToOptionHash</name>
+    </test-case>
+    <test-case start="1729890441570" stop="1729890441571" status="passed">
+      <name>testConvertDataToArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890312464" stop="1729890312523" version="1.4.0">
+  <name>Magento\CustomerImportExport\Test\Unit\Model\Import\CustomerCompositeTest</name>
+  <test-cases>
+    <test-case start="1729890312464" stop="1729890312475" status="passed">
+      <name>testIsAttributeParticular</name>
+    </test-case>
+    <test-case start="1729890312476" stop="1729890312479" status="passed">
+      <name>testValidateRow with data set "customer and address rows, append behavior"</name>
+    </test-case>
+    <test-case start="1729890312479" stop="1729890312482" status="passed">
+      <name>testValidateRow with data set "customer and address rows, delete behavior"</name>
+    </test-case>
+    <test-case start="1729890312483" stop="1729890312485" status="passed">
+      <name>testValidateRow with data set "customer and two addresses row, append behavior"</name>
+    </test-case>
+    <test-case start="1729890312486" stop="1729890312489" status="passed">
+      <name>testPrepareAddressRowData</name>
+    </test-case>
+    <test-case start="1729890312489" stop="1729890312491" status="passed">
+      <name>testSetParameters</name>
+    </test-case>
+    <test-case start="1729890312492" stop="1729890312495" status="passed">
+      <name>testSetSource</name>
+    </test-case>
+    <test-case start="1729890312495" stop="1729890312501" status="passed">
+      <name>testPrepareRowForDb</name>
+    </test-case>
+    <test-case start="1729890312502" stop="1729890312505" status="passed">
+      <name>testImportData with data set "add_update_behavior_customer_true_address_true"</name>
+    </test-case>
+    <test-case start="1729890312505" stop="1729890312507" status="passed">
+      <name>testImportData with data set "add_update_behavior_customer_true_address_false"</name>
+    </test-case>
+    <test-case start="1729890312508" stop="1729890312510" status="passed">
+      <name>testImportData with data set "add_update_behavior_customer_false_address_true"</name>
+    </test-case>
+    <test-case start="1729890312511" stop="1729890312513" status="passed">
+      <name>testImportData with data set "add_update_behavior_customer_false_address_false"</name>
+    </test-case>
+    <test-case start="1729890312514" stop="1729890312517" status="passed">
+      <name>testImportData with data set "delete_behavior_customer_true"</name>
+    </test-case>
+    <test-case start="1729890312518" stop="1729890312520" status="passed">
+      <name>testImportData with data set "delete_behavior_customer_false"</name>
+    </test-case>
+    <test-case start="1729890312521" stop="1729890312523" status="passed">
+      <name>testGetProcessedEntitiesCount</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

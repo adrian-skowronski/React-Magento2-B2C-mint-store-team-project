@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392598" stop="1729890392606" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest</name>
+  <test-cases>
+    <test-case start="1729890392599" stop="1729890392604" status="passed">
+      <name>testWithExpiredUser</name>
+    </test-case>
+    <test-case start="1729890392604" stop="1729890392605" status="passed">
+      <name>testWithNonExpiredUser</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

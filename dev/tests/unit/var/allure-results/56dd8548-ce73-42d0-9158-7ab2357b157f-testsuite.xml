@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327560" stop="1729890327566" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890327561" stop="1729890327562" status="passed">
+      <name>testPrepareClientOptions</name>
+    </test-case>
+    <test-case start="1729890327562" stop="1729890327563" status="passed">
+      <name>testGetIndexPrefix</name>
+    </test-case>
+    <test-case start="1729890327564" stop="1729890327565" status="passed">
+      <name>testGetEntityType</name>
+    </test-case>
+    <test-case start="1729890327565" stop="1729890327566" status="passed">
+      <name>testIsElasticsearchEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

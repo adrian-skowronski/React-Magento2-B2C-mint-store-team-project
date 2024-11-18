@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463862" stop="1729890463876" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Layout\ElementTest</name>
+  <test-cases>
+    <test-case start="1729890463863" stop="1729890463863" status="passed">
+      <name>testGetElementName with data set #0</name>
+    </test-case>
+    <test-case start="1729890463864" stop="1729890463864" status="passed">
+      <name>testGetElementName with data set #1</name>
+    </test-case>
+    <test-case start="1729890463865" stop="1729890463865" status="passed">
+      <name>testGetElementName with data set #2</name>
+    </test-case>
+    <test-case start="1729890463866" stop="1729890463866" status="passed">
+      <name>testGetElementName with data set #3</name>
+    </test-case>
+    <test-case start="1729890463866" stop="1729890463867" status="passed">
+      <name>testGetElementName with data set #4</name>
+    </test-case>
+    <test-case start="1729890463867" stop="1729890463868" status="passed">
+      <name>testIsCacheable with data set #0</name>
+    </test-case>
+    <test-case start="1729890463868" stop="1729890463869" status="passed">
+      <name>testIsCacheable with data set #1</name>
+    </test-case>
+    <test-case start="1729890463869" stop="1729890463870" status="passed">
+      <name>testIsCacheable with data set #2</name>
+    </test-case>
+    <test-case start="1729890463870" stop="1729890463871" status="passed">
+      <name>testIsCacheable with data set #3</name>
+    </test-case>
+    <test-case start="1729890463871" stop="1729890463872" status="passed">
+      <name>testIsCacheable with data set #4</name>
+    </test-case>
+    <test-case start="1729890463872" stop="1729890463873" status="passed">
+      <name>testIsCacheable with data set #5</name>
+    </test-case>
+    <test-case start="1729890463873" stop="1729890463874" status="passed">
+      <name>testIsCacheable with data set #6</name>
+    </test-case>
+    <test-case start="1729890463874" stop="1729890463875" status="passed">
+      <name>testIsCacheable with data set #7</name>
+    </test-case>
+    <test-case start="1729890463875" stop="1729890463876" status="passed">
+      <name>testIsCacheable with data set #8</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

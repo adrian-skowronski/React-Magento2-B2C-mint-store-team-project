@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325436" stop="1729890325451" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\Attribute\Source\BooleanTest</name>
+  <test-cases>
+    <test-case start="1729890325436" stop="1729890325437" status="passed">
+      <name>testGetFlatColumns</name>
+    </test-case>
+    <test-case start="1729890325438" stop="1729890325441" status="passed">
+      <name>testAddValueSortToCollection with data set #0</name>
+    </test-case>
+    <test-case start="1729890325442" stop="1729890325445" status="passed">
+      <name>testAddValueSortToCollection with data set #1</name>
+    </test-case>
+    <test-case start="1729890325446" stop="1729890325448" status="passed">
+      <name>testAddValueSortToCollection with data set #2</name>
+    </test-case>
+    <test-case start="1729890325449" stop="1729890325451" status="passed">
+      <name>testAddValueSortToCollection with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

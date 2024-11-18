@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890396074" stop="1729890396079" version="1.4.0">
+  <name>Magento\SwaggerWebapi\Test\Unit\Model\SchemaType\RestTest</name>
+  <test-cases>
+    <test-case start="1729890396075" stop="1729890396077" status="passed">
+      <name>testGetSchemaUrlPath with data set #0</name>
+    </test-case>
+    <test-case start="1729890396078" stop="1729890396078" status="passed">
+      <name>testGetSchemaUrlPath with data set #1</name>
+    </test-case>
+    <test-case start="1729890396079" stop="1729890396079" status="passed">
+      <name>testGetCode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

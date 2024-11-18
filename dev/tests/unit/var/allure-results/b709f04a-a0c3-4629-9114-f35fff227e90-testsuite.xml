@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422023" stop="1729890422032" version="1.4.0">
+  <name>Magento\Framework\Acl\Test\Unit\BuilderTest</name>
+  <test-cases>
+    <test-case start="1729890422024" stop="1729890422029" status="passed">
+      <name>testGetAclUsesLoadersProvidedInConfigurationToPopulateAclIfCacheIsEmpty</name>
+    </test-case>
+    <test-case start="1729890422029" stop="1729890422030" status="passed">
+      <name>testGetAclReturnsAclStoredInCache</name>
+    </test-case>
+    <test-case start="1729890422030" stop="1729890422031" status="passed">
+      <name>testGetAclRethrowsException</name>
+    </test-case>
+    <test-case start="1729890422031" stop="1729890422032" status="passed">
+      <name>testResetRuntimeAcl</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

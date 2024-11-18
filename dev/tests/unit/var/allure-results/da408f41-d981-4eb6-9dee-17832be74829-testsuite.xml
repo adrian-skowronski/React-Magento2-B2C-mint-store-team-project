@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890414292" stop="1729890414416" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Console\Command\InstallCommandTest</name>
+  <test-cases>
+    <test-case start="1729890414293" stop="1729890414342" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890414342" stop="1729890414357" status="passed">
+      <name>testInteractiveExecute</name>
+    </test-case>
+    <test-case start="1729890414358" stop="1729890414371" status="passed">
+      <name>testValidate with data set "without option"</name>
+    </test-case>
+    <test-case start="1729890414372" stop="1729890414383" status="passed">
+      <name>testValidate with data set "normal case"</name>
+    </test-case>
+    <test-case start="1729890414384" stop="1729890414394" status="passed">
+      <name>testValidate with data set "20 chars"</name>
+    </test-case>
+    <test-case start="1729890414395" stop="1729890414405" status="passed">
+      <name>testValidateWithException with data set #0</name>
+    </test-case>
+    <test-case start="1729890414406" stop="1729890414416" status="passed">
+      <name>testValidateWithException with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

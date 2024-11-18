@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890417541" stop="1729890417554" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\Di\App\Task\ApplicationCodeGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890417542" stop="1729890417548" status="passed">
+      <name>testDoOperationWrongData with data set #0</name>
+    </test-case>
+    <test-case start="1729890417549" stop="1729890417551" status="passed">
+      <name>testDoOperationWrongData with data set #1</name>
+    </test-case>
+    <test-case start="1729890417551" stop="1729890417552" status="passed">
+      <name>testDoOperationWrongData with data set #2</name>
+    </test-case>
+    <test-case start="1729890417552" stop="1729890417553" status="passed">
+      <name>testDoOperation</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

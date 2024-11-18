@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890299037" stop="1729890299096" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Block\Adminhtml\Page\Widget\ChooserTest</name>
+  <test-cases>
+    <test-case start="1729890299038" stop="1729890299076" status="passed">
+      <name>testPrepareElementHtml with data set "elementValue NOT EMPTY, modelBlockId NOT EMPTY"</name>
+    </test-case>
+    <test-case start="1729890299077" stop="1729890299084" status="passed">
+      <name>testPrepareElementHtml with data set "elementValue NOT EMPTY, modelBlockId IS EMPTY"</name>
+    </test-case>
+    <test-case start="1729890299085" stop="1729890299090" status="passed">
+      <name>testPrepareElementHtml with data set "elementValue IS EMPTY, modelBlockId NEVER REACHED"</name>
+    </test-case>
+    <test-case start="1729890299091" stop="1729890299096" status="passed">
+      <name>testGetGridUrl</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376029" stop="1729890376033" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\CouponTest</name>
+  <test-cases>
+    <test-case start="1729890376029" stop="1729890376031" status="passed">
+      <name>testSetRule</name>
+    </test-case>
+    <test-case start="1729890376031" stop="1729890376032" status="passed">
+      <name>testLoadPrimaryByRule</name>
+    </test-case>
+    <test-case start="1729890376032" stop="1729890376033" status="passed">
+      <name>testLoadByCode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

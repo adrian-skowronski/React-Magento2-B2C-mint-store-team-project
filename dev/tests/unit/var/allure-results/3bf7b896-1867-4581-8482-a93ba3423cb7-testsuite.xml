@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890400292" stop="1729890400309" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Model\TaxClass\ManagementTest</name>
+  <test-cases>
+    <test-case start="1729890400293" stop="1729890400299" status="passed">
+      <name>testGetTaxClassIdWithoutKey</name>
+    </test-case>
+    <test-case start="1729890400299" stop="1729890400300" status="passed">
+      <name>testGetTaxClassIdByIDType</name>
+    </test-case>
+    <test-case start="1729890400300" stop="1729890400309" status="passed">
+      <name>testGetTaxClassIdByNameType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890326986" stop="1729890327030" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Adapter\ElasticsearchTest</name>
+  <test-cases>
+    <test-case start="1729890326986" stop="1729890326997" status="passed">
+      <name>testPing</name>
+    </test-case>
+    <test-case start="1729890326997" stop="1729890326999" status="passed">
+      <name>testPingFailure</name>
+    </test-case>
+    <test-case start="1729890326999" stop="1729890327000" status="passed">
+      <name>testPrepareDocsPerStoreEmpty</name>
+    </test-case>
+    <test-case start="1729890327001" stop="1729890327002" status="passed">
+      <name>testPrepareDocsPerStore</name>
+    </test-case>
+    <test-case start="1729890327002" stop="1729890327004" status="passed">
+      <name>testAddDocs</name>
+    </test-case>
+    <test-case start="1729890327004" stop="1729890327006" status="passed">
+      <name>testAddDocsFailure</name>
+    </test-case>
+    <test-case start="1729890327006" stop="1729890327008" status="passed">
+      <name>testCleanIndex</name>
+    </test-case>
+    <test-case start="1729890327008" stop="1729890327010" status="passed">
+      <name>testDeleteDocs</name>
+    </test-case>
+    <test-case start="1729890327010" stop="1729890327012" status="passed">
+      <name>testDeleteDocsFailure</name>
+    </test-case>
+    <test-case start="1729890327012" stop="1729890327014" status="passed">
+      <name>testUpdateAliasEmpty</name>
+    </test-case>
+    <test-case start="1729890327014" stop="1729890327016" status="passed">
+      <name>testConnectException</name>
+    </test-case>
+    <test-case start="1729890327017" stop="1729890327019" status="passed">
+      <name>testUpdateAlias</name>
+    </test-case>
+    <test-case start="1729890327019" stop="1729890327022" status="passed">
+      <name>testUpdateAliasWithOldIndex</name>
+    </test-case>
+    <test-case start="1729890327022" stop="1729890327024" status="passed">
+      <name>testUpdateAliasWithoutOldIndex</name>
+    </test-case>
+    <test-case start="1729890327024" stop="1729890327025" status="passed">
+      <name>testUpdateIndexMappingWithoutAliasDefinition</name>
+    </test-case>
+    <test-case start="1729890327026" stop="1729890327028" status="passed">
+      <name>testUpdateIndexMappingWithAliasDefinition</name>
+    </test-case>
+    <test-case start="1729890327028" stop="1729890327030" status="passed">
+      <name>testGetMappingTotalFieldsLimit</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

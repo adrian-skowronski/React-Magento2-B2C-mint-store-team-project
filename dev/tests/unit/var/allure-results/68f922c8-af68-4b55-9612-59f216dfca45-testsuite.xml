@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890266112" stop="1729890266117" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Cron\CleanCacheTest</name>
+  <test-cases>
+    <test-case start="1729890266112" stop="1729890266117" status="passed">
+      <name>testCleanCache</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

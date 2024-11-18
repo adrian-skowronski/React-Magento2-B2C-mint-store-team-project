@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890360214" stop="1729890360237" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Block\Express\ReviewTest</name>
+  <test-cases>
+    <test-case start="1729890360214" stop="1729890360217" status="passed">
+      <name>testGetViewFileUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890360217" stop="1729890360220" status="passed">
+      <name>testGetViewFileUrl with data set #1</name>
+    </test-case>
+    <test-case start="1729890360220" stop="1729890360225" status="passed">
+      <name>testBeforeToHtmlWhenQuoteIsNotVirtual</name>
+    </test-case>
+    <test-case start="1729890360225" stop="1729890360229" status="passed">
+      <name>testBeforeToHtmlWhenQuoteIsVirtual</name>
+    </test-case>
+    <test-case start="1729890360230" stop="1729890360232" status="passed">
+      <name>testGetEmail</name>
+    </test-case>
+    <test-case start="1729890360233" stop="1729890360235" status="passed">
+      <name>testGetEmailWhenBillingAddressNotExist</name>
+    </test-case>
+    <test-case start="1729890360235" stop="1729890360237" status="passed">
+      <name>testCanEditShippingMethod</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

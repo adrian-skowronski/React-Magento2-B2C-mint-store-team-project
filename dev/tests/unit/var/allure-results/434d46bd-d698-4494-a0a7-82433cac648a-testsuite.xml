@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890465121" stop="1729890465137" version="1.4.0">
+  <name>Magento\Framework\Webapi\Test\Unit\Rest\Response\FieldsFilterTest</name>
+  <test-cases>
+    <test-case start="1729890465121" stop="1729890465123" status="passed">
+      <name>testFilterNoNesting</name>
+    </test-case>
+    <test-case start="1729890465123" stop="1729890465124" status="passed">
+      <name>testFilterSimpleNesting</name>
+    </test-case>
+    <test-case start="1729890465125" stop="1729890465126" status="passed">
+      <name>testFilterMultilevelNesting</name>
+    </test-case>
+    <test-case start="1729890465126" stop="1729890465128" status="passed">
+      <name>testNonExistentFieldFilter</name>
+    </test-case>
+    <test-case start="1729890465128" stop="1729890465130" status="passed">
+      <name>testInvalidFilters with data set #0</name>
+    </test-case>
+    <test-case start="1729890465130" stop="1729890465131" status="passed">
+      <name>testInvalidFilters with data set #1</name>
+    </test-case>
+    <test-case start="1729890465131" stop="1729890465133" status="passed">
+      <name>testInvalidFilters with data set #2</name>
+    </test-case>
+    <test-case start="1729890465133" stop="1729890465134" status="passed">
+      <name>testInvalidFilters with data set #3</name>
+    </test-case>
+    <test-case start="1729890465134" stop="1729890465135" status="passed">
+      <name>testInvalidFilters with data set #4</name>
+    </test-case>
+    <test-case start="1729890465136" stop="1729890465137" status="passed">
+      <name>testInvalidFilters with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

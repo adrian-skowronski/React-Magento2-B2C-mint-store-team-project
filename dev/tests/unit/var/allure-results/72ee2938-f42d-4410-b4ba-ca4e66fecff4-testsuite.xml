@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464428" stop="1729890464441" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Model\Layout\Update\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890464429" stop="1729890464431" status="passed">
+      <name>testIsValidNotSecurityCheck with data set #0</name>
+    </test-case>
+    <test-case start="1729890464431" stop="1729890464432" status="passed">
+      <name>testIsValidNotSecurityCheckDataProvider</name>
+    </test-case>
+    <test-case start="1729890464432" stop="1729890464433" status="passed">
+      <name>testIsValidSecurityCheck with data set #0</name>
+    </test-case>
+    <test-case start="1729890464434" stop="1729890464435" status="passed">
+      <name>testIsValidSecurityCheck with data set #1</name>
+    </test-case>
+    <test-case start="1729890464435" stop="1729890464436" status="passed">
+      <name>testIsValidSecurityCheck with data set #2</name>
+    </test-case>
+    <test-case start="1729890464437" stop="1729890464437" status="passed">
+      <name>testIsValidSecurityCheckDataProvider</name>
+    </test-case>
+    <test-case start="1729890464438" stop="1729890464439" status="passed">
+      <name>testIsValidThrowsValidationException</name>
+    </test-case>
+    <test-case start="1729890464439" stop="1729890464440" status="passed">
+      <name>testIsValidThrowsValidationSchemaException</name>
+    </test-case>
+    <test-case start="1729890464440" stop="1729890464441" status="passed">
+      <name>testIsValidThrowsException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890322045" stop="1729890322059" version="1.4.0">
+  <name>Magento\Directory\Test\Unit\Model\Currency\Import\CurrencyConverterApiTest</name>
+  <test-cases>
+    <test-case start="1729890322045" stop="1729890322050" status="passed">
+      <name>testFetchRates</name>
+    </test-case>
+    <test-case start="1729890322050" stop="1729890322054" status="passed">
+      <name>testFetchRatesWhenServiceResponseIsEmpty</name>
+    </test-case>
+    <test-case start="1729890322054" stop="1729890322056" status="passed">
+      <name>testFetchRatesWhenServiceResponseHasError</name>
+    </test-case>
+    <test-case start="1729890322057" stop="1729890322059" status="passed">
+      <name>testFetchRatesWhenServiceUrlIsEmpty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890323501" stop="1729890323510" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890323502" stop="1729890323504" status="passed">
+      <name>testGetIsShareable with data set "link shareable yes"</name>
+    </test-case>
+    <test-case start="1729890323504" stop="1729890323505" status="passed">
+      <name>testGetIsShareable with data set "link shareable no"</name>
+    </test-case>
+    <test-case start="1729890323506" stop="1729890323507" status="passed">
+      <name>testGetIsShareable with data set "link shareable config true"</name>
+    </test-case>
+    <test-case start="1729890323508" stop="1729890323510" status="passed">
+      <name>testGetIsShareable with data set "link shareable config false"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

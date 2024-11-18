@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327630" stop="1729890327651" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Indexer\Fulltext\Plugin\Category\Product\AttributeTest</name>
+  <test-cases>
+    <test-case start="1729890327631" stop="1729890327640" status="passed">
+      <name>testAfterSave with data set "save_existing_object"</name>
+    </test-case>
+    <test-case start="1729890327640" stop="1729890327643" status="passed">
+      <name>testAfterSave with data set "save_with_another_search_engine"</name>
+    </test-case>
+    <test-case start="1729890327644" stop="1729890327647" status="passed">
+      <name>testAfterSave with data set "save_with_elasticsearch"</name>
+    </test-case>
+    <test-case start="1729890327648" stop="1729890327651" status="passed">
+      <name>testAfterSave with data set "save_with_elasticsearch_and_dimensions"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

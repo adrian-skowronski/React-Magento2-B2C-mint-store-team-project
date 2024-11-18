@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890326556" stop="1729890326615" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Adapter\FieldMapper\Product\FieldProvider\FieldIndex\IndexResolverTest</name>
+  <test-cases>
+    <test-case start="1729890326557" stop="1729890326583" status="passed">
+      <name>testGetFieldName with data set #0</name>
+    </test-case>
+    <test-case start="1729890326585" stop="1729890326588" status="passed">
+      <name>testGetFieldName with data set #1</name>
+    </test-case>
+    <test-case start="1729890326589" stop="1729890326592" status="passed">
+      <name>testGetFieldName with data set #2</name>
+    </test-case>
+    <test-case start="1729890326593" stop="1729890326596" status="passed">
+      <name>testGetFieldName with data set #3</name>
+    </test-case>
+    <test-case start="1729890326597" stop="1729890326600" status="passed">
+      <name>testGetFieldName with data set #4</name>
+    </test-case>
+    <test-case start="1729890326601" stop="1729890326603" status="passed">
+      <name>testGetFieldName with data set #5</name>
+    </test-case>
+    <test-case start="1729890326604" stop="1729890326606" status="passed">
+      <name>testGetFieldName with data set #6</name>
+    </test-case>
+    <test-case start="1729890326608" stop="1729890326610" status="passed">
+      <name>testGetFieldName with data set #7</name>
+    </test-case>
+    <test-case start="1729890326612" stop="1729890326615" status="passed">
+      <name>testGetFieldName with data set #8</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

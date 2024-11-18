@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395008" stop="1729890395022" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\PathConfigTest</name>
+  <test-cases>
+    <test-case start="1729890395008" stop="1729890395012" status="passed">
+      <name>testGetCurrentSecureUrlNoAlias</name>
+    </test-case>
+    <test-case start="1729890395012" stop="1729890395015" status="passed">
+      <name>testGetCurrentSecureUrlWithAlias</name>
+    </test-case>
+    <test-case start="1729890395016" stop="1729890395017" status="passed">
+      <name>testShouldBeSecureUnsecureBaseUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890395017" stop="1729890395018" status="passed">
+      <name>testShouldBeSecureUnsecureBaseUrl with data set #1</name>
+    </test-case>
+    <test-case start="1729890395019" stop="1729890395020" status="passed">
+      <name>testShouldBeSecureSecureBaseUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890395020" stop="1729890395021" status="passed">
+      <name>testShouldBeSecureSecureBaseUrl with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

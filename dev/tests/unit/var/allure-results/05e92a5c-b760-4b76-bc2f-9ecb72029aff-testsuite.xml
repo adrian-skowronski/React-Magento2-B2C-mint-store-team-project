@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301811" stop="1729890301822" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Console\Command\ConfigSet\ProcessorFacadeTest</name>
+  <test-cases>
+    <test-case start="1729890301811" stop="1729890301815" status="passed">
+      <name>testProcess</name>
+    </test-case>
+    <test-case start="1729890301815" stop="1729890301816" status="passed">
+      <name>testProcessWithValidatorException with data set #0</name>
+    </test-case>
+    <test-case start="1729890301817" stop="1729890301818" status="passed">
+      <name>testProcessWithValidatorException with data set #1</name>
+    </test-case>
+    <test-case start="1729890301818" stop="1729890301819" status="passed">
+      <name>testProcessWithConfigurationMismatchException</name>
+    </test-case>
+    <test-case start="1729890301820" stop="1729890301820" status="passed">
+      <name>testProcessWithCouldNotSaveException</name>
+    </test-case>
+    <test-case start="1729890301821" stop="1729890301821" status="passed">
+      <name>testExecuteLockEnv</name>
+    </test-case>
+    <test-case start="1729890301821" stop="1729890301822" status="passed">
+      <name>testExecuteLockConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

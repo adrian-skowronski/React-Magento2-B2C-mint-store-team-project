@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890312298" stop="1729890312305" version="1.4.0">
+  <name>Magento\CustomerGraphQl\Test\Unit\Plugin\ClearCustomerSessionAfterRequestTest</name>
+  <test-cases>
+    <test-case start="1729890312298" stop="1729890312303" status="passed">
+      <name>testAfterDispatch</name>
+    </test-case>
+    <test-case start="1729890312303" stop="1729890312304" status="passed">
+      <name>testAfterDispatchForLoggedInCustomer</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

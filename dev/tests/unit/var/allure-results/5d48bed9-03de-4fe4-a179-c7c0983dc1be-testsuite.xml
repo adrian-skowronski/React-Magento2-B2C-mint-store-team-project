@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356500" stop="1729890356513" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Controller\Adminhtml\PageCache\ExportVarnishConfigTest</name>
+  <test-cases>
+    <test-case start="1729890356500" stop="1729890356513" status="passed">
+      <name>testExportVarnishConfigAction</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

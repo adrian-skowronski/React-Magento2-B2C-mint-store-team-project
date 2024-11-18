@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302845" stop="1729890302889" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Structure\Element\FieldTest</name>
+  <test-cases>
+    <test-case start="1729890302845" stop="1729890302848" status="passed">
+      <name>testGetLabelTranslatesLabelAndPrefix</name>
+    </test-case>
+    <test-case start="1729890302849" stop="1729890302850" status="passed">
+      <name>testGetHintTranslatesElementHint</name>
+    </test-case>
+    <test-case start="1729890302850" stop="1729890302851" status="passed">
+      <name>testGetCommentTranslatesCommentTextIfNoCommentModelIsProvided</name>
+    </test-case>
+    <test-case start="1729890302851" stop="1729890302854" status="passed">
+      <name>testGetCommentRetrievesCommentFromCommentModelIfItsProvided</name>
+    </test-case>
+    <test-case start="1729890302854" stop="1729890302855" status="passed">
+      <name>testGetTooltipRetunrsTranslatedAttributeIfNoBlockIsProvided</name>
+    </test-case>
+    <test-case start="1729890302855" stop="1729890302856" status="passed">
+      <name>testGetTypeReturnsTextByDefault</name>
+    </test-case>
+    <test-case start="1729890302856" stop="1729890302857" status="passed">
+      <name>testGetTypeReturnsProvidedType</name>
+    </test-case>
+    <test-case start="1729890302857" stop="1729890302858" status="passed">
+      <name>testGetFrontendClass</name>
+    </test-case>
+    <test-case start="1729890302858" stop="1729890302859" status="passed">
+      <name>testHasBackendModel</name>
+    </test-case>
+    <test-case start="1729890302859" stop="1729890302860" status="passed">
+      <name>testGetSectionId</name>
+    </test-case>
+    <test-case start="1729890302860" stop="1729890302861" status="passed">
+      <name>testGetGroupPath</name>
+    </test-case>
+    <test-case start="1729890302861" stop="1729890302862" status="passed">
+      <name>testGetConfigPath</name>
+    </test-case>
+    <test-case start="1729890302862" stop="1729890302864" status="passed">
+      <name>testShowInDefault</name>
+    </test-case>
+    <test-case start="1729890302864" stop="1729890302865" status="passed">
+      <name>testShowInWebsite</name>
+    </test-case>
+    <test-case start="1729890302865" stop="1729890302866" status="passed">
+      <name>testShowInStore</name>
+    </test-case>
+    <test-case start="1729890302867" stop="1729890302868" status="passed">
+      <name>testPopulateInput</name>
+    </test-case>
+    <test-case start="1729890302869" stop="1729890302869" status="passed">
+      <name>testHasValidation</name>
+    </test-case>
+    <test-case start="1729890302870" stop="1729890302871" status="passed">
+      <name>testCanBeEmpty</name>
+    </test-case>
+    <test-case start="1729890302871" stop="1729890302872" status="passed">
+      <name>testHasSourceModel</name>
+    </test-case>
+    <test-case start="1729890302872" stop="1729890302873" status="passed">
+      <name>testHasOptionsWithSourceModel</name>
+    </test-case>
+    <test-case start="1729890302873" stop="1729890302874" status="passed">
+      <name>testHasOptionsWithOptions</name>
+    </test-case>
+    <test-case start="1729890302874" stop="1729890302876" status="passed">
+      <name>testGetOptionsWithOptions</name>
+    </test-case>
+    <test-case start="1729890302876" stop="1729890302877" status="passed">
+      <name>testGetOptionsWithConstantValOptions</name>
+    </test-case>
+    <test-case start="1729890302878" stop="1729890302879" status="passed">
+      <name>testGetOptionsUsesOptionsInterfaceIfNoMethodIsProvided</name>
+    </test-case>
+    <test-case start="1729890302880" stop="1729890302882" status="passed">
+      <name>testGetOptionsUsesProvidedMethodOfSourceModel</name>
+    </test-case>
+    <test-case start="1729890302882" stop="1729890302884" status="passed">
+      <name>testGetOptionsParsesResultOfProvidedMethodOfSourceModelIfTypeIsNotMultiselect</name>
+    </test-case>
+    <test-case start="1729890302884" stop="1729890302885" status="passed">
+      <name>testGetDependenciesWithoutDependencies</name>
+    </test-case>
+    <test-case start="1729890302885" stop="1729890302886" status="passed">
+      <name>testGetDependenciesWithDependencies</name>
+    </test-case>
+    <test-case start="1729890302886" stop="1729890302887" status="passed">
+      <name>testIsAdvanced</name>
+    </test-case>
+    <test-case start="1729890302888" stop="1729890302889" status="passed">
+      <name>testGetValidation</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

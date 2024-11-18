@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890291186" stop="1729890291204" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\ReservedAttributeListTest</name>
+  <test-cases>
+    <test-case start="1729890291187" stop="1729890291191" status="passed">
+      <name>testIsReservedAttribute with data set #0</name>
+    </test-case>
+    <test-case start="1729890291194" stop="1729890291196" status="passed">
+      <name>testIsReservedAttribute with data set #1</name>
+    </test-case>
+    <test-case start="1729890291196" stop="1729890291197" status="passed">
+      <name>testIsReservedAttribute with data set #2</name>
+    </test-case>
+    <test-case start="1729890291198" stop="1729890291199" status="passed">
+      <name>testIsReservedAttribute with data set #3</name>
+    </test-case>
+    <test-case start="1729890291200" stop="1729890291201" status="passed">
+      <name>testIsReservedAttribute with data set #4</name>
+    </test-case>
+    <test-case start="1729890291201" stop="1729890291203" status="passed">
+      <name>testIsReservedAttribute with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

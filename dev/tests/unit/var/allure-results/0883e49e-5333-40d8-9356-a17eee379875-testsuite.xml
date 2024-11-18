@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325155" stop="1729890325183" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\Attribute\AbstractAttributeTest</name>
+  <test-cases>
+    <test-case start="1729890325156" stop="1729890325157" status="passed">
+      <name>testGetOptionWhenOptionsAreSet</name>
+    </test-case>
+    <test-case start="1729890325157" stop="1729890325158" status="passed">
+      <name>testGetOptionWhenOptionsAreEmptyWithoutSource</name>
+    </test-case>
+    <test-case start="1729890325158" stop="1729890325160" status="passed">
+      <name>testGetOptionWhenOptionsAreEmptyWithSource</name>
+    </test-case>
+    <test-case start="1729890325160" stop="1729890325163" status="passed">
+      <name>testConvertToObjects</name>
+    </test-case>
+    <test-case start="1729890325163" stop="1729890325165" status="passed">
+      <name>testGetValidationRulesWhenRuleIsArray</name>
+    </test-case>
+    <test-case start="1729890325165" stop="1729890325166" status="passed">
+      <name>testGetValidationRulesWhenRuleIsSerialized</name>
+    </test-case>
+    <test-case start="1729890325166" stop="1729890325168" status="passed">
+      <name>testGetValidationRulesWhenRuleIsEmpty</name>
+    </test-case>
+    <test-case start="1729890325169" stop="1729890325170" status="passed">
+      <name>testIsValueEmpty with data set #0</name>
+    </test-case>
+    <test-case start="1729890325170" stop="1729890325171" status="passed">
+      <name>testIsValueEmpty with data set #1</name>
+    </test-case>
+    <test-case start="1729890325172" stop="1729890325172" status="passed">
+      <name>testIsValueEmpty with data set #2</name>
+    </test-case>
+    <test-case start="1729890325173" stop="1729890325174" status="passed">
+      <name>testIsValueEmpty with data set #3</name>
+    </test-case>
+    <test-case start="1729890325174" stop="1729890325175" status="passed">
+      <name>testIsValueEmpty with data set #4</name>
+    </test-case>
+    <test-case start="1729890325175" stop="1729890325176" status="passed">
+      <name>testIsValueEmpty with data set #5</name>
+    </test-case>
+    <test-case start="1729890325177" stop="1729890325178" status="passed">
+      <name>testIsValueEmpty with data set #6</name>
+    </test-case>
+    <test-case start="1729890325178" stop="1729890325179" status="passed">
+      <name>testIsValueEmpty with data set #7</name>
+    </test-case>
+    <test-case start="1729890325180" stop="1729890325181" status="passed">
+      <name>testIsValueEmpty with data set #8</name>
+    </test-case>
+    <test-case start="1729890325181" stop="1729890325182" status="passed">
+      <name>testIsValueEmpty with data set #9</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

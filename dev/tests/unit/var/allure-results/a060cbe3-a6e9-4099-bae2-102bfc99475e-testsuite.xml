@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890439986" stop="1729890439995" version="1.4.0">
+  <name>Magento\Framework\Code\Test\Unit\Generator\InterfaceGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890439987" stop="1729890439989" status="passed">
+      <name>testGenerate with data set "Valid data"</name>
+    </test-case>
+    <test-case start="1729890439990" stop="1729890439991" status="passed">
+      <name>testGenerate with data set ""final" usage exception"</name>
+    </test-case>
+    <test-case start="1729890439991" stop="1729890439992" status="passed">
+      <name>testGenerate with data set "Non public interface method  exception"</name>
+    </test-case>
+    <test-case start="1729890439992" stop="1729890439993" status="passed">
+      <name>testGenerate with data set ""abstract" usage exception"</name>
+    </test-case>
+    <test-case start="1729890439994" stop="1729890439994" status="passed">
+      <name>testGeneratePredefinedContent</name>
+    </test-case>
+    <test-case start="1729890439994" stop="1729890439995" status="passed">
+      <name>testGeneratePredefinedContentNotSet</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

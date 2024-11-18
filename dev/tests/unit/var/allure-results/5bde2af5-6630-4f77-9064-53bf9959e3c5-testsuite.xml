@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890394090" stop="1729890394129" version="1.4.0">
+  <name>Magento\Store\Test\Unit\App\Request\StorePathInfoValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890394091" stop="1729890394094" status="passed">
+      <name>testGetValidStoreCodeWithoutStoreInUrl</name>
+    </test-case>
+    <test-case start="1729890394094" stop="1729890394097" status="passed">
+      <name>testGetValidStoreCodeWithoutPathInfo</name>
+    </test-case>
+    <test-case start="1729890394097" stop="1729890394100" status="passed">
+      <name>testGetValidStoreCodeWithEmptyPathInfo</name>
+    </test-case>
+    <test-case start="1729890394102" stop="1729890394106" status="passed">
+      <name>testGetValidStoreCodeThrowsException with data set #0</name>
+    </test-case>
+    <test-case start="1729890394106" stop="1729890394109" status="passed">
+      <name>testGetValidStoreCodeThrowsException with data set #1</name>
+    </test-case>
+    <test-case start="1729890394110" stop="1729890394112" status="passed">
+      <name>testGetValidStoreCode with data set #0</name>
+    </test-case>
+    <test-case start="1729890394113" stop="1729890394115" status="passed">
+      <name>testGetValidStoreCode with data set #1</name>
+    </test-case>
+    <test-case start="1729890394116" stop="1729890394120" status="passed">
+      <name>testGetValidStoreCode with data set #2</name>
+    </test-case>
+    <test-case start="1729890394122" stop="1729890394126" status="passed">
+      <name>testGetValidStoreCode with data set #3</name>
+    </test-case>
+    <test-case start="1729890394126" stop="1729890394129" status="passed">
+      <name>testGetValidStoreCode with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280710" stop="1729890280713" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Observer\ClearProductUrlsObserverTest</name>
+  <test-cases>
+    <test-case start="1729890280711" stop="1729890280713" status="passed">
+      <name>testClearProductUrls</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

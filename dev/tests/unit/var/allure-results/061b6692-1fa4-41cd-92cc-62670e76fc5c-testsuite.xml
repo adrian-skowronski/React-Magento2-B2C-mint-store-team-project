@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890291721" stop="1729890291779" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\TypeTest</name>
+  <test-cases>
+    <test-case start="1729890291722" stop="1729890291735" status="passed">
+      <name>testGetTypes</name>
+    </test-case>
+    <test-case start="1729890291735" stop="1729890291737" status="passed">
+      <name>testGetOptionArray</name>
+    </test-case>
+    <test-case start="1729890291737" stop="1729890291740" status="passed">
+      <name>testGetAllOptions</name>
+    </test-case>
+    <test-case start="1729890291740" stop="1729890291745" status="passed">
+      <name>testGetOptions</name>
+    </test-case>
+    <test-case start="1729890291746" stop="1729890291747" status="passed">
+      <name>testGetAllOption</name>
+    </test-case>
+    <test-case start="1729890291748" stop="1729890291750" status="passed">
+      <name>testGetOptionText</name>
+    </test-case>
+    <test-case start="1729890291750" stop="1729890291751" status="passed">
+      <name>testGetCompositeTypes</name>
+    </test-case>
+    <test-case start="1729890291752" stop="1729890291756" status="passed">
+      <name>testGetTypesByPriority</name>
+    </test-case>
+    <test-case start="1729890291760" stop="1729890291766" status="passed">
+      <name>testGetPriceInfo</name>
+    </test-case>
+    <test-case start="1729890291774" stop="1729890291776" status="passed">
+      <name>testFactory</name>
+    </test-case>
+    <test-case start="1729890291777" stop="1729890291778" status="passed">
+      <name>testPriceFactory</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

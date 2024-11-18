@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890415991" stop="1729890416005" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\ConfigModelTest</name>
+  <test-cases>
+    <test-case start="1729890415992" stop="1729890415999" status="passed">
+      <name>testValidate</name>
+    </test-case>
+    <test-case start="1729890415999" stop="1729890416001" status="passed">
+      <name>testProcess</name>
+    </test-case>
+    <test-case start="1729890416002" stop="1729890416003" status="passed">
+      <name>testProcessException</name>
+    </test-case>
+    <test-case start="1729890416003" stop="1729890416005" status="passed">
+      <name>testWritePermissionErrors</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

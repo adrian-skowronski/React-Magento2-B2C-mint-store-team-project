@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402091" stop="1729890402141" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Config\ImporterTest</name>
+  <test-cases>
+    <test-case start="1729890402091" stop="1729890402111" status="passed">
+      <name>testImportWithException</name>
+    </test-case>
+    <test-case start="1729890402111" stop="1729890402120" status="passed">
+      <name>testImport</name>
+    </test-case>
+    <test-case start="1729890402121" stop="1729890402122" status="passed">
+      <name>testGetWarningMessages with data set #0</name>
+    </test-case>
+    <test-case start="1729890402123" stop="1729890402125" status="passed">
+      <name>testGetWarningMessages with data set #1</name>
+    </test-case>
+    <test-case start="1729890402125" stop="1729890402128" status="passed">
+      <name>testGetWarningMessages with data set #2</name>
+    </test-case>
+    <test-case start="1729890402128" stop="1729890402130" status="passed">
+      <name>testGetWarningMessages with data set #3</name>
+    </test-case>
+    <test-case start="1729890402131" stop="1729890402133" status="passed">
+      <name>testGetWarningMessages with data set #4</name>
+    </test-case>
+    <test-case start="1729890402133" stop="1729890402135" status="passed">
+      <name>testGetWarningMessages with data set #5</name>
+    </test-case>
+    <test-case start="1729890402136" stop="1729890402138" status="passed">
+      <name>testGetWarningMessages with data set #6</name>
+    </test-case>
+    <test-case start="1729890402139" stop="1729890402141" status="passed">
+      <name>testGetWarningMessages with data set #7</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

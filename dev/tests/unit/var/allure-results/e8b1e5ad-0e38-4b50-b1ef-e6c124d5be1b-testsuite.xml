@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294750" stop="1729890294763" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\View\Asset\PlaceholderTest</name>
+  <test-cases>
+    <test-case start="1729890294751" stop="1729890294753" status="passed">
+      <name>testModuleAndContentAndContentType</name>
+    </test-case>
+    <test-case start="1729890294753" stop="1729890294754" status="passed">
+      <name>testGetFilePath</name>
+    </test-case>
+    <test-case start="1729890294754" stop="1729890294755" status="passed">
+      <name>testGetContext</name>
+    </test-case>
+    <test-case start="1729890294756" stop="1729890294757" status="passed">
+      <name>testGetPathAndGetSourceFile with data set #0</name>
+    </test-case>
+    <test-case start="1729890294757" stop="1729890294759" status="passed">
+      <name>testGetPathAndGetSourceFile with data set #1</name>
+    </test-case>
+    <test-case start="1729890294760" stop="1729890294761" status="passed">
+      <name>testGetUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890294762" stop="1729890294763" status="passed">
+      <name>testGetUrl with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

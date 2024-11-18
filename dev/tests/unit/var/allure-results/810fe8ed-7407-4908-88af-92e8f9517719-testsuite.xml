@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441860" stop="1729890441961" version="1.4.0">
+  <name>Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest</name>
+  <test-cases>
+    <test-case start="1729890441860" stop="1729890441866" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #0</name>
+    </test-case>
+    <test-case start="1729890441866" stop="1729890441867" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #1</name>
+    </test-case>
+    <test-case start="1729890441868" stop="1729890441869" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #2</name>
+    </test-case>
+    <test-case start="1729890441869" stop="1729890441870" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #3</name>
+    </test-case>
+    <test-case start="1729890441870" stop="1729890441871" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #4</name>
+    </test-case>
+    <test-case start="1729890441871" stop="1729890441872" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #5</name>
+    </test-case>
+    <test-case start="1729890441873" stop="1729890441874" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #6</name>
+    </test-case>
+    <test-case start="1729890441874" stop="1729890441875" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #7</name>
+    </test-case>
+    <test-case start="1729890441875" stop="1729890441876" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #8</name>
+    </test-case>
+    <test-case start="1729890441877" stop="1729890441877" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #9</name>
+    </test-case>
+    <test-case start="1729890441878" stop="1729890441879" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #10</name>
+    </test-case>
+    <test-case start="1729890441879" stop="1729890441881" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #11</name>
+    </test-case>
+    <test-case start="1729890441881" stop="1729890441882" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #12</name>
+    </test-case>
+    <test-case start="1729890441883" stop="1729890441884" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #13</name>
+    </test-case>
+    <test-case start="1729890441884" stop="1729890441885" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #14</name>
+    </test-case>
+    <test-case start="1729890441885" stop="1729890441887" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #15</name>
+    </test-case>
+    <test-case start="1729890441887" stop="1729890441888" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #16</name>
+    </test-case>
+    <test-case start="1729890441888" stop="1729890441889" status="passed">
+      <name>testPrepareColumnValueForBigint with data set #17</name>
+    </test-case>
+    <test-case start="1729890441890" stop="1729890441892" status="passed">
+      <name>testCheckNotDdlTransaction with data set #0</name>
+    </test-case>
+    <test-case start="1729890441892" stop="1729890441894" status="passed">
+      <name>testCheckNotDdlTransaction with data set #1</name>
+    </test-case>
+    <test-case start="1729890441894" stop="1729890441896" status="passed">
+      <name>testCheckNotDdlTransaction with data set #2</name>
+    </test-case>
+    <test-case start="1729890441896" stop="1729890441898" status="passed">
+      <name>testCheckNotDdlTransaction with data set #3</name>
+    </test-case>
+    <test-case start="1729890441898" stop="1729890441900" status="passed">
+      <name>testCheckDdlTransaction with data set #0</name>
+    </test-case>
+    <test-case start="1729890441900" stop="1729890441902" status="passed">
+      <name>testCheckDdlTransaction with data set #1</name>
+    </test-case>
+    <test-case start="1729890441902" stop="1729890441903" status="passed">
+      <name>testCheckDdlTransaction with data set #2</name>
+    </test-case>
+    <test-case start="1729890441904" stop="1729890441905" status="passed">
+      <name>testCheckDdlTransaction with data set #3</name>
+    </test-case>
+    <test-case start="1729890441905" stop="1729890441907" status="passed">
+      <name>testCheckDdlTransaction with data set #4</name>
+    </test-case>
+    <test-case start="1729890441907" stop="1729890441908" status="passed">
+      <name>testCheckDdlTransaction with data set #5</name>
+    </test-case>
+    <test-case start="1729890441909" stop="1729890441912" status="passed">
+      <name>testMultipleQueryException</name>
+    </test-case>
+    <test-case start="1729890441913" stop="1729890441914" status="passed">
+      <name>testAsymmetricRollBackFailure</name>
+    </test-case>
+    <test-case start="1729890441914" stop="1729890441915" status="passed">
+      <name>testAsymmetricCommitFailure</name>
+    </test-case>
+    <test-case start="1729890441916" stop="1729890441917" status="passed">
+      <name>testAsymmetricCommitSuccess</name>
+    </test-case>
+    <test-case start="1729890441917" stop="1729890441918" status="passed">
+      <name>testAsymmetricRollBackSuccess</name>
+    </test-case>
+    <test-case start="1729890441919" stop="1729890441920" status="passed">
+      <name>testNestedTransactionCommitSuccess</name>
+    </test-case>
+    <test-case start="1729890441920" stop="1729890441922" status="passed">
+      <name>testNestedTransactionRollBackSuccess</name>
+    </test-case>
+    <test-case start="1729890441922" stop="1729890441923" status="passed">
+      <name>testNestedTransactionLastRollBack</name>
+    </test-case>
+    <test-case start="1729890441924" stop="1729890441925" status="passed">
+      <name>testIncompleteRollBackFailureOnCommit</name>
+    </test-case>
+    <test-case start="1729890441925" stop="1729890441926" status="passed">
+      <name>testIncompleteRollBackFailureOnBeginTransaction</name>
+    </test-case>
+    <test-case start="1729890441926" stop="1729890441929" status="passed">
+      <name>testSequentialTransactionsSuccess</name>
+    </test-case>
+    <test-case start="1729890441929" stop="1729890441931" status="passed">
+      <name>testInsertOnDuplicateWithQuotedColumnName</name>
+    </test-case>
+    <test-case start="1729890441932" stop="1729890441935" status="passed">
+      <name>testAddColumn with data set #0</name>
+    </test-case>
+    <test-case start="1729890441935" stop="1729890441936" status="passed">
+      <name>testGetIndexName with data set #0</name>
+    </test-case>
+    <test-case start="1729890441937" stop="1729890441938" status="passed">
+      <name>testGetIndexName with data set #1</name>
+    </test-case>
+    <test-case start="1729890441938" stop="1729890441939" status="passed">
+      <name>testGetIndexName with data set #2</name>
+    </test-case>
+    <test-case start="1729890441939" stop="1729890441940" status="passed">
+      <name>testGetIndexName with data set #3</name>
+    </test-case>
+    <test-case start="1729890441941" stop="1729890441942" status="passed">
+      <name>testConfigValidation</name>
+    </test-case>
+    <test-case start="1729890441943" stop="1729890441943" status="passed">
+      <name>testConfigValidationByPortWithException</name>
+    </test-case>
+    <test-case start="1729890441944" stop="1729890441949" status="passed">
+      <name>testAddIndexWithDuplicationsInDB with data set "New unique index"</name>
+    </test-case>
+    <test-case start="1729890441950" stop="1729890441953" status="passed">
+      <name>testAddIndexWithDuplicationsInDB with data set "Existing unique index"</name>
+    </test-case>
+    <test-case start="1729890441955" stop="1729890441957" status="passed">
+      <name>testAddIndexWithDuplicationsInDB with data set "New primary index"</name>
+    </test-case>
+    <test-case start="1729890441957" stop="1729890441960" status="passed">
+      <name>testAddIndexForNonExitingField</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890320539" stop="1729890320548" version="1.4.0">
+  <name>Magento\Developer\Test\Unit\Model\TemplateEngine\Decorator\DebugHintsTest</name>
+  <test-cases>
+    <test-case start="1729890320540" stop="1729890320544" status="passed">
+      <name>testRender with data set "block hints disabled"</name>
+    </test-case>
+    <test-case start="1729890320544" stop="1729890320548" status="passed">
+      <name>testRender with data set "block hints enabled"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

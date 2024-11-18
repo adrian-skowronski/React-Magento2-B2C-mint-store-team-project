@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890412735" stop="1729890412795" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Console\Command\BackupCommandTest</name>
+  <test-cases>
+    <test-case start="1729890412735" stop="1729890412750" status="passed">
+      <name>testExecuteCodeBackup</name>
+    </test-case>
+    <test-case start="1729890412753" stop="1729890412759" status="passed">
+      <name>testExecuteMediaBackup</name>
+    </test-case>
+    <test-case start="1729890412764" stop="1729890412769" status="passed">
+      <name>testExecuteDBBackup</name>
+    </test-case>
+    <test-case start="1729890412772" stop="1729890412785" status="passed">
+      <name>testExecuteNotInstalled</name>
+    </test-case>
+    <test-case start="1729890412786" stop="1729890412795" status="passed">
+      <name>testExecuteNoOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

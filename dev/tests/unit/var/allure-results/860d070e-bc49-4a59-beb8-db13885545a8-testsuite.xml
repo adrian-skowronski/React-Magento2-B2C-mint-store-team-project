@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451921" stop="1729890451923" version="1.4.0">
+  <name>Magento\Framework\Message\Test\Unit\ExceptionMessageFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890451922" stop="1729890451923" status="passed">
+      <name>testCreateMessageDefaultType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

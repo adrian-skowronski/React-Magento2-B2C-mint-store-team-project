@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890359964" stop="1729890359970" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Block\Adminhtml\System\Config\Fieldset\HintTest</name>
+  <test-cases>
+    <test-case start="1729890359965" stop="1729890359967" status="passed">
+      <name>testRender</name>
+    </test-case>
+    <test-case start="1729890359967" stop="1729890359970" status="passed">
+      <name>testRenderEmptyComment</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

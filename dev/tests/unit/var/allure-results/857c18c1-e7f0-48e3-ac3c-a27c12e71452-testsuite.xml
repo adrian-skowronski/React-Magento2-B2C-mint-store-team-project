@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890398859" stop="1729890398928" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Model\Calculation\RateRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890398859" stop="1729890398876" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890398876" stop="1729890398881" status="passed">
+      <name>testSaveThrowsExceptionIfTargetTaxRateDoesNotExist</name>
+    </test-case>
+    <test-case start="1729890398881" stop="1729890398882" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890398882" stop="1729890398884" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890398884" stop="1729890398886" status="passed">
+      <name>testDeleteById</name>
+    </test-case>
+    <test-case start="1729890398886" stop="1729890398890" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890398891" stop="1729890398898" status="passed">
+      <name>testSaveThrowsExceptionIfCannotSaveTitles with data set "entity_already_exists"</name>
+    </test-case>
+    <test-case start="1729890398899" stop="1729890398906" status="passed">
+      <name>testSaveThrowsExceptionIfCannotSaveTitles with data set "cannot_save_title"</name>
+    </test-case>
+    <test-case start="1729890398906" stop="1729890398909" status="passed">
+      <name>testGetListWhenFilterGroupExists</name>
+    </test-case>
+    <test-case start="1729890398909" stop="1729890398915" status="passed">
+      <name>testValidate</name>
+    </test-case>
+    <test-case start="1729890398915" stop="1729890398922" status="passed">
+      <name>testValidateWithNoRate</name>
+    </test-case>
+    <test-case start="1729890398922" stop="1729890398928" status="passed">
+      <name>testValidateWithWrongRate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

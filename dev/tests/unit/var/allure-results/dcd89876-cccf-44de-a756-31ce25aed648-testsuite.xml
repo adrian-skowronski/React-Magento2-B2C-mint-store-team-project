@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890260869" stop="1729890260872" version="1.4.0">
+  <name>Magento\AdobeStockImage\Test\Unit\Model\SaveLicensedImageTest</name>
+  <test-cases>
+    <test-case start="1729890260869" stop="1729890260872" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

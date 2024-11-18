@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404246" stop="1729890404267" version="1.4.0">
+  <name>Magento\TwoFactorAuth\Test\Unit\Model\UserConfig\HtmlAreaTokenVerifierTest</name>
+  <test-cases>
+    <test-case start="1729890404247" stop="1729890404251" status="passed">
+      <name>testReadConfigToken with data set "token in query"</name>
+    </test-case>
+    <test-case start="1729890404252" stop="1729890404253" status="passed">
+      <name>testReadConfigToken with data set "token in cookies"</name>
+    </test-case>
+    <test-case start="1729890404254" stop="1729890404256" status="passed">
+      <name>testReadConfigToken with data set "token is absent"</name>
+    </test-case>
+    <test-case start="1729890404257" stop="1729890404259" status="passed">
+      <name>testReadConfigToken with data set "invalid token"</name>
+    </test-case>
+    <test-case start="1729890404260" stop="1729890404261" status="passed">
+      <name>testReadConfigToken with data set "invalid token from cookies"</name>
+    </test-case>
+    <test-case start="1729890404262" stop="1729890404264" status="passed">
+      <name>testReadConfigToken with data set "token in both"</name>
+    </test-case>
+    <test-case start="1729890404265" stop="1729890404267" status="passed">
+      <name>testReadConfigToken with data set "no user"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

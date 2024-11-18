@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890453323" stop="1729890453486" version="1.4.0">
+  <name>Magento\Framework\Mview\Test\Unit\ViewTest</name>
+  <test-cases>
+    <test-case start="1729890453323" stop="1729890453328" status="passed">
+      <name>testGetActionClass</name>
+    </test-case>
+    <test-case start="1729890453329" stop="1729890453330" status="passed">
+      <name>testGetGroup</name>
+    </test-case>
+    <test-case start="1729890453330" stop="1729890453332" status="passed">
+      <name>testGetSubscriptions</name>
+    </test-case>
+    <test-case start="1729890453332" stop="1729890453333" status="passed">
+      <name>testLoad</name>
+    </test-case>
+    <test-case start="1729890453333" stop="1729890453334" status="passed">
+      <name>testLoadWithException</name>
+    </test-case>
+    <test-case start="1729890453335" stop="1729890453337" status="passed">
+      <name>testSubscribe</name>
+    </test-case>
+    <test-case start="1729890453337" stop="1729890453339" status="passed">
+      <name>testSubscribeEnabled</name>
+    </test-case>
+    <test-case start="1729890453339" stop="1729890453340" status="passed">
+      <name>testSubscribeWithException</name>
+    </test-case>
+    <test-case start="1729890453340" stop="1729890453342" status="passed">
+      <name>testUnsubscribe</name>
+    </test-case>
+    <test-case start="1729890453343" stop="1729890453344" status="passed">
+      <name>testUnsubscribeDisabled</name>
+    </test-case>
+    <test-case start="1729890453344" stop="1729890453347" status="passed">
+      <name>testUnsubscribeWithException</name>
+    </test-case>
+    <test-case start="1729890453347" stop="1729890453351" status="passed">
+      <name>testUpdate</name>
+    </test-case>
+    <test-case start="1729890453352" stop="1729890453443" status="passed">
+      <name>testUpdateEx</name>
+    </test-case>
+    <test-case start="1729890453443" stop="1729890453447" status="passed">
+      <name>testUpdateWithException</name>
+    </test-case>
+    <test-case start="1729890453447" stop="1729890453449" status="passed">
+      <name>testSuspend</name>
+    </test-case>
+    <test-case start="1729890453450" stop="1729890453451" status="passed">
+      <name>testSuspendDisabled</name>
+    </test-case>
+    <test-case start="1729890453452" stop="1729890453453" status="passed">
+      <name>testResume</name>
+    </test-case>
+    <test-case start="1729890453453" stop="1729890453455" status="passed">
+      <name>testResumeNotSuspended with data set #0</name>
+    </test-case>
+    <test-case start="1729890453455" stop="1729890453457" status="passed">
+      <name>testResumeNotSuspended with data set #1</name>
+    </test-case>
+    <test-case start="1729890453457" stop="1729890453459" status="passed">
+      <name>testClearChangelog</name>
+    </test-case>
+    <test-case start="1729890453460" stop="1729890453461" status="passed">
+      <name>testClearChangelogDisabled</name>
+    </test-case>
+    <test-case start="1729890453461" stop="1729890453463" status="passed">
+      <name>testSetState</name>
+    </test-case>
+    <test-case start="1729890453464" stop="1729890453466" status="passed">
+      <name>testIsEnabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890453467" stop="1729890453468" status="passed">
+      <name>testIsEnabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890453469" stop="1729890453470" status="passed">
+      <name>testIsIdle with data set #0</name>
+    </test-case>
+    <test-case start="1729890453470" stop="1729890453472" status="passed">
+      <name>testIsIdle with data set #1</name>
+    </test-case>
+    <test-case start="1729890453472" stop="1729890453473" status="passed">
+      <name>testIsIdle with data set #2</name>
+    </test-case>
+    <test-case start="1729890453474" stop="1729890453475" status="passed">
+      <name>testIsWorking with data set #0</name>
+    </test-case>
+    <test-case start="1729890453476" stop="1729890453477" status="passed">
+      <name>testIsWorking with data set #1</name>
+    </test-case>
+    <test-case start="1729890453477" stop="1729890453479" status="passed">
+      <name>testIsWorking with data set #2</name>
+    </test-case>
+    <test-case start="1729890453480" stop="1729890453481" status="passed">
+      <name>testIsSuspended with data set #0</name>
+    </test-case>
+    <test-case start="1729890453482" stop="1729890453483" status="passed">
+      <name>testIsSuspended with data set #1</name>
+    </test-case>
+    <test-case start="1729890453483" stop="1729890453484" status="passed">
+      <name>testIsSuspended with data set #2</name>
+    </test-case>
+    <test-case start="1729890453485" stop="1729890453486" status="passed">
+      <name>testGetUpdated</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890445148" stop="1729890445151" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Form\Element\HiddenTest</name>
+  <test-cases>
+    <test-case start="1729890445149" stop="1729890445149" status="passed">
+      <name>testConstruct</name>
+    </test-case>
+    <test-case start="1729890445150" stop="1729890445151" status="passed">
+      <name>testGetDefaultHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

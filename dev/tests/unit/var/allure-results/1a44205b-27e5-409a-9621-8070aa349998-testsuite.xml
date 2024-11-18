@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890389997" stop="1729890390146" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Service\CreditmemoServiceTest</name>
+  <test-cases>
+    <test-case start="1729890389998" stop="1729890390010" status="passed">
+      <name>testCancel</name>
+    </test-case>
+    <test-case start="1729890390010" stop="1729890390013" status="passed">
+      <name>testGetCommentsList</name>
+    </test-case>
+    <test-case start="1729890390013" stop="1729890390015" status="passed">
+      <name>testNotify</name>
+    </test-case>
+    <test-case start="1729890390016" stop="1729890390040" status="passed">
+      <name>testRefund</name>
+    </test-case>
+    <test-case start="1729890390040" stop="1729890390079" status="passed">
+      <name>testRefundPendingCreditMemo</name>
+    </test-case>
+    <test-case start="1729890390080" stop="1729890390110" status="passed">
+      <name>testRefundExpectsMoneyAvailableToReturn</name>
+    </test-case>
+    <test-case start="1729890390110" stop="1729890390125" status="passed">
+      <name>testRefundDoNotExpectsId</name>
+    </test-case>
+    <test-case start="1729890390126" stop="1729890390145" status="passed">
+      <name>testMultiCurrencyRefundExpectsMoneyAvailableToReturn</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

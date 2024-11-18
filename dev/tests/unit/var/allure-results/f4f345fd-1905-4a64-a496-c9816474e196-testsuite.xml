@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890257730" stop="1729890257735" version="1.4.0">
+  <name>Magento\AdminNotification\Test\Unit\Model\NotificationServiceTest</name>
+  <test-cases>
+    <test-case start="1729890257730" stop="1729890257733" status="passed">
+      <name>testMarkAsRead</name>
+    </test-case>
+    <test-case start="1729890257733" stop="1729890257734" status="passed">
+      <name>testMarkAsReadThrowsExceptionWhenNotificationIdIsInvalid</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

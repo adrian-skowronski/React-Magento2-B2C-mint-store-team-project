@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352631" stop="1729890352636" version="1.4.0">
+  <name>Magento\MediaGallery\Test\Unit\Model\Asset\Command\DeleteByPathTest</name>
+  <test-cases>
+    <test-case start="1729890352631" stop="1729890352634" status="passed">
+      <name>testSuccessfulDeleteByIdExecution</name>
+    </test-case>
+    <test-case start="1729890352634" stop="1729890352636" status="passed">
+      <name>testExceptionOnDeleteExecution</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

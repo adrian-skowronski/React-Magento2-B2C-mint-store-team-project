@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890367684" stop="1729890367791" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\GuestCart\GuestShippingMethodManagementTest</name>
+  <test-cases>
+    <test-case start="1729890367685" stop="1729890367726" status="passed">
+      <name>testSet</name>
+    </test-case>
+    <test-case start="1729890367727" stop="1729890367733" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890367734" stop="1729890367736" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890367741" stop="1729890367790" status="passed">
+      <name>testEstimateByExtendedAddress</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

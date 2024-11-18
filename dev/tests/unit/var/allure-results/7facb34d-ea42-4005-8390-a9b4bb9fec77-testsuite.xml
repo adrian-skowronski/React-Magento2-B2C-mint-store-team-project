@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890411041" stop="1729890411054" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Block\Item\ConfigureTest</name>
+  <test-cases>
+    <test-case start="1729890411041" stop="1729890411044" status="passed">
+      <name>testGetWishlistOptions</name>
+    </test-case>
+    <test-case start="1729890411045" stop="1729890411046" status="passed">
+      <name>testGetProduct</name>
+    </test-case>
+    <test-case start="1729890411046" stop="1729890411049" status="passed">
+      <name>testSetLayout</name>
+    </test-case>
+    <test-case start="1729890411049" stop="1729890411052" status="passed">
+      <name>testSetLayoutWithNoItem</name>
+    </test-case>
+    <test-case start="1729890411052" stop="1729890411054" status="passed">
+      <name>testSetLayoutWithNoBlockAndItem</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

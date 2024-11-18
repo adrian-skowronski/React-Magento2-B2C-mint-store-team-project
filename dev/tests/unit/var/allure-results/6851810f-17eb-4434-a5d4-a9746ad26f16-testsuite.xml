@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422062" stop="1729890422068" version="1.4.0">
+  <name>Magento\Framework\Acl\Test\Unit\Loader\ResourceLoaderTest</name>
+  <test-cases>
+    <test-case start="1729890422063" stop="1729890422066" status="passed">
+      <name>testPopulateAclOnValidObjects</name>
+    </test-case>
+    <test-case start="1729890422066" stop="1729890422068" status="passed">
+      <name>testPopulateAclWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

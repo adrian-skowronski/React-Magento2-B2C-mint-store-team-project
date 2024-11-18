@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890347963" stop="1729890348023" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\ResourceModel\AbstractResourceTest</name>
+  <test-cases>
+    <test-case start="1729890347963" stop="1729890347968" status="passed">
+      <name>testReindexAll</name>
+    </test-case>
+    <test-case start="1729890347968" stop="1729890347970" status="passed">
+      <name>testClearTemporaryIndexTable</name>
+    </test-case>
+    <test-case start="1729890347972" stop="1729890347982" status="passed">
+      <name>testSyncData</name>
+    </test-case>
+    <test-case start="1729890347983" stop="1729890347987" status="passed">
+      <name>testSyncDataException</name>
+    </test-case>
+    <test-case start="1729890347987" stop="1729890347991" status="passed">
+      <name>testInsertFromTable with data set #0</name>
+    </test-case>
+    <test-case start="1729890347993" stop="1729890348023" status="passed">
+      <name>testInsertFromTable with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

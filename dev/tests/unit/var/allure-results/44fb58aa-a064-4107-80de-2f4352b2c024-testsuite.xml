@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463249" stop="1729890463253" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\UiComponent\ProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890463249" stop="1729890463250" status="passed">
+      <name>testRegisterGetComponents</name>
+    </test-case>
+    <test-case start="1729890463250" stop="1729890463252" status="passed">
+      <name>testAttachAndNotify</name>
+    </test-case>
+    <test-case start="1729890463252" stop="1729890463252" status="passed">
+      <name>testDetach</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

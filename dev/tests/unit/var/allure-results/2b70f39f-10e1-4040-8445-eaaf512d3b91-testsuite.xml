@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890364328" stop="1729890364343" version="1.4.0">
+  <name>Magento\Persistent\Test\Unit\Observer\RemoveGuestPersistenceOnEmptyCartObserverTest</name>
+  <test-cases>
+    <test-case start="1729890364328" stop="1729890364331" status="passed">
+      <name>testExecuteWhenSessionIsNotPersistent</name>
+    </test-case>
+    <test-case start="1729890364333" stop="1729890364335" status="passed">
+      <name>testExecuteWithLoggedInCustomer</name>
+    </test-case>
+    <test-case start="1729890364335" stop="1729890364337" status="passed">
+      <name>testExecuteWithNonPersistentShoppingCart</name>
+    </test-case>
+    <test-case start="1729890364337" stop="1729890364340" status="passed">
+      <name>testExecuteWithEmptyCart</name>
+    </test-case>
+    <test-case start="1729890364340" stop="1729890364343" status="passed">
+      <name>testExecuteWithNonexistentCart</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

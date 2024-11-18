@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463002" stop="1729890463032" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\MessagesTest</name>
+  <test-cases>
+    <test-case start="1729890463002" stop="1729890463004" status="passed">
+      <name>testSetMessages</name>
+    </test-case>
+    <test-case start="1729890463004" stop="1729890463006" status="passed">
+      <name>testGetMessageCollection</name>
+    </test-case>
+    <test-case start="1729890463006" stop="1729890463008" status="passed">
+      <name>testAddMessages</name>
+    </test-case>
+    <test-case start="1729890463009" stop="1729890463011" status="passed">
+      <name>testAddMessage</name>
+    </test-case>
+    <test-case start="1729890463012" stop="1729890463015" status="passed">
+      <name>testAddError</name>
+    </test-case>
+    <test-case start="1729890463015" stop="1729890463017" status="passed">
+      <name>testAddWarning</name>
+    </test-case>
+    <test-case start="1729890463017" stop="1729890463020" status="passed">
+      <name>testAddNotice</name>
+    </test-case>
+    <test-case start="1729890463020" stop="1729890463022" status="passed">
+      <name>testAddSuccess</name>
+    </test-case>
+    <test-case start="1729890463023" stop="1729890463025" status="passed">
+      <name>testGetMessagesByType</name>
+    </test-case>
+    <test-case start="1729890463025" stop="1729890463027" status="passed">
+      <name>testGetMessageTypes</name>
+    </test-case>
+    <test-case start="1729890463027" stop="1729890463029" status="passed">
+      <name>testGetCacheKeyInfo</name>
+    </test-case>
+    <test-case start="1729890463029" stop="1729890463032" status="passed">
+      <name>testGetGroupedHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890391220" stop="1729890391287" version="1.4.0">
+  <name>Magento\SampleData\Test\Unit\Console\Command\SampleDataDeployCommandTest</name>
+  <test-cases>
+    <test-case start="1729890391222" stop="1729890391235" status="passed">
+      <name>testExecute with data set "No sample data found"</name>
+    </test-case>
+    <test-case start="1729890391237" stop="1729890391241" status="passed">
+      <name>testExecute with data set "No auth.json found"</name>
+    </test-case>
+    <test-case start="1729890391242" stop="1729890391248" status="passed">
+      <name>testExecute with data set "Successful sample data installation without field "version""</name>
+    </test-case>
+    <test-case start="1729890391249" stop="1729890391253" status="passed">
+      <name>testExecute with data set "Successful sample data installation"</name>
+    </test-case>
+    <test-case start="1729890391255" stop="1729890391258" status="passed">
+      <name>testExecuteWithNoUpdate with data set "No sample data found"</name>
+    </test-case>
+    <test-case start="1729890391260" stop="1729890391265" status="passed">
+      <name>testExecuteWithNoUpdate with data set "No auth.json found"</name>
+    </test-case>
+    <test-case start="1729890391266" stop="1729890391273" status="passed">
+      <name>testExecuteWithNoUpdate with data set "Successful sample data installation without field "version""</name>
+    </test-case>
+    <test-case start="1729890391274" stop="1729890391281" status="passed">
+      <name>testExecuteWithNoUpdate with data set "Successful sample data installation"</name>
+    </test-case>
+    <test-case start="1729890391282" stop="1729890391287" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

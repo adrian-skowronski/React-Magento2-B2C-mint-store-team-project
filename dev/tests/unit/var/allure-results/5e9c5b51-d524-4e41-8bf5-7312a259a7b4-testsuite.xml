@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890275565" stop="1729890275639" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\Quote\Item\QuantityValidator\Initializer\QtyProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890275565" stop="1729890275623" status="passed">
+      <name>testSetItem</name>
+    </test-case>
+    <test-case start="1729890275627" stop="1729890275633" status="passed">
+      <name>testGetRowQty</name>
+    </test-case>
+    <test-case start="1729890275634" stop="1729890275637" status="passed">
+      <name>testGetQtyForCheckNoParentItem</name>
+    </test-case>
+    <test-case start="1729890275637" stop="1729890275639" status="passed">
+      <name>testGetQtyForCheck</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

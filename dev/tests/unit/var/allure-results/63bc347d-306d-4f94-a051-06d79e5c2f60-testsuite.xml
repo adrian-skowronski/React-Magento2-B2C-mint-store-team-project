@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890313786" stop="1729890313791" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Controller\Account\CreateTest</name>
+  <test-cases>
+    <test-case start="1729890313786" stop="1729890313788" status="passed">
+      <name>testCreateActionRegistrationDisabled</name>
+    </test-case>
+    <test-case start="1729890313789" stop="1729890313791" status="passed">
+      <name>testCreateActionRegistrationEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

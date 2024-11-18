@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890312320" stop="1729890312344" version="1.4.0">
+  <name>Magento\CustomerImportExport\Test\Unit\Model\Export\AddressTest</name>
+  <test-cases>
+    <test-case start="1729890312320" stop="1729890312344" status="passed">
+      <name>testExportItem</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

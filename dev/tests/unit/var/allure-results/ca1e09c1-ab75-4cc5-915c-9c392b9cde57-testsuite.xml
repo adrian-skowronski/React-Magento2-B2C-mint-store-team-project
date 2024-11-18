@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376791" stop="1729890376797" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\Rule\Metadata\ValueProviderTest</name>
+  <test-cases>
+    <test-case start="1729890376791" stop="1729890376797" status="passed">
+      <name>testGetMetadataValues</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

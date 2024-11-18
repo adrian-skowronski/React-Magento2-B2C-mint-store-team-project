@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890331389" stop="1729890331393" version="1.4.0">
+  <name>Magento\GroupedProduct\Test\Unit\Model\Product\Type\PluginTest</name>
+  <test-cases>
+    <test-case start="1729890331390" stop="1729890331392" status="passed">
+      <name>testAfterGetOptionArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

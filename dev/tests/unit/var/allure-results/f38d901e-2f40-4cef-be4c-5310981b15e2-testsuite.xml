@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329019" stop="1729890329105" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Model\TemplateTest</name>
+  <test-cases>
+    <test-case start="1729890329020" stop="1729890329021" status="passed">
+      <name>testSetAndGetIsChildTemplate</name>
+    </test-case>
+    <test-case start="1729890329022" stop="1729890329025" status="passed">
+      <name>testSetAndGetTemplateFilter</name>
+    </test-case>
+    <test-case start="1729890329025" stop="1729890329029" status="passed">
+      <name>testGetTemplateFilterWithEmptyValue</name>
+    </test-case>
+    <test-case start="1729890329030" stop="1729890329033" status="passed">
+      <name>testLoadDefault with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890329034" stop="1729890329036" status="passed">
+      <name>testLoadDefault with data set "copyright in Plain Text Removed"</name>
+    </test-case>
+    <test-case start="1729890329036" stop="1729890329038" status="passed">
+      <name>testLoadDefault with data set "copyright in HTML Removed"</name>
+    </test-case>
+    <test-case start="1729890329039" stop="1729890329040" status="passed">
+      <name>testLoadDefault with data set "subject set"</name>
+    </test-case>
+    <test-case start="1729890329041" stop="1729890329042" status="passed">
+      <name>testLoadDefault with data set "orig_template_variables set"</name>
+    </test-case>
+    <test-case start="1729890329043" stop="1729890329046" status="passed">
+      <name>testLoadDefault with data set "styles"</name>
+    </test-case>
+    <test-case start="1729890329047" stop="1729890329049" status="passed">
+      <name>testLoadByConfigPath with data set "Load from filesystem"</name>
+    </test-case>
+    <test-case start="1729890329049" stop="1729890329051" status="passed">
+      <name>testLoadByConfigPath with data set "Load from database"</name>
+    </test-case>
+    <test-case start="1729890329051" stop="1729890329053" status="passed">
+      <name>testGetAndSetId</name>
+    </test-case>
+    <test-case start="1729890329054" stop="1729890329056" status="passed">
+      <name>testIsValidForSend with data set "should be valid"</name>
+    </test-case>
+    <test-case start="1729890329057" stop="1729890329059" status="passed">
+      <name>testIsValidForSend with data set "no sender name so not valid"</name>
+    </test-case>
+    <test-case start="1729890329059" stop="1729890329061" status="passed">
+      <name>testIsValidForSend with data set "no sender email so not valid"</name>
+    </test-case>
+    <test-case start="1729890329061" stop="1729890329064" status="passed">
+      <name>testIsValidForSend with data set "no subject so not valid"</name>
+    </test-case>
+    <test-case start="1729890329064" stop="1729890329067" status="passed">
+      <name>testGetProcessedTemplateSubject</name>
+    </test-case>
+    <test-case start="1729890329067" stop="1729890329069" status="passed">
+      <name>testGetVariablesOptionArray with data set "empty variables"</name>
+    </test-case>
+    <test-case start="1729890329069" stop="1729890329071" status="passed">
+      <name>testGetVariablesOptionArray with data set "empty variables with grouped option"</name>
+    </test-case>
+    <test-case start="1729890329071" stop="1729890329073" status="passed">
+      <name>testGetVariablesOptionArray with data set "customer account new variables"</name>
+    </test-case>
+    <test-case start="1729890329074" stop="1729890329076" status="passed">
+      <name>testGetVariablesOptionArray with data set "customer account new variables with grouped option"</name>
+    </test-case>
+    <test-case start="1729890329077" stop="1729890329080" status="passed">
+      <name>testProcessTemplate with data set "numeric id"</name>
+    </test-case>
+    <test-case start="1729890329080" stop="1729890329082" status="passed">
+      <name>testProcessTemplate with data set "string id"</name>
+    </test-case>
+    <test-case start="1729890329082" stop="1729890329084" status="passed">
+      <name>testProcessTemplateThrowsExceptionNonExistentTemplate</name>
+    </test-case>
+    <test-case start="1729890329084" stop="1729890329086" status="passed">
+      <name>testGetSubject</name>
+    </test-case>
+    <test-case start="1729890329086" stop="1729890329088" status="passed">
+      <name>testSetOptions</name>
+    </test-case>
+    <test-case start="1729890329088" stop="1729890329102" status="passed">
+      <name>testGetType with data set #0</name>
+    </test-case>
+    <test-case start="1729890329103" stop="1729890329105" status="passed">
+      <name>testGetType with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

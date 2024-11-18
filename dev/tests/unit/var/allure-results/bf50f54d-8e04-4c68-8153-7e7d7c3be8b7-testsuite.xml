@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890419554" stop="1729890419578" version="1.4.0">
+  <name>PayPal\Braintree\Test\Unit\Model\Adminhtml\System\Config\CountryTest</name>
+  <test-cases>
+    <test-case start="1729890419554" stop="1729890419555" status="passed">
+      <name>testToOptionArrayMultiSelect</name>
+    </test-case>
+    <test-case start="1729890419555" stop="1729890419557" status="passed">
+      <name>testToOptionArray</name>
+    </test-case>
+    <test-case start="1729890419558" stop="1729890419558" status="passed">
+      <name>testIsCountryRestricted with data set #0</name>
+    </test-case>
+    <test-case start="1729890419559" stop="1729890419559" status="passed">
+      <name>testIsCountryRestricted with data set #1</name>
+    </test-case>
+    <test-case start="1729890419560" stop="1729890419560" status="passed">
+      <name>testIsCountryRestricted with data set #2</name>
+    </test-case>
+    <test-case start="1729890419561" stop="1729890419561" status="passed">
+      <name>testIsCountryRestricted with data set #3</name>
+    </test-case>
+    <test-case start="1729890419562" stop="1729890419562" status="passed">
+      <name>testIsCountryRestricted with data set #4</name>
+    </test-case>
+    <test-case start="1729890419563" stop="1729890419563" status="passed">
+      <name>testIsCountryRestricted with data set #5</name>
+    </test-case>
+    <test-case start="1729890419564" stop="1729890419564" status="passed">
+      <name>testIsCountryRestricted with data set #6</name>
+    </test-case>
+    <test-case start="1729890419565" stop="1729890419565" status="passed">
+      <name>testIsCountryRestricted with data set #7</name>
+    </test-case>
+    <test-case start="1729890419566" stop="1729890419566" status="passed">
+      <name>testIsCountryRestricted with data set #8</name>
+    </test-case>
+    <test-case start="1729890419567" stop="1729890419568" status="passed">
+      <name>testIsCountryRestricted with data set #9</name>
+    </test-case>
+    <test-case start="1729890419568" stop="1729890419569" status="passed">
+      <name>testIsCountryRestricted with data set #10</name>
+    </test-case>
+    <test-case start="1729890419569" stop="1729890419570" status="passed">
+      <name>testIsCountryRestricted with data set #11</name>
+    </test-case>
+    <test-case start="1729890419570" stop="1729890419571" status="passed">
+      <name>testIsCountryRestricted with data set #12</name>
+    </test-case>
+    <test-case start="1729890419571" stop="1729890419572" status="passed">
+      <name>testIsCountryRestricted with data set #13</name>
+    </test-case>
+    <test-case start="1729890419572" stop="1729890419573" status="passed">
+      <name>testIsCountryRestricted with data set #14</name>
+    </test-case>
+    <test-case start="1729890419573" stop="1729890419574" status="passed">
+      <name>testIsCountryRestricted with data set #15</name>
+    </test-case>
+    <test-case start="1729890419574" stop="1729890419575" status="passed">
+      <name>testIsCountryRestricted with data set #16</name>
+    </test-case>
+    <test-case start="1729890419576" stop="1729890419576" status="passed">
+      <name>testIsCountryRestricted with data set #17</name>
+    </test-case>
+    <test-case start="1729890419577" stop="1729890419577" status="passed">
+      <name>testIsCountryRestricted with data set #18</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

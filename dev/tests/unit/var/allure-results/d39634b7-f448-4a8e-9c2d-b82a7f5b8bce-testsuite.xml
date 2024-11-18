@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890396044" stop="1729890396046" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Url\Plugin\SecurityInfoTest</name>
+  <test-cases>
+    <test-case start="1729890396044" stop="1729890396045" status="passed">
+      <name>testAroundIsSecureDisabledInConfig</name>
+    </test-case>
+    <test-case start="1729890396046" stop="1729890396046" status="passed">
+      <name>testAroundIsSecureEnabledInConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

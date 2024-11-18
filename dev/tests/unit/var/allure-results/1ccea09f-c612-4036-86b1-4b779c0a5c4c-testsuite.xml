@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890270059" stop="1729890270069" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Model\Quote\Item\OptionTest</name>
+  <test-cases>
+    <test-case start="1729890270060" stop="1729890270061" status="passed">
+      <name>testGetSelectionOptions with data set #0</name>
+    </test-case>
+    <test-case start="1729890270062" stop="1729890270064" status="passed">
+      <name>testGetSelectionOptions with data set #1</name>
+    </test-case>
+    <test-case start="1729890270064" stop="1729890270066" status="passed">
+      <name>testGetSelectionOptions with data set #2</name>
+    </test-case>
+    <test-case start="1729890270066" stop="1729890270069" status="passed">
+      <name>testGetSelectionOptions with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

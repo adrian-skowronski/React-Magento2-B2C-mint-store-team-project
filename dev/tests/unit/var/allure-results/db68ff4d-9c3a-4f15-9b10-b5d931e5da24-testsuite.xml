@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271766" stop="1729890271773" version="1.4.0">
+  <name>Magento\CardinalCommerce\Test\Unit\Model\Response\JwtParserTest</name>
+  <test-cases>
+    <test-case start="1729890271766" stop="1729890271771" status="passed">
+      <name>testExecuteWithNoException</name>
+    </test-case>
+    <test-case start="1729890271772" stop="1729890271773" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

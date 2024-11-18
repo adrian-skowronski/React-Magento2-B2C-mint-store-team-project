@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890311304" stop="1729890311311" version="1.4.0">
+  <name>Magento\Cookie\Test\Unit\Model\Config\Backend\PathTest</name>
+  <test-cases>
+    <test-case start="1729890311304" stop="1729890311307" status="passed">
+      <name>testBeforeSaveException</name>
+    </test-case>
+    <test-case start="1729890311307" stop="1729890311309" status="passed">
+      <name>testBeforeSaveNoException</name>
+    </test-case>
+    <test-case start="1729890311309" stop="1729890311311" status="passed">
+      <name>testBeforeSaveEmptyString</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

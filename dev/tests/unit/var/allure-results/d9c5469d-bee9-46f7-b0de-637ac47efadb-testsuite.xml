@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890389447" stop="1729890389476" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\ResourceModel\Order\Invoice\RelationTest</name>
+  <test-cases>
+    <test-case start="1729890389447" stop="1729890389475" status="passed">
+      <name>testProcessRelation</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

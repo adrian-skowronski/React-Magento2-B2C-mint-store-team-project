@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890394566" stop="1729890394617" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\Config\Importer\Processor\CreateTest</name>
+  <test-cases>
+    <test-case start="1729890394566" stop="1729890394587" status="passed">
+      <name>testRunWebsite</name>
+    </test-case>
+    <test-case start="1729890394587" stop="1729890394598" status="passed">
+      <name>testRunGroup</name>
+    </test-case>
+    <test-case start="1729890394599" stop="1729890394613" status="passed">
+      <name>testRunStore</name>
+    </test-case>
+    <test-case start="1729890394613" stop="1729890394617" status="passed">
+      <name>testRunWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

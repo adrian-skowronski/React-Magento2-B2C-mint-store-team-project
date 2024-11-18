@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890281912" stop="1729890281932" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Adminhtml\Product\Helper\Form\CategoryTest</name>
+  <test-cases>
+    <test-case start="1729890281912" stop="1729890281929" status="passed">
+      <name>testIsAllowed with data set #0</name>
+    </test-case>
+    <test-case start="1729890281929" stop="1729890281930" status="passed">
+      <name>testIsAllowed with data set #1</name>
+    </test-case>
+    <test-case start="1729890281930" stop="1729890281932" status="passed">
+      <name>testGetAfterElementHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

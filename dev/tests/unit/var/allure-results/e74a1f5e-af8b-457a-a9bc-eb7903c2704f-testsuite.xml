@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330942" stop="1729890330994" version="1.4.0">
+  <name>Magento\GroupedProduct\Test\Unit\Block\Adminhtml\Product\Composite\Fieldset\GroupedTest</name>
+  <test-cases>
+    <test-case start="1729890330942" stop="1729890330951" status="passed">
+      <name>testGetProductPositive</name>
+    </test-case>
+    <test-case start="1729890330952" stop="1729890330958" status="passed">
+      <name>testGetProductNegative</name>
+    </test-case>
+    <test-case start="1729890330958" stop="1729890330964" status="passed">
+      <name>testGetAssociatedProducts</name>
+    </test-case>
+    <test-case start="1729890330964" stop="1729890330970" status="passed">
+      <name>testSetPreconfiguredValue</name>
+    </test-case>
+    <test-case start="1729890330971" stop="1729890330973" status="passed">
+      <name>testGetCanShowProductPrice</name>
+    </test-case>
+    <test-case start="1729890330974" stop="1729890330977" status="passed">
+      <name>testGetIsLastFieldsetPositive</name>
+    </test-case>
+    <test-case start="1729890330978" stop="1729890330985" status="passed">
+      <name>testGetIsLastFieldsetNegative with data set "case1"</name>
+    </test-case>
+    <test-case start="1729890330985" stop="1729890330989" status="passed">
+      <name>testGetIsLastFieldsetNegative with data set "case2"</name>
+    </test-case>
+    <test-case start="1729890330990" stop="1729890330994" status="passed">
+      <name>testGetCurrencyPrice</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

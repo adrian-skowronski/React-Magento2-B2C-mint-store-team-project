@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890351183" stop="1729890351223" version="1.4.0">
+  <name>Magento\InventoryReservationCli\Test\Unit\Model\ResourceModel\GetOrderItemsDataForOrdersInNotFinalStateTest</name>
+  <test-cases>
+    <test-case start="1729890351185" stop="1729890351222" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

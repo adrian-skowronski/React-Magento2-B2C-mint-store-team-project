@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890293592" stop="1729890293606" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ProductTypes\Config\XsdMergedTest</name>
+  <test-cases>
+    <test-case start="1729890293592" stop="1729890293595" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_without_required_name"</name>
+    </test-case>
+    <test-case start="1729890293595" stop="1729890293597" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_without_required_label"</name>
+    </test-case>
+    <test-case start="1729890293597" stop="1729890293598" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_without_required_modelInstance"</name>
+    </test-case>
+    <test-case start="1729890293599" stop="1729890293600" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_pricemodel_without_required_instance_attribute"</name>
+    </test-case>
+    <test-case start="1729890293601" stop="1729890293602" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_indexmodel_without_required_instance_attribute"</name>
+    </test-case>
+    <test-case start="1729890293602" stop="1729890293604" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_stockindexermodel_without_required_instance_attribute"</name>
+    </test-case>
+    <test-case start="1729890293604" stop="1729890293605" status="passed">
+      <name>testSchemaCorrectlyIdentifiesValidXml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

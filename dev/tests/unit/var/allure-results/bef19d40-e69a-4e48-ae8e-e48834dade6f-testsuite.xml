@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890415963" stop="1729890415975" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\ConfigGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890415964" stop="1729890415969" status="passed">
+      <name>testCreateXFrameConfig</name>
+    </test-case>
+    <test-case start="1729890415969" stop="1729890415970" status="passed">
+      <name>testCreateCacheHostsConfig</name>
+    </test-case>
+    <test-case start="1729890415971" stop="1729890415972" status="passed">
+      <name>testCreateModeConfig</name>
+    </test-case>
+    <test-case start="1729890415972" stop="1729890415973" status="passed">
+      <name>testCreateModeConfigIfAlreadySet</name>
+    </test-case>
+    <test-case start="1729890415973" stop="1729890415974" status="passed">
+      <name>testCreateCryptKeyConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

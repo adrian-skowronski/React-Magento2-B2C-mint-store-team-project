@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890459832" stop="1729890459853" version="1.4.0">
+  <name>Magento\Framework\Unserialize\Test\Unit\UnserializeTest</name>
+  <test-cases>
+    <test-case start="1729890459833" stop="1729890459834" status="passed">
+      <name>testUnserializeArray</name>
+    </test-case>
+    <test-case start="1729890459835" stop="1729890459839" status="passed">
+      <name>testUnserializeObject with data set #0</name>
+    </test-case>
+    <test-case start="1729890459841" stop="1729890459842" status="passed">
+      <name>testUnserializeObject with data set #1</name>
+    </test-case>
+    <test-case start="1729890459843" stop="1729890459845" status="passed">
+      <name>testUnserializeObject with data set #2</name>
+    </test-case>
+    <test-case start="1729890459846" stop="1729890459846" status="passed">
+      <name>testUnserializeObject with data set #3</name>
+    </test-case>
+    <test-case start="1729890459847" stop="1729890459851" status="passed">
+      <name>testUnserializeObject with data set #4</name>
+    </test-case>
+    <test-case start="1729890459852" stop="1729890459853" status="passed">
+      <name>testUnserializeObject with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

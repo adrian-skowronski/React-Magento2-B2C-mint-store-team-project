@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285607" stop="1729890285658" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\CategoryRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890285607" stop="1729890285613" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890285614" stop="1729890285616" status="passed">
+      <name>testGetWhenCategoryDoesNotExist</name>
+    </test-case>
+    <test-case start="1729890285617" stop="1729890285622" status="passed">
+      <name>testFilterExtraFieldsOnUpdateCategory with data set #0</name>
+    </test-case>
+    <test-case start="1729890285623" stop="1729890285628" status="passed">
+      <name>testFilterExtraFieldsOnUpdateCategory with data set #1</name>
+    </test-case>
+    <test-case start="1729890285628" stop="1729890285635" status="passed">
+      <name>testCreateNewCategory</name>
+    </test-case>
+    <test-case start="1729890285635" stop="1729890285638" status="passed">
+      <name>testSaveWithException</name>
+    </test-case>
+    <test-case start="1729890285638" stop="1729890285645" status="passed">
+      <name>testSaveWithValidateCategoryException with data set #0</name>
+    </test-case>
+    <test-case start="1729890285645" stop="1729890285648" status="passed">
+      <name>testSaveWithValidateCategoryException with data set #1</name>
+    </test-case>
+    <test-case start="1729890285649" stop="1729890285650" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890285650" stop="1729890285652" status="passed">
+      <name>testDeleteWithException</name>
+    </test-case>
+    <test-case start="1729890285652" stop="1729890285655" status="passed">
+      <name>testDeleteByIdentifier</name>
+    </test-case>
+    <test-case start="1729890285655" stop="1729890285658" status="passed">
+      <name>testDeleteByIdentifierWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

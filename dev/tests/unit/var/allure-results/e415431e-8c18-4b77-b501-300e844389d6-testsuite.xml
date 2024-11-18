@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264402" stop="1729890264409" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\Widget\Grid\Column\Filter\DatetimeTest</name>
+  <test-cases>
+    <test-case start="1729890264403" stop="1729890264406" status="passed">
+      <name>testGetHtmlSuccessfulTimestamp</name>
+    </test-case>
+    <test-case start="1729890264407" stop="1729890264409" status="passed">
+      <name>testGetEscapedValueEscapeString</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890457216" stop="1729890457232" version="1.4.0">
+  <name>Magento\Framework\Setup\Test\Unit\Declaration\Schema\Db\MySQL\Definition\Columns\TimestampTest</name>
+  <test-cases>
+    <test-case start="1729890457217" stop="1729890457219" status="passed">
+      <name>testToDefinition with data set #0</name>
+    </test-case>
+    <test-case start="1729890457220" stop="1729890457223" status="passed">
+      <name>testToDefinition with data set #1</name>
+    </test-case>
+    <test-case start="1729890457224" stop="1729890457225" status="passed">
+      <name>testToDefinition with data set #2</name>
+    </test-case>
+    <test-case start="1729890457226" stop="1729890457228" status="passed">
+      <name>testToDefinition with data set #3</name>
+    </test-case>
+    <test-case start="1729890457229" stop="1729890457231" status="passed">
+      <name>testToDefinition with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

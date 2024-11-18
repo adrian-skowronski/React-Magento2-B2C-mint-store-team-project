@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890323920" stop="1729890323931" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Model\Quote\Item\CartItemProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890323920" stop="1729890323922" status="passed">
+      <name>testConvertToBuyRequestReturnsNullIfItemDoesNotContainProductOption</name>
+    </test-case>
+    <test-case start="1729890323923" stop="1729890323925" status="passed">
+      <name>testConvertToBuyRequest</name>
+    </test-case>
+    <test-case start="1729890323925" stop="1729890323926" status="passed">
+      <name>testConvertToBuyRequestWithoutExtensionAttributes</name>
+    </test-case>
+    <test-case start="1729890323926" stop="1729890323929" status="passed">
+      <name>testProcessProductOptions</name>
+    </test-case>
+    <test-case start="1729890323929" stop="1729890323931" status="passed">
+      <name>testProcessProductOptionsWhenItemDoesNotHaveDownloadableLinks</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

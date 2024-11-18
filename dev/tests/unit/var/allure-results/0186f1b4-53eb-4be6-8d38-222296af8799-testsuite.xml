@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890417786" stop="1729890417792" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileScannerTest</name>
+  <test-cases>
+    <test-case start="1729890417787" stop="1729890417789" status="passed">
+      <name>testGetUses</name>
+    </test-case>
+    <test-case start="1729890417789" stop="1729890417790" status="passed">
+      <name>testGetUsesWithCorrectNamespace</name>
+    </test-case>
+    <test-case start="1729890417791" stop="1729890417791" status="passed">
+      <name>testGetUsesWithAnotherNamespace</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

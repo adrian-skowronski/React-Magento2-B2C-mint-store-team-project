@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890295438" stop="1729890295454" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Pricing\Render\PriceBoxTest</name>
+  <test-cases>
+    <test-case start="1729890295438" stop="1729890295442" status="passed">
+      <name>testJsonEncode</name>
+    </test-case>
+    <test-case start="1729890295442" stop="1729890295445" status="passed">
+      <name>testGetRandomString</name>
+    </test-case>
+    <test-case start="1729890295446" stop="1729890295450" status="passed">
+      <name>testGetCanDisplayQty with data set "product is not of type grouped"</name>
+    </test-case>
+    <test-case start="1729890295451" stop="1729890295454" status="passed">
+      <name>testGetCanDisplayQty with data set "product is of type grouped"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

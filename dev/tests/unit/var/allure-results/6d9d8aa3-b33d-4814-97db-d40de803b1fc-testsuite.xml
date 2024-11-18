@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316948" stop="1729890317018" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Metadata\Form\DateTest</name>
+  <test-cases>
+    <test-case start="1729890316948" stop="1729890316952" status="passed">
+      <name>testExtractValue</name>
+    </test-case>
+    <test-case start="1729890316952" stop="1729890316957" status="passed">
+      <name>testExtractValueWithoutInputFilter</name>
+    </test-case>
+    <test-case start="1729890316957" stop="1729890316959" status="passed">
+      <name>testValidateValue with data set "false value, load original"</name>
+    </test-case>
+    <test-case start="1729890316960" stop="1729890316961" status="passed">
+      <name>testValidateValue with data set "Empty value, not required"</name>
+    </test-case>
+    <test-case start="1729890316962" stop="1729890316964" status="passed">
+      <name>testValidateValue with data set "Empty value, required"</name>
+    </test-case>
+    <test-case start="1729890316965" stop="1729890316969" status="passed">
+      <name>testValidateValue with data set "Valid date, min set"</name>
+    </test-case>
+    <test-case start="1729890316969" stop="1729890316973" status="passed">
+      <name>testValidateValue with data set "Below min, only min set"</name>
+    </test-case>
+    <test-case start="1729890316974" stop="1729890316979" status="passed">
+      <name>testValidateValue with data set "Below min, min and max set"</name>
+    </test-case>
+    <test-case start="1729890316979" stop="1729890316984" status="passed">
+      <name>testValidateValue with data set "Above max, only max set"</name>
+    </test-case>
+    <test-case start="1729890316984" stop="1729890316988" status="passed">
+      <name>testValidateValue with data set "Valid, min and max"</name>
+    </test-case>
+    <test-case start="1729890316988" stop="1729890316992" status="passed">
+      <name>testValidateValue with data set "Invalid date"</name>
+    </test-case>
+    <test-case start="1729890316993" stop="1729890316995" status="passed">
+      <name>testCompactValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890316995" stop="1729890316997" status="passed">
+      <name>testCompactValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890316997" stop="1729890316999" status="passed">
+      <name>testCompactValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890316999" stop="1729890317001" status="passed">
+      <name>testCompactValue with data set #3</name>
+    </test-case>
+    <test-case start="1729890317002" stop="1729890317003" status="passed">
+      <name>testCompactValue with data set #4</name>
+    </test-case>
+    <test-case start="1729890317004" stop="1729890317005" status="passed">
+      <name>testRestoreValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890317006" stop="1729890317007" status="passed">
+      <name>testRestoreValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890317008" stop="1729890317010" status="passed">
+      <name>testRestoreValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890317010" stop="1729890317012" status="passed">
+      <name>testRestoreValue with data set #3</name>
+    </test-case>
+    <test-case start="1729890317013" stop="1729890317014" status="passed">
+      <name>testRestoreValue with data set #4</name>
+    </test-case>
+    <test-case start="1729890317015" stop="1729890317018" status="passed">
+      <name>testOutputValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

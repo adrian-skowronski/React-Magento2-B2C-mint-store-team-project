@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280620" stop="1729890280628" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Observer\CategoryProcessUrlRewriteMovingObserverTest</name>
+  <test-cases>
+    <test-case start="1729890280620" stop="1729890280626" status="passed">
+      <name>testCategoryProcessUrlRewriteAfterMovingWithChangedParentId</name>
+    </test-case>
+    <test-case start="1729890280626" stop="1729890280628" status="passed">
+      <name>testCategoryProcessUrlRewriteAfterMovingWithinNotChangedParent</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

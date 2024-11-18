@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890420636" stop="1729890420641" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\EventTest</name>
+  <test-cases>
+    <test-case start="1729890420636" stop="1729890420637" status="passed">
+      <name>testGetObservers</name>
+    </test-case>
+    <test-case start="1729890420637" stop="1729890420638" status="passed">
+      <name>testAddObservers</name>
+    </test-case>
+    <test-case start="1729890420638" stop="1729890420638" status="passed">
+      <name>testRemoveObserverByName</name>
+    </test-case>
+    <test-case start="1729890420639" stop="1729890420639" status="passed">
+      <name>testDispatch</name>
+    </test-case>
+    <test-case start="1729890420640" stop="1729890420640" status="passed">
+      <name>testGetName</name>
+    </test-case>
+    <test-case start="1729890420640" stop="1729890420641" status="passed">
+      <name>testGetBlock</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

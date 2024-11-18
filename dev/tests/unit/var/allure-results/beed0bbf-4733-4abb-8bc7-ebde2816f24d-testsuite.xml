@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890363938" stop="1729890363971" version="1.4.0">
+  <name>Magento\Persistent\Test\Unit\Observer\CheckExpirePersistentQuoteObserverTest</name>
+  <test-cases>
+    <test-case start="1729890363938" stop="1729890363950" status="passed">
+      <name>testExecuteWhenCanNotApplyPersistentData</name>
+    </test-case>
+    <test-case start="1729890363950" stop="1729890363952" status="passed">
+      <name>testExecuteWhenPersistentIsNotEnabled</name>
+    </test-case>
+    <test-case start="1729890363953" stop="1729890363956" status="passed">
+      <name>testExecuteWhenPersistentIsEnabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890363957" stop="1729890363960" status="passed">
+      <name>testExecuteWhenPersistentIsEnabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890363961" stop="1729890363965" status="passed">
+      <name>testExecuteWhenPersistentIsEnabled with data set #2</name>
+    </test-case>
+    <test-case start="1729890363967" stop="1729890363971" status="passed">
+      <name>testExecuteWhenPersistentIsEnabled with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

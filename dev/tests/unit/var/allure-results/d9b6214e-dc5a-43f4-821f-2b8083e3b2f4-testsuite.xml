@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442905" stop="1729890442911" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Argument\Interpreter\NumberTest</name>
+  <test-cases>
+    <test-case start="1729890442905" stop="1729890442905" status="passed">
+      <name>testEvaluateException with data set "no value"</name>
+    </test-case>
+    <test-case start="1729890442906" stop="1729890442906" status="passed">
+      <name>testEvaluateException with data set "non-numeric value"</name>
+    </test-case>
+    <test-case start="1729890442907" stop="1729890442908" status="passed">
+      <name>testEvaluate with data set "integer"</name>
+    </test-case>
+    <test-case start="1729890442908" stop="1729890442909" status="passed">
+      <name>testEvaluate with data set "float"</name>
+    </test-case>
+    <test-case start="1729890442909" stop="1729890442910" status="passed">
+      <name>testEvaluate with data set "string numeric (integer)"</name>
+    </test-case>
+    <test-case start="1729890442910" stop="1729890442911" status="passed">
+      <name>testEvaluate with data set "string numeric (float)"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361853" stop="1729890361876" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Method\Checks\SpecificationPluginTest</name>
+  <test-cases>
+    <test-case start="1729890361853" stop="1729890361863" status="passed">
+      <name>testAfterIsApplicableNotOriginallyApplicable</name>
+    </test-case>
+    <test-case start="1729890361863" stop="1729890361864" status="passed">
+      <name>testAfterIsApplicableNotAgreement</name>
+    </test-case>
+    <test-case start="1729890361865" stop="1729890361866" status="passed">
+      <name>testAfterIsApplicableNoCustomerId</name>
+    </test-case>
+    <test-case start="1729890361866" stop="1729890361869" status="passed">
+      <name>testAfterIsApplicable with data set #0</name>
+    </test-case>
+    <test-case start="1729890361870" stop="1729890361873" status="passed">
+      <name>testAfterIsApplicable with data set #1</name>
+    </test-case>
+    <test-case start="1729890361873" stop="1729890361876" status="passed">
+      <name>testAfterIsApplicable with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

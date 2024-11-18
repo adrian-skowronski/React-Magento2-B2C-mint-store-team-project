@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451412" stop="1729890451421" version="1.4.0">
+  <name>Magento\Framework\Lock\Test\Unit\LockBackendFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890451413" stop="1729890451414" status="passed">
+      <name>testCreateWithException</name>
+    </test-case>
+    <test-case start="1729890451415" stop="1729890451417" status="passed">
+      <name>testCreate with data set "db"</name>
+    </test-case>
+    <test-case start="1729890451418" stop="1729890451419" status="passed">
+      <name>testCreate with data set "cache"</name>
+    </test-case>
+    <test-case start="1729890451419" stop="1729890451421" status="passed">
+      <name>testCreate with data set "file"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890272766" stop="1729890273586" version="1.4.0">
+  <name>Magento\CatalogImportExport\Test\Unit\Model\Import\ProductTest</name>
+  <test-cases>
+    <test-case start="1729890272767" stop="1729890272847" status="passed">
+      <name>testSaveProductAttributes</name>
+    </test-case>
+    <test-case start="1729890272848" stop="1729890272854" status="passed">
+      <name>testIsAttributeValidAssertAttrValid with data set #0</name>
+    </test-case>
+    <test-case start="1729890272855" stop="1729890272860" status="passed">
+      <name>testIsAttributeValidAssertAttrValid with data set #1</name>
+    </test-case>
+    <test-case start="1729890272861" stop="1729890272867" status="passed">
+      <name>testIsAttributeValidAssertAttrValid with data set #2</name>
+    </test-case>
+    <test-case start="1729890272867" stop="1729890272873" status="passed">
+      <name>testIsAttributeValidAssertAttrValid with data set #3</name>
+    </test-case>
+    <test-case start="1729890272873" stop="1729890272879" status="passed">
+      <name>testIsAttributeValidAssertAttrValid with data set #4</name>
+    </test-case>
+    <test-case start="1729890272880" stop="1729890272886" status="passed">
+      <name>testIsAttributeValidAssertAttrValid with data set #5</name>
+    </test-case>
+    <test-case start="1729890272887" stop="1729890272893" status="passed">
+      <name>testIsAttributeValidAssertAttrValid with data set #6</name>
+    </test-case>
+    <test-case start="1729890272894" stop="1729890272902" status="passed">
+      <name>testIsAttributeValidAssertAttrInvalid with data set #0</name>
+    </test-case>
+    <test-case start="1729890272902" stop="1729890272908" status="passed">
+      <name>testIsAttributeValidAssertAttrInvalid with data set #1</name>
+    </test-case>
+    <test-case start="1729890272908" stop="1729890272914" status="passed">
+      <name>testIsAttributeValidAssertAttrInvalid with data set #2</name>
+    </test-case>
+    <test-case start="1729890272914" stop="1729890272920" status="passed">
+      <name>testIsAttributeValidAssertAttrInvalid with data set #3</name>
+    </test-case>
+    <test-case start="1729890272920" stop="1729890272930" status="passed">
+      <name>testIsAttributeValidAssertAttrInvalid with data set #4</name>
+    </test-case>
+    <test-case start="1729890272931" stop="1729890272942" status="passed">
+      <name>testIsAttributeValidAssertAttrInvalid with data set #5</name>
+    </test-case>
+    <test-case start="1729890272942" stop="1729890272955" status="passed">
+      <name>testIsAttributeValidAssertAttrInvalid with data set #6</name>
+    </test-case>
+    <test-case start="1729890272956" stop="1729890272967" status="passed">
+      <name>testGetMultipleValueSeparatorDefault</name>
+    </test-case>
+    <test-case start="1729890272967" stop="1729890272978" status="passed">
+      <name>testGetMultipleValueSeparatorFromParameters</name>
+    </test-case>
+    <test-case start="1729890272979" stop="1729890272991" status="passed">
+      <name>testGetEmptyAttributeValueConstantDefault</name>
+    </test-case>
+    <test-case start="1729890272991" stop="1729890273002" status="passed">
+      <name>testGetEmptyAttributeValueConstantFromParameters</name>
+    </test-case>
+    <test-case start="1729890273003" stop="1729890273017" status="passed">
+      <name>testDeleteProductsForReplacement</name>
+    </test-case>
+    <test-case start="1729890273017" stop="1729890273029" status="passed">
+      <name>testGetMediaGalleryAttributeIdIfNotSetYet</name>
+    </test-case>
+    <test-case start="1729890273029" stop="1729890273039" status="passed">
+      <name>testGetRowScope with data set #0</name>
+    </test-case>
+    <test-case start="1729890273040" stop="1729890273050" status="passed">
+      <name>testGetRowScope with data set #1</name>
+    </test-case>
+    <test-case start="1729890273050" stop="1729890273061" status="passed">
+      <name>testGetRowScope with data set #2</name>
+    </test-case>
+    <test-case start="1729890273061" stop="1729890273071" status="passed">
+      <name>testValidateRowIsAlreadyValidated</name>
+    </test-case>
+    <test-case start="1729890273072" stop="1729890273084" status="passed">
+      <name>testValidateRow with data set #0</name>
+    </test-case>
+    <test-case start="1729890273084" stop="1729890273095" status="passed">
+      <name>testValidateRow with data set #1</name>
+    </test-case>
+    <test-case start="1729890273096" stop="1729890273106" status="passed">
+      <name>testValidateRow with data set #2</name>
+    </test-case>
+    <test-case start="1729890273107" stop="1729890273117" status="passed">
+      <name>testValidateRow with data set #3</name>
+    </test-case>
+    <test-case start="1729890273118" stop="1729890273129" status="passed">
+      <name>testValidateRow with data set #4</name>
+    </test-case>
+    <test-case start="1729890273129" stop="1729890273141" status="passed">
+      <name>testValidateRowDeleteBehaviourAddRowErrorCall</name>
+    </test-case>
+    <test-case start="1729890273141" stop="1729890273151" status="passed">
+      <name>testValidateRowValidatorCheck</name>
+    </test-case>
+    <test-case start="1729890273152" stop="1729890273162" status="passed">
+      <name>testGetProductWebsites</name>
+    </test-case>
+    <test-case start="1729890273162" stop="1729890273172" status="passed">
+      <name>testGetProductCategories</name>
+    </test-case>
+    <test-case start="1729890273172" stop="1729890273182" status="passed">
+      <name>testGetStoreIdByCode with data set #0</name>
+    </test-case>
+    <test-case start="1729890273182" stop="1729890273192" status="passed">
+      <name>testGetStoreIdByCode with data set #1</name>
+    </test-case>
+    <test-case start="1729890273192" stop="1729890273202" status="passed">
+      <name>testGetNewSku</name>
+    </test-case>
+    <test-case start="1729890273203" stop="1729890273212" status="passed">
+      <name>testGetCategoryProcessor</name>
+    </test-case>
+    <test-case start="1729890273213" stop="1729890273226" status="passed">
+      <name>testValidateRowCheckSpecifiedSku with data set #0</name>
+    </test-case>
+    <test-case start="1729890273226" stop="1729890273237" status="passed">
+      <name>testValidateRowCheckSpecifiedSku with data set #1</name>
+    </test-case>
+    <test-case start="1729890273237" stop="1729890273249" status="passed">
+      <name>testValidateRowCheckSpecifiedSku with data set #2</name>
+    </test-case>
+    <test-case start="1729890273249" stop="1729890273259" status="passed">
+      <name>testValidateRowProcessEntityIncrement</name>
+    </test-case>
+    <test-case start="1729890273260" stop="1729890273271" status="passed">
+      <name>testValidateRowValidateExistingProductTypeAddNewSku</name>
+    </test-case>
+    <test-case start="1729890273272" stop="1729890273282" status="passed">
+      <name>testValidateRowValidateExistingProductTypeAddErrorRowCall</name>
+    </test-case>
+    <test-case start="1729890273283" stop="1729890273295" status="passed">
+      <name>testValidateRowValidateNewProductTypeAddRowErrorCall with data set #0</name>
+    </test-case>
+    <test-case start="1729890273296" stop="1729890273319" status="passed">
+      <name>testValidateRowValidateNewProductTypeAddRowErrorCall with data set #1</name>
+    </test-case>
+    <test-case start="1729890273320" stop="1729890273370" status="passed">
+      <name>testValidateRowValidateNewProductTypeAddRowErrorCall with data set #2</name>
+    </test-case>
+    <test-case start="1729890273371" stop="1729890273388" status="passed">
+      <name>testValidateRowValidateNewProductTypeAddRowErrorCall with data set #3</name>
+    </test-case>
+    <test-case start="1729890273388" stop="1729890273401" status="passed">
+      <name>testValidateRowValidateNewProductTypeGetNewSkuCall</name>
+    </test-case>
+    <test-case start="1729890273401" stop="1729890273414" status="passed">
+      <name>testValidateDefaultScopeNotValidAttributesResetSku</name>
+    </test-case>
+    <test-case start="1729890273415" stop="1729890273429" status="passed">
+      <name>testValidateRowSetAttributeSetCodeIntoRowData</name>
+    </test-case>
+    <test-case start="1729890273429" stop="1729890273441" status="passed">
+      <name>testValidateValidateOptionEntity</name>
+    </test-case>
+    <test-case start="1729890273441" stop="1729890273453" status="passed">
+      <name>testGetImagesFromRow with data set #0</name>
+    </test-case>
+    <test-case start="1729890273454" stop="1729890273466" status="passed">
+      <name>testGetImagesFromRow with data set #1</name>
+    </test-case>
+    <test-case start="1729890273467" stop="1729890273478" status="passed">
+      <name>testParseAttributesWithoutWrappedValuesWillReturnsLowercasedAttributeCodes</name>
+    </test-case>
+    <test-case start="1729890273478" stop="1729890273492" status="passed">
+      <name>testParseAttributesWithWrappedValuesWillReturnsLowercasedAttributeCodes</name>
+    </test-case>
+    <test-case start="1729890273492" stop="1729890273523" status="passed">
+      <name>testFillUploaderObject with data set #0</name>
+    </test-case>
+    <test-case start="1729890273523" stop="1729890273536" status="passed">
+      <name>testFillUploaderObject with data set #1</name>
+    </test-case>
+    <test-case start="1729890273537" stop="1729890273549" status="passed">
+      <name>testFillUploaderObject with data set #2</name>
+    </test-case>
+    <test-case start="1729890273550" stop="1729890273561" status="passed">
+      <name>testUploadMediaFiles with data set #0</name>
+    </test-case>
+    <test-case start="1729890273561" stop="1729890273574" status="passed">
+      <name>testUploadMediaFiles with data set #1</name>
+    </test-case>
+    <test-case start="1729890273574" stop="1729890273586" status="passed">
+      <name>testGetProductCategoriesDataSave with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

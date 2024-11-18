@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890261102" stop="1729890261108" version="1.4.0">
+  <name>Magento\AdvancedPricingImportExport\Test\Unit\Model\Import\AdvancedPricing\Validator\TierPriceTypeTest</name>
+  <test-cases>
+    <test-case start="1729890261102" stop="1729890261103" status="passed">
+      <name>testIsValid with data set #0</name>
+    </test-case>
+    <test-case start="1729890261104" stop="1729890261105" status="passed">
+      <name>testIsValid with data set #1</name>
+    </test-case>
+    <test-case start="1729890261105" stop="1729890261106" status="passed">
+      <name>testIsValid with data set #2</name>
+    </test-case>
+    <test-case start="1729890261106" stop="1729890261107" status="passed">
+      <name>testIsValid with data set #3</name>
+    </test-case>
+    <test-case start="1729890261108" stop="1729890261108" status="passed">
+      <name>testIsValid with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

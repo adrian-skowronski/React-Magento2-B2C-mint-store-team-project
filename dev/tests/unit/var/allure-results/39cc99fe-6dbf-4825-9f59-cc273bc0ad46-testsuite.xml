@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319127" stop="1729890319135" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Console\Command\SetModeCommandTest</name>
+  <test-cases>
+    <test-case start="1729890319127" stop="1729890319130" status="passed">
+      <name>testSetProductionMode</name>
+    </test-case>
+    <test-case start="1729890319130" stop="1729890319131" status="passed">
+      <name>testSetDeveloperMode</name>
+    </test-case>
+    <test-case start="1729890319132" stop="1729890319133" status="passed">
+      <name>testSetDefaultMode</name>
+    </test-case>
+    <test-case start="1729890319133" stop="1729890319134" status="passed">
+      <name>testSetProductionSkipCompilation</name>
+    </test-case>
+    <test-case start="1729890319134" stop="1729890319135" status="passed">
+      <name>testSetInvalidMode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

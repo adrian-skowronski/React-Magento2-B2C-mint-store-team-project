@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287998" stop="1729890288029" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Attribute\Backend\WeightTest</name>
+  <test-cases>
+    <test-case start="1729890287999" stop="1729890288001" status="passed">
+      <name>testValidate with data set "US simple"</name>
+    </test-case>
+    <test-case start="1729890288001" stop="1729890288004" status="passed">
+      <name>testValidate with data set "US full"</name>
+    </test-case>
+    <test-case start="1729890288004" stop="1729890288006" status="passed">
+      <name>testValidate with data set "Brazil"</name>
+    </test-case>
+    <test-case start="1729890288007" stop="1729890288009" status="passed">
+      <name>testValidate with data set "India"</name>
+    </test-case>
+    <test-case start="1729890288009" stop="1729890288011" status="passed">
+      <name>testValidate with data set "Lebanon"</name>
+    </test-case>
+    <test-case start="1729890288011" stop="1729890288013" status="passed">
+      <name>testValidate with data set "zero"</name>
+    </test-case>
+    <test-case start="1729890288014" stop="1729890288016" status="passed">
+      <name>testValidate with data set "NaN becomes zero"</name>
+    </test-case>
+    <test-case start="1729890288017" stop="1729890288020" status="passed">
+      <name>testValidateForFailure with data set "negative US simple"</name>
+    </test-case>
+    <test-case start="1729890288020" stop="1729890288023" status="passed">
+      <name>testValidateForFailure with data set "negative US full"</name>
+    </test-case>
+    <test-case start="1729890288023" stop="1729890288025" status="passed">
+      <name>testValidateForFailure with data set "negative Brazil"</name>
+    </test-case>
+    <test-case start="1729890288025" stop="1729890288027" status="passed">
+      <name>testValidateForFailure with data set "negative India"</name>
+    </test-case>
+    <test-case start="1729890288027" stop="1729890288029" status="passed">
+      <name>testValidateForFailure with data set "negative Lebanon"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

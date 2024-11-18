@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890309502" stop="1729890309515" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Model\Plugin\Frontend\UsedProductsCacheTest</name>
+  <test-cases>
+    <test-case start="1729890309502" stop="1729890309512" status="passed">
+      <name>testDefaultLifeTime</name>
+    </test-case>
+    <test-case start="1729890309512" stop="1729890309515" status="passed">
+      <name>testCustomLifeTime</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

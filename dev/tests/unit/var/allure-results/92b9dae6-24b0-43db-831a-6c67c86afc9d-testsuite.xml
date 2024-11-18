@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890268158" stop="1729890268168" version="1.4.0">
+  <name>Magento\Backup\Test\Unit\Cron\SystemBackupTest</name>
+  <test-cases>
+    <test-case start="1729890268159" stop="1729890268168" status="passed">
+      <name>testDisabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

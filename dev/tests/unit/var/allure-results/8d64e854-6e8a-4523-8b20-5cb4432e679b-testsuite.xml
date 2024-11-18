@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890453082" stop="1729890453103" version="1.4.0">
+  <name>Magento\Framework\Mview\Test\Unit\ProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890453082" stop="1729890453097" status="passed">
+      <name>testUpdate</name>
+    </test-case>
+    <test-case start="1729890453097" stop="1729890453099" status="passed">
+      <name>testUpdateWithGroup</name>
+    </test-case>
+    <test-case start="1729890453099" stop="1729890453101" status="passed">
+      <name>testClearChangelog</name>
+    </test-case>
+    <test-case start="1729890453101" stop="1729890453102" status="passed">
+      <name>testClearChangelogWithGroup</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

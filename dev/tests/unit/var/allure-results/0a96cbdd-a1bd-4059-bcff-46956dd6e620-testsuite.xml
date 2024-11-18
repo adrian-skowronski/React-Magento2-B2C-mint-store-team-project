@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890288126" stop="1729890288136" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Attribute\OptionManagementTest</name>
+  <test-cases>
+    <test-case start="1729890288126" stop="1729890288130" status="passed">
+      <name>testGetItems</name>
+    </test-case>
+    <test-case start="1729890288130" stop="1729890288133" status="passed">
+      <name>testAdd</name>
+    </test-case>
+    <test-case start="1729890288133" stop="1729890288134" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890288134" stop="1729890288135" status="passed">
+      <name>testDeleteWithInvalidOption</name>
+    </test-case>
+    <test-case start="1729890288135" stop="1729890288136" status="passed">
+      <name>testUpdate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

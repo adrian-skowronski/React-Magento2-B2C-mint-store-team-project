@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890296982" stop="1729890297013" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Block\Cart\Item\RendererTest</name>
+  <test-cases>
+    <test-case start="1729890296983" stop="1729890296988" status="passed">
+      <name>testGetProductForThumbnail</name>
+    </test-case>
+    <test-case start="1729890296988" stop="1729890296991" status="passed">
+      <name>testGetIdentities</name>
+    </test-case>
+    <test-case start="1729890296992" stop="1729890296994" status="passed">
+      <name>testGetIdentitiesFromEmptyItem</name>
+    </test-case>
+    <test-case start="1729890296994" stop="1729890296998" status="passed">
+      <name>testGetProductPriceHtml</name>
+    </test-case>
+    <test-case start="1729890296998" stop="1729890297007" status="passed">
+      <name>testGetActions</name>
+    </test-case>
+    <test-case start="1729890297007" stop="1729890297010" status="passed">
+      <name>testGetActionsWithNoBlock</name>
+    </test-case>
+    <test-case start="1729890297010" stop="1729890297013" status="passed">
+      <name>testGetImage</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

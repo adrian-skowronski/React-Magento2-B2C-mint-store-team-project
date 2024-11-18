@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890322134" stop="1729890322144" version="1.4.0">
+  <name>Magento\Directory\Test\Unit\Model\CurrencyInformationAcquirerTest</name>
+  <test-cases>
+    <test-case start="1729890322135" stop="1729890322144" status="passed">
+      <name>testGetCurrencyInfo</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

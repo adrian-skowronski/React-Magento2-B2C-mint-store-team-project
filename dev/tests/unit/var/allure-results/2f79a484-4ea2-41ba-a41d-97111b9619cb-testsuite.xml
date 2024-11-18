@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890286659" stop="1729890286689" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Product\Eav\AbstractActionTest</name>
+  <test-cases>
+    <test-case start="1729890286660" stop="1729890286664" status="passed">
+      <name>testGetIndexers</name>
+    </test-case>
+    <test-case start="1729890286664" stop="1729890286665" status="passed">
+      <name>testGetIndexerWithUnknownTypeThrowsException</name>
+    </test-case>
+    <test-case start="1729890286665" stop="1729890286666" status="passed">
+      <name>testGetIndexer</name>
+    </test-case>
+    <test-case start="1729890286667" stop="1729890286676" status="passed">
+      <name>testReindexWithoutArgumentsExecutesReindexAll</name>
+    </test-case>
+    <test-case start="1729890286677" stop="1729890286680" status="passed">
+      <name>testReindexWithNotNullArgumentExecutesReindexEntities with data set #0</name>
+    </test-case>
+    <test-case start="1729890286681" stop="1729890286684" status="passed">
+      <name>testReindexWithNotNullArgumentExecutesReindexEntities with data set #1</name>
+    </test-case>
+    <test-case start="1729890286685" stop="1729890286688" status="passed">
+      <name>testReindexWithNotNullArgumentExecutesReindexEntities with data set #2</name>
+    </test-case>
+    <test-case start="1729890286688" stop="1729890286689" status="passed">
+      <name>testReindexWithDisabledEavIndexer</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

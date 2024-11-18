@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271268" stop="1729890271280" version="1.4.0">
+  <name>Magento\Captcha\Test\Unit\Model\Checkout\ConfigProviderTest</name>
+  <test-cases>
+    <test-case start="1729890271269" stop="1729890271274" status="passed">
+      <name>testGetConfig with data set #0</name>
+    </test-case>
+    <test-case start="1729890271274" stop="1729890271279" status="passed">
+      <name>testGetConfig with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

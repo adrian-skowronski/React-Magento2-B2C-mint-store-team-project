@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297473" stop="1729890297489" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Controller\Cart\ConfigureTest</name>
+  <test-cases>
+    <test-case start="1729890297473" stop="1729890297484" status="passed">
+      <name>testPrepareAndRenderCall</name>
+    </test-case>
+    <test-case start="1729890297484" stop="1729890297489" status="passed">
+      <name>testRedirectWithWrongProductId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

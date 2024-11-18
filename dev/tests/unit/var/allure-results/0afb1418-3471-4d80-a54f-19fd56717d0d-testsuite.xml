@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456324" stop="1729890456329" version="1.4.0">
+  <name>Magento\Framework\Search\Test\Unit\Response\AggregationTest</name>
+  <test-cases>
+    <test-case start="1729890456324" stop="1729890456327" status="passed">
+      <name>testGetIterator</name>
+    </test-case>
+    <test-case start="1729890456327" stop="1729890456328" status="passed">
+      <name>testGetBucketNames</name>
+    </test-case>
+    <test-case start="1729890456328" stop="1729890456329" status="passed">
+      <name>testGetBucket</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

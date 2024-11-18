@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271382" stop="1729890271454" version="1.4.0">
+  <name>Magento\Captcha\Test\Unit\Model\DefaultTest</name>
+  <test-cases>
+    <test-case start="1729890271382" stop="1729890271402" status="passed">
+      <name>testGetBlockName</name>
+    </test-case>
+    <test-case start="1729890271402" stop="1729890271406" status="passed">
+      <name>testIsRequired</name>
+    </test-case>
+    <test-case start="1729890271407" stop="1729890271410" status="passed">
+      <name>testIsRequiredForIntegration</name>
+    </test-case>
+    <test-case start="1729890271410" stop="1729890271413" status="passed">
+      <name>testIsCaseSensitive</name>
+    </test-case>
+    <test-case start="1729890271413" stop="1729890271416" status="passed">
+      <name>testGetFont</name>
+    </test-case>
+    <test-case start="1729890271416" stop="1729890271419" status="passed">
+      <name>testGetTimeout</name>
+    </test-case>
+    <test-case start="1729890271420" stop="1729890271422" status="passed">
+      <name>testIsCorrect</name>
+    </test-case>
+    <test-case start="1729890271423" stop="1729890271425" status="passed">
+      <name>testGetImgSrc</name>
+    </test-case>
+    <test-case start="1729890271425" stop="1729890271429" status="passed">
+      <name>testLogAttempt</name>
+    </test-case>
+    <test-case start="1729890271429" stop="1729890271432" status="passed">
+      <name>testGetWord</name>
+    </test-case>
+    <test-case start="1729890271432" stop="1729890271436" status="passed">
+      <name>testIsShownToLoggedInUser with data set #0</name>
+    </test-case>
+    <test-case start="1729890271436" stop="1729890271439" status="passed">
+      <name>testIsShownToLoggedInUser with data set #1</name>
+    </test-case>
+    <test-case start="1729890271439" stop="1729890271443" status="passed">
+      <name>testIsShownToLoggedInUser with data set #2</name>
+    </test-case>
+    <test-case start="1729890271443" stop="1729890271446" status="passed">
+      <name>testGenerateWord with data set #0</name>
+    </test-case>
+    <test-case start="1729890271447" stop="1729890271450" status="passed">
+      <name>testGenerateWord with data set #1</name>
+    </test-case>
+    <test-case start="1729890271450" stop="1729890271454" status="passed">
+      <name>testGenerateWord with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

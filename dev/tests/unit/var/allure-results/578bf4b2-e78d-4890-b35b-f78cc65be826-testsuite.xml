@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890275056" stop="1729890275084" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\Indexer\Stock\Action\FullTest</name>
+  <test-cases>
+    <test-case start="1729890275057" stop="1729890275082" status="passed">
+      <name>testExecuteWithAdapterErrorThrowsException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

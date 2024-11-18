@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890416822" stop="1729890416967" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\InstallerTest</name>
+  <test-cases>
+    <test-case start="1729890416822" stop="1729890416851" status="passed">
+      <name>testInstall with data set #0</name>
+    </test-case>
+    <test-case start="1729890416852" stop="1729890416867" status="passed">
+      <name>testInstall with data set #1</name>
+    </test-case>
+    <test-case start="1729890416868" stop="1729890416883" status="passed">
+      <name>testInstallWithInvalidRemoteStorageConfiguration with data set #0</name>
+    </test-case>
+    <test-case start="1729890416883" stop="1729890416890" status="passed">
+      <name>testInstallWithInvalidRemoteStorageConfiguration with data set #1</name>
+    </test-case>
+    <test-case start="1729890416891" stop="1729890416909" status="passed">
+      <name>testInstallWithUnresolvableRemoteStorageValidator</name>
+    </test-case>
+    <test-case start="1729890416910" stop="1729890416917" status="passed">
+      <name>testInstallWithInvalidRemoteStorageConfigurationWithEarlyException with data set #0</name>
+    </test-case>
+    <test-case start="1729890416918" stop="1729890416924" status="passed">
+      <name>testInstallWithInvalidRemoteStorageConfigurationWithEarlyException with data set #1</name>
+    </test-case>
+    <test-case start="1729890416924" stop="1729890416935" status="passed">
+      <name>testInstallDataFixtures with data set "keep cache"</name>
+    </test-case>
+    <test-case start="1729890416936" stop="1729890416940" status="passed">
+      <name>testInstallDataFixtures with data set "do not keep a cache"</name>
+    </test-case>
+    <test-case start="1729890416941" stop="1729890416944" status="passed">
+      <name>testInstallDataFixturesDataProvider</name>
+    </test-case>
+    <test-case start="1729890416944" stop="1729890416946" status="passed">
+      <name>testCheckInstallationFilePermissions</name>
+    </test-case>
+    <test-case start="1729890416946" stop="1729890416948" status="passed">
+      <name>testCheckInstallationFilePermissionsError</name>
+    </test-case>
+    <test-case start="1729890416948" stop="1729890416950" status="passed">
+      <name>testCheckExtensions</name>
+    </test-case>
+    <test-case start="1729890416951" stop="1729890416953" status="passed">
+      <name>testCheckExtensionsError</name>
+    </test-case>
+    <test-case start="1729890416953" stop="1729890416955" status="passed">
+      <name>testCheckApplicationFilePermissions</name>
+    </test-case>
+    <test-case start="1729890416955" stop="1729890416958" status="passed">
+      <name>testUpdateModulesSequence</name>
+    </test-case>
+    <test-case start="1729890416958" stop="1729890416961" status="passed">
+      <name>testUpdateModulesSequenceKeepGenerated</name>
+    </test-case>
+    <test-case start="1729890416961" stop="1729890416964" status="passed">
+      <name>testUninstall</name>
+    </test-case>
+    <test-case start="1729890416964" stop="1729890416967" status="passed">
+      <name>testCleanupDb</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890407788" stop="1729890407817" version="1.4.0">
+  <name>Magento\Vault\Test\Unit\Model\PaymentTokenManagementTest</name>
+  <test-cases>
+    <test-case start="1729890407788" stop="1729890407794" status="passed">
+      <name>testGetListByCustomerId</name>
+    </test-case>
+    <test-case start="1729890407794" stop="1729890407795" status="passed">
+      <name>testGetByPaymentId</name>
+    </test-case>
+    <test-case start="1729890407795" stop="1729890407796" status="passed">
+      <name>testGetByPaymentIdNull</name>
+    </test-case>
+    <test-case start="1729890407797" stop="1729890407798" status="passed">
+      <name>testGetByGatewayToken</name>
+    </test-case>
+    <test-case start="1729890407799" stop="1729890407801" status="passed">
+      <name>testGetByGatewayTokenNull</name>
+    </test-case>
+    <test-case start="1729890407801" stop="1729890407803" status="passed">
+      <name>testGetByPublicHash</name>
+    </test-case>
+    <test-case start="1729890407803" stop="1729890407806" status="passed">
+      <name>testSaveTokenWithPaymentLinkNoDuplicate</name>
+    </test-case>
+    <test-case start="1729890407806" stop="1729890407809" status="passed">
+      <name>testSaveTokenWithPaymentLinkWithDuplicateTokenVisible</name>
+    </test-case>
+    <test-case start="1729890407809" stop="1729890407812" status="passed">
+      <name>testSaveTokenWithPaymentLinkWithDuplicateTokenNotVisible</name>
+    </test-case>
+    <test-case start="1729890407812" stop="1729890407817" status="passed">
+      <name>testGetVisibleAvailableTokens</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

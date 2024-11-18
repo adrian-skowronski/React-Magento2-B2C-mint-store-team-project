@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890440107" stop="1729890440114" version="1.4.0">
+  <name>Magento\Framework\Code\Test\Unit\NameBuilderTest</name>
+  <test-cases>
+    <test-case start="1729890440107" stop="1729890440108" status="passed">
+      <name>testBuildClassName with data set #0</name>
+    </test-case>
+    <test-case start="1729890440109" stop="1729890440109" status="passed">
+      <name>testBuildClassName with data set #1</name>
+    </test-case>
+    <test-case start="1729890440110" stop="1729890440110" status="passed">
+      <name>testBuildClassName with data set #2</name>
+    </test-case>
+    <test-case start="1729890440111" stop="1729890440111" status="passed">
+      <name>testBuildClassName with data set #3</name>
+    </test-case>
+    <test-case start="1729890440112" stop="1729890440112" status="passed">
+      <name>testBuildClassName with data set #4</name>
+    </test-case>
+    <test-case start="1729890440113" stop="1729890440113" status="passed">
+      <name>testBuildClassName with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

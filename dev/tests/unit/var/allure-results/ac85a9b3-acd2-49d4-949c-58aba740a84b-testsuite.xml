@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890257911" stop="1729890257963" version="1.4.0">
+  <name>Magento\AdobeIms\Test\Unit\Block\Adminhtml\SignInTest</name>
+  <test-cases>
+    <test-case start="1729890257912" stop="1729890257931" status="passed">
+      <name>testGetComponentJsonConfig with data set "Existing authorized user"</name>
+    </test-case>
+    <test-case start="1729890257940" stop="1729890257946" status="passed">
+      <name>testGetComponentJsonConfig with data set "Existing non-authorized user"</name>
+    </test-case>
+    <test-case start="1729890257947" stop="1729890257957" status="passed">
+      <name>testGetComponentJsonConfig with data set "Non-existing user"</name>
+    </test-case>
+    <test-case start="1729890257959" stop="1729890257963" status="passed">
+      <name>testGetComponentJsonConfig with data set "Existing user with additional config provider"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404211" stop="1729890404234" version="1.4.0">
+  <name>Magento\TwoFactorAuth\Test\Unit\Model\TfaTest</name>
+  <test-cases>
+    <test-case start="1729890404211" stop="1729890404216" status="passed">
+      <name>testAllEnabledProvidersUpdates</name>
+    </test-case>
+    <test-case start="1729890404216" stop="1729890404218" status="passed">
+      <name>testGetForcedProviders with data set "not defined"</name>
+    </test-case>
+    <test-case start="1729890404218" stop="1729890404220" status="passed">
+      <name>testGetForcedProviders with data set "not defined string"</name>
+    </test-case>
+    <test-case start="1729890404220" stop="1729890404221" status="passed">
+      <name>testGetForcedProviders with data set "not defined array"</name>
+    </test-case>
+    <test-case start="1729890404222" stop="1729890404224" status="passed">
+      <name>testGetForcedProviders with data set "valid array"</name>
+    </test-case>
+    <test-case start="1729890404224" stop="1729890404226" status="passed">
+      <name>testGetForcedProviders with data set "valid string"</name>
+    </test-case>
+    <test-case start="1729890404227" stop="1729890404229" status="passed">
+      <name>testGetForcedProviders with data set "invalid code"</name>
+    </test-case>
+    <test-case start="1729890404230" stop="1729890404231" status="passed">
+      <name>testGetForcedProviders with data set "disabledProvider"</name>
+    </test-case>
+    <test-case start="1729890404231" stop="1729890404233" status="passed">
+      <name>testGetUserProviders</name>
+    </test-case>
+    <test-case start="1729890404233" stop="1729890404234" status="passed">
+      <name>testIsEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

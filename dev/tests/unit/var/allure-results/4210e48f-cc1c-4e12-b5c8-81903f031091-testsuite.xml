@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890299903" stop="1729890299909" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Controller\Block\InlineEditTest</name>
+  <test-cases>
+    <test-case start="1729890299903" stop="1729890299907" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+    <test-case start="1729890299907" stop="1729890299909" status="passed">
+      <name>testExecuteWithoutData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

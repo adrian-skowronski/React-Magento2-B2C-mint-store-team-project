@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890373811" stop="1729890373827" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Model\ResourceModel\Report\Quote\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890373811" stop="1729890373815" status="passed">
+      <name>testGetSelectCountSql</name>
+    </test-case>
+    <test-case start="1729890373815" stop="1729890373820" status="passed">
+      <name>testPrepareActiveCartItems</name>
+    </test-case>
+    <test-case start="1729890373821" stop="1729890373827" status="passed">
+      <name>testLoadWithFilter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890407863" stop="1729890407898" version="1.4.0">
+  <name>Magento\Vault\Test\Unit\Model\Ui\Adminhtml\TokensConfigProviderTest</name>
+  <test-cases>
+    <test-case start="1729890407864" stop="1729890407873" status="passed">
+      <name>testGetTokensComponentsRegisteredCustomer</name>
+    </test-case>
+    <test-case start="1729890407873" stop="1729890407880" status="passed">
+      <name>testGetTokensComponentsGuestCustomer</name>
+    </test-case>
+    <test-case start="1729890407881" stop="1729890407884" status="passed">
+      <name>testGetTokensComponentsGuestCustomerOrderNotFound with data set #0</name>
+    </test-case>
+    <test-case start="1729890407885" stop="1729890407888" status="passed">
+      <name>testGetTokensComponentsGuestCustomerOrderNotFound with data set #1</name>
+    </test-case>
+    <test-case start="1729890407889" stop="1729890407892" status="passed">
+      <name>testGetTokensComponentsEmptyComponentProvider</name>
+    </test-case>
+    <test-case start="1729890407892" stop="1729890407898" status="passed">
+      <name>testGetTokensComponentsForGuestCustomerWithoutStoredTokens</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

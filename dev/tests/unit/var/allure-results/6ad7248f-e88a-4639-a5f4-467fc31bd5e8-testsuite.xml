@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890283184" stop="1729890283198" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Controller\Adminhtml\Category\Image\UploadTest</name>
+  <test-cases>
+    <test-case start="1729890283185" stop="1729890283191" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890283192" stop="1729890283194" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890283195" stop="1729890283197" status="passed">
+      <name>testExecute with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

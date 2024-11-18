@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890332641" stop="1729890332645" version="1.4.0">
+  <name>Magento\ImportExport\Test\Unit\Model\Source\Export\FormatTest</name>
+  <test-cases>
+    <test-case start="1729890332642" stop="1729890332643" status="passed">
+      <name>testToOptionArray with data set "Empty file format"</name>
+    </test-case>
+    <test-case start="1729890332643" stop="1729890332645" status="passed">
+      <name>testToOptionArray with data set "Has file format"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

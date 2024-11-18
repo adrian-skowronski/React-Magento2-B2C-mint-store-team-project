@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353953" stop="1729890353959" version="1.4.0">
+  <name>Magento\Multishipping\Test\Unit\Model\Checkout\Type\Multishipping\PlaceOrderDefaultTest</name>
+  <test-cases>
+    <test-case start="1729890353953" stop="1729890353956" status="passed">
+      <name>testPlace</name>
+    </test-case>
+    <test-case start="1729890353956" stop="1729890353959" status="passed">
+      <name>testPlaceWithErrors</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

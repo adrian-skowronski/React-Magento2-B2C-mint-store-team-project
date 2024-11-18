@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890377965" stop="1729890377989" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Block\Adminhtml\Order\Invoice\ViewTest</name>
+  <test-cases>
+    <test-case start="1729890377966" stop="1729890377972" status="passed">
+      <name>testIsPaymentReview with data set #0</name>
+    </test-case>
+    <test-case start="1729890377973" stop="1729890377978" status="passed">
+      <name>testIsPaymentReview with data set #1</name>
+    </test-case>
+    <test-case start="1729890377979" stop="1729890377983" status="passed">
+      <name>testIsPaymentReview with data set #2</name>
+    </test-case>
+    <test-case start="1729890377983" stop="1729890377989" status="passed">
+      <name>testIsPaymentReview with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

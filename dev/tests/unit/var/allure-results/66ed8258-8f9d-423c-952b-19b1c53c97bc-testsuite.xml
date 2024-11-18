@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890388021" stop="1729890388058" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Webapi\ChangeOutputArrayTest</name>
+  <test-cases>
+    <test-case start="1729890388021" stop="1729890388057" status="passed">
+      <name>testNoNegativeValue with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

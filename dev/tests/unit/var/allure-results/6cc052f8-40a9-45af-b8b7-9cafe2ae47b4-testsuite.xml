@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890314344" stop="1729890314382" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Controller\Adminhtml\Index\ResetPasswordTest</name>
+  <test-cases>
+    <test-case start="1729890314344" stop="1729890314350" status="passed">
+      <name>testResetPasswordActionNoCustomer</name>
+    </test-case>
+    <test-case start="1729890314351" stop="1729890314356" status="passed">
+      <name>testResetPasswordActionInvalidCustomerId</name>
+    </test-case>
+    <test-case start="1729890314356" stop="1729890314362" status="passed">
+      <name>testResetPasswordActionCoreException</name>
+    </test-case>
+    <test-case start="1729890314362" stop="1729890314367" status="passed">
+      <name>testResetPasswordActionSecurityException</name>
+    </test-case>
+    <test-case start="1729890314367" stop="1729890314372" status="passed">
+      <name>testResetPasswordActionCoreExceptionWarn</name>
+    </test-case>
+    <test-case start="1729890314372" stop="1729890314376" status="passed">
+      <name>testResetPasswordActionException</name>
+    </test-case>
+    <test-case start="1729890314377" stop="1729890314382" status="passed">
+      <name>testResetPasswordActionSendEmail</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

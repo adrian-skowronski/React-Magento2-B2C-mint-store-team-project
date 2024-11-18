@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890365859" stop="1729890365930" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\Cart\CartTotalManagementTest</name>
+  <test-cases>
+    <test-case start="1729890365859" stop="1729890365917" status="passed">
+      <name>testCollectTotals</name>
+    </test-case>
+    <test-case start="1729890365918" stop="1729890365924" status="passed">
+      <name>testCollectTotalsNoShipping with data set #0</name>
+    </test-case>
+    <test-case start="1729890365926" stop="1729890365928" status="passed">
+      <name>testCollectTotalsNoShipping with data set #1</name>
+    </test-case>
+    <test-case start="1729890365928" stop="1729890365930" status="passed">
+      <name>testCollectTotalsNoShipping with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

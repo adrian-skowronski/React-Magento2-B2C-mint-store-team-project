@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890270706" stop="1729890270753" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Pricing\Price\FinalPriceTest</name>
+  <test-cases>
+    <test-case start="1729890270707" stop="1729890270712" status="passed">
+      <name>testGetValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890270713" stop="1729890270714" status="passed">
+      <name>testGetValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890270715" stop="1729890270716" status="passed">
+      <name>testGetValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890270717" stop="1729890270720" status="passed">
+      <name>testGetMaximalPrice with data set #0</name>
+    </test-case>
+    <test-case start="1729890270721" stop="1729890270723" status="passed">
+      <name>testGetMaximalPrice with data set #1</name>
+    </test-case>
+    <test-case start="1729890270724" stop="1729890270726" status="passed">
+      <name>testGetMaximalPrice with data set #2</name>
+    </test-case>
+    <test-case start="1729890270727" stop="1729890270729" status="passed">
+      <name>testGetMaximalPriceFixedBundleWithOption</name>
+    </test-case>
+    <test-case start="1729890270730" stop="1729890270742" status="passed">
+      <name>testGetMinimalPriceFixedBundleWithOption</name>
+    </test-case>
+    <test-case start="1729890270743" stop="1729890270745" status="passed">
+      <name>testGetMinimalPrice with data set #0</name>
+    </test-case>
+    <test-case start="1729890270746" stop="1729890270748" status="passed">
+      <name>testGetMinimalPrice with data set #1</name>
+    </test-case>
+    <test-case start="1729890270748" stop="1729890270750" status="passed">
+      <name>testGetMinimalPrice with data set #2</name>
+    </test-case>
+    <test-case start="1729890270751" stop="1729890270753" status="passed">
+      <name>testGetPriceWithoutOption</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

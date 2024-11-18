@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361836" stop="1729890361842" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Method\AgreementTest</name>
+  <test-cases>
+    <test-case start="1729890361836" stop="1729890361842" status="passed">
+      <name>testAuthorizeWithBaseCurrency</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890360741" stop="1729890360762" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890360742" stop="1729890360745" status="passed">
+      <name>testGetBillingAgreementMethods with data set #0</name>
+    </test-case>
+    <test-case start="1729890360746" stop="1729890360748" status="passed">
+      <name>testGetBillingAgreementMethods with data set #1</name>
+    </test-case>
+    <test-case start="1729890360748" stop="1729890360750" status="passed">
+      <name>testGetBillingAgreementMethods with data set #2</name>
+    </test-case>
+    <test-case start="1729890360750" stop="1729890360752" status="passed">
+      <name>testGetHtmlTransactionSandboxLink with data set #0</name>
+    </test-case>
+    <test-case start="1729890360752" stop="1729890360755" status="passed">
+      <name>testGetHtmlTransactionSandboxLink with data set #1</name>
+    </test-case>
+    <test-case start="1729890360755" stop="1729890360757" status="passed">
+      <name>testGetHtmlTransactionRealLink with data set #0</name>
+    </test-case>
+    <test-case start="1729890360758" stop="1729890360760" status="passed">
+      <name>testGetHtmlTransactionRealLink with data set #1</name>
+    </test-case>
+    <test-case start="1729890360760" stop="1729890360761" status="passed">
+      <name>testGetHtmlTransactionMethodNotInPaymentList</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

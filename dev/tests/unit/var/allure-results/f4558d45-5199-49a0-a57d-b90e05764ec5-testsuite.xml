@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890459570" stop="1729890459792" version="1.4.0">
+  <name>Magento\Framework\Translate\Test\Unit\InlineTest</name>
+  <test-cases>
+    <test-case start="1729890459574" stop="1729890459583" status="passed">
+      <name>testIsAllowed with data set #0</name>
+    </test-case>
+    <test-case start="1729890459588" stop="1729890459590" status="passed">
+      <name>testIsAllowed with data set #1</name>
+    </test-case>
+    <test-case start="1729890459592" stop="1729890459597" status="passed">
+      <name>testIsAllowed with data set #2</name>
+    </test-case>
+    <test-case start="1729890459601" stop="1729890459608" status="passed">
+      <name>testIsAllowed with data set #3</name>
+    </test-case>
+    <test-case start="1729890459610" stop="1729890459618" status="passed">
+      <name>testIsAllowed with data set #4</name>
+    </test-case>
+    <test-case start="1729890459619" stop="1729890459628" status="passed">
+      <name>testIsAllowed with data set #5</name>
+    </test-case>
+    <test-case start="1729890459629" stop="1729890459632" status="passed">
+      <name>testIsAllowed with data set #6</name>
+    </test-case>
+    <test-case start="1729890459636" stop="1729890459641" status="passed">
+      <name>testIsAllowed with data set #7</name>
+    </test-case>
+    <test-case start="1729890459642" stop="1729890459644" status="passed">
+      <name>testIsAllowed with data set #8</name>
+    </test-case>
+    <test-case start="1729890459649" stop="1729890459658" status="passed">
+      <name>testIsAllowed with data set #9</name>
+    </test-case>
+    <test-case start="1729890459659" stop="1729890459666" status="passed">
+      <name>testIsAllowed with data set #10</name>
+    </test-case>
+    <test-case start="1729890459675" stop="1729890459683" status="passed">
+      <name>testIsAllowed with data set #11</name>
+    </test-case>
+    <test-case start="1729890459689" stop="1729890459697" status="passed">
+      <name>testIsAllowed with data set #12</name>
+    </test-case>
+    <test-case start="1729890459700" stop="1729890459708" status="passed">
+      <name>testIsAllowed with data set #13</name>
+    </test-case>
+    <test-case start="1729890459709" stop="1729890459711" status="passed">
+      <name>testIsAllowed with data set #14</name>
+    </test-case>
+    <test-case start="1729890459712" stop="1729890459714" status="passed">
+      <name>testGetParser</name>
+    </test-case>
+    <test-case start="1729890459715" stop="1729890459720" status="passed">
+      <name>testProcessResponseBodyStripInline with data set #0</name>
+    </test-case>
+    <test-case start="1729890459722" stop="1729890459723" status="passed">
+      <name>testProcessResponseBodyStripInline with data set #1</name>
+    </test-case>
+    <test-case start="1729890459725" stop="1729890459727" status="passed">
+      <name>testProcessResponseBodyStripInline with data set #2</name>
+    </test-case>
+    <test-case start="1729890459730" stop="1729890459732" status="passed">
+      <name>testProcessResponseBodyStripInline with data set #3</name>
+    </test-case>
+    <test-case start="1729890459733" stop="1729890459735" status="passed">
+      <name>testProcessResponseBodyStripInline with data set #4</name>
+    </test-case>
+    <test-case start="1729890459736" stop="1729890459741" status="passed">
+      <name>testProcessResponseBodyStripInline with data set #5</name>
+    </test-case>
+    <test-case start="1729890459753" stop="1729890459756" status="passed">
+      <name>testProcessResponseBody with data set #0</name>
+    </test-case>
+    <test-case start="1729890459764" stop="1729890459766" status="passed">
+      <name>testProcessResponseBody with data set #1</name>
+    </test-case>
+    <test-case start="1729890459774" stop="1729890459782" status="passed">
+      <name>testProcessResponseBodyGetInlineScript with data set #0</name>
+    </test-case>
+    <test-case start="1729890459783" stop="1729890459792" status="passed">
+      <name>testProcessResponseBodyGetInlineScript with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

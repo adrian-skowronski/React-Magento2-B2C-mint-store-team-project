@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448921" stop="1729890448942" version="1.4.0">
+  <name>Magento\Framework\Filesystem\Test\Unit\DirectoryListTest</name>
+  <test-cases>
+    <test-case start="1729890448921" stop="1729890448921" status="passed">
+      <name>testGetDefaultConfig</name>
+    </test-case>
+    <test-case start="1729890448922" stop="1729890448923" status="passed">
+      <name>testValidate with data set #0</name>
+    </test-case>
+    <test-case start="1729890448923" stop="1729890448923" status="passed">
+      <name>testValidate with data set #1</name>
+    </test-case>
+    <test-case start="1729890448924" stop="1729890448924" status="passed">
+      <name>testValidate with data set #2</name>
+    </test-case>
+    <test-case start="1729890448925" stop="1729890448925" status="passed">
+      <name>testValidate with data set #3</name>
+    </test-case>
+    <test-case start="1729890448926" stop="1729890448926" status="passed">
+      <name>testValidate with data set #4</name>
+    </test-case>
+    <test-case start="1729890448927" stop="1729890448927" status="passed">
+      <name>testGetters</name>
+    </test-case>
+    <test-case start="1729890448927" stop="1729890448927" status="passed">
+      <name>testUnknownType</name>
+    </test-case>
+    <test-case start="1729890448928" stop="1729890448928" status="passed">
+      <name>testAssertCode with data set #0</name>
+    </test-case>
+    <test-case start="1729890448929" stop="1729890448930" status="passed">
+      <name>testGetUrlPath with data set #0</name>
+    </test-case>
+    <test-case start="1729890448930" stop="1729890448931" status="passed">
+      <name>testGetUrlPath with data set #1</name>
+    </test-case>
+    <test-case start="1729890448931" stop="1729890448932" status="passed">
+      <name>testFilterPath</name>
+    </test-case>
+    <test-case start="1729890448932" stop="1729890448932" status="passed">
+      <name>testPrependRoot</name>
+    </test-case>
+    <test-case start="1729890448933" stop="1729890448934" status="passed">
+      <name>testAssertUrlPath with data set #0</name>
+    </test-case>
+    <test-case start="1729890448934" stop="1729890448935" status="passed">
+      <name>testAssertUrlPath with data set #1</name>
+    </test-case>
+    <test-case start="1729890448935" stop="1729890448936" status="passed">
+      <name>testAssertUrlPath with data set #2</name>
+    </test-case>
+    <test-case start="1729890448936" stop="1729890448937" status="passed">
+      <name>testAssertUrlPath with data set #3</name>
+    </test-case>
+    <test-case start="1729890448937" stop="1729890448938" status="passed">
+      <name>testAssertUrlPath with data set #4</name>
+    </test-case>
+    <test-case start="1729890448938" stop="1729890448939" status="passed">
+      <name>testAssertUrlPath with data set #5</name>
+    </test-case>
+    <test-case start="1729890448939" stop="1729890448940" status="passed">
+      <name>testAssertUrlPath with data set #6</name>
+    </test-case>
+    <test-case start="1729890448940" stop="1729890448941" status="passed">
+      <name>testAssertUrlPath with data set #7</name>
+    </test-case>
+    <test-case start="1729890448941" stop="1729890448942" status="passed">
+      <name>testAssertUrlPath with data set #8</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

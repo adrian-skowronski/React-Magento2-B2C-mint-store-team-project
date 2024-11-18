@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890331047" stop="1729890331063" version="1.4.0">
+  <name>Magento\GroupedProduct\Test\Unit\Block\Product\View\Type\GroupedTest</name>
+  <test-cases>
+    <test-case start="1729890331047" stop="1729890331051" status="passed">
+      <name>testGetAssociatedProducts</name>
+    </test-case>
+    <test-case start="1729890331051" stop="1729890331055" status="passed">
+      <name>testSetPreconfiguredValue with data set "item_id_exist_in_config"</name>
+    </test-case>
+    <test-case start="1729890331055" stop="1729890331059" status="passed">
+      <name>testSetPreconfiguredValue with data set "item_id_not_exist_in_config"</name>
+    </test-case>
+    <test-case start="1729890331059" stop="1729890331063" status="passed">
+      <name>testSetPreconfiguredValueIfSuperGroupNotExist</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

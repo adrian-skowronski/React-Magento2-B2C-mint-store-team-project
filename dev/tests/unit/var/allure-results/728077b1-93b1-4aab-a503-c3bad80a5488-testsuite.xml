@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327523" stop="1729890327548" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Config\Backend\MinimumShouldMatchTest</name>
+  <test-cases>
+    <test-case start="1729890327524" stop="1729890327525" status="passed">
+      <name>testValidateValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890327526" stop="1729890327527" status="passed">
+      <name>testValidateValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890327528" stop="1729890327529" status="passed">
+      <name>testValidateValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890327529" stop="1729890327531" status="passed">
+      <name>testValidateValue with data set #3</name>
+    </test-case>
+    <test-case start="1729890327532" stop="1729890327533" status="passed">
+      <name>testValidateValue with data set #4</name>
+    </test-case>
+    <test-case start="1729890327533" stop="1729890327535" status="passed">
+      <name>testValidateValue with data set #5</name>
+    </test-case>
+    <test-case start="1729890327535" stop="1729890327537" status="passed">
+      <name>testValidateValue with data set #6</name>
+    </test-case>
+    <test-case start="1729890327537" stop="1729890327539" status="passed">
+      <name>testValidateValue with data set #7</name>
+    </test-case>
+    <test-case start="1729890327539" stop="1729890327540" status="passed">
+      <name>testValidateValue with data set #8</name>
+    </test-case>
+    <test-case start="1729890327541" stop="1729890327542" status="passed">
+      <name>testValidateValue with data set #9</name>
+    </test-case>
+    <test-case start="1729890327542" stop="1729890327543" status="passed">
+      <name>testValidateValue with data set #10</name>
+    </test-case>
+    <test-case start="1729890327544" stop="1729890327546" status="passed">
+      <name>testValidateValue with data set #11</name>
+    </test-case>
+    <test-case start="1729890327546" stop="1729890327548" status="passed">
+      <name>testValidateValue with data set #12</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

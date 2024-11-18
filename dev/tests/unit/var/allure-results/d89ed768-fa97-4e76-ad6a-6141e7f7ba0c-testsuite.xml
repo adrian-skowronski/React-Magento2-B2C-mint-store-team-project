@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890391614" stop="1729890391636" version="1.4.0">
+  <name>Magento\Search\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890391615" stop="1729890391617" status="passed">
+      <name>testGetMinQueryLength</name>
+    </test-case>
+    <test-case start="1729890391617" stop="1729890391619" status="passed">
+      <name>testGetMaxQueryLength</name>
+    </test-case>
+    <test-case start="1729890391620" stop="1729890391622" status="passed">
+      <name>testGetEscapedQueryText with data set #0</name>
+    </test-case>
+    <test-case start="1729890391622" stop="1729890391624" status="passed">
+      <name>testGetEscapedQueryText with data set #1</name>
+    </test-case>
+    <test-case start="1729890391624" stop="1729890391626" status="passed">
+      <name>testGetEscapedQueryText with data set #2</name>
+    </test-case>
+    <test-case start="1729890391626" stop="1729890391628" status="passed">
+      <name>testGetEscapedQueryText with data set #3</name>
+    </test-case>
+    <test-case start="1729890391628" stop="1729890391630" status="passed">
+      <name>testGetEscapedQueryText with data set #4</name>
+    </test-case>
+    <test-case start="1729890391631" stop="1729890391633" status="passed">
+      <name>testGetSuggestUrl with data set "non-secure"</name>
+    </test-case>
+    <test-case start="1729890391633" stop="1729890391636" status="passed">
+      <name>testGetSuggestUrl with data set "secure"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

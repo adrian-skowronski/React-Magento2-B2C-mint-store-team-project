@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449118" stop="1729890449121" version="1.4.0">
+  <name>Magento\Framework\Filesystem\Test\Unit\File\ExcludeFilterTest</name>
+  <test-cases>
+    <test-case start="1729890449118" stop="1729890449121" status="passed">
+      <name>testExclusion</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

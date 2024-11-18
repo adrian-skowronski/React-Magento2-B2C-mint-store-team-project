@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408466" stop="1729890408473" version="1.4.0">
+  <name>Magento\Webapi\Test\Unit\Model\Authorization\OauthUserContextTest</name>
+  <test-cases>
+    <test-case start="1729890408467" stop="1729890408469" status="passed">
+      <name>testGetUserType</name>
+    </test-case>
+    <test-case start="1729890408469" stop="1729890408470" status="passed">
+      <name>testGetUserIdExist</name>
+    </test-case>
+    <test-case start="1729890408470" stop="1729890408471" status="passed">
+      <name>testGetUserIdDoesNotExist</name>
+    </test-case>
+    <test-case start="1729890408472" stop="1729890408473" status="passed">
+      <name>testGetUserIdNoOauthInformation</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

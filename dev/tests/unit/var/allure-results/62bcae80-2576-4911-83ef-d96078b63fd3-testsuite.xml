@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264875" stop="1729890264903" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\Widget\Grid\Massaction\ExtendedTest</name>
+  <test-cases>
+    <test-case start="1729890264876" stop="1729890264880" status="passed">
+      <name>testUseSelectAll</name>
+    </test-case>
+    <test-case start="1729890264880" stop="1729890264884" status="passed">
+      <name>testGetGridIdsJsonWithoutUseSelectAll</name>
+    </test-case>
+    <test-case start="1729890264885" stop="1729890264893" status="passed">
+      <name>testGetGridIdsJsonWithUseSelectAll with data set #0</name>
+    </test-case>
+    <test-case start="1729890264893" stop="1729890264897" status="passed">
+      <name>testGetGridIdsJsonWithUseSelectAll with data set #1</name>
+    </test-case>
+    <test-case start="1729890264898" stop="1729890264902" status="passed">
+      <name>testGetGridIdsJsonWithUseSelectAll with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

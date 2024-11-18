@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319008" stop="1729890319016" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Console\Command\App\ConfigImportCommandTest</name>
+  <test-cases>
+    <test-case start="1729890319008" stop="1729890319011" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890319011" stop="1729890319013" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+    <test-case start="1729890319013" stop="1729890319014" status="passed">
+      <name>testExecuteWithDeploymentConfigNotAvailable</name>
+    </test-case>
+    <test-case start="1729890319014" stop="1729890319016" status="passed">
+      <name>testExecuteWithMissingAdminhtmlLocale</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

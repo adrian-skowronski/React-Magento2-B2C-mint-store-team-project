@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890362849" stop="1729890362875" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\SmartButtonConfigTest</name>
+  <test-cases>
+    <test-case start="1729890362851" stop="1729890362860" status="passed">
+      <name>testGetConfig with data set "cart"</name>
+    </test-case>
+    <test-case start="1729890362862" stop="1729890362866" status="passed">
+      <name>testGetConfig with data set "checkout"</name>
+    </test-case>
+    <test-case start="1729890362867" stop="1729890362870" status="passed">
+      <name>testGetConfig with data set "mini_cart"</name>
+    </test-case>
+    <test-case start="1729890362872" stop="1729890362875" status="passed">
+      <name>testGetConfig with data set "product"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

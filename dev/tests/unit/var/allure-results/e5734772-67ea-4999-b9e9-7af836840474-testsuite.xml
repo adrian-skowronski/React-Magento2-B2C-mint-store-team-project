@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422983" stop="1729890422991" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Cache\ManagerTest</name>
+  <test-cases>
+    <test-case start="1729890422983" stop="1729890422984" status="passed">
+      <name>testEmptyRequest</name>
+    </test-case>
+    <test-case start="1729890422984" stop="1729890422985" status="passed">
+      <name>testSetEnabledTrueAll</name>
+    </test-case>
+    <test-case start="1729890422985" stop="1729890422986" status="passed">
+      <name>testSetEnabledFalseAll</name>
+    </test-case>
+    <test-case start="1729890422987" stop="1729890422988" status="passed">
+      <name>testFlushAll</name>
+    </test-case>
+    <test-case start="1729890422988" stop="1729890422989" status="passed">
+      <name>testGetStatus</name>
+    </test-case>
+    <test-case start="1729890422990" stop="1729890422990" status="passed">
+      <name>testGetAvailableTypes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

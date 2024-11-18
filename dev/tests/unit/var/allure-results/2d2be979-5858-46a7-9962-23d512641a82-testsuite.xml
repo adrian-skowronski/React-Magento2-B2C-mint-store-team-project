@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451953" stop="1729890451957" version="1.4.0">
+  <name>Magento\Framework\Message\Test\Unit\FactoryTest</name>
+  <test-cases>
+    <test-case start="1729890451953" stop="1729890451954" status="passed">
+      <name>testCreateWithWrongTypeException</name>
+    </test-case>
+    <test-case start="1729890451954" stop="1729890451955" status="passed">
+      <name>testCreateWithWrongInterfaceImplementation</name>
+    </test-case>
+    <test-case start="1729890451955" stop="1729890451957" status="passed">
+      <name>testSuccessfulCreateMessage</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

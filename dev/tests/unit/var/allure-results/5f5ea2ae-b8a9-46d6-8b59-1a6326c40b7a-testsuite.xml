@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890416471" stop="1729890416476" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\DictionaryTest</name>
+  <test-cases>
+    <test-case start="1729890416472" stop="1729890416472" status="passed">
+      <name>testDictionaryFileNotFoundException</name>
+    </test-case>
+    <test-case start="1729890416473" stop="1729890416474" status="passed">
+      <name>testDictionaryFileIsEmptyException</name>
+    </test-case>
+    <test-case start="1729890416475" stop="1729890416476" status="passed">
+      <name>testGetRandWord</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

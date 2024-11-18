@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890260152" stop="1729890260177" version="1.4.0">
+  <name>Magento\AdobeStockClient\Test\Unit\Model\SearchParametersProvider\WordsTest</name>
+  <test-cases>
+    <test-case start="1729890260153" stop="1729890260157" status="passed">
+      <name>testApplyWithRequestValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890260158" stop="1729890260162" status="passed">
+      <name>testApplyWithRequestValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890260163" stop="1729890260165" status="passed">
+      <name>testApplyWithRequestValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890260165" stop="1729890260167" status="passed">
+      <name>testApplyWithoutWordsField</name>
+    </test-case>
+    <test-case start="1729890260168" stop="1729890260171" status="passed">
+      <name>testApplyWithEmptyWords</name>
+    </test-case>
+    <test-case start="1729890260172" stop="1729890260177" status="passed">
+      <name>testApplyWithOnlyQuotes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

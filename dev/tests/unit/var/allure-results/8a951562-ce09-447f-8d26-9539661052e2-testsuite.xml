@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403945" stop="1729890403952" version="1.4.0">
+  <name>Magento\Translation\Test\Unit\Model\Json\PreProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890403946" stop="1729890403948" status="passed">
+      <name>testProcess with data set #0</name>
+    </test-case>
+    <test-case start="1729890403949" stop="1729890403951" status="passed">
+      <name>testProcess with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

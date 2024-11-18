@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890370039" stop="1729890370173" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\Quote\ItemTest</name>
+  <test-cases>
+    <test-case start="1729890370039" stop="1729890370045" status="passed">
+      <name>testGetAddress</name>
+    </test-case>
+    <test-case start="1729890370046" stop="1729890370049" status="passed">
+      <name>testSetAndQuote</name>
+    </test-case>
+    <test-case start="1729890370049" stop="1729890370051" status="passed">
+      <name>testAddQtyNormal</name>
+    </test-case>
+    <test-case start="1729890370051" stop="1729890370054" status="passed">
+      <name>testAddQtyExistingParentItemAndId</name>
+    </test-case>
+    <test-case start="1729890370054" stop="1729890370056" status="passed">
+      <name>testSetQty</name>
+    </test-case>
+    <test-case start="1729890370057" stop="1729890370060" status="passed">
+      <name>testSetQtyQuoteIgnoreOldQuantity</name>
+    </test-case>
+    <test-case start="1729890370062" stop="1729890370064" status="passed">
+      <name>testSetQtyUseOldQuantity</name>
+    </test-case>
+    <test-case start="1729890370064" stop="1729890370066" status="passed">
+      <name>testSetQtyOptions</name>
+    </test-case>
+    <test-case start="1729890370066" stop="1729890370071" status="passed">
+      <name>testSetProduct</name>
+    </test-case>
+    <test-case start="1729890370071" stop="1729890370077" status="passed">
+      <name>testSetProductWithQuoteAndStockItem</name>
+    </test-case>
+    <test-case start="1729890370077" stop="1729890370080" status="passed">
+      <name>testRepresentProductNoProduct</name>
+    </test-case>
+    <test-case start="1729890370080" stop="1729890370083" status="passed">
+      <name>testRepresentProductStickWithinParentNotSameAsParentItem</name>
+    </test-case>
+    <test-case start="1729890370083" stop="1729890370088" status="passed">
+      <name>testRepresentProductItemOptionsNotInProductOptions</name>
+    </test-case>
+    <test-case start="1729890370088" stop="1729890370095" status="passed">
+      <name>testRepresentProductProductOptionsNotInItemOptions</name>
+    </test-case>
+    <test-case start="1729890370096" stop="1729890370100" status="passed">
+      <name>testRepresentProductTrue</name>
+    </test-case>
+    <test-case start="1729890370100" stop="1729890370102" status="passed">
+      <name>testCompare</name>
+    </test-case>
+    <test-case start="1729890370102" stop="1729890370104" status="passed">
+      <name>testCompareOptionsEqual</name>
+    </test-case>
+    <test-case start="1729890370104" stop="1729890370106" status="passed">
+      <name>testCompareOptionsDifferentValues</name>
+    </test-case>
+    <test-case start="1729890370106" stop="1729890370109" status="passed">
+      <name>testCompareOptionsNullValues</name>
+    </test-case>
+    <test-case start="1729890370109" stop="1729890370112" status="passed">
+      <name>testCompareOptionsMultipleEquals</name>
+    </test-case>
+    <test-case start="1729890370112" stop="1729890370117" status="passed">
+      <name>testGetQtyOptions</name>
+    </test-case>
+    <test-case start="1729890370117" stop="1729890370120" status="passed">
+      <name>testToArray</name>
+    </test-case>
+    <test-case start="1729890370120" stop="1729890370123" status="passed">
+      <name>testGetProductTypeOption</name>
+    </test-case>
+    <test-case start="1729890370123" stop="1729890370126" status="passed">
+      <name>testGetProductTypeWithProduct</name>
+    </test-case>
+    <test-case start="1729890370126" stop="1729890370129" status="passed">
+      <name>testSetOptions</name>
+    </test-case>
+    <test-case start="1729890370129" stop="1729890370131" status="passed">
+      <name>testSetOptionsWithNull</name>
+    </test-case>
+    <test-case start="1729890370131" stop="1729890370133" status="passed">
+      <name>testAddOptionArray</name>
+    </test-case>
+    <test-case start="1729890370134" stop="1729890370137" status="passed">
+      <name>testUpdateQtyOption</name>
+    </test-case>
+    <test-case start="1729890370138" stop="1729890370140" status="passed">
+      <name>testRemoveOption</name>
+    </test-case>
+    <test-case start="1729890370140" stop="1729890370142" status="passed">
+      <name>testRemoveOptionNoOptionCodeExists</name>
+    </test-case>
+    <test-case start="1729890370142" stop="1729890370144" status="passed">
+      <name>testGetOptionByCodeNonExistent</name>
+    </test-case>
+    <test-case start="1729890370145" stop="1729890370147" status="passed">
+      <name>testGetOptionByCodeDeletedCode</name>
+    </test-case>
+    <test-case start="1729890370147" stop="1729890370149" status="passed">
+      <name>testGetOptionByCodeNotDeletedCode</name>
+    </test-case>
+    <test-case start="1729890370150" stop="1729890370151" status="passed">
+      <name>testGetBuyRequestNoOptionByCode</name>
+    </test-case>
+    <test-case start="1729890370152" stop="1729890370154" status="passed">
+      <name>testGetBuyRequestOptionByCode</name>
+    </test-case>
+    <test-case start="1729890370155" stop="1729890370156" status="passed">
+      <name>testSetHasErrorFalse</name>
+    </test-case>
+    <test-case start="1729890370157" stop="1729890370159" status="passed">
+      <name>testSetHasErrorTrue</name>
+    </test-case>
+    <test-case start="1729890370159" stop="1729890370161" status="passed">
+      <name>testAddErrorInfo</name>
+    </test-case>
+    <test-case start="1729890370161" stop="1729890370164" status="passed">
+      <name>testGetErrorInfos</name>
+    </test-case>
+    <test-case start="1729890370164" stop="1729890370166" status="passed">
+      <name>testRemoveErrorInfosByParams</name>
+    </test-case>
+    <test-case start="1729890370167" stop="1729890370169" status="passed">
+      <name>testRemoveErrorInfosByParamsAllErrorsRemoved</name>
+    </test-case>
+    <test-case start="1729890370169" stop="1729890370173" status="passed">
+      <name>testSaveItemOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

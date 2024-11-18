@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284686" stop="1729890284689" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Helper\Product\Edit\Action\AttributeTest</name>
+  <test-cases>
+    <test-case start="1729890284687" stop="1729890284689" status="passed">
+      <name>testGetStoreWebsiteId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

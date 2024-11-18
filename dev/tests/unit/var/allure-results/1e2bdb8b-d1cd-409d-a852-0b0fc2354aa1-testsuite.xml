@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890315633" stop="1729890315664" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Attribute\Backend\BooleanTest</name>
+  <test-cases>
+    <test-case start="1729890315634" stop="1729890315637" status="passed">
+      <name>testBeforeSave with data set #0</name>
+    </test-case>
+    <test-case start="1729890315638" stop="1729890315640" status="passed">
+      <name>testBeforeSave with data set #1</name>
+    </test-case>
+    <test-case start="1729890315640" stop="1729890315643" status="passed">
+      <name>testBeforeSave with data set #2</name>
+    </test-case>
+    <test-case start="1729890315643" stop="1729890315645" status="passed">
+      <name>testBeforeSave with data set #3</name>
+    </test-case>
+    <test-case start="1729890315646" stop="1729890315648" status="passed">
+      <name>testBeforeSave with data set #4</name>
+    </test-case>
+    <test-case start="1729890315648" stop="1729890315650" status="passed">
+      <name>testBeforeSave with data set #5</name>
+    </test-case>
+    <test-case start="1729890315651" stop="1729890315653" status="passed">
+      <name>testBeforeSave with data set #6</name>
+    </test-case>
+    <test-case start="1729890315653" stop="1729890315655" status="passed">
+      <name>testBeforeSave with data set #7</name>
+    </test-case>
+    <test-case start="1729890315655" stop="1729890315657" status="passed">
+      <name>testBeforeSave with data set #8</name>
+    </test-case>
+    <test-case start="1729890315657" stop="1729890315659" status="passed">
+      <name>testBeforeSave with data set #9</name>
+    </test-case>
+    <test-case start="1729890315659" stop="1729890315662" status="passed">
+      <name>testBeforeSave with data set #10</name>
+    </test-case>
+    <test-case start="1729890315662" stop="1729890315664" status="passed">
+      <name>testBeforeSave with data set #11</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

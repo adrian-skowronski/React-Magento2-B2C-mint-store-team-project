@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890371986" stop="1729890372023" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Block\Adminhtml\Grid\Column\Renderer\CurrencyTest</name>
+  <test-cases>
+    <test-case start="1729890371988" stop="1729890372015" status="passed">
+      <name>testRender with data set "rate conversion with same admin and storefront rate"</name>
+    </test-case>
+    <test-case start="1729890372017" stop="1729890372022" status="passed">
+      <name>testRender with data set "rate conversion with different admin and storefront rate"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

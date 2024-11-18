@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890374887" stop="1729890374898" version="1.4.0">
+  <name>Magento\Review\Test\Unit\Ui\DataProvider\Product\Form\Modifier\ReviewTest</name>
+  <test-cases>
+    <test-case start="1729890374888" stop="1729890374893" status="passed">
+      <name>testModifyMetaDoesNotAddReviewSectionForNewProduct</name>
+    </test-case>
+    <test-case start="1729890374894" stop="1729890374895" status="passed">
+      <name>testModifyMetaDoesNotAddReviewSectionIfReviewModuleOutputIsDisabled</name>
+    </test-case>
+    <test-case start="1729890374895" stop="1729890374897" status="passed">
+      <name>testModifyMetaAddsReviewSectionForExistingProductIfReviewModuleOutputIsEnabled</name>
+    </test-case>
+    <test-case start="1729890374897" stop="1729890374898" status="passed">
+      <name>testModifyData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

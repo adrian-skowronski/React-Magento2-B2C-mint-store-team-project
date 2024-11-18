@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441655" stop="1729890441679" version="1.4.0">
+  <name>Magento\Framework\Css\Test\Unit\PreProcessor\Adapter\Less\ProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890441655" stop="1729890441662" status="passed">
+      <name>testProcessContentException</name>
+    </test-case>
+    <test-case start="1729890441662" stop="1729890441664" status="passed">
+      <name>testProcessContentEmpty</name>
+    </test-case>
+    <test-case start="1729890441664" stop="1729890441679" status="passed">
+      <name>testProcessContentNotEmpty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

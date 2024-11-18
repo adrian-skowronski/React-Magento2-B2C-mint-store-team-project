@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456476" stop="1729890456477" version="1.4.0">
+  <name>Magento\Framework\Serialize\Test\Unit\Serializer\JsonConverterTest</name>
+  <test-cases>
+    <test-case start="1729890456476" stop="1729890456477" status="passed">
+      <name>testConvert</name>
+    </test-case>
+    <test-case start="1729890456477" stop="1729890456477" status="passed">
+      <name>testConvertWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

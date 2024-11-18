@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890411502" stop="1729890411543" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\CustomerData\WishlistTest</name>
+  <test-cases>
+    <test-case start="1729890411502" stop="1729890411529" status="passed">
+      <name>testGetSectionData</name>
+    </test-case>
+    <test-case start="1729890411529" stop="1729890411541" status="passed">
+      <name>testGetSectionDataWithTwoItems</name>
+    </test-case>
+    <test-case start="1729890411541" stop="1729890411543" status="passed">
+      <name>testGetSectionDataWithoutItems</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

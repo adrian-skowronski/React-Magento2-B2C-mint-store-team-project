@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406347" stop="1729890406368" version="1.4.0">
+  <name>Magento\Ups\Test\Unit\Model\Config\Backend\UpsUrlTest</name>
+  <test-cases>
+    <test-case start="1729890406347" stop="1729890406349" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+    <test-case start="1729890406350" stop="1729890406351" status="passed">
+      <name>testBeforeSave with data set #1</name>
+    </test-case>
+    <test-case start="1729890406351" stop="1729890406353" status="passed">
+      <name>testBeforeSave with data set #2</name>
+    </test-case>
+    <test-case start="1729890406353" stop="1729890406354" status="passed">
+      <name>testBeforeSave with data set #3</name>
+    </test-case>
+    <test-case start="1729890406355" stop="1729890406356" status="passed">
+      <name>testBeforeSave with data set #4</name>
+    </test-case>
+    <test-case start="1729890406356" stop="1729890406357" status="passed">
+      <name>testBeforeSave with data set #5</name>
+    </test-case>
+    <test-case start="1729890406358" stop="1729890406359" status="passed">
+      <name>testBeforeSaveErrors with data set #0</name>
+    </test-case>
+    <test-case start="1729890406360" stop="1729890406361" status="passed">
+      <name>testBeforeSaveErrors with data set #1</name>
+    </test-case>
+    <test-case start="1729890406361" stop="1729890406363" status="passed">
+      <name>testBeforeSaveErrors with data set #2</name>
+    </test-case>
+    <test-case start="1729890406363" stop="1729890406365" status="passed">
+      <name>testBeforeSaveErrors with data set #3</name>
+    </test-case>
+    <test-case start="1729890406365" stop="1729890406366" status="passed">
+      <name>testBeforeSaveErrors with data set #4</name>
+    </test-case>
+    <test-case start="1729890406367" stop="1729890406368" status="passed">
+      <name>testBeforeSaveErrors with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

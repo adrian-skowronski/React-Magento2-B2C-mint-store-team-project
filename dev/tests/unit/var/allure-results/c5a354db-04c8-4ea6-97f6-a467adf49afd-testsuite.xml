@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422298" stop="1729890422301" version="1.4.0">
+  <name>Magento\Framework\Api\Test\Unit\ExtensibleDataObjectConverterTest</name>
+  <test-cases>
+    <test-case start="1729890422298" stop="1729890422299" status="passed">
+      <name>testToNestedArray</name>
+    </test-case>
+    <test-case start="1729890422299" stop="1729890422300" status="passed">
+      <name>testToNestedArrayCustom</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

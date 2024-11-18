@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890307054" stop="1729890307277" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Block\Product\View\Type\ConfigurableTest</name>
+  <test-cases>
+    <test-case start="1729890307055" stop="1729890307237" status="passed">
+      <name>testGetCacheKeyInfo with data set "without_currency_and_customer_group"</name>
+    </test-case>
+    <test-case start="1729890307238" stop="1729890307246" status="passed">
+      <name>testGetCacheKeyInfo with data set "with_customer_group"</name>
+    </test-case>
+    <test-case start="1729890307247" stop="1729890307257" status="passed">
+      <name>testGetCacheKeyInfo with data set "with_price_currency"</name>
+    </test-case>
+    <test-case start="1729890307257" stop="1729890307277" status="passed">
+      <name>testGetJsonConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

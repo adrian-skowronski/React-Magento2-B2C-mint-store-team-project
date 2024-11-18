@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890286273" stop="1729890286285" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Category\Flat\Plugin\IndexerConfigDataTest</name>
+  <test-cases>
+    <test-case start="1729890286273" stop="1729890286275" status="passed">
+      <name>testAroundGet with data set #0</name>
+    </test-case>
+    <test-case start="1729890286276" stop="1729890286277" status="passed">
+      <name>testAroundGet with data set #1</name>
+    </test-case>
+    <test-case start="1729890286278" stop="1729890286279" status="passed">
+      <name>testAroundGet with data set #2</name>
+    </test-case>
+    <test-case start="1729890286279" stop="1729890286280" status="passed">
+      <name>testAroundGet with data set #3</name>
+    </test-case>
+    <test-case start="1729890286281" stop="1729890286282" status="passed">
+      <name>testAroundGet with data set #4</name>
+    </test-case>
+    <test-case start="1729890286283" stop="1729890286285" status="passed">
+      <name>testAroundGet with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

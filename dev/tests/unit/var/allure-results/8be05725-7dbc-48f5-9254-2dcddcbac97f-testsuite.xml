@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890426693" stop="1729890426719" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\SetupInfoTest</name>
+  <test-cases>
+    <test-case start="1729890426694" stop="1729890426695" status="passed">
+      <name>testConstructorExceptions with data set #0</name>
+    </test-case>
+    <test-case start="1729890426695" stop="1729890426696" status="passed">
+      <name>testConstructorExceptions with data set #1</name>
+    </test-case>
+    <test-case start="1729890426696" stop="1729890426697" status="passed">
+      <name>testConstructorExceptions with data set #2</name>
+    </test-case>
+    <test-case start="1729890426698" stop="1729890426698" status="passed">
+      <name>testConstructorExceptions with data set #3</name>
+    </test-case>
+    <test-case start="1729890426699" stop="1729890426699" status="passed">
+      <name>testGetUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890426700" stop="1729890426701" status="passed">
+      <name>testGetUrl with data set #1</name>
+    </test-case>
+    <test-case start="1729890426701" stop="1729890426702" status="passed">
+      <name>testGetUrl with data set #2</name>
+    </test-case>
+    <test-case start="1729890426702" stop="1729890426703" status="passed">
+      <name>testGetProjectUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890426704" stop="1729890426704" status="passed">
+      <name>testGetProjectUrl with data set #1</name>
+    </test-case>
+    <test-case start="1729890426705" stop="1729890426705" status="passed">
+      <name>testGetProjectUrl with data set #2</name>
+    </test-case>
+    <test-case start="1729890426706" stop="1729890426706" status="passed">
+      <name>testGetProjectUrl with data set #3</name>
+    </test-case>
+    <test-case start="1729890426707" stop="1729890426707" status="passed">
+      <name>testGetProjectUrl with data set #4</name>
+    </test-case>
+    <test-case start="1729890426708" stop="1729890426708" status="passed">
+      <name>testGetDir with data set #0</name>
+    </test-case>
+    <test-case start="1729890426709" stop="1729890426709" status="passed">
+      <name>testGetDir with data set #1</name>
+    </test-case>
+    <test-case start="1729890426710" stop="1729890426710" status="passed">
+      <name>testGetDir with data set #2</name>
+    </test-case>
+    <test-case start="1729890426711" stop="1729890426712" status="passed">
+      <name>testIsAvailable with data set "root = doc root, but no "setup" sub-directory"</name>
+    </test-case>
+    <test-case start="1729890426712" stop="1729890426713" status="passed">
+      <name>testIsAvailable with data set "root = doc root, nonexistent sub-directory"</name>
+    </test-case>
+    <test-case start="1729890426714" stop="1729890426714" status="passed">
+      <name>testIsAvailable with data set "root = doc root, existent sub-directory"</name>
+    </test-case>
+    <test-case start="1729890426715" stop="1729890426715" status="passed">
+      <name>testIsAvailable with data set "root within doc root, existent sub-directory"</name>
+    </test-case>
+    <test-case start="1729890426716" stop="1729890426716" status="passed">
+      <name>testIsAvailable with data set "root outside of doc root, existent sub-directory"</name>
+    </test-case>
+    <test-case start="1729890426717" stop="1729890426717" status="passed">
+      <name>testIsAvailable with data set "root within doc root, existent sub-directory, trailing slash"</name>
+    </test-case>
+    <test-case start="1729890426718" stop="1729890426718" status="passed">
+      <name>testIsAvailable with data set "root within doc root + pub, existent sub-directory"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

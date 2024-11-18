@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890411330" stop="1729890411365" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Controller\Index\UpdateItemOptionsTest</name>
+  <test-cases>
+    <test-case start="1729890411330" stop="1729890411333" status="passed">
+      <name>testExecuteWithInvalidFormKey</name>
+    </test-case>
+    <test-case start="1729890411333" stop="1729890411337" status="passed">
+      <name>testExecuteWithoutProductId</name>
+    </test-case>
+    <test-case start="1729890411337" stop="1729890411341" status="passed">
+      <name>testExecuteWithoutProduct</name>
+    </test-case>
+    <test-case start="1729890411341" stop="1729890411345" status="passed">
+      <name>testExecuteWithoutWishList</name>
+    </test-case>
+    <test-case start="1729890411345" stop="1729890411353" status="passed">
+      <name>testExecuteAddSuccessException</name>
+    </test-case>
+    <test-case start="1729890411353" stop="1729890411365" status="passed">
+      <name>testExecuteAddSuccessCriticalException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310049" stop="1729890310069" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Model\Quote\Item\CartItemProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890310050" stop="1729890310054" status="passed">
+      <name>testConvertToBuyRequestIfNoProductOption</name>
+    </test-case>
+    <test-case start="1729890310054" stop="1729890310057" status="passed">
+      <name>testConvertToBuyRequest</name>
+    </test-case>
+    <test-case start="1729890310057" stop="1729890310059" status="passed">
+      <name>testProcessProductOptionsIfOptionNotSelected</name>
+    </test-case>
+    <test-case start="1729890310059" stop="1729890310063" status="passed">
+      <name>testProcessProductOptions</name>
+    </test-case>
+    <test-case start="1729890310063" stop="1729890310066" status="passed">
+      <name>testProcessProductOptionsIfOptionsExist</name>
+    </test-case>
+    <test-case start="1729890310067" stop="1729890310069" status="passed">
+      <name>testProcessProductWithEmptyOption</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

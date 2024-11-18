@@ -1,0 +1,1 @@
+/home/adrian-skowronski/www/mint/vendor/magento/module-admin-notification/view/adminhtml/web/toolbar_entry.js

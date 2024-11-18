@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890282214" stop="1729890282234" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Product\Compare\ListCompareTest</name>
+  <test-cases>
+    <test-case start="1729890282215" stop="1729890282229" status="passed">
+      <name>testProductAttributeValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890282230" stop="1729890282232" status="passed">
+      <name>testProductAttributeValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890282232" stop="1729890282234" status="passed">
+      <name>testGetProductPrice</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

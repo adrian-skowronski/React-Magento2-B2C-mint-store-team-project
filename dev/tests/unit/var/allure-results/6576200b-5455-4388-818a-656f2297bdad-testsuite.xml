@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262855" stop="1729890262861" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\ReportXml\DB\Assembler\FromAssemblerTest</name>
+  <test-cases>
+    <test-case start="1729890262856" stop="1729890262859" status="passed">
+      <name>testAssemble with data set "Tables without prefixes"</name>
+    </test-case>
+    <test-case start="1729890262859" stop="1729890262861" status="passed">
+      <name>testAssemble with data set "Tables with prefixes"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

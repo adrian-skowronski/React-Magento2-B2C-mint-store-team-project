@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890347877" stop="1729890347884" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\Processor\CleanCacheTest</name>
+  <test-cases>
+    <test-case start="1729890347877" stop="1729890347881" status="passed">
+      <name>testBeforeUpdateMview</name>
+    </test-case>
+    <test-case start="1729890347882" stop="1729890347882" status="passed">
+      <name>testAfterUpdateMview</name>
+    </test-case>
+    <test-case start="1729890347882" stop="1729890347883" status="passed">
+      <name>testBeforeReindexAllInvalid</name>
+    </test-case>
+    <test-case start="1729890347883" stop="1729890347884" status="passed">
+      <name>testAfterReindexAllInvalid</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

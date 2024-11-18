@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449909" stop="1729890449928" version="1.4.0">
+  <name>Magento\Framework\HTTP\Test\Unit\HeaderTest</name>
+  <test-cases>
+    <test-case start="1729890449910" stop="1729890449912" status="passed">
+      <name>testHttpMethods with data set "getHttpHost clean true"</name>
+    </test-case>
+    <test-case start="1729890449913" stop="1729890449913" status="passed">
+      <name>testHttpMethods with data set "getHttpHost clean false"</name>
+    </test-case>
+    <test-case start="1729890449914" stop="1729890449915" status="passed">
+      <name>testHttpMethods with data set "getHttpUserAgent clean true"</name>
+    </test-case>
+    <test-case start="1729890449916" stop="1729890449917" status="passed">
+      <name>testHttpMethods with data set "getHttpUserAgent clean false"</name>
+    </test-case>
+    <test-case start="1729890449917" stop="1729890449918" status="passed">
+      <name>testHttpMethods with data set "getHttpAcceptLanguage clean true"</name>
+    </test-case>
+    <test-case start="1729890449919" stop="1729890449919" status="passed">
+      <name>testHttpMethods with data set "getHttpAcceptLanguage clean false"</name>
+    </test-case>
+    <test-case start="1729890449920" stop="1729890449921" status="passed">
+      <name>testHttpMethods with data set "getHttpAcceptCharset clean true"</name>
+    </test-case>
+    <test-case start="1729890449921" stop="1729890449922" status="passed">
+      <name>testHttpMethods with data set "getHttpAcceptCharset clean false"</name>
+    </test-case>
+    <test-case start="1729890449923" stop="1729890449923" status="passed">
+      <name>testHttpMethods with data set "getHttpReferer clean true"</name>
+    </test-case>
+    <test-case start="1729890449924" stop="1729890449925" status="passed">
+      <name>testHttpMethods with data set "getHttpReferer clean false"</name>
+    </test-case>
+    <test-case start="1729890449926" stop="1729890449926" status="passed">
+      <name>testGetRequestUri with data set "getRequestUri clean true"</name>
+    </test-case>
+    <test-case start="1729890449927" stop="1729890449928" status="passed">
+      <name>testGetRequestUri with data set "getRequestUri clean false"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

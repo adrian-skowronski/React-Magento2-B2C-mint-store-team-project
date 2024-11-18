@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890382389" stop="1729890382423" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Email\Sender\OrderCommentSenderTest</name>
+  <test-cases>
+    <test-case start="1729890382390" stop="1729890382397" status="passed">
+      <name>testSendFalse</name>
+    </test-case>
+    <test-case start="1729890382397" stop="1729890382411" status="passed">
+      <name>testSendTrue</name>
+    </test-case>
+    <test-case start="1729890382412" stop="1729890382422" status="passed">
+      <name>testSendVirtualOrder</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

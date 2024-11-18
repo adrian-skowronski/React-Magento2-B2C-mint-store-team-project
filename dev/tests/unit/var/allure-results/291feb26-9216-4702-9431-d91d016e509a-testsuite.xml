@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302958" stop="1729890302966" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Structure\Element\IteratorTest</name>
+  <test-cases>
+    <test-case start="1729890302959" stop="1729890302960" status="passed">
+      <name>testIteratorInitializesFlyweight</name>
+    </test-case>
+    <test-case start="1729890302960" stop="1729890302961" status="passed">
+      <name>testIteratorSkipsNonValidElements</name>
+    </test-case>
+    <test-case start="1729890302961" stop="1729890302962" status="passed">
+      <name>testIsLast with data set #0</name>
+    </test-case>
+    <test-case start="1729890302963" stop="1729890302964" status="passed">
+      <name>testIsLast with data set #1</name>
+    </test-case>
+    <test-case start="1729890302964" stop="1729890302965" status="passed">
+      <name>testIsLast with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890315299" stop="1729890315315" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Address\Config\XsdTest</name>
+  <test-cases>
+    <test-case start="1729890315299" stop="1729890315301" status="passed">
+      <name>testExemplarXml with data set "valid"</name>
+    </test-case>
+    <test-case start="1729890315301" stop="1729890315302" status="passed">
+      <name>testExemplarXml with data set "valid with optional attributes"</name>
+    </test-case>
+    <test-case start="1729890315303" stop="1729890315304" status="passed">
+      <name>testExemplarXml with data set "empty root node"</name>
+    </test-case>
+    <test-case start="1729890315304" stop="1729890315305" status="passed">
+      <name>testExemplarXml with data set "irrelevant root node"</name>
+    </test-case>
+    <test-case start="1729890315306" stop="1729890315307" status="passed">
+      <name>testExemplarXml with data set "irrelevant node"</name>
+    </test-case>
+    <test-case start="1729890315307" stop="1729890315308" status="passed">
+      <name>testExemplarXml with data set "non empty node "format""</name>
+    </test-case>
+    <test-case start="1729890315309" stop="1729890315310" status="passed">
+      <name>testExemplarXml with data set "node "format" without attribute "code""</name>
+    </test-case>
+    <test-case start="1729890315310" stop="1729890315311" status="passed">
+      <name>testExemplarXml with data set "node "format" without attribute "title""</name>
+    </test-case>
+    <test-case start="1729890315312" stop="1729890315313" status="passed">
+      <name>testExemplarXml with data set "node "format" with invalid attribute"</name>
+    </test-case>
+    <test-case start="1729890315313" stop="1729890315315" status="passed">
+      <name>testExemplarXml with data set "attribute "escapeHtml" with invalid type"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

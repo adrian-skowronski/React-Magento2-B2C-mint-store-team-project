@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890355675" stop="1729890355679" version="1.4.0">
+  <name>Magento\OfflinePayments\Test\Unit\Block\Form\AbstractInstructionTest</name>
+  <test-cases>
+    <test-case start="1729890355676" stop="1729890355679" status="passed">
+      <name>testGetInstructions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

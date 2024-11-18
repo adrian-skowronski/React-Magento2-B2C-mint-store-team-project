@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890333167" stop="1729890333174" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\CacheContextTest</name>
+  <test-cases>
+    <test-case start="1729890333168" stop="1729890333168" status="passed">
+      <name>testRegisterEntities</name>
+    </test-case>
+    <test-case start="1729890333169" stop="1729890333170" status="passed">
+      <name>testGetIdentities with data set "should return entities and tags"</name>
+    </test-case>
+    <test-case start="1729890333171" stop="1729890333172" status="passed">
+      <name>testGetIdentities with data set "should return unique values"</name>
+    </test-case>
+    <test-case start="1729890333173" stop="1729890333173" status="passed">
+      <name>testFlush</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

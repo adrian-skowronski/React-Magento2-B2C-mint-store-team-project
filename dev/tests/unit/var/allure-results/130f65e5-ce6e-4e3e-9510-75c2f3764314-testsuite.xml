@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402919" stop="1729890402941" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Theme\FileTest</name>
+  <test-cases>
+    <test-case start="1729890402919" stop="1729890402925" status="passed">
+      <name>testSetCustomizationService</name>
+    </test-case>
+    <test-case start="1729890402925" stop="1729890402926" status="passed">
+      <name>testGetFullPathWithoutFileType</name>
+    </test-case>
+    <test-case start="1729890402927" stop="1729890402928" status="passed">
+      <name>testGetFullPath</name>
+    </test-case>
+    <test-case start="1729890402929" stop="1729890402930" status="passed">
+      <name>testSetTheme</name>
+    </test-case>
+    <test-case start="1729890402930" stop="1729890402931" status="passed">
+      <name>testGetTheme</name>
+    </test-case>
+    <test-case start="1729890402932" stop="1729890402933" status="passed">
+      <name>testGetThemeException</name>
+    </test-case>
+    <test-case start="1729890402934" stop="1729890402935" status="passed">
+      <name>testSetGetFileName</name>
+    </test-case>
+    <test-case start="1729890402935" stop="1729890402937" status="passed">
+      <name>testGetContent</name>
+    </test-case>
+    <test-case start="1729890402937" stop="1729890402939" status="passed">
+      <name>testGetFileInfo</name>
+    </test-case>
+    <test-case start="1729890402939" stop="1729890402941" status="passed">
+      <name>testBeforeSaveDelete</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

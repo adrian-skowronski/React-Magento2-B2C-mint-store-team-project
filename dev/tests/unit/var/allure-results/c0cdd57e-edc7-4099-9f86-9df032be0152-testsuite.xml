@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302314" stop="1729890302326" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Reader\Source\Deployed\SettingCheckerTest</name>
+  <test-cases>
+    <test-case start="1729890302315" stop="1729890302316" status="passed">
+      <name>testIsReadonly with data set #0</name>
+    </test-case>
+    <test-case start="1729890302317" stop="1729890302318" status="passed">
+      <name>testIsReadonly with data set #1</name>
+    </test-case>
+    <test-case start="1729890302319" stop="1729890302320" status="passed">
+      <name>testIsReadonly with data set #2</name>
+    </test-case>
+    <test-case start="1729890302321" stop="1729890302322" status="passed">
+      <name>testIsReadonly with data set #3</name>
+    </test-case>
+    <test-case start="1729890302323" stop="1729890302324" status="passed">
+      <name>testIsReadonly with data set #4</name>
+    </test-case>
+    <test-case start="1729890302325" stop="1729890302326" status="passed">
+      <name>testIsReadonly with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

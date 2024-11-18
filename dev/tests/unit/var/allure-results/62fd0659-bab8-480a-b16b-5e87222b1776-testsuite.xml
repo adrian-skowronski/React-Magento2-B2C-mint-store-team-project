@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402371" stop="1729890402375" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Design\Config\DataProvider\DataLoaderTest</name>
+  <test-cases>
+    <test-case start="1729890402372" stop="1729890402375" status="passed">
+      <name>testGetDataWithNoItems</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

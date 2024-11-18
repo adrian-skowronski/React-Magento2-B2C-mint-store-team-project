@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449480" stop="1729890449486" version="1.4.0">
+  <name>Magento\Framework\Filter\Test\Unit\RemoveAccentsTest</name>
+  <test-cases>
+    <test-case start="1729890449480" stop="1729890449483" status="passed">
+      <name>testRemoveAccents with data set "general conversion"</name>
+    </test-case>
+    <test-case start="1729890449485" stop="1729890449486" status="passed">
+      <name>testRemoveAccents with data set "conversion with german specifics"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

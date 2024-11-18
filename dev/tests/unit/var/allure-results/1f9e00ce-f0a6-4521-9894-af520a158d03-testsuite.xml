@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393737" stop="1729890393841" version="1.4.0">
+  <name>Magento\Sitemap\Test\Unit\Model\SitemapTest</name>
+  <test-cases>
+    <test-case start="1729890393737" stop="1729890393750" status="passed">
+      <name>testNotAllowedPath</name>
+    </test-case>
+    <test-case start="1729890393750" stop="1729890393753" status="passed">
+      <name>testPathNotExists</name>
+    </test-case>
+    <test-case start="1729890393753" stop="1729890393756" status="passed">
+      <name>testPathNotWritable</name>
+    </test-case>
+    <test-case start="1729890393756" stop="1729890393759" status="passed">
+      <name>testFilenameInvalidChars</name>
+    </test-case>
+    <test-case start="1729890393759" stop="1729890393766" status="passed">
+      <name>testGenerateXml with data set #0</name>
+    </test-case>
+    <test-case start="1729890393767" stop="1729890393774" status="passed">
+      <name>testGenerateXml with data set #1</name>
+    </test-case>
+    <test-case start="1729890393775" stop="1729890393781" status="passed">
+      <name>testGenerateXml with data set #2</name>
+    </test-case>
+    <test-case start="1729890393782" stop="1729890393787" status="passed">
+      <name>testAddSitemapToRobotsTxt with data set #0</name>
+    </test-case>
+    <test-case start="1729890393788" stop="1729890393792" status="passed">
+      <name>testAddSitemapToRobotsTxt with data set #1</name>
+    </test-case>
+    <test-case start="1729890393792" stop="1729890393797" status="passed">
+      <name>testAddSitemapToRobotsTxt with data set #2</name>
+    </test-case>
+    <test-case start="1729890393798" stop="1729890393803" status="passed">
+      <name>testAddSitemapToRobotsTxt with data set #3</name>
+    </test-case>
+    <test-case start="1729890393804" stop="1729890393808" status="passed">
+      <name>testAddSitemapToRobotsTxt with data set #4</name>
+    </test-case>
+    <test-case start="1729890393809" stop="1729890393812" status="passed">
+      <name>testGetSitemapUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890393813" stop="1729890393816" status="passed">
+      <name>testGetSitemapUrl with data set #1</name>
+    </test-case>
+    <test-case start="1729890393816" stop="1729890393819" status="passed">
+      <name>testGetSitemapUrl with data set #2</name>
+    </test-case>
+    <test-case start="1729890393819" stop="1729890393821" status="passed">
+      <name>testGetSitemapUrl with data set #3</name>
+    </test-case>
+    <test-case start="1729890393822" stop="1729890393824" status="passed">
+      <name>testGetSitemapUrl with data set #4</name>
+    </test-case>
+    <test-case start="1729890393825" stop="1729890393827" status="passed">
+      <name>testGetSitemapUrl with data set #5</name>
+    </test-case>
+    <test-case start="1729890393827" stop="1729890393829" status="passed">
+      <name>testGetSitemapUrl with data set #6</name>
+    </test-case>
+    <test-case start="1729890393830" stop="1729890393832" status="passed">
+      <name>testGetDocumentRootFromBaseDir with data set #0</name>
+    </test-case>
+    <test-case start="1729890393833" stop="1729890393835" status="passed">
+      <name>testGetDocumentRootFromBaseDir with data set #1</name>
+    </test-case>
+    <test-case start="1729890393836" stop="1729890393838" status="passed">
+      <name>testGetDocumentRootFromBaseDir with data set #2</name>
+    </test-case>
+    <test-case start="1729890393838" stop="1729890393841" status="passed">
+      <name>testGetDocumentRootFromBaseDir with data set "symlink &lt;document root&gt;/usa/txt -&gt; /var/www/html"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

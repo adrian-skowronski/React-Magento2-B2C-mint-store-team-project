@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890299951" stop="1729890299955" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Controller\Page\PostDataProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890299951" stop="1729890299954" status="passed">
+      <name>testValidateRequireEntry</name>
+    </test-case>
+    <test-case start="1729890299954" stop="1729890299955" status="passed">
+      <name>testFilter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

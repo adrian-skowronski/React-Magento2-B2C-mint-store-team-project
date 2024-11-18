@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328732" stop="1729890328735" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Model\Plugin\WindowsSmtpConfigTest</name>
+  <test-cases>
+    <test-case start="1729890328732" stop="1729890328734" status="passed">
+      <name>testBeforeSendMessageOsWindows</name>
+    </test-case>
+    <test-case start="1729890328734" stop="1729890328735" status="passed">
+      <name>testBeforeSendMessageOsIsWindows</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

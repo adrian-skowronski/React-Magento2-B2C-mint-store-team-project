@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264442" stop="1729890264452" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\Widget\Grid\Column\Filter\StoreTest</name>
+  <test-cases>
+    <test-case start="1729890264443" stop="1729890264447" status="passed">
+      <name>testGetCondition with data set #0</name>
+    </test-case>
+    <test-case start="1729890264448" stop="1729890264449" status="passed">
+      <name>testGetCondition with data set #1</name>
+    </test-case>
+    <test-case start="1729890264449" stop="1729890264450" status="passed">
+      <name>testGetCondition with data set #2</name>
+    </test-case>
+    <test-case start="1729890264451" stop="1729890264452" status="passed">
+      <name>testGetCondition with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

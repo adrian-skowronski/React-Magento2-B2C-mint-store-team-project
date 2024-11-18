@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280828" stop="1729890280855" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Plugin\Catalog\Block\Adminhtml\Category\Tab\AttributesTest</name>
+  <test-cases>
+    <test-case start="1729890280828" stop="1729890280842" status="passed">
+      <name>testGetAttributesMeta with data set "save rewrite history config enabled"</name>
+    </test-case>
+    <test-case start="1729890280843" stop="1729890280847" status="passed">
+      <name>testGetAttributesMeta with data set "save rewrite history config disabled"</name>
+    </test-case>
+    <test-case start="1729890280847" stop="1729890280850" status="passed">
+      <name>testGetAttributesMetaWithoutCategoryId</name>
+    </test-case>
+    <test-case start="1729890280850" stop="1729890280855" status="passed">
+      <name>testGetAttributesMetaRootCategory</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

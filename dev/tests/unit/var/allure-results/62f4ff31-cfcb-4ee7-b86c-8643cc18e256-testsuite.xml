@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358419" stop="1729890358424" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Gateway\Config\ConfigValueHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890358419" stop="1729890358423" status="passed">
+      <name>testHandle</name>
+    </test-case>
+    <test-case start="1729890358423" stop="1729890358424" status="passed">
+      <name>testHandleWithoutStoreId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

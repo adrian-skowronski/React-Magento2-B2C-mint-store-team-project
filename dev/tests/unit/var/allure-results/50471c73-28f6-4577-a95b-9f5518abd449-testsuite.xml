@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890417995" stop="1729890417999" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\Di\Compiler\Config\Chain\InterceptorSubstitutionTest</name>
+  <test-cases>
+    <test-case start="1729890417995" stop="1729890417996" status="passed">
+      <name>testModifyArgumentsDoNotExist</name>
+    </test-case>
+    <test-case start="1729890417996" stop="1729890417998" status="passed">
+      <name>testModifyArguments</name>
+    </test-case>
+    <test-case start="1729890417998" stop="1729890417999" status="passed">
+      <name>testModifyPreferences</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

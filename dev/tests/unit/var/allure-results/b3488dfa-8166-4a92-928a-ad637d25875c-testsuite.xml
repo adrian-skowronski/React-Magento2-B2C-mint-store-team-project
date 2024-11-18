@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890288152" stop="1729890288191" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Attribute\RepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890288153" stop="1729890288155" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890288155" stop="1729890288156" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890288156" stop="1729890288158" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890288158" stop="1729890288160" status="passed">
+      <name>testDeleteById</name>
+    </test-case>
+    <test-case start="1729890288160" stop="1729890288162" status="passed">
+      <name>testGetCustomAttributesMetadata</name>
+    </test-case>
+    <test-case start="1729890288162" stop="1729890288166" status="passed">
+      <name>testSaveNoSuchEntityException</name>
+    </test-case>
+    <test-case start="1729890288167" stop="1729890288169" status="passed">
+      <name>testSaveInputExceptionRequiredField</name>
+    </test-case>
+    <test-case start="1729890288169" stop="1729890288176" status="passed">
+      <name>testSaveInputExceptionInvalidFieldValue</name>
+    </test-case>
+    <test-case start="1729890288176" stop="1729890288182" status="passed">
+      <name>testSaveDoesNotSaveAttributeOptionsIfOptionsAreAbsentInPayload</name>
+    </test-case>
+    <test-case start="1729890288183" stop="1729890288191" status="passed">
+      <name>testSaveSavesDefaultFrontendLabelIfItIsPresentInPayload</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

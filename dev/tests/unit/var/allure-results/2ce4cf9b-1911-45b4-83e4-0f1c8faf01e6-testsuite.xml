@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890286572" stop="1729890286576" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Category\Product\RowSizeEstimatorTest</name>
+  <test-cases>
+    <test-case start="1729890286572" stop="1729890286575" status="passed">
+      <name>testEstimateRowSize</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890266934" stop="1729890266953" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Model\Menu\Filter\IteratorTest</name>
+  <test-cases>
+    <test-case start="1729890266934" stop="1729890266942" status="passed">
+      <name>testLoopWithAllItemsDisabledDoesntIterate</name>
+    </test-case>
+    <test-case start="1729890266942" stop="1729890266945" status="passed">
+      <name>testLoopIteratesOnlyValidItems</name>
+    </test-case>
+    <test-case start="1729890266945" stop="1729890266948" status="passed">
+      <name>testLoopIteratesDosntIterateDisabledItems</name>
+    </test-case>
+    <test-case start="1729890266948" stop="1729890266951" status="passed">
+      <name>testLoopIteratesDosntIterateNotAllowedItems</name>
+    </test-case>
+    <test-case start="1729890266951" stop="1729890266953" status="passed">
+      <name>testLoopIteratesMixedItems</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

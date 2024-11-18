@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890465511" stop="1729890465521" version="1.4.0">
+  <name>Magento\Framework\Webapi\Test\Unit\Validator\EntityArrayValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890465512" stop="1729890465513" status="passed">
+      <name>testAllowsDataWhenBelowLimitWhenUsingRouteInputLimit</name>
+    </test-case>
+    <test-case start="1729890465513" stop="1729890465514" status="passed">
+      <name>testFailsDataWhenAboveLimitUsingRouteInputLimit</name>
+    </test-case>
+    <test-case start="1729890465515" stop="1729890465516" status="passed">
+      <name>testAllowsDataWhenBelowLimit</name>
+    </test-case>
+    <test-case start="1729890465516" stop="1729890465517" status="passed">
+      <name>testAllowsDataWhenBelowLimitUsingConfig</name>
+    </test-case>
+    <test-case start="1729890465517" stop="1729890465518" status="passed">
+      <name>testFailsDataWhenAboveLimit</name>
+    </test-case>
+    <test-case start="1729890465518" stop="1729890465519" status="passed">
+      <name>testFailsDataWhenAboveLimitUsingConfig</name>
+    </test-case>
+    <test-case start="1729890465520" stop="1729890465521" status="passed">
+      <name>testAboveLimitWithDisabledLimiting</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

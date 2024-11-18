@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890455144" stop="1729890455152" version="1.4.0">
+  <name>Magento\Framework\Pricing\Test\Unit\PriceInfo\BaseTest</name>
+  <test-cases>
+    <test-case start="1729890455144" stop="1729890455146" status="passed">
+      <name>testGetPrices</name>
+    </test-case>
+    <test-case start="1729890455146" stop="1729890455147" status="passed">
+      <name>testGetPrice with data set "case with empty quantity"</name>
+    </test-case>
+    <test-case start="1729890455147" stop="1729890455148" status="passed">
+      <name>testGetPrice with data set "case with existing price"</name>
+    </test-case>
+    <test-case start="1729890455148" stop="1729890455149" status="passed">
+      <name>testGetPrice with data set "case with quantity"</name>
+    </test-case>
+    <test-case start="1729890455150" stop="1729890455151" status="passed">
+      <name>testGetAdjustments</name>
+    </test-case>
+    <test-case start="1729890455151" stop="1729890455152" status="passed">
+      <name>testGetAdjustment</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

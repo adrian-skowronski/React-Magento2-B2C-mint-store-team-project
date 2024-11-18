@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392210" stop="1729890392242" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Model\AdminSessionsManagerTest</name>
+  <test-cases>
+    <test-case start="1729890392211" stop="1729890392217" status="passed">
+      <name>testProcessLogin</name>
+    </test-case>
+    <test-case start="1729890392217" stop="1729890392219" status="passed">
+      <name>testProcessProlong</name>
+    </test-case>
+    <test-case start="1729890392219" stop="1729890392221" status="passed">
+      <name>testUpdatedAtIsNull</name>
+    </test-case>
+    <test-case start="1729890392222" stop="1729890392223" status="passed">
+      <name>testProcessLogout</name>
+    </test-case>
+    <test-case start="1729890392223" stop="1729890392224" status="passed">
+      <name>testGetCurrentSession</name>
+    </test-case>
+    <test-case start="1729890392224" stop="1729890392225" status="passed">
+      <name>testCleanExpiredSessions</name>
+    </test-case>
+    <test-case start="1729890392226" stop="1729890392228" status="passed">
+      <name>testGetLogoutReasonMessage with data set #0</name>
+    </test-case>
+    <test-case start="1729890392228" stop="1729890392230" status="passed">
+      <name>testGetLogoutReasonMessage with data set #1</name>
+    </test-case>
+    <test-case start="1729890392230" stop="1729890392232" status="passed">
+      <name>testGetLogoutReasonMessage with data set #2</name>
+    </test-case>
+    <test-case start="1729890392233" stop="1729890392235" status="passed">
+      <name>testGetLogoutReasonMessage with data set #3</name>
+    </test-case>
+    <test-case start="1729890392236" stop="1729890392237" status="passed">
+      <name>testGetLogoutReasonMessage with data set #4</name>
+    </test-case>
+    <test-case start="1729890392238" stop="1729890392239" status="passed">
+      <name>testGetSessionsForCurrentUser</name>
+    </test-case>
+    <test-case start="1729890392239" stop="1729890392242" status="passed">
+      <name>testLogoutOtherUserSessions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

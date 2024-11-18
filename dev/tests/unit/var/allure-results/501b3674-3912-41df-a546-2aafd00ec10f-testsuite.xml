@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418226" stop="1729890418233" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\I18n\Dictionary\Writer\CsvTest</name>
+  <test-cases>
+    <test-case start="1729890418226" stop="1729890418228" status="passed">
+      <name>testWrongOutputFile</name>
+    </test-case>
+    <test-case start="1729890418228" stop="1729890418230" status="passed">
+      <name>testWrite</name>
+    </test-case>
+    <test-case start="1729890418230" stop="1729890418233" status="passed">
+      <name>testWriteWithoutContext</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

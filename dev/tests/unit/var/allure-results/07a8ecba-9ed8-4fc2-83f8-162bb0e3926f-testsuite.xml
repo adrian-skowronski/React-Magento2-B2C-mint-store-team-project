@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297986" stop="1729890298064" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Model\CartTest</name>
+  <test-cases>
+    <test-case start="1729890297987" stop="1729890297996" status="passed">
+      <name>testSuggestItemsQty</name>
+    </test-case>
+    <test-case start="1729890297998" stop="1729890298002" status="passed">
+      <name>testUpdateItems</name>
+    </test-case>
+    <test-case start="1729890298002" stop="1729890298007" status="passed">
+      <name>testGetSummaryQty with data set #0</name>
+    </test-case>
+    <test-case start="1729890298008" stop="1729890298013" status="passed">
+      <name>testGetSummaryQty with data set #1</name>
+    </test-case>
+    <test-case start="1729890298014" stop="1729890298021" status="passed">
+      <name>testAddProduct with data set "prod_int_info_int"</name>
+    </test-case>
+    <test-case start="1729890298022" stop="1729890298027" status="passed">
+      <name>testAddProduct with data set "prod_int_info_array"</name>
+    </test-case>
+    <test-case start="1729890298028" stop="1729890298034" status="passed">
+      <name>testAddProduct with data set "prod_int_info_object"</name>
+    </test-case>
+    <test-case start="1729890298034" stop="1729890298040" status="passed">
+      <name>testAddProduct with data set "prod_obj_info_int"</name>
+    </test-case>
+    <test-case start="1729890298041" stop="1729890298046" status="passed">
+      <name>testAddProduct with data set "prod_obj_info_array"</name>
+    </test-case>
+    <test-case start="1729890298048" stop="1729890298054" status="passed">
+      <name>testAddProduct with data set "prod_obj_info_object"</name>
+    </test-case>
+    <test-case start="1729890298054" stop="1729890298060" status="passed">
+      <name>testAddProductException</name>
+    </test-case>
+    <test-case start="1729890298060" stop="1729890298064" status="passed">
+      <name>testAddProductExceptionBadParams</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

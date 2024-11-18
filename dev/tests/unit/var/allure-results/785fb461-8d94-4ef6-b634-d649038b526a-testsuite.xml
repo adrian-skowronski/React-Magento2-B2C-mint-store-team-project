@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462395" stop="1729890462403" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Design\Theme\Customization\PathTest</name>
+  <test-cases>
+    <test-case start="1729890462395" stop="1729890462396" status="passed">
+      <name>testGetCustomizationPath</name>
+    </test-case>
+    <test-case start="1729890462396" stop="1729890462398" status="passed">
+      <name>testGetCustomizationPathNoId</name>
+    </test-case>
+    <test-case start="1729890462398" stop="1729890462399" status="passed">
+      <name>testGetThemeFilesPath</name>
+    </test-case>
+    <test-case start="1729890462399" stop="1729890462400" status="passed">
+      <name>testGetThemeFilesPathNoPath</name>
+    </test-case>
+    <test-case start="1729890462401" stop="1729890462402" status="passed">
+      <name>testGetCustomViewConfigPath</name>
+    </test-case>
+    <test-case start="1729890462402" stop="1729890462403" status="passed">
+      <name>testGetCustomViewConfigPathNoId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

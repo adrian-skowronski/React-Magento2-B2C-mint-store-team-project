@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890332095" stop="1729890332103" version="1.4.0">
+  <name>Magento\ImportExport\Test\Unit\Model\Import\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890332096" stop="1729890332098" status="passed">
+      <name>testGetEntities with data set "entities_key_exist"</name>
+    </test-case>
+    <test-case start="1729890332098" stop="1729890332100" status="passed">
+      <name>testGetEntities with data set "return_default_value"</name>
+    </test-case>
+    <test-case start="1729890332100" stop="1729890332101" status="passed">
+      <name>testGetEntityTypes with data set "valid type"</name>
+    </test-case>
+    <test-case start="1729890332102" stop="1729890332103" status="passed">
+      <name>testGetEntityTypes with data set "not existing entity"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

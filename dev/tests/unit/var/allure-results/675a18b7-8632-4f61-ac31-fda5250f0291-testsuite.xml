@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890267649" stop="1729890267660" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Model\Widget\Grid\AbstractTotalsTest</name>
+  <test-cases>
+    <test-case start="1729890267650" stop="1729890267653" status="passed">
+      <name>testColumns</name>
+    </test-case>
+    <test-case start="1729890267653" stop="1729890267655" status="passed">
+      <name>testCountTotals</name>
+    </test-case>
+    <test-case start="1729890267656" stop="1729890267658" status="passed">
+      <name>testReset</name>
+    </test-case>
+    <test-case start="1729890267658" stop="1729890267660" status="passed">
+      <name>testResetFull</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327955" stop="1729890327958" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\SearchAdapter\Aggregation\Builder\TermTest</name>
+  <test-cases>
+    <test-case start="1729890327955" stop="1729890327958" status="passed">
+      <name>testBuild</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

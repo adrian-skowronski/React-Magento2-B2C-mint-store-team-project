@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352402" stop="1729890352432" version="1.4.0">
+  <name>Magento\LayeredNavigation\Test\Unit\Observer\Grid\ProductAttributeGridBuildObserverTest</name>
+  <test-cases>
+    <test-case start="1729890352403" stop="1729890352429" status="passed">
+      <name>testColumnAddingOnDisabledOutput</name>
+    </test-case>
+    <test-case start="1729890352430" stop="1729890352432" status="passed">
+      <name>testColumnAddingOnEnabledOutput</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

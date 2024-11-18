@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890291692" stop="1729890291694" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Type\VirtualTest</name>
+  <test-cases>
+    <test-case start="1729890291692" stop="1729890291694" status="passed">
+      <name>testHasWeightFalse</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

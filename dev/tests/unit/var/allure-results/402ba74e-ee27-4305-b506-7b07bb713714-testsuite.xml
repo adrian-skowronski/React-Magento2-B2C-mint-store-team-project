@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890292711" stop="1729890292718" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ProductManagementTest</name>
+  <test-cases>
+    <test-case start="1729890292711" stop="1729890292714" status="passed">
+      <name>testGetEnabledCount</name>
+    </test-case>
+    <test-case start="1729890292714" stop="1729890292717" status="passed">
+      <name>testGetDisabledCount</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

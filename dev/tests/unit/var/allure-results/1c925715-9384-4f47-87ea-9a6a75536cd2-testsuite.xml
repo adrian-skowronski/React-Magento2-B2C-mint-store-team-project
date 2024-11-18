@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452334" stop="1729890452433" version="1.4.0">
+  <name>Magento\Framework\Model\Test\Unit\ResourceModel\Db\Collection\AbstractCollectionTest</name>
+  <test-cases>
+    <test-case start="1729890452334" stop="1729890452337" status="passed">
+      <name>testSetMainTableNull</name>
+    </test-case>
+    <test-case start="1729890452337" stop="1729890452339" status="passed">
+      <name>testSetMainTableFirst</name>
+    </test-case>
+    <test-case start="1729890452339" stop="1729890452341" status="passed">
+      <name>testSetMainTableNoSelect</name>
+    </test-case>
+    <test-case start="1729890452341" stop="1729890452343" status="passed">
+      <name>testSetMainTable</name>
+    </test-case>
+    <test-case start="1729890452344" stop="1729890452346" status="passed">
+      <name>testGetSelectCached</name>
+    </test-case>
+    <test-case start="1729890452346" stop="1729890452349" status="passed">
+      <name>testGetSelect with data set #0</name>
+    </test-case>
+    <test-case start="1729890452349" stop="1729890452351" status="passed">
+      <name>testAddFieldToSelect with data set #0</name>
+    </test-case>
+    <test-case start="1729890452352" stop="1729890452355" status="passed">
+      <name>testAddFieldToSelect with data set #1</name>
+    </test-case>
+    <test-case start="1729890452356" stop="1729890452359" status="passed">
+      <name>testAddFieldToSelect with data set #2</name>
+    </test-case>
+    <test-case start="1729890452359" stop="1729890452361" status="passed">
+      <name>testAddFieldToSelect with data set #3</name>
+    </test-case>
+    <test-case start="1729890452362" stop="1729890452365" status="passed">
+      <name>testAddExpressionFieldToSelect with data set #0</name>
+    </test-case>
+    <test-case start="1729890452365" stop="1729890452368" status="passed">
+      <name>testAddExpressionFieldToSelect with data set #1</name>
+    </test-case>
+    <test-case start="1729890452369" stop="1729890452372" status="passed">
+      <name>testRemoveFieldFromSelect with data set #0</name>
+    </test-case>
+    <test-case start="1729890452373" stop="1729890452376" status="passed">
+      <name>testRemoveFieldFromSelect with data set #1</name>
+    </test-case>
+    <test-case start="1729890452377" stop="1729890452380" status="passed">
+      <name>testRemoveFieldFromSelect with data set #2</name>
+    </test-case>
+    <test-case start="1729890452381" stop="1729890452384" status="passed">
+      <name>testRemoveFieldFromSelect with data set #3</name>
+    </test-case>
+    <test-case start="1729890452384" stop="1729890452388" status="passed">
+      <name>testRemoveAllFieldsFromSelect</name>
+    </test-case>
+    <test-case start="1729890452389" stop="1729890452392" status="passed">
+      <name>testSetModelNotString</name>
+    </test-case>
+    <test-case start="1729890452393" stop="1729890452396" status="passed">
+      <name>testSetModelInvalidType</name>
+    </test-case>
+    <test-case start="1729890452396" stop="1729890452400" status="passed">
+      <name>testSetModel</name>
+    </test-case>
+    <test-case start="1729890452400" stop="1729890452403" status="passed">
+      <name>testGetModelName</name>
+    </test-case>
+    <test-case start="1729890452404" stop="1729890452407" status="passed">
+      <name>testGetResourceModelName</name>
+    </test-case>
+    <test-case start="1729890452407" stop="1729890452410" status="passed">
+      <name>testGetResource</name>
+    </test-case>
+    <test-case start="1729890452411" stop="1729890452414" status="passed">
+      <name>testGetResourceCached</name>
+    </test-case>
+    <test-case start="1729890452414" stop="1729890452417" status="passed">
+      <name>testGetTable</name>
+    </test-case>
+    <test-case start="1729890452418" stop="1729890452421" status="passed">
+      <name>testJoin with data set #0</name>
+    </test-case>
+    <test-case start="1729890452422" stop="1729890452425" status="passed">
+      <name>testJoin with data set #1</name>
+    </test-case>
+    <test-case start="1729890452425" stop="1729890452429" status="passed">
+      <name>testResetItemsDataChanged</name>
+    </test-case>
+    <test-case start="1729890452430" stop="1729890452433" status="passed">
+      <name>testSave</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

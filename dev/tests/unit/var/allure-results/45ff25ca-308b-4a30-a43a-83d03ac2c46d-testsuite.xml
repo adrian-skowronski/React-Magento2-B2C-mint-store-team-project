@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402193" stop="1729890402200" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890402194" stop="1729890402198" status="passed">
+      <name>testAssignToStoreInSingleStoreMode</name>
+    </test-case>
+    <test-case start="1729890402198" stop="1729890402200" status="passed">
+      <name>testAssignToStoreNonSingleStoreMode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

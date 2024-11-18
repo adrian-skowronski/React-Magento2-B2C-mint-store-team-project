@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890425186" stop="1729890425212" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\FrontControllerTest</name>
+  <test-cases>
+    <test-case start="1729890425187" stop="1729890425199" status="passed">
+      <name>testDispatchThrowException</name>
+    </test-case>
+    <test-case start="1729890425200" stop="1729890425203" status="passed">
+      <name>testAddingValidationFailureMessageToDebugLog</name>
+    </test-case>
+    <test-case start="1729890425204" stop="1729890425207" status="passed">
+      <name>testDispatched</name>
+    </test-case>
+    <test-case start="1729890425208" stop="1729890425211" status="passed">
+      <name>testDispatchedNotFoundException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

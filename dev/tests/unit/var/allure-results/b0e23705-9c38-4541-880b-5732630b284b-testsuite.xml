@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890459214" stop="1729890459221" version="1.4.0">
+  <name>Magento\Framework\TestFramework\Test\Unit\Unit\Helper\ProxyTestingTest</name>
+  <test-cases>
+    <test-case start="1729890459215" stop="1729890459216" status="passed">
+      <name>testInvokeWithExpectations with data set "all parameters passed"</name>
+    </test-case>
+    <test-case start="1729890459217" stop="1729890459218" status="passed">
+      <name>testInvokeWithExpectations with data set "proxied method and params are to be set from proxy method and params"</name>
+    </test-case>
+    <test-case start="1729890459219" stop="1729890459220" status="passed">
+      <name>testInvokeWithExpectations with data set "proxy and proxied method and params differ"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

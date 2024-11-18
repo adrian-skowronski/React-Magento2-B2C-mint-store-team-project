@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890410784" stop="1729890410828" version="1.4.0">
+  <name>Magento\Widget\Test\Unit\Model\Template\FilterTest</name>
+  <test-cases>
+    <test-case start="1729890410785" stop="1729890410789" status="passed">
+      <name>testGenerateWidget with data set #0</name>
+    </test-case>
+    <test-case start="1729890410790" stop="1729890410793" status="passed">
+      <name>testGenerateWidget with data set #1</name>
+    </test-case>
+    <test-case start="1729890410794" stop="1729890410796" status="passed">
+      <name>testGenerateWidget with data set #2</name>
+    </test-case>
+    <test-case start="1729890410797" stop="1729890410801" status="passed">
+      <name>testGenerateWidget with data set #3</name>
+    </test-case>
+    <test-case start="1729890410802" stop="1729890410807" status="passed">
+      <name>testWidgetDirective with data set #0</name>
+    </test-case>
+    <test-case start="1729890410808" stop="1729890410811" status="passed">
+      <name>testWidgetDirective with data set #1</name>
+    </test-case>
+    <test-case start="1729890410812" stop="1729890410815" status="passed">
+      <name>testWidgetDirective with data set #2</name>
+    </test-case>
+    <test-case start="1729890410816" stop="1729890410820" status="passed">
+      <name>testWidgetDirective with data set #3</name>
+    </test-case>
+    <test-case start="1729890410821" stop="1729890410824" status="passed">
+      <name>testMediaDirective</name>
+    </test-case>
+    <test-case start="1729890410825" stop="1729890410827" status="passed">
+      <name>testMediaDirectiveWithEncodedQuotes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

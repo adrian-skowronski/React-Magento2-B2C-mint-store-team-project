@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353465" stop="1729890353469" version="1.4.0">
+  <name>Magento\Msrp\Test\Unit\Pricing\MsrpPriceCalculatorTest</name>
+  <test-cases>
+    <test-case start="1729890353465" stop="1729890353468" status="passed">
+      <name>testGetMsrpPriceValue with data set "Get Mrsp Price with product and msrp calculator and the same product type"</name>
+    </test-case>
+    <test-case start="1729890353468" stop="1729890353469" status="passed">
+      <name>testGetMsrpPriceValue with data set "Get Mrsp Price with product and msrp calculator and the different product type"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

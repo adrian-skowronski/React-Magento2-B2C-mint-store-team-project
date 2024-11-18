@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890321964" stop="1729890321977" version="1.4.0">
+  <name>Magento\Directory\Test\Unit\Model\CountryInformationAcquirerTest</name>
+  <test-cases>
+    <test-case start="1729890321965" stop="1729890321971" status="passed">
+      <name>testGetCountriesInfo</name>
+    </test-case>
+    <test-case start="1729890321971" stop="1729890321974" status="passed">
+      <name>testGetCountryInfo</name>
+    </test-case>
+    <test-case start="1729890321974" stop="1729890321977" status="passed">
+      <name>testGetCountryInfoNotFound</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

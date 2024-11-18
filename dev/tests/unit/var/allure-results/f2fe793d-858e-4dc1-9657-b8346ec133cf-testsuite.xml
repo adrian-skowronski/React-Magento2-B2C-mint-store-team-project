@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271843" stop="1729890271885" version="1.4.0">
+  <name>Magento\CatalogGraphQl\Test\Unit\Model\Resolver\Category\ImageTest</name>
+  <test-cases>
+    <test-case start="1729890271844" stop="1729890271877" status="passed">
+      <name>testResolve</name>
+    </test-case>
+    <test-case start="1729890271877" stop="1729890271878" status="passed">
+      <name>testResolveWithoutModelInValueParameter</name>
+    </test-case>
+    <test-case start="1729890271879" stop="1729890271885" status="passed">
+      <name>testResolveWhenImageFileDoesntExist</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

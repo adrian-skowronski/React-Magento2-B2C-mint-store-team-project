@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890281206" stop="1729890281213" version="1.4.0">
+  <name>Magento\CatalogWidget\Test\Unit\Model\Rule\Condition\CombineTest</name>
+  <test-cases>
+    <test-case start="1729890281207" stop="1729890281211" status="passed">
+      <name>testGetNewChildSelectOptions</name>
+    </test-case>
+    <test-case start="1729890281211" stop="1729890281213" status="passed">
+      <name>testCollectValidatedAttributes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

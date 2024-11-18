@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464705" stop="1729890464709" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Render\RenderFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890464706" stop="1729890464708" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890464708" stop="1729890464709" status="passed">
+      <name>testGetException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

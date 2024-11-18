@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404732" stop="1729890404735" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\Form\Element\DataType\MediaTest</name>
+  <test-cases>
+    <test-case start="1729890404732" stop="1729890404733" status="passed">
+      <name>testPrepareWithoutDataScope</name>
+    </test-case>
+    <test-case start="1729890404734" stop="1729890404735" status="passed">
+      <name>testPrepareWithDataScope</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890309123" stop="1729890309176" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Model\ConfigurableProductManagementTest</name>
+  <test-cases>
+    <test-case start="1729890309123" stop="1729890309149" status="passed">
+      <name>testGenerateVariation</name>
+    </test-case>
+    <test-case start="1729890309150" stop="1729890309173" status="passed">
+      <name>testGetEnabledCount</name>
+    </test-case>
+    <test-case start="1729890309173" stop="1729890309175" status="passed">
+      <name>testGetDisabledCount</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

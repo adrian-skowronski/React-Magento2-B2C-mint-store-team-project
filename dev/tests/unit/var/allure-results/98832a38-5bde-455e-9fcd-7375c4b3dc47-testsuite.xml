@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890312273" stop="1729890312280" version="1.4.0">
+  <name>Magento\CustomerGraphQl\Test\Unit\Model\Resolver\RevokeCustomerTokenTest</name>
+  <test-cases>
+    <test-case start="1729890312273" stop="1729890312277" status="passed">
+      <name>testRevokeCustomerToken</name>
+    </test-case>
+    <test-case start="1729890312277" stop="1729890312280" status="passed">
+      <name>testCustomerNotAuthorized</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

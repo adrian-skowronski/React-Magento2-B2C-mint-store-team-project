@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452948" stop="1729890452974" version="1.4.0">
+  <name>Magento\Framework\Module\Test\Unit\StatusTest</name>
+  <test-cases>
+    <test-case start="1729890452949" stop="1729890452950" status="passed">
+      <name>testCheckConstraintsEnableAllowed</name>
+    </test-case>
+    <test-case start="1729890452950" stop="1729890452951" status="passed">
+      <name>testCheckConstraintsEnableNotAllowed</name>
+    </test-case>
+    <test-case start="1729890452951" stop="1729890452952" status="passed">
+      <name>testCheckConstraintsEnableNotAllowedWithPrettyMsg</name>
+    </test-case>
+    <test-case start="1729890452953" stop="1729890452954" status="passed">
+      <name>testCheckConstraintsDisableAllowed</name>
+    </test-case>
+    <test-case start="1729890452954" stop="1729890452955" status="passed">
+      <name>testCheckConstraintsDisableNotAllowed</name>
+    </test-case>
+    <test-case start="1729890452955" stop="1729890452956" status="passed">
+      <name>testSetIsEnabled</name>
+    </test-case>
+    <test-case start="1729890452957" stop="1729890452958" status="passed">
+      <name>testSetIsEnabledUnknown</name>
+    </test-case>
+    <test-case start="1729890452959" stop="1729890452960" status="passed">
+      <name>testGetModulesToChange with data set #0</name>
+    </test-case>
+    <test-case start="1729890452961" stop="1729890452962" status="passed">
+      <name>testGetModulesToChange with data set #1</name>
+    </test-case>
+    <test-case start="1729890452963" stop="1729890452964" status="passed">
+      <name>testGetModulesToChange with data set #2</name>
+    </test-case>
+    <test-case start="1729890452965" stop="1729890452965" status="passed">
+      <name>testGetModulesToChange with data set #3</name>
+    </test-case>
+    <test-case start="1729890452966" stop="1729890452967" status="passed">
+      <name>testGetModulesToChange with data set #4</name>
+    </test-case>
+    <test-case start="1729890452968" stop="1729890452969" status="passed">
+      <name>testGetModulesToChange with data set #5</name>
+    </test-case>
+    <test-case start="1729890452970" stop="1729890452971" status="passed">
+      <name>testGetModulesToChange with data set #6</name>
+    </test-case>
+    <test-case start="1729890452971" stop="1729890452972" status="passed">
+      <name>testGetModulesToChange with data set #7</name>
+    </test-case>
+    <test-case start="1729890452973" stop="1729890452974" status="passed">
+      <name>testGetModulesToChange with data set #8</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

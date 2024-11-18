@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890331707" stop="1729890331720" version="1.4.0">
+  <name>Magento\ImportExport\Test\Unit\Controller\Adminhtml\History\DownloadTest</name>
+  <test-cases>
+    <test-case start="1729890331708" stop="1729890331713" status="passed">
+      <name>testExecute with data set "Normal file name"</name>
+    </test-case>
+    <test-case start="1729890331714" stop="1729890331716" status="passed">
+      <name>testExecute with data set "Relative file name"</name>
+    </test-case>
+    <test-case start="1729890331716" stop="1729890331718" status="passed">
+      <name>testExecute with data set "Empty file name"</name>
+    </test-case>
+    <test-case start="1729890331718" stop="1729890331720" status="passed">
+      <name>testExecuteFileNotFound</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

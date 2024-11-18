@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890410844" stop="1729890410889" version="1.4.0">
+  <name>Magento\Widget\Test\Unit\Model\Widget\InstanceTest</name>
+  <test-cases>
+    <test-case start="1729890410844" stop="1729890410853" status="passed">
+      <name>testGetWidgetConfigAsArray</name>
+    </test-case>
+    <test-case start="1729890410853" stop="1729890410857" status="passed">
+      <name>testGetWidgetTemplates</name>
+    </test-case>
+    <test-case start="1729890410858" stop="1729890410860" status="passed">
+      <name>testGetWidgetTemplatesValueOnly</name>
+    </test-case>
+    <test-case start="1729890410861" stop="1729890410863" status="passed">
+      <name>testGetWidgetTemplatesNoTemplate</name>
+    </test-case>
+    <test-case start="1729890410863" stop="1729890410866" status="passed">
+      <name>testGetWidgetSupportedContainers</name>
+    </test-case>
+    <test-case start="1729890410866" stop="1729890410869" status="passed">
+      <name>testGetWidgetSupportedContainersNoContainer</name>
+    </test-case>
+    <test-case start="1729890410870" stop="1729890410874" status="passed">
+      <name>testGetWidgetSupportedTemplatesByContainers</name>
+    </test-case>
+    <test-case start="1729890410874" stop="1729890410877" status="passed">
+      <name>testGetWidgetSupportedTemplatesByContainers2</name>
+    </test-case>
+    <test-case start="1729890410877" stop="1729890410880" status="passed">
+      <name>testGetWidgetSupportedTemplatesByContainersNoSupportedContainersSpecified</name>
+    </test-case>
+    <test-case start="1729890410880" stop="1729890410883" status="passed">
+      <name>testGetWidgetSupportedTemplatesByContainersUnknownContainer</name>
+    </test-case>
+    <test-case start="1729890410883" stop="1729890410886" status="passed">
+      <name>testGetWidgetParameters</name>
+    </test-case>
+    <test-case start="1729890410887" stop="1729890410889" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

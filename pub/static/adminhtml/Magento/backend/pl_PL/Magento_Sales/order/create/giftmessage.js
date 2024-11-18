@@ -1,0 +1,1 @@
+/home/adrian-skowronski/www/mint/vendor/magento/module-sales/view/adminhtml/web/order/create/giftmessage.js

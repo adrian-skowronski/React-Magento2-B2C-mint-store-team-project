@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403862" stop="1729890403875" version="1.4.0">
+  <name>Magento\Translation\Test\Unit\Model\Inline\ParserTest</name>
+  <test-cases>
+    <test-case start="1729890403863" stop="1729890403871" status="passed">
+      <name>testProcessAjaxPostNotAllowed</name>
+    </test-case>
+    <test-case start="1729890403871" stop="1729890403872" status="passed">
+      <name>testProcessAjaxPost</name>
+    </test-case>
+    <test-case start="1729890403873" stop="1729890403875" status="passed">
+      <name>testProcessResponseBodyStringProcessingAttributesCorrectly</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

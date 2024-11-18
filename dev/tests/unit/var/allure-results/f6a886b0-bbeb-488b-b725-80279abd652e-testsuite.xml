@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302466" stop="1729890302514" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Structure\ConcealInProductionConfigListTest</name>
+  <test-cases>
+    <test-case start="1729890302467" stop="1729890302491" status="passed">
+      <name>testIsDisabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890302492" stop="1729890302493" status="passed">
+      <name>testIsDisabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890302493" stop="1729890302494" status="passed">
+      <name>testIsDisabled with data set #2</name>
+    </test-case>
+    <test-case start="1729890302495" stop="1729890302495" status="passed">
+      <name>testIsDisabled with data set #3</name>
+    </test-case>
+    <test-case start="1729890302496" stop="1729890302497" status="passed">
+      <name>testIsDisabled with data set #4</name>
+    </test-case>
+    <test-case start="1729890302497" stop="1729890302498" status="passed">
+      <name>testIsDisabled with data set #5</name>
+    </test-case>
+    <test-case start="1729890302499" stop="1729890302499" status="passed">
+      <name>testIsDisabled with data set #6</name>
+    </test-case>
+    <test-case start="1729890302500" stop="1729890302501" status="passed">
+      <name>testIsDisabled with data set #7</name>
+    </test-case>
+    <test-case start="1729890302501" stop="1729890302502" status="passed">
+      <name>testIsDisabled with data set #8</name>
+    </test-case>
+    <test-case start="1729890302503" stop="1729890302503" status="passed">
+      <name>testIsDisabled with data set #9</name>
+    </test-case>
+    <test-case start="1729890302504" stop="1729890302505" status="passed">
+      <name>testIsDisabled with data set #10</name>
+    </test-case>
+    <test-case start="1729890302505" stop="1729890302506" status="passed">
+      <name>testIsDisabled with data set #11</name>
+    </test-case>
+    <test-case start="1729890302507" stop="1729890302508" status="passed">
+      <name>testIsHidden with data set #0</name>
+    </test-case>
+    <test-case start="1729890302508" stop="1729890302509" status="passed">
+      <name>testIsHidden with data set #1</name>
+    </test-case>
+    <test-case start="1729890302510" stop="1729890302511" status="passed">
+      <name>testIsHidden with data set #2</name>
+    </test-case>
+    <test-case start="1729890302511" stop="1729890302512" status="passed">
+      <name>testIsHidden with data set #3</name>
+    </test-case>
+    <test-case start="1729890302513" stop="1729890302513" status="passed">
+      <name>testIsHidden with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

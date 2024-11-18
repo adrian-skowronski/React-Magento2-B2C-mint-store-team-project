@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890322106" stop="1729890322118" version="1.4.0">
+  <name>Magento\Directory\Test\Unit\Model\CurrencyConfigTest</name>
+  <test-cases>
+    <test-case start="1729890322106" stop="1729890322112" status="passed">
+      <name>testGetConfigCurrencies with data set #0</name>
+    </test-case>
+    <test-case start="1729890322112" stop="1729890322114" status="passed">
+      <name>testGetConfigCurrencies with data set #1</name>
+    </test-case>
+    <test-case start="1729890322114" stop="1729890322117" status="passed">
+      <name>testGetConfigCurrencies with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

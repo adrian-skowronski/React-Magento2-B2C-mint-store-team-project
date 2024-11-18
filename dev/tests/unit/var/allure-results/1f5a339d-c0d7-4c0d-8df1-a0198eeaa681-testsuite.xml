@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330233" stop="1729890330258" version="1.4.0">
+  <name>Magento\GoogleGtag\Test\Unit\Block\GaTest</name>
+  <test-cases>
+    <test-case start="1729890330233" stop="1729890330238" status="passed">
+      <name>testIsCookieRestrictionModeEnabled</name>
+    </test-case>
+    <test-case start="1729890330238" stop="1729890330240" status="passed">
+      <name>testGetCurrentWebsiteId</name>
+    </test-case>
+    <test-case start="1729890330240" stop="1729890330256" status="passed">
+      <name>testOrderTrackingData</name>
+    </test-case>
+    <test-case start="1729890330256" stop="1729890330258" status="passed">
+      <name>testGetPageTrackingData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

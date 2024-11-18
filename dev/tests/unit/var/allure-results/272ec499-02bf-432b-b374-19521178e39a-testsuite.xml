@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325823" stop="1729890325829" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\Increment\AlphanumTest</name>
+  <test-cases>
+    <test-case start="1729890325823" stop="1729890325825" status="passed">
+      <name>testGetAllowedChars</name>
+    </test-case>
+    <test-case start="1729890325826" stop="1729890325826" status="passed">
+      <name>testGetNextId with data set #0</name>
+    </test-case>
+    <test-case start="1729890325827" stop="1729890325827" status="passed">
+      <name>testGetNextId with data set #1</name>
+    </test-case>
+    <test-case start="1729890325828" stop="1729890325828" status="passed">
+      <name>testGetNextIdThrowsExceptionIfIdContainsNotAllowedCharacters</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

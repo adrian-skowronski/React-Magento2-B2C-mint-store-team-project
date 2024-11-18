@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418051" stop="1729890418052" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\Di\Compiler\ConstructorArgumentTest</name>
+  <test-cases>
+    <test-case start="1729890418051" stop="1729890418052" status="passed">
+      <name>testInterface</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

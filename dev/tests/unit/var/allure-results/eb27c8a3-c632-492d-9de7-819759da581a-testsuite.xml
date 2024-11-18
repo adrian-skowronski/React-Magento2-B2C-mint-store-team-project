@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890296921" stop="1729890296930" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Block\Cart\Item\Renderer\Actions\GenericTest</name>
+  <test-cases>
+    <test-case start="1729890296922" stop="1729890296923" status="passed">
+      <name>testGetItem</name>
+    </test-case>
+    <test-case start="1729890296924" stop="1729890296927" status="passed">
+      <name>testIsProductVisibleInSiteVisibility</name>
+    </test-case>
+    <test-case start="1729890296927" stop="1729890296930" status="passed">
+      <name>testIsVirtual</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

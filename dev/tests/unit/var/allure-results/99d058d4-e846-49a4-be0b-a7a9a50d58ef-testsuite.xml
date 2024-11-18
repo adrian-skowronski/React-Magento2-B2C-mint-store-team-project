@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890397643" stop="1729890397652" version="1.4.0">
+  <name>Magento\Swatches\Test\Unit\Plugin\Catalog\CacheInvalidateTest</name>
+  <test-cases>
+    <test-case start="1729890397644" stop="1729890397649" status="passed">
+      <name>testAfterSaveSwatch</name>
+    </test-case>
+    <test-case start="1729890397650" stop="1729890397652" status="passed">
+      <name>testAfterSaveNotSwatch</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

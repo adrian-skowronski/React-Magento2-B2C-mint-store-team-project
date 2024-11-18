@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461246" stop="1729890461261" version="1.4.0">
+  <name>Magento\Framework\Validator\Test\Unit\StringLengthTest</name>
+  <test-cases>
+    <test-case start="1729890461248" stop="1729890461249" status="passed">
+      <name>testDefaultEncoding</name>
+    </test-case>
+    <test-case start="1729890461249" stop="1729890461250" status="passed">
+      <name>testIsValid with data set #0</name>
+    </test-case>
+    <test-case start="1729890461253" stop="1729890461254" status="passed">
+      <name>testIsValid with data set #1</name>
+    </test-case>
+    <test-case start="1729890461254" stop="1729890461255" status="passed">
+      <name>testIsValid with data set #2</name>
+    </test-case>
+    <test-case start="1729890461259" stop="1729890461260" status="passed">
+      <name>testIsValid with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

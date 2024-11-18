@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890405015" stop="1729890405022" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\MassAction\Columns\ColumnTest</name>
+  <test-cases>
+    <test-case start="1729890405015" stop="1729890405016" status="passed">
+      <name>testGetComponentName</name>
+    </test-case>
+    <test-case start="1729890405017" stop="1729890405018" status="passed">
+      <name>testPrepareItems</name>
+    </test-case>
+    <test-case start="1729890405018" stop="1729890405020" status="passed">
+      <name>testPrepare</name>
+    </test-case>
+    <test-case start="1729890405020" stop="1729890405022" status="passed">
+      <name>testPrepareExtendsFromConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890378863" stop="1729890378900" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Controller\Adminhtml\Order\Creditmemo\AddCommentTest</name>
+  <test-cases>
+    <test-case start="1729890378863" stop="1729890378869" status="passed">
+      <name>testExecuteModelException</name>
+    </test-case>
+    <test-case start="1729890378870" stop="1729890378871" status="passed">
+      <name>testExecuteException</name>
+    </test-case>
+    <test-case start="1729890378872" stop="1729890378874" status="passed">
+      <name>testExecuteNoComment</name>
+    </test-case>
+    <test-case start="1729890378874" stop="1729890378900" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

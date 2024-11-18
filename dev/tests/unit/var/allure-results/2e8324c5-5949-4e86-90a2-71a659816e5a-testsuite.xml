@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890258120" stop="1729890258140" version="1.4.0">
+  <name>Magento\AdobeIms\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890258121" stop="1729890258122" status="passed">
+      <name>testGetApiKey</name>
+    </test-case>
+    <test-case start="1729890258122" stop="1729890258123" status="passed">
+      <name>testGetPrivateKey</name>
+    </test-case>
+    <test-case start="1729890258123" stop="1729890258125" status="passed">
+      <name>testGetTokenUrl</name>
+    </test-case>
+    <test-case start="1729890258125" stop="1729890258132" status="passed">
+      <name>testGetAuthUrl</name>
+    </test-case>
+    <test-case start="1729890258133" stop="1729890258133" status="passed">
+      <name>testGetCallBackUrl</name>
+    </test-case>
+    <test-case start="1729890258134" stop="1729890258137" status="passed">
+      <name>testGetLogoutUrl</name>
+    </test-case>
+    <test-case start="1729890258138" stop="1729890258139" status="passed">
+      <name>testGetProfileImageUrl</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

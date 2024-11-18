@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890307805" stop="1729890308264" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Controller\Adminhtml\Product\Initialization\Helper\Plugin\ConfigurableTest</name>
+  <test-cases>
+    <test-case start="1729890307805" stop="1729890308249" status="passed">
+      <name>testAfterInitializeWithAttributesAndVariations</name>
+    </test-case>
+    <test-case start="1729890308250" stop="1729890308253" status="passed">
+      <name>testAfterInitializeWithAttributesAndWithoutVariations</name>
+    </test-case>
+    <test-case start="1729890308257" stop="1729890308260" status="passed">
+      <name>testAfterInitializeIfAttributesEmpty</name>
+    </test-case>
+    <test-case start="1729890308262" stop="1729890308263" status="passed">
+      <name>testAfterInitializeForNotConfigurableProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

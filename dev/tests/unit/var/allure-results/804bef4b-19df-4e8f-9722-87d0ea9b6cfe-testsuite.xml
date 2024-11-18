@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327498" stop="1729890327501" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Adapter\Index\Config\EsConfigTest</name>
+  <test-cases>
+    <test-case start="1729890327498" stop="1729890327500" status="passed">
+      <name>testGetStemmerInfo</name>
+    </test-case>
+    <test-case start="1729890327500" stop="1729890327501" status="passed">
+      <name>testGetStopwordsInfo</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

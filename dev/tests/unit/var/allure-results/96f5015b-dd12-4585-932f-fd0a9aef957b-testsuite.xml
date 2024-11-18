@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890380777" stop="1729890380909" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Creditmemo\RefundOperationTest</name>
+  <test-cases>
+    <test-case start="1729890380778" stop="1729890380795" status="passed">
+      <name>testExecuteNotRefundedCreditmemo with data set #0</name>
+    </test-case>
+    <test-case start="1729890380796" stop="1729890380799" status="passed">
+      <name>testExecuteNotRefundedCreditmemo with data set #1</name>
+    </test-case>
+    <test-case start="1729890380800" stop="1729890380804" status="passed">
+      <name>testExecuteWithWrongOrder</name>
+    </test-case>
+    <test-case start="1729890380805" stop="1729890380861" status="passed">
+      <name>testExecuteOffline with data set #0</name>
+    </test-case>
+    <test-case start="1729890380862" stop="1729890380909" status="passed">
+      <name>testExecuteOnline with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

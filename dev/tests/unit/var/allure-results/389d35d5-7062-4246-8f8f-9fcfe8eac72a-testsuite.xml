@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464466" stop="1729890464469" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Page\Config\Generator\BodyTest</name>
+  <test-cases>
+    <test-case start="1729890464467" stop="1729890464469" status="passed">
+      <name>testProcess</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

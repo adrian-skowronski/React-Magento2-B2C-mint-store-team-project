@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890389103" stop="1729890389127" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\ResourceModel\Order\AddressTest</name>
+  <test-cases>
+    <test-case start="1729890389103" stop="1729890389122" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890389123" stop="1729890389127" status="passed">
+      <name>testSaveValidationFailed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

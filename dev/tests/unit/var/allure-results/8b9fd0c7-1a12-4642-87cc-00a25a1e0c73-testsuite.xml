@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310985" stop="1729890311005" version="1.4.0">
+  <name>Magento\Contact\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890310985" stop="1729890310994" status="passed">
+      <name>testIsEnabled</name>
+    </test-case>
+    <test-case start="1729890310994" stop="1729890310995" status="passed">
+      <name>testIsNotEnabled</name>
+    </test-case>
+    <test-case start="1729890310995" stop="1729890310996" status="passed">
+      <name>testGetUserNameNotLoggedIn</name>
+    </test-case>
+    <test-case start="1729890310997" stop="1729890311001" status="passed">
+      <name>testGetUserName</name>
+    </test-case>
+    <test-case start="1729890311001" stop="1729890311002" status="passed">
+      <name>testGetUserEmailNotLoggedIn</name>
+    </test-case>
+    <test-case start="1729890311002" stop="1729890311004" status="passed">
+      <name>testGetUserEmail</name>
+    </test-case>
+    <test-case start="1729890311004" stop="1729890311005" status="passed">
+      <name>testGetPostValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890348293" stop="1729890348337" version="1.4.0">
+  <name>Magento\InstantPurchase\Test\Unit\CustomerData\InstantPurchaseTest</name>
+  <test-cases>
+    <test-case start="1729890348295" stop="1729890348303" status="passed">
+      <name>testGetSectionData with data set "No Login and available instant purchase"</name>
+    </test-case>
+    <test-case start="1729890348303" stop="1729890348306" status="passed">
+      <name>testGetSectionData with data set "Login and no available instant purchase option"</name>
+    </test-case>
+    <test-case start="1729890348306" stop="1729890348337" status="passed">
+      <name>testGetSectionData with data set "Login and available instant purchase option"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

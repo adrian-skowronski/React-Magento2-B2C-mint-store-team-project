@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358780" stop="1729890358788" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Gateway\Request\BuilderCompositeTest</name>
+  <test-cases>
+    <test-case start="1729890358781" stop="1729890358782" status="passed">
+      <name>testBuildEmpty</name>
+    </test-case>
+    <test-case start="1729890358783" stop="1729890358784" status="passed">
+      <name>testBuild with data set #0</name>
+    </test-case>
+    <test-case start="1729890358785" stop="1729890358786" status="passed">
+      <name>testBuild with data set #1</name>
+    </test-case>
+    <test-case start="1729890358786" stop="1729890358787" status="passed">
+      <name>testBuild with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

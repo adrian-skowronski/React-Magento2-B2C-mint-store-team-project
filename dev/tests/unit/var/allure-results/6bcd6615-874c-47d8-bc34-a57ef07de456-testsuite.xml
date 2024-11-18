@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463088" stop="1729890463107" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\TemplateTest</name>
+  <test-cases>
+    <test-case start="1729890463088" stop="1729890463091" status="passed">
+      <name>testGetTemplateFile</name>
+    </test-case>
+    <test-case start="1729890463091" stop="1729890463095" status="passed">
+      <name>testFetchView</name>
+    </test-case>
+    <test-case start="1729890463095" stop="1729890463098" status="passed">
+      <name>testFetchViewWithNoFileName</name>
+    </test-case>
+    <test-case start="1729890463098" stop="1729890463101" status="passed">
+      <name>testFetchViewWithNoFileNameDeveloperMode</name>
+    </test-case>
+    <test-case start="1729890463101" stop="1729890463104" status="passed">
+      <name>testSetTemplateContext</name>
+    </test-case>
+    <test-case start="1729890463104" stop="1729890463107" status="passed">
+      <name>testGetCacheKeyInfo</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

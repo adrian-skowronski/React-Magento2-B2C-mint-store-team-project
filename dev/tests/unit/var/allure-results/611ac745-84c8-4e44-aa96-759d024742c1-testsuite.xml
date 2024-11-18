@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890400146" stop="1729890400154" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Model\System\Message\Notification\DiscountErrorsTest</name>
+  <test-cases>
+    <test-case start="1729890400146" stop="1729890400149" status="passed">
+      <name>testIsDisplayed</name>
+    </test-case>
+    <test-case start="1729890400149" stop="1729890400151" status="passed">
+      <name>testIsDisplayedIgnoreWrongConfiguration</name>
+    </test-case>
+    <test-case start="1729890400152" stop="1729890400154" status="passed">
+      <name>testGetText</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

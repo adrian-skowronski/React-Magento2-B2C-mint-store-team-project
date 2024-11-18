@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452771" stop="1729890452776" version="1.4.0">
+  <name>Magento\Framework\Module\Test\Unit\FullModuleListTest</name>
+  <test-cases>
+    <test-case start="1729890452771" stop="1729890452772" status="passed">
+      <name>testGetAll</name>
+    </test-case>
+    <test-case start="1729890452772" stop="1729890452773" status="passed">
+      <name>testGetOne</name>
+    </test-case>
+    <test-case start="1729890452773" stop="1729890452774" status="passed">
+      <name>testGetNames</name>
+    </test-case>
+    <test-case start="1729890452774" stop="1729890452775" status="passed">
+      <name>testHasTrue</name>
+    </test-case>
+    <test-case start="1729890452775" stop="1729890452776" status="passed">
+      <name>testHasFalse</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

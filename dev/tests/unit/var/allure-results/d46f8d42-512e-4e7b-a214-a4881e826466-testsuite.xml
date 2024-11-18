@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262325" stop="1729890262327" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\Connector\ResponseHandler\SignUpTest</name>
+  <test-cases>
+    <test-case start="1729890262325" stop="1729890262326" status="passed">
+      <name>testHandleResult</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

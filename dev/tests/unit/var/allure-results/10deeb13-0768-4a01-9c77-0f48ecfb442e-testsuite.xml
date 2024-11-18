@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392684" stop="1729890392691" version="1.4.0">
+  <name>Magento\SendFriend\Test\Unit\Model\CaptchaValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890392684" stop="1729890392686" status="passed">
+      <name>testCaptchaValidationOnSend with data set #0</name>
+    </test-case>
+    <test-case start="1729890392687" stop="1729890392688" status="passed">
+      <name>testCaptchaValidationOnSend with data set #1</name>
+    </test-case>
+    <test-case start="1729890392689" stop="1729890392691" status="passed">
+      <name>testWrongCaptcha</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

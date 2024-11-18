@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327056" stop="1729890327063" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Adapter\FieldMapper\CopySearchableFieldsToSearchFieldTest</name>
+  <test-cases>
+    <test-case start="1729890327057" stop="1729890327058" status="passed">
+      <name>testProcess with data set "index text field should be copied"</name>
+    </test-case>
+    <test-case start="1729890327058" stop="1729890327059" status="passed">
+      <name>testProcess with data set "non-index text field should not be copied"</name>
+    </test-case>
+    <test-case start="1729890327059" stop="1729890327060" status="passed">
+      <name>testProcess with data set "index keyword field should be copied"</name>
+    </test-case>
+    <test-case start="1729890327061" stop="1729890327061" status="passed">
+      <name>testProcess with data set "non-index keyword field should not be copied"</name>
+    </test-case>
+    <test-case start="1729890327061" stop="1729890327062" status="passed">
+      <name>testProcess with data set "index integer field should not be copied"</name>
+    </test-case>
+    <test-case start="1729890327062" stop="1729890327063" status="passed">
+      <name>testProcess with data set "non-index integer field should not be copied"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

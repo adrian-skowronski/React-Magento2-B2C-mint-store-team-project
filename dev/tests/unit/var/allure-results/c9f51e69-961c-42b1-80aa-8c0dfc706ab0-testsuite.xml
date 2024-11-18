@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464408" stop="1729890464418" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Model\Layout\TranslatorTest</name>
+  <test-cases>
+    <test-case start="1729890464408" stop="1729890464410" status="passed">
+      <name>testTranslateActionParametersWithNonTranslatedArgument</name>
+    </test-case>
+    <test-case start="1729890464410" stop="1729890464411" status="passed">
+      <name>testTranslateActionParametersWithTranslatedArgument</name>
+    </test-case>
+    <test-case start="1729890464411" stop="1729890464412" status="passed">
+      <name>testTranslateActionParametersWithHierarchyTranslatedArgumentAndNonStringParam</name>
+    </test-case>
+    <test-case start="1729890464412" stop="1729890464413" status="passed">
+      <name>testTranslateActionParametersWithoutModule</name>
+    </test-case>
+    <test-case start="1729890464414" stop="1729890464414" status="passed">
+      <name>testTranslateArgumentWithDefaultModuleAndSelfTranslatedMode</name>
+    </test-case>
+    <test-case start="1729890464415" stop="1729890464415" status="passed">
+      <name>testTranslateArgumentWithoutModuleAndNoSelfTranslatedMode</name>
+    </test-case>
+    <test-case start="1729890464416" stop="1729890464416" status="passed">
+      <name>testTranslateArgumentViaParentNodeWithParentModule</name>
+    </test-case>
+    <test-case start="1729890464416" stop="1729890464417" status="passed">
+      <name>testTranslateArgumentViaParentNodeWithOwnModule</name>
+    </test-case>
+    <test-case start="1729890464417" stop="1729890464418" status="passed">
+      <name>testTranslateArgumentViaParentWithNodeThatIsNotInTranslateList</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

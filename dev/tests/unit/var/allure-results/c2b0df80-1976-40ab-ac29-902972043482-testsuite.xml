@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358967" stop="1729890359023" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Model\Cart\SalesModel\QuoteTest</name>
+  <test-cases>
+    <test-case start="1729890358967" stop="1729890358970" status="passed">
+      <name>testGetDataUsingMethod</name>
+    </test-case>
+    <test-case start="1729890358970" stop="1729890358975" status="passed">
+      <name>testGetTaxContainer</name>
+    </test-case>
+    <test-case start="1729890358976" stop="1729890358980" status="passed">
+      <name>testGetAllItems with data set #0</name>
+    </test-case>
+    <test-case start="1729890358981" stop="1729890358985" status="passed">
+      <name>testGetAllItems with data set #1</name>
+    </test-case>
+    <test-case start="1729890358986" stop="1729890358993" status="passed">
+      <name>testGetAllItems with data set #2</name>
+    </test-case>
+    <test-case start="1729890358993" stop="1729890358994" status="passed">
+      <name>testGetBaseSubtotal</name>
+    </test-case>
+    <test-case start="1729890358995" stop="1729890358999" status="passed">
+      <name>testGetter with data set #0</name>
+    </test-case>
+    <test-case start="1729890359000" stop="1729890359004" status="passed">
+      <name>testGetter with data set #1</name>
+    </test-case>
+    <test-case start="1729890359004" stop="1729890359009" status="passed">
+      <name>testGetter with data set #2</name>
+    </test-case>
+    <test-case start="1729890359009" stop="1729890359013" status="passed">
+      <name>testGetter with data set #3</name>
+    </test-case>
+    <test-case start="1729890359014" stop="1729890359018" status="passed">
+      <name>testGetter with data set #4</name>
+    </test-case>
+    <test-case start="1729890359018" stop="1729890359023" status="passed">
+      <name>testGetter with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

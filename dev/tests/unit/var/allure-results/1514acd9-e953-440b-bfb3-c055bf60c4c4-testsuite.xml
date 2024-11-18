@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271738" stop="1729890271748" version="1.4.0">
+  <name>Magento\CardinalCommerce\Test\Unit\Model\JwtManagementTest</name>
+  <test-cases>
+    <test-case start="1729890271739" stop="1729890271740" status="passed">
+      <name>testEncode</name>
+    </test-case>
+    <test-case start="1729890271740" stop="1729890271742" status="passed">
+      <name>testDecode</name>
+    </test-case>
+    <test-case start="1729890271742" stop="1729890271743" status="passed">
+      <name>testDecodeWithException with data set #0</name>
+    </test-case>
+    <test-case start="1729890271743" stop="1729890271744" status="passed">
+      <name>testDecodeWithException with data set #1</name>
+    </test-case>
+    <test-case start="1729890271745" stop="1729890271745" status="passed">
+      <name>testDecodeWithException with data set #2</name>
+    </test-case>
+    <test-case start="1729890271746" stop="1729890271747" status="passed">
+      <name>testDecodeWithException with data set #3</name>
+    </test-case>
+    <test-case start="1729890271747" stop="1729890271748" status="passed">
+      <name>testDecodeWithException with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

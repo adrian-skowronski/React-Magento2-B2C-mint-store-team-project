@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890332559" stop="1729890332571" version="1.4.0">
+  <name>Magento\ImportExport\Test\Unit\Model\LocalizedFileNameTest</name>
+  <test-cases>
+    <test-case start="1729890332561" stop="1729890332563" status="passed">
+      <name>testGetFileDisplayName with data set #0</name>
+    </test-case>
+    <test-case start="1729890332564" stop="1729890332568" status="passed">
+      <name>testGetFileDisplayName with data set #1</name>
+    </test-case>
+    <test-case start="1729890332569" stop="1729890332570" status="passed">
+      <name>testGetFileDisplayName with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

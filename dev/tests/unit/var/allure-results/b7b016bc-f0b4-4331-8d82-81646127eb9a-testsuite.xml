@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890282483" stop="1729890282494" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Product\ProductList\UpsellTest</name>
+  <test-cases>
+    <test-case start="1729890282483" stop="1729890282487" status="passed">
+      <name>testGetIdentities</name>
+    </test-case>
+    <test-case start="1729890282487" stop="1729890282491" status="passed">
+      <name>testGetIdentitiesWhenItemGetIdentitiesReturnEmptyArray</name>
+    </test-case>
+    <test-case start="1729890282491" stop="1729890282494" status="passed">
+      <name>testGetIdentitiesWhenGetItemsReturnEmptyArray</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

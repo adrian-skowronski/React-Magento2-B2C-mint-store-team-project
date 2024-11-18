@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890311370" stop="1729890311373" version="1.4.0">
+  <name>Magento\Cron\Test\Unit\Model\Config\Converter\DbTest</name>
+  <test-cases>
+    <test-case start="1729890311371" stop="1729890311371" status="passed">
+      <name>testConvertNoJobs</name>
+    </test-case>
+    <test-case start="1729890311372" stop="1729890311372" status="passed">
+      <name>testConvertConfigParams</name>
+    </test-case>
+    <test-case start="1729890311373" stop="1729890311373" status="passed">
+      <name>testConvertRunConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

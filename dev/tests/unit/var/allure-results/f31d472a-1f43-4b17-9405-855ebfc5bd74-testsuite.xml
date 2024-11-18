@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361153" stop="1729890361164" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Billing\AgreementTest</name>
+  <test-cases>
+    <test-case start="1729890361153" stop="1729890361158" status="passed">
+      <name>testImportOrderPaymentWithMethodCode</name>
+    </test-case>
+    <test-case start="1729890361158" stop="1729890361160" status="passed">
+      <name>testImportOrderPaymentWithoutMethodCode</name>
+    </test-case>
+    <test-case start="1729890361160" stop="1729890361162" status="passed">
+      <name>testInitToken</name>
+    </test-case>
+    <test-case start="1729890361163" stop="1729890361164" status="passed">
+      <name>testVerifyToken</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

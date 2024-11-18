@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287129" stop="1729890287131" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Product\Flat\Table\BuilderTest</name>
+  <test-cases>
+    <test-case start="1729890287129" stop="1729890287131" status="passed">
+      <name>testAddColumn</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441595" stop="1729890441625" version="1.4.0">
+  <name>Magento\Framework\Crontab\Test\Unit\CrontabManagerTest</name>
+  <test-cases>
+    <test-case start="1729890441596" stop="1729890441597" status="passed">
+      <name>testGetTasksNoCrontab</name>
+    </test-case>
+    <test-case start="1729890441597" stop="1729890441598" status="passed">
+      <name>testGetTasks with data set #0</name>
+    </test-case>
+    <test-case start="1729890441599" stop="1729890441600" status="passed">
+      <name>testGetTasks with data set #1</name>
+    </test-case>
+    <test-case start="1729890441600" stop="1729890441601" status="passed">
+      <name>testGetTasks with data set #2</name>
+    </test-case>
+    <test-case start="1729890441601" stop="1729890441602" status="passed">
+      <name>testGetTasks with data set #3</name>
+    </test-case>
+    <test-case start="1729890441602" stop="1729890441603" status="passed">
+      <name>testRemoveTasksWithException</name>
+    </test-case>
+    <test-case start="1729890441604" stop="1729890441605" status="passed">
+      <name>testRemoveTasks with data set #0</name>
+    </test-case>
+    <test-case start="1729890441606" stop="1729890441607" status="passed">
+      <name>testRemoveTasks with data set #1</name>
+    </test-case>
+    <test-case start="1729890441607" stop="1729890441608" status="passed">
+      <name>testRemoveTasks with data set #2</name>
+    </test-case>
+    <test-case start="1729890441609" stop="1729890441610" status="passed">
+      <name>testRemoveTasks with data set #3</name>
+    </test-case>
+    <test-case start="1729890441610" stop="1729890441611" status="passed">
+      <name>testSaveTasksWithEmptyTasksList</name>
+    </test-case>
+    <test-case start="1729890441612" stop="1729890441613" status="passed">
+      <name>testSaveTasksWithoutCommand</name>
+    </test-case>
+    <test-case start="1729890441614" stop="1729890441615" status="passed">
+      <name>testSaveTasks with data set #0</name>
+    </test-case>
+    <test-case start="1729890441616" stop="1729890441617" status="passed">
+      <name>testSaveTasks with data set #1</name>
+    </test-case>
+    <test-case start="1729890441618" stop="1729890441619" status="passed">
+      <name>testSaveTasks with data set #2</name>
+    </test-case>
+    <test-case start="1729890441620" stop="1729890441621" status="passed">
+      <name>testSaveTasks with data set #3</name>
+    </test-case>
+    <test-case start="1729890441621" stop="1729890441623" status="passed">
+      <name>testSaveTasks with data set #4</name>
+    </test-case>
+    <test-case start="1729890441623" stop="1729890441625" status="passed">
+      <name>testSaveTasks with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

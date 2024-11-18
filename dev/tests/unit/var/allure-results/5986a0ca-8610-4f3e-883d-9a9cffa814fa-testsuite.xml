@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890257212" stop="1729890257282" version="1.4.0">
+  <name>Magento\AdminAdobeIms\Test\Unit\Model\ImsWebapiRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890257213" stop="1729890257233" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890257233" stop="1729890257247" status="passed">
+      <name>testSaveWithException</name>
+    </test-case>
+    <test-case start="1729890257247" stop="1729890257248" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890257249" stop="1729890257251" status="passed">
+      <name>testGetWithException</name>
+    </test-case>
+    <test-case start="1729890257251" stop="1729890257267" status="passed">
+      <name>testGetByAdminUserId</name>
+    </test-case>
+    <test-case start="1729890257267" stop="1729890257271" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890257272" stop="1729890257277" status="passed">
+      <name>testDeleteByAdminUserId</name>
+    </test-case>
+    <test-case start="1729890257278" stop="1729890257282" status="passed">
+      <name>testDeleteWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

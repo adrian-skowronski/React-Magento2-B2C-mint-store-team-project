@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329959" stop="1729890329961" version="1.4.0">
+  <name>Magento\GiftMessage\Test\Unit\Observer\SalesEventQuoteSubmitBeforeObserverTest</name>
+  <test-cases>
+    <test-case start="1729890329959" stop="1729890329961" status="passed">
+      <name>testSalesEventQuoteSubmitBefore</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

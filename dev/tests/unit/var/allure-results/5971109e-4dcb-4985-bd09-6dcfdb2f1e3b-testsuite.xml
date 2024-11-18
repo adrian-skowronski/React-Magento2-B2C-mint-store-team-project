@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353323" stop="1729890353327" version="1.4.0">
+  <name>Magento\MessageQueue\Test\Unit\Model\ConsumerRunnerTest</name>
+  <test-cases>
+    <test-case start="1729890353323" stop="1729890353325" status="passed">
+      <name>testMagicMethod</name>
+    </test-case>
+    <test-case start="1729890353325" stop="1729890353326" status="passed">
+      <name>testMagicMethodNoRelatedConsumer</name>
+    </test-case>
+    <test-case start="1729890353326" stop="1729890353327" status="passed">
+      <name>testMagicMethodMaintenanceModeIsOn</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890261706" stop="1729890261720" version="1.4.0">
+  <name>Magento\Amqp\Test\Unit\Setup\ConfigOptionsListTest</name>
+  <test-cases>
+    <test-case start="1729890261707" stop="1729890261710" status="passed">
+      <name>testGetOptions</name>
+    </test-case>
+    <test-case start="1729890261711" stop="1729890261714" status="passed">
+      <name>testCreateConfig with data set #0</name>
+    </test-case>
+    <test-case start="1729890261714" stop="1729890261715" status="passed">
+      <name>testCreateConfig with data set #1</name>
+    </test-case>
+    <test-case start="1729890261716" stop="1729890261717" status="passed">
+      <name>testCreateConfig with data set #2</name>
+    </test-case>
+    <test-case start="1729890261717" stop="1729890261718" status="passed">
+      <name>testValidateInvalidConnection</name>
+    </test-case>
+    <test-case start="1729890261718" stop="1729890261719" status="passed">
+      <name>testValidateValidConnection</name>
+    </test-case>
+    <test-case start="1729890261719" stop="1729890261720" status="passed">
+      <name>testValidateNoOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

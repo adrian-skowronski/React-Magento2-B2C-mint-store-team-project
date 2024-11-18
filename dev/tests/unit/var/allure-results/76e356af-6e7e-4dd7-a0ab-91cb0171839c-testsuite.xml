@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890365541" stop="1729890365617" version="1.4.0">
+  <name>Magento\ProductVideo\Test\Unit\Model\Product\Attribute\Media\ExternalVideoEntryConverterTest</name>
+  <test-cases>
+    <test-case start="1729890365542" stop="1729890365570" status="passed">
+      <name>testGetMediaEntryType</name>
+    </test-case>
+    <test-case start="1729890365570" stop="1729890365574" status="passed">
+      <name>testConvertTo</name>
+    </test-case>
+    <test-case start="1729890365574" stop="1729890365617" status="passed">
+      <name>testConvertFrom</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

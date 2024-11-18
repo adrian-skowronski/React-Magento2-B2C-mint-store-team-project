@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890324494" stop="1729890324519" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Attribute\Data\AbstractDataTest</name>
+  <test-cases>
+    <test-case start="1729890324494" stop="1729890324496" status="passed">
+      <name>testGetEntity</name>
+    </test-case>
+    <test-case start="1729890324497" stop="1729890324498" status="passed">
+      <name>testGetEntityWhenEntityNotSet</name>
+    </test-case>
+    <test-case start="1729890324498" stop="1729890324499" status="passed">
+      <name>testGetExtractedData with data set #0</name>
+    </test-case>
+    <test-case start="1729890324500" stop="1729890324500" status="passed">
+      <name>testGetExtractedData with data set #1</name>
+    </test-case>
+    <test-case start="1729890324501" stop="1729890324502" status="passed">
+      <name>testGetExtractedData with data set #2</name>
+    </test-case>
+    <test-case start="1729890324503" stop="1729890324504" status="passed">
+      <name>testGetRequestValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890324505" stop="1729890324506" status="passed">
+      <name>testGetRequestValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890324507" stop="1729890324508" status="passed">
+      <name>testGetRequestValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890324509" stop="1729890324510" status="passed">
+      <name>testGetRequestValue with data set #3</name>
+    </test-case>
+    <test-case start="1729890324511" stop="1729890324512" status="passed">
+      <name>testGetRequestValue with data set #4</name>
+    </test-case>
+    <test-case start="1729890324513" stop="1729890324514" status="passed">
+      <name>testGetRequestValue with data set #5</name>
+    </test-case>
+    <test-case start="1729890324515" stop="1729890324518" status="passed">
+      <name>testGetRequestValue with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

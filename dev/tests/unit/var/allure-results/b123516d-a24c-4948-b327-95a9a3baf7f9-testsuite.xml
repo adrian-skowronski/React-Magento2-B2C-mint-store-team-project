@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408085" stop="1729890408090" version="1.4.0">
+  <name>Magento\Version\Test\Unit\Controller\Index\IndexTest</name>
+  <test-cases>
+    <test-case start="1729890408085" stop="1729890408088" status="passed">
+      <name>testGitBasedInstallationDoesNotReturnVersion</name>
+    </test-case>
+    <test-case start="1729890408089" stop="1729890408090" status="passed">
+      <name>testCommunityVersionDisplaysMajorMinorVersionAndEditionName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

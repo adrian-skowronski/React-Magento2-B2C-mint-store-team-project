@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454428" stop="1729890454489" version="1.4.0">
+  <name>Magento\Framework\ObjectManager\Test\Unit\Config\XsdTest</name>
+  <test-cases>
+    <test-case start="1729890454429" stop="1729890454431" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "preference_without_required_for_attribute"</name>
+    </test-case>
+    <test-case start="1729890454431" stop="1729890454433" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "preference_without_required_type_attribute"</name>
+    </test-case>
+    <test-case start="1729890454433" stop="1729890454434" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "preferences_with_same_for_attribute_value"</name>
+    </test-case>
+    <test-case start="1729890454435" stop="1729890454436" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "preferences_with_forbidden_attribute"</name>
+    </test-case>
+    <test-case start="1729890454437" stop="1729890454438" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_without_required_name_attribute"</name>
+    </test-case>
+    <test-case start="1729890454439" stop="1729890454440" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_with_same_name_attribute_value"</name>
+    </test-case>
+    <test-case start="1729890454440" stop="1729890454442" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_with_forbidden_attribute"</name>
+    </test-case>
+    <test-case start="1729890454442" stop="1729890454444" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_shared_attribute_with_forbidden_value"</name>
+    </test-case>
+    <test-case start="1729890454444" stop="1729890454445" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_object_with_forbidden_shared_value"</name>
+    </test-case>
+    <test-case start="1729890454446" stop="1729890454447" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_instance_with_forbidden_attribute"</name>
+    </test-case>
+    <test-case start="1729890454448" stop="1729890454449" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_plugin_without_required_name_attribute"</name>
+    </test-case>
+    <test-case start="1729890454449" stop="1729890454451" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_plugin_with_forbidden_attribute"</name>
+    </test-case>
+    <test-case start="1729890454451" stop="1729890454453" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_plugin_disabled_attribute_invalid_value"</name>
+    </test-case>
+    <test-case start="1729890454453" stop="1729890454455" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_plugin_sortorder_attribute_invalid_value"</name>
+    </test-case>
+    <test-case start="1729890454455" stop="1729890454457" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "type_with_same_argument_name_attribute"</name>
+    </test-case>
+    <test-case start="1729890454457" stop="1729890454459" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "virtualtype_without_required_name_attribute"</name>
+    </test-case>
+    <test-case start="1729890454459" stop="1729890454460" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "virtualtype_with_forbidden_shared_attribute_value"</name>
+    </test-case>
+    <test-case start="1729890454461" stop="1729890454462" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "virtualtype_with_forbidden_attribute"</name>
+    </test-case>
+    <test-case start="1729890454462" stop="1729890454464" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "virtualtype_with_same_name_attribute_value"</name>
+    </test-case>
+    <test-case start="1729890454464" stop="1729890454466" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "virtualtype_with_same_argument_name_attribute"</name>
+    </test-case>
+    <test-case start="1729890454466" stop="1729890454468" status="passed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "sorted_object_list_with_invalid_sortOrder_attribute_value"</name>
+    </test-case>
+    <test-case start="1729890454468" stop="1729890454472" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "virtualtype with empty_name"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'virtualType', attrib...e: 2\n'
+-    1 =&gt; 'Element 'virtualType', attribute 'name': '' is not a valid value of the atomic type 'phpClassName'.\n
++    1 =&gt; 'Element 'virtualType', attribute 'name': Warning: No precomputed value available, the value was either invalid or something strange happened.\n
+     Line: 2\n
+     '
+-    2 =&gt; 'Element 'virtualType', attrib...e: 2\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/ObjectManager/Test/Unit/Config/XsdTest.php(50): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\ObjectManager\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890454473" stop="1729890454474" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "virtualtype with empty_type"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'virtualType', attrib...e: 2\n'
+-    1 =&gt; 'Element 'virtualType', attrib...e: 2\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/ObjectManager/Test/Unit/Config/XsdTest.php(50): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\ObjectManager\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890454475" stop="1729890454477" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "virtualtype with invalid_type"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'virtualType', attrib...e: 2\n'
+-    1 =&gt; 'Element 'virtualType', attribute 'name': '777Digits\IsNotAllowed' is not a valid value of the atomic type 'phpClassName'.\n
++    1 =&gt; 'Element 'virtualType', attribute 'name': Warning: No precomputed value available, the value was either invalid or something strange happened.\n
+     Line: 2\n
+     '
+-    2 =&gt; 'Element 'virtualType', attrib...e: 2\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/ObjectManager/Test/Unit/Config/XsdTest.php(50): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\ObjectManager\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890454478" stop="1729890454480" status="failed">
+      <name>testSchemaCorrectlyIdentifiesInvalidXml with data set "virtualtype with digits_and_prefix_slash"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'virtualType', attrib...e: 2\n'
+-    1 =&gt; 'Element 'virtualType', attribute 'name': '\777Digits\IsNotAllowed' is not a valid value of the atomic type 'phpClassName'.\n
++    1 =&gt; 'Element 'virtualType', attribute 'name': Warning: No precomputed value available, the value was either invalid or something strange happened.\n
+     Line: 2\n
+     '
+-    2 =&gt; 'Element 'virtualType', attrib...e: 2\n'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/framework/ObjectManager/Test/Unit/Config/XsdTest.php(50): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\ObjectManager\Test\Unit\Config\XsdTest-&gt;testSchemaCorrectlyIdentifiesInvalidXml()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890454481" stop="1729890454489" status="passed">
+      <name>testSchemaCorrectlyIdentifiesValidXml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

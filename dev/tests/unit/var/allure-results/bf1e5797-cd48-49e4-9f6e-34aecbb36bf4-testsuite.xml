@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464665" stop="1729890464673" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Page\TitleTest</name>
+  <test-cases>
+    <test-case start="1729890464665" stop="1729890464666" status="passed">
+      <name>testSet</name>
+    </test-case>
+    <test-case start="1729890464666" stop="1729890464667" status="passed">
+      <name>testUnset</name>
+    </test-case>
+    <test-case start="1729890464667" stop="1729890464668" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890464668" stop="1729890464669" status="passed">
+      <name>testGetShort</name>
+    </test-case>
+    <test-case start="1729890464669" stop="1729890464670" status="passed">
+      <name>testGetShortWithSuffixAndPrefix</name>
+    </test-case>
+    <test-case start="1729890464670" stop="1729890464671" status="passed">
+      <name>testGetShortHeading</name>
+    </test-case>
+    <test-case start="1729890464671" stop="1729890464672" status="passed">
+      <name>testGetDefault</name>
+    </test-case>
+    <test-case start="1729890464672" stop="1729890464672" status="passed">
+      <name>testAppendPrepend</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

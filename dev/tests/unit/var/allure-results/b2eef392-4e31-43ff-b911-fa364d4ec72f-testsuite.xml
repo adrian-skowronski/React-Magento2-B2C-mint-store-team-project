@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450301" stop="1729890450313" version="1.4.0">
+  <name>Magento\Framework\Image\Test\Unit\AdapterFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890450301" stop="1729890450304" status="passed">
+      <name>testCreate with data set #0</name>
+    </test-case>
+    <test-case start="1729890450305" stop="1729890450306" status="passed">
+      <name>testCreate with data set #1</name>
+    </test-case>
+    <test-case start="1729890450307" stop="1729890450308" status="passed">
+      <name>testCreateWithoutName</name>
+    </test-case>
+    <test-case start="1729890450309" stop="1729890450310" status="passed">
+      <name>testInvalidArgumentException</name>
+    </test-case>
+    <test-case start="1729890450310" stop="1729890450311" status="passed">
+      <name>testNonAdapterClass</name>
+    </test-case>
+    <test-case start="1729890450311" stop="1729890450312" status="passed">
+      <name>testWrongInstance</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

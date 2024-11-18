@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890372803" stop="1729890372821" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Model\Plugin\LogTest</name>
+  <test-cases>
+    <test-case start="1729890372803" stop="1729890372820" status="passed">
+      <name>testAfterClean</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

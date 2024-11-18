@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890332994" stop="1729890333004" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Console\Command\IndexerShowModeCommandTest</name>
+  <test-cases>
+    <test-case start="1729890332995" stop="1729890332996" status="passed">
+      <name>testGetOptions</name>
+    </test-case>
+    <test-case start="1729890332996" stop="1729890332998" status="passed">
+      <name>testExecuteAll</name>
+    </test-case>
+    <test-case start="1729890332999" stop="1729890333003" status="passed">
+      <name>testExecuteWithIndex with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

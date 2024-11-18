@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890391433" stop="1729890391441" version="1.4.0">
+  <name>Magento\Search\Test\Unit\Controller\Adminhtml\Ajax\SuggestTest</name>
+  <test-cases>
+    <test-case start="1729890391433" stop="1729890391439" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890391439" stop="1729890391441" status="passed">
+      <name>testExecuteEmptyQuery</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

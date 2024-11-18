@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294976" stop="1729890294980" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Plugin\Model\Product\Action\UpdateAttributesFlushCacheTest</name>
+  <test-cases>
+    <test-case start="1729890294977" stop="1729890294978" status="passed">
+      <name>testAroundUpdateAttributes</name>
+    </test-case>
+    <test-case start="1729890294979" stop="1729890294980" status="passed">
+      <name>testAroundUpdateWebsites</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

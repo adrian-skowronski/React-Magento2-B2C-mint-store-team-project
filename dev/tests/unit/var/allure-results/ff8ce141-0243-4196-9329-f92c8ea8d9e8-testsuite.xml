@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264115" stop="1729890264130" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\AnchorRendererTest</name>
+  <test-cases>
+    <test-case start="1729890264115" stop="1729890264121" status="passed">
+      <name>testRenderAnchorLevelIsOne</name>
+    </test-case>
+    <test-case start="1729890264121" stop="1729890264122" status="passed">
+      <name>testRenderAnchorWithoutChildrenAndLevelIsOne</name>
+    </test-case>
+    <test-case start="1729890264123" stop="1729890264126" status="passed">
+      <name>testRenderAnchorLevelIsNotOne with data set "item has target"</name>
+    </test-case>
+    <test-case start="1729890264127" stop="1729890264130" status="passed">
+      <name>testRenderAnchorLevelIsNotOne with data set "item does not have target"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

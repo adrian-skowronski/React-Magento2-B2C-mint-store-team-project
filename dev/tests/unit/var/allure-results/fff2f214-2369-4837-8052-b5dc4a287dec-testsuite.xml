@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890277003" stop="1729890277027" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\StockRegistryPreloaderTest</name>
+  <test-cases>
+    <test-case start="1729890277004" stop="1729890277015" status="passed">
+      <name>testPreloadStockItems</name>
+    </test-case>
+    <test-case start="1729890277015" stop="1729890277023" status="passed">
+      <name>testPreloadStockStatuses</name>
+    </test-case>
+    <test-case start="1729890277023" stop="1729890277025" status="passed">
+      <name>testSetStockItems</name>
+    </test-case>
+    <test-case start="1729890277025" stop="1729890277026" status="passed">
+      <name>testSetStockStatuses</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

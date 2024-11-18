@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890349774" stop="1729890349780" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Model\Oauth\Consumer\Validator\KeyLengthTest</name>
+  <test-cases>
+    <test-case start="1729890349775" stop="1729890349777" status="passed">
+      <name>testSetLength</name>
+    </test-case>
+    <test-case start="1729890349777" stop="1729890349778" status="passed">
+      <name>testIsValidLong</name>
+    </test-case>
+    <test-case start="1729890349778" stop="1729890349779" status="passed">
+      <name>testIsValidShort</name>
+    </test-case>
+    <test-case start="1729890349779" stop="1729890349780" status="passed">
+      <name>testIsValidShortCustomKeyName</name>
+    </test-case>
+    <test-case start="1729890349780" stop="1729890349780" status="passed">
+      <name>testIsValidInvalidType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

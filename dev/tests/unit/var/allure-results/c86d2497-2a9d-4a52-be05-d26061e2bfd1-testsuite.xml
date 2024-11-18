@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890364467" stop="1729890364480" version="1.4.0">
+  <name>Magento\Persistent\Test\Unit\Observer\SetRememberMeCheckedStatusObserverTest</name>
+  <test-cases>
+    <test-case start="1729890364467" stop="1729890364472" status="passed">
+      <name>testSetRememberMeCheckedStatusWhenPersistentDataCannotProcess</name>
+    </test-case>
+    <test-case start="1729890364473" stop="1729890364476" status="passed">
+      <name>testSetRememberMeCheckedStatusWhenPersistentDataCanProcess</name>
+    </test-case>
+    <test-case start="1729890364476" stop="1729890364478" status="passed">
+      <name>testSetRememberMeCheckedStatusWhenActionNameIncorrect</name>
+    </test-case>
+    <test-case start="1729890364479" stop="1729890364480" status="passed">
+      <name>testSetRememberMeCheckedStatusWhenRequestNotExist</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

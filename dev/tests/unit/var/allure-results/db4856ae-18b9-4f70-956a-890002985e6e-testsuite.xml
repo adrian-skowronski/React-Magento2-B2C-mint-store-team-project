@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353701" stop="1729890353711" version="1.4.0">
+  <name>Magento\Multishipping\Test\Unit\Block\Checkout\SuccessTest</name>
+  <test-cases>
+    <test-case start="1729890353701" stop="1729890353704" status="passed">
+      <name>testGetOrderIdsWithoutId</name>
+    </test-case>
+    <test-case start="1729890353704" stop="1729890353706" status="passed">
+      <name>testGetOrderIdsWithEmptyIdsArray</name>
+    </test-case>
+    <test-case start="1729890353706" stop="1729890353708" status="passed">
+      <name>testGetOrderIds</name>
+    </test-case>
+    <test-case start="1729890353708" stop="1729890353711" status="passed">
+      <name>testGetContinueUrl</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

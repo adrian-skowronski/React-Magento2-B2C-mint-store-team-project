@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890333136" stop="1729890333151" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Controller\Adminhtml\Indexer\MassOnTheFlyTest</name>
+  <test-cases>
+    <test-case start="1729890333137" stop="1729890333140" status="passed">
+      <name>testExecute with data set "set1"</name>
+    </test-case>
+    <test-case start="1729890333140" stop="1729890333144" status="passed">
+      <name>testExecute with data set "set2"</name>
+    </test-case>
+    <test-case start="1729890333144" stop="1729890333148" status="passed">
+      <name>testExecute with data set "set3"</name>
+    </test-case>
+    <test-case start="1729890333148" stop="1729890333151" status="passed">
+      <name>testExecute with data set "set4"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

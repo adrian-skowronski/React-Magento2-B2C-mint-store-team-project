@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890269641" stop="1729890269654" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Model\Product\CopyConstructor\BundleTest</name>
+  <test-cases>
+    <test-case start="1729890269642" stop="1729890269644" status="passed">
+      <name>testBuildNegative</name>
+    </test-case>
+    <test-case start="1729890269644" stop="1729890269650" status="passed">
+      <name>testBuildPositive</name>
+    </test-case>
+    <test-case start="1729890269650" stop="1729890269654" status="passed">
+      <name>testBuildWithoutOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

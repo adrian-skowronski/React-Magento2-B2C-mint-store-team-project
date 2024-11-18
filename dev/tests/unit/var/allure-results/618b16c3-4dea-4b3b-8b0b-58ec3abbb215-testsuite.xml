@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264077" stop="1729890264087" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\App\Router\NoRouteHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890264078" stop="1729890264084" status="passed">
+      <name>testProcessWithBackendAreaFrontName</name>
+    </test-case>
+    <test-case start="1729890264085" stop="1729890264087" status="passed">
+      <name>testProcessWithoutAreaFrontName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

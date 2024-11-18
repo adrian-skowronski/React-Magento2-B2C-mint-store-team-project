@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463198" stop="1729890463199" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\UiComponent\Control\DummyButtonTest</name>
+  <test-cases>
+    <test-case start="1729890463198" stop="1729890463199" status="passed">
+      <name>testGetButtonData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

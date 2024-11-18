@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890283956" stop="1729890283964" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Controller\Adminhtml\Product\Initialization\StockDataFilterTest</name>
+  <test-cases>
+    <test-case start="1729890283957" stop="1729890283958" status="passed">
+      <name>testFilter with data set "case1"</name>
+    </test-case>
+    <test-case start="1729890283958" stop="1729890283959" status="passed">
+      <name>testFilter with data set "case2"</name>
+    </test-case>
+    <test-case start="1729890283960" stop="1729890283961" status="passed">
+      <name>testFilter with data set "case3"</name>
+    </test-case>
+    <test-case start="1729890283961" stop="1729890283962" status="passed">
+      <name>testFilter with data set "case4"</name>
+    </test-case>
+    <test-case start="1729890283963" stop="1729890283963" status="passed">
+      <name>testFilter with data set "case5"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

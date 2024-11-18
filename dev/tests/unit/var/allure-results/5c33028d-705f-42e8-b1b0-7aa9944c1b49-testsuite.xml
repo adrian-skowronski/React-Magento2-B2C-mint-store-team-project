@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890378141" stop="1729890378259" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Block\Adminhtml\Order\View\Tab\TransactionsTest</name>
+  <test-cases>
+    <test-case start="1729890378141" stop="1729890378146" status="passed">
+      <name>testGetOrder</name>
+    </test-case>
+    <test-case start="1729890378159" stop="1729890378164" status="passed">
+      <name>testCanShowTab with data set #0</name>
+    </test-case>
+    <test-case start="1729890378181" stop="1729890378191" status="passed">
+      <name>testCanShowTab with data set #1</name>
+    </test-case>
+    <test-case start="1729890378205" stop="1729890378210" status="passed">
+      <name>testCanShowTab with data set #2</name>
+    </test-case>
+    <test-case start="1729890378229" stop="1729890378233" status="passed">
+      <name>testCanShowTab with data set #3</name>
+    </test-case>
+    <test-case start="1729890378245" stop="1729890378250" status="passed">
+      <name>testCanShowTab with data set #4</name>
+    </test-case>
+    <test-case start="1729890378251" stop="1729890378254" status="passed">
+      <name>testIsHidden with data set #0</name>
+    </test-case>
+    <test-case start="1729890378254" stop="1729890378259" status="passed">
+      <name>testIsHidden with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

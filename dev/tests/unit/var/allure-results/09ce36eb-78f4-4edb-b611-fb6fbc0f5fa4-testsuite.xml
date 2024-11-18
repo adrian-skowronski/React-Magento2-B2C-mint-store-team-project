@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890370442" stop="1729890370556" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\QuoteManagementTest</name>
+  <test-cases>
+    <test-case start="1729890370443" stop="1729890370462" status="passed">
+      <name>testCreateEmptyCartAnonymous</name>
+    </test-case>
+    <test-case start="1729890370463" stop="1729890370473" status="passed">
+      <name>testCreateEmptyCartForCustomer</name>
+    </test-case>
+    <test-case start="1729890370473" stop="1729890370477" status="passed">
+      <name>testCreateEmptyCartForCustomerReturnExistsQuote</name>
+    </test-case>
+    <test-case start="1729890370477" stop="1729890370481" status="passed">
+      <name>testAssignCustomerFromAnotherStore</name>
+    </test-case>
+    <test-case start="1729890370483" stop="1729890370487" status="passed">
+      <name>testAssignCustomerToNonanonymousCart</name>
+    </test-case>
+    <test-case start="1729890370487" stop="1729890370489" status="passed">
+      <name>testAssignCustomerNoSuchCustomer</name>
+    </test-case>
+    <test-case start="1729890370489" stop="1729890370500" status="passed">
+      <name>testAssignCustomerWithActiveCart</name>
+    </test-case>
+    <test-case start="1729890370501" stop="1729890370505" status="passed">
+      <name>testAssignCustomer</name>
+    </test-case>
+    <test-case start="1729890370505" stop="1729890370522" status="passed">
+      <name>testSubmit</name>
+    </test-case>
+    <test-case start="1729890370522" stop="1729890370527" status="passed">
+      <name>testPlaceOrderIfCustomerIsGuest</name>
+    </test-case>
+    <test-case start="1729890370528" stop="1729890370537" status="passed">
+      <name>testPlaceOrder</name>
+    </test-case>
+    <test-case start="1729890370537" stop="1729890370539" status="passed">
+      <name>testGetCartForCustomer</name>
+    </test-case>
+    <test-case start="1729890370540" stop="1729890370556" status="passed">
+      <name>testSubmitForCustomer</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

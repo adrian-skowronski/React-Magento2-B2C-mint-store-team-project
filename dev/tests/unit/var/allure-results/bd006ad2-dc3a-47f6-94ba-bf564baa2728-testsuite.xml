@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890350858" stop="1729890350878" version="1.4.0">
+  <name>Magento\InventoryImportExport\Test\Unit\Model\ValidatorChainTest</name>
+  <test-cases>
+    <test-case start="1729890350859" stop="1729890350874" status="passed">
+      <name>testValidateWithOutValidators</name>
+    </test-case>
+    <test-case start="1729890350874" stop="1729890350876" status="passed">
+      <name>testValidateWithOutErros</name>
+    </test-case>
+    <test-case start="1729890350877" stop="1729890350878" status="passed">
+      <name>testValidateWithErros</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

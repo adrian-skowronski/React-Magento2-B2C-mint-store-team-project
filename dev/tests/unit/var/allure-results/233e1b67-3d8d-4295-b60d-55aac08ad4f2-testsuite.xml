@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392368" stop="1729890392372" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Model\Plugin\UserValidationRulesTest</name>
+  <test-cases>
+    <test-case start="1729890392368" stop="1729890392372" status="passed">
+      <name>testAfterAddUserInfoRules</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890416366" stop="1729890416369" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\Description\Mixin\Helper\WordWrapperTest</name>
+  <test-cases>
+    <test-case start="1729890416366" stop="1729890416367" status="passed">
+      <name>testWrapping with data set #0</name>
+    </test-case>
+    <test-case start="1729890416367" stop="1729890416368" status="passed">
+      <name>testWrapping with data set #1</name>
+    </test-case>
+    <test-case start="1729890416368" stop="1729890416369" status="passed">
+      <name>testWrapping with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

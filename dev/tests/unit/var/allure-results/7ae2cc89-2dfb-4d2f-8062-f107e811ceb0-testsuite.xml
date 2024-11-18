@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890400080" stop="1729890400134" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Model\System\Message\Notification\ApplyDiscountOnPricesTest</name>
+  <test-cases>
+    <test-case start="1729890400080" stop="1729890400108" status="passed">
+      <name>testIsDisplayed with data set #0</name>
+    </test-case>
+    <test-case start="1729890400109" stop="1729890400117" status="passed">
+      <name>testIsDisplayed with data set #1</name>
+    </test-case>
+    <test-case start="1729890400118" stop="1729890400121" status="passed">
+      <name>testIsDisplayed with data set #2</name>
+    </test-case>
+    <test-case start="1729890400122" stop="1729890400125" status="passed">
+      <name>testIsDisplayed with data set #3</name>
+    </test-case>
+    <test-case start="1729890400126" stop="1729890400129" status="passed">
+      <name>testIsDisplayed with data set #4</name>
+    </test-case>
+    <test-case start="1729890400129" stop="1729890400134" status="passed">
+      <name>testGetText</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

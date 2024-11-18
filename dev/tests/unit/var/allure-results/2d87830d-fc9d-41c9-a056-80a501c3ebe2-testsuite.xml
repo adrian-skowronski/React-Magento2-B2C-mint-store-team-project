@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890309778" stop="1729890309880" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Model\Product\Type\ConfigurableTest</name>
+  <test-cases>
+    <test-case start="1729890309778" stop="1729890309785" status="passed">
+      <name>testHasWeightTrue</name>
+    </test-case>
+    <test-case start="1729890309785" stop="1729890309790" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890309791" stop="1729890309793" status="passed">
+      <name>testGetRelationInfo</name>
+    </test-case>
+    <test-case start="1729890309793" stop="1729890309797" status="passed">
+      <name>testCanUseAttribute</name>
+    </test-case>
+    <test-case start="1729890309798" stop="1729890309808" status="passed">
+      <name>testGetUsedProducts</name>
+    </test-case>
+    <test-case start="1729890309808" stop="1729890309815" status="passed">
+      <name>testGetConfigurableAttributesAsArray with data set #0</name>
+    </test-case>
+    <test-case start="1729890309815" stop="1729890309820" status="passed">
+      <name>testGetConfigurableAttributesAsArray with data set #1</name>
+    </test-case>
+    <test-case start="1729890309820" stop="1729890309823" status="passed">
+      <name>testGetConfigurableAttributesNewProduct</name>
+    </test-case>
+    <test-case start="1729890309823" stop="1729890309827" status="passed">
+      <name>testGetConfigurableAttributes</name>
+    </test-case>
+    <test-case start="1729890309827" stop="1729890309829" status="passed">
+      <name>testResetConfigurableAttributes</name>
+    </test-case>
+    <test-case start="1729890309829" stop="1729890309831" status="passed">
+      <name>testHasOptions</name>
+    </test-case>
+    <test-case start="1729890309832" stop="1729890309834" status="passed">
+      <name>testHasOptionsConfigurableAttribute</name>
+    </test-case>
+    <test-case start="1729890309834" stop="1729890309838" status="passed">
+      <name>testHasOptionsFalse</name>
+    </test-case>
+    <test-case start="1729890309838" stop="1729890309843" status="passed">
+      <name>testIsSalable</name>
+    </test-case>
+    <test-case start="1729890309843" stop="1729890309849" status="passed">
+      <name>testGetSelectedAttributesInfo</name>
+    </test-case>
+    <test-case start="1729890309849" stop="1729890309852" status="passed">
+      <name>testCheckProductBuyState</name>
+    </test-case>
+    <test-case start="1729890309853" stop="1729890309855" status="passed">
+      <name>testCheckProductBuyStateException</name>
+    </test-case>
+    <test-case start="1729890309855" stop="1729890309872" status="passed">
+      <name>testGetProductByAttributesReturnUsedProduct</name>
+    </test-case>
+    <test-case start="1729890309872" stop="1729890309876" status="passed">
+      <name>testGetProductByAttributesReturnFirstItem</name>
+    </test-case>
+    <test-case start="1729890309877" stop="1729890309880" status="passed">
+      <name>testSetImageFromChildProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

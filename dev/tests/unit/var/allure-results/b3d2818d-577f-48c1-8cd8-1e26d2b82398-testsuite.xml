@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451184" stop="1729890451229" version="1.4.0">
+  <name>Magento\Framework\Locale\Test\Unit\FormatTest</name>
+  <test-cases>
+    <test-case start="1729890451185" stop="1729890451197" status="passed">
+      <name>testGetPriceFormat with data set #0</name>
+    </test-case>
+    <test-case start="1729890451198" stop="1729890451200" status="passed">
+      <name>testGetPriceFormat with data set #1</name>
+    </test-case>
+    <test-case start="1729890451201" stop="1729890451203" status="passed">
+      <name>testGetPriceFormat with data set #2</name>
+    </test-case>
+    <test-case start="1729890451203" stop="1729890451207" status="passed">
+      <name>testGetPriceFormat with data set #3</name>
+    </test-case>
+    <test-case start="1729890451208" stop="1729890451209" status="passed">
+      <name>testGetNumber with data set #0</name>
+    </test-case>
+    <test-case start="1729890451209" stop="1729890451210" status="passed">
+      <name>testGetNumber with data set #1</name>
+    </test-case>
+    <test-case start="1729890451211" stop="1729890451212" status="passed">
+      <name>testGetNumber with data set #2</name>
+    </test-case>
+    <test-case start="1729890451213" stop="1729890451214" status="passed">
+      <name>testGetNumber with data set #3</name>
+    </test-case>
+    <test-case start="1729890451215" stop="1729890451216" status="passed">
+      <name>testGetNumber with data set #4</name>
+    </test-case>
+    <test-case start="1729890451217" stop="1729890451218" status="passed">
+      <name>testGetNumber with data set #5</name>
+    </test-case>
+    <test-case start="1729890451218" stop="1729890451219" status="passed">
+      <name>testGetNumber with data set #6</name>
+    </test-case>
+    <test-case start="1729890451220" stop="1729890451220" status="passed">
+      <name>testGetNumber with data set #7</name>
+    </test-case>
+    <test-case start="1729890451221" stop="1729890451221" status="passed">
+      <name>testGetNumber with data set #8</name>
+    </test-case>
+    <test-case start="1729890451222" stop="1729890451223" status="passed">
+      <name>testGetNumber with data set #9</name>
+    </test-case>
+    <test-case start="1729890451223" stop="1729890451224" status="passed">
+      <name>testGetNumber with data set #10</name>
+    </test-case>
+    <test-case start="1729890451225" stop="1729890451226" status="passed">
+      <name>testGetNumber with data set #11</name>
+    </test-case>
+    <test-case start="1729890451226" stop="1729890451227" status="passed">
+      <name>testGetNumber with data set #12</name>
+    </test-case>
+    <test-case start="1729890451228" stop="1729890451228" status="passed">
+      <name>testGetNumber with data set #13</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

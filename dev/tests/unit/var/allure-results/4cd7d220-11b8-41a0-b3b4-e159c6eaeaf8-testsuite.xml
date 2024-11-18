@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302780" stop="1729890302807" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Structure\Element\Dependency\FieldTest</name>
+  <test-cases>
+    <test-case start="1729890302781" stop="1729890302782" status="passed">
+      <name>testGetId with data set #0</name>
+    </test-case>
+    <test-case start="1729890302783" stop="1729890302783" status="passed">
+      <name>testGetId with data set #1</name>
+    </test-case>
+    <test-case start="1729890302784" stop="1729890302785" status="passed">
+      <name>testGetId with data set #2</name>
+    </test-case>
+    <test-case start="1729890302785" stop="1729890302786" status="passed">
+      <name>testGetId with data set #3</name>
+    </test-case>
+    <test-case start="1729890302786" stop="1729890302787" status="passed">
+      <name>testIsNegative with data set #0</name>
+    </test-case>
+    <test-case start="1729890302787" stop="1729890302788" status="passed">
+      <name>testIsNegative with data set #1</name>
+    </test-case>
+    <test-case start="1729890302788" stop="1729890302789" status="passed">
+      <name>testIsNegative with data set #2</name>
+    </test-case>
+    <test-case start="1729890302790" stop="1729890302790" status="passed">
+      <name>testIsNegative with data set #3</name>
+    </test-case>
+    <test-case start="1729890302791" stop="1729890302791" status="passed">
+      <name>testIsValueSatisfy with data set #0</name>
+    </test-case>
+    <test-case start="1729890302792" stop="1729890302792" status="passed">
+      <name>testIsValueSatisfy with data set #1</name>
+    </test-case>
+    <test-case start="1729890302793" stop="1729890302794" status="passed">
+      <name>testIsValueSatisfy with data set #2</name>
+    </test-case>
+    <test-case start="1729890302794" stop="1729890302795" status="passed">
+      <name>testIsValueSatisfy with data set #3</name>
+    </test-case>
+    <test-case start="1729890302795" stop="1729890302796" status="passed">
+      <name>testIsValueSatisfy with data set #4</name>
+    </test-case>
+    <test-case start="1729890302797" stop="1729890302797" status="passed">
+      <name>testIsValueSatisfy with data set #5</name>
+    </test-case>
+    <test-case start="1729890302798" stop="1729890302799" status="passed">
+      <name>testIsValueSatisfy with data set #6</name>
+    </test-case>
+    <test-case start="1729890302800" stop="1729890302800" status="passed">
+      <name>testIsValueSatisfy with data set #7</name>
+    </test-case>
+    <test-case start="1729890302801" stop="1729890302802" status="passed">
+      <name>testGetValues with data set #0</name>
+    </test-case>
+    <test-case start="1729890302803" stop="1729890302803" status="passed">
+      <name>testGetValues with data set #1</name>
+    </test-case>
+    <test-case start="1729890302804" stop="1729890302805" status="passed">
+      <name>testGetValues with data set #2</name>
+    </test-case>
+    <test-case start="1729890302805" stop="1729890302806" status="passed">
+      <name>testGetValues with data set #3</name>
+    </test-case>
+    <test-case start="1729890302806" stop="1729890302807" status="passed">
+      <name>testGetValues with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

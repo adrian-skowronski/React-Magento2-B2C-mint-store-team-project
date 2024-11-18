@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451569" stop="1729890451582" version="1.4.0">
+  <name>Magento\Framework\Mail\Test\Unit\MessageTest</name>
+  <test-cases>
+    <test-case start="1729890451569" stop="1729890451580" status="passed">
+      <name>testSetBodyHtml</name>
+    </test-case>
+    <test-case start="1729890451580" stop="1729890451582" status="passed">
+      <name>testSetBodyText</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

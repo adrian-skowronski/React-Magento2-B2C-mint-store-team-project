@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890396528" stop="1729890396568" version="1.4.0">
+  <name>Magento\Swatches\Test\Unit\Controller\Ajax\MediaTest</name>
+  <test-cases>
+    <test-case start="1729890396528" stop="1729890396543" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890396544" stop="1729890396555" status="passed">
+      <name>testExecuteNonExistingProduct</name>
+    </test-case>
+    <test-case start="1729890396555" stop="1729890396568" status="passed">
+      <name>testExecuteDisabledProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

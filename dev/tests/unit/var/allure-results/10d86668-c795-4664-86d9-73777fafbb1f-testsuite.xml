@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890360916" stop="1729890360919" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Helper\Shortcut\FactoryTest</name>
+  <test-cases>
+    <test-case start="1729890360916" stop="1729890360918" status="passed">
+      <name>testCreateDefault</name>
+    </test-case>
+    <test-case start="1729890360918" stop="1729890360919" status="passed">
+      <name>testCreateCheckout</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

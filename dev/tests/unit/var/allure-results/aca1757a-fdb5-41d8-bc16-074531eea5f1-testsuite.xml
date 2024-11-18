@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890298688" stop="1729890298711" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Model\TotalsInformationManagementTest</name>
+  <test-cases>
+    <test-case start="1729890298688" stop="1729890298694" status="passed">
+      <name>testCalculate with data set #0</name>
+    </test-case>
+    <test-case start="1729890298694" stop="1729890298698" status="passed">
+      <name>testCalculate with data set #1</name>
+    </test-case>
+    <test-case start="1729890298699" stop="1729890298702" status="passed">
+      <name>testCalculate with data set #2</name>
+    </test-case>
+    <test-case start="1729890298703" stop="1729890298706" status="passed">
+      <name>testCalculate with data set #3</name>
+    </test-case>
+    <test-case start="1729890298706" stop="1729890298710" status="passed">
+      <name>testResetShippingAmount</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

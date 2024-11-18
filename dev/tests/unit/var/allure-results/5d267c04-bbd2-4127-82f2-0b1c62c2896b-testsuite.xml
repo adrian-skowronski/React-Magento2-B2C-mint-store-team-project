@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450767" stop="1729890450779" version="1.4.0">
+  <name>Magento\Framework\Interception\Test\Unit\Code\InterfaceValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890450767" stop="1729890450770" status="passed">
+      <name>testValidate</name>
+    </test-case>
+    <test-case start="1729890450770" stop="1729890450772" status="passed">
+      <name>testValidateIncorrectInterface</name>
+    </test-case>
+    <test-case start="1729890450772" stop="1729890450773" status="passed">
+      <name>testValidateIncorrectSubjectType</name>
+    </test-case>
+    <test-case start="1729890450773" stop="1729890450774" status="passed">
+      <name>testValidateIncompatibleMethodArgumentsCount</name>
+    </test-case>
+    <test-case start="1729890450775" stop="1729890450776" status="passed">
+      <name>testValidateIncompatibleMethodArgumentsType</name>
+    </test-case>
+    <test-case start="1729890450776" stop="1729890450777" status="passed">
+      <name>testValidateExtraParameters</name>
+    </test-case>
+    <test-case start="1729890450778" stop="1729890450779" status="passed">
+      <name>testValidateInvalidProceed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

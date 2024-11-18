@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890360059" stop="1729890360066" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Block\Adminhtml\System\Config\ResolutionRulesTest</name>
+  <test-cases>
+    <test-case start="1729890360060" stop="1729890360063" status="passed">
+      <name>testGetJson with data set #0</name>
+    </test-case>
+    <test-case start="1729890360064" stop="1729890360066" status="passed">
+      <name>testGetJson with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

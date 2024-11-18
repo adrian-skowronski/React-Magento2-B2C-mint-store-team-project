@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451465" stop="1729890451471" version="1.4.0">
+  <name>Magento\Framework\Logger\Test\Unit\Handler\SystemTest</name>
+  <test-cases>
+    <test-case start="1729890451465" stop="1729890451469" status="passed">
+      <name>testWrite</name>
+    </test-case>
+    <test-case start="1729890451470" stop="1729890451470" status="passed">
+      <name>testWriteException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

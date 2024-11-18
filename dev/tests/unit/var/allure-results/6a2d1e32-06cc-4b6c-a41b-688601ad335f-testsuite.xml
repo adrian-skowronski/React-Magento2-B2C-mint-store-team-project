@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297137" stop="1729890297151" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Block\Checkout\AttributeMergerTest</name>
+  <test-cases>
+    <test-case start="1729890297138" stop="1729890297141" status="passed">
+      <name>testMerge with data set #0</name>
+    </test-case>
+    <test-case start="1729890297142" stop="1729890297143" status="passed">
+      <name>testMerge with data set #1</name>
+    </test-case>
+    <test-case start="1729890297143" stop="1729890297144" status="passed">
+      <name>testMerge with data set #2</name>
+    </test-case>
+    <test-case start="1729890297145" stop="1729890297146" status="passed">
+      <name>testMerge with data set #3</name>
+    </test-case>
+    <test-case start="1729890297146" stop="1729890297147" status="passed">
+      <name>testMerge with data set #4</name>
+    </test-case>
+    <test-case start="1729890297148" stop="1729890297149" status="passed">
+      <name>testMerge with data set #5</name>
+    </test-case>
+    <test-case start="1729890297150" stop="1729890297151" status="passed">
+      <name>testMerge with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

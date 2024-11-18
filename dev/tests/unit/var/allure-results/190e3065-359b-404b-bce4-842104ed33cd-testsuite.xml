@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890417058" stop="1729890417084" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\PhpReadinessCheckTest</name>
+  <test-cases>
+    <test-case start="1729890417058" stop="1729890417064" status="passed">
+      <name>testCheckPhpVersionNoRequiredVersion</name>
+    </test-case>
+    <test-case start="1729890417064" stop="1729890417068" status="passed">
+      <name>testCheckPhpVersionPrettyVersion</name>
+    </test-case>
+    <test-case start="1729890417068" stop="1729890417070" status="passed">
+      <name>testCheckPhpVersionPrettyVersionFailed</name>
+    </test-case>
+    <test-case start="1729890417070" stop="1729890417071" status="passed">
+      <name>testCheckPhpVersion</name>
+    </test-case>
+    <test-case start="1729890417072" stop="1729890417073" status="passed">
+      <name>testCheckPhpVersionFailed</name>
+    </test-case>
+    <test-case start="1729890417073" stop="1729890417074" status="passed">
+      <name>testCheckPhpSettings</name>
+    </test-case>
+    <test-case start="1729890417075" stop="1729890417076" status="passed">
+      <name>testCheckPhpSettingsFailed</name>
+    </test-case>
+    <test-case start="1729890417076" stop="1729890417077" status="passed">
+      <name>testCheckPhpSettingsNoXDebug</name>
+    </test-case>
+    <test-case start="1729890417077" stop="1729890417078" status="passed">
+      <name>testCheckPhpSettingsMemoryLimitError</name>
+    </test-case>
+    <test-case start="1729890417078" stop="1729890417079" status="passed">
+      <name>testCheckPhpExtensionsNoRequired</name>
+    </test-case>
+    <test-case start="1729890417079" stop="1729890417081" status="passed">
+      <name>testCheckPhpExtensions</name>
+    </test-case>
+    <test-case start="1729890417082" stop="1729890417084" status="passed">
+      <name>testCheckPhpExtensionsFailed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

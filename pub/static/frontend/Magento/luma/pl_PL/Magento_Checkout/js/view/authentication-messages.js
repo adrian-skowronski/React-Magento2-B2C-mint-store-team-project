@@ -1,0 +1,1 @@
+/home/adrian-skowronski/www/mint/vendor/magento/module-checkout/view/frontend/web/js/view/authentication-messages.js

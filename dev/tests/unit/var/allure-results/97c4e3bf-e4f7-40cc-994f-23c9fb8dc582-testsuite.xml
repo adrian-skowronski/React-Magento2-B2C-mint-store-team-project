@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358236" stop="1729890358294" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Block\Transparent\FormTest</name>
+  <test-cases>
+    <test-case start="1729890358236" stop="1729890358240" status="passed">
+      <name>testIsAjaxRequest</name>
+    </test-case>
+    <test-case start="1729890358241" stop="1729890358244" status="passed">
+      <name>testGetMethodConfigData with data set #0</name>
+    </test-case>
+    <test-case start="1729890358245" stop="1729890358250" status="passed">
+      <name>testGetMethodConfigData with data set #1</name>
+    </test-case>
+    <test-case start="1729890358250" stop="1729890358254" status="passed">
+      <name>testGetCgiUrl with data set #0</name>
+    </test-case>
+    <test-case start="1729890358255" stop="1729890358260" status="passed">
+      <name>testGetCgiUrl with data set #1</name>
+    </test-case>
+    <test-case start="1729890358260" stop="1729890358264" status="passed">
+      <name>testGetOrderUrl</name>
+    </test-case>
+    <test-case start="1729890358264" stop="1729890358266" status="passed">
+      <name>testGetDateDelim</name>
+    </test-case>
+    <test-case start="1729890358267" stop="1729890358270" status="passed">
+      <name>testGetCardFieldsMap</name>
+    </test-case>
+    <test-case start="1729890358270" stop="1729890358277" status="passed">
+      <name>testToHtmlShouldRender</name>
+    </test-case>
+    <test-case start="1729890358277" stop="1729890358281" status="passed">
+      <name>testToHtmlShouldNotRenderEmptyQuote</name>
+    </test-case>
+    <test-case start="1729890358281" stop="1729890358286" status="passed">
+      <name>testToHtmlShouldNotRenderEmptyPayment</name>
+    </test-case>
+    <test-case start="1729890358286" stop="1729890358290" status="passed">
+      <name>testGetMethodSuccess</name>
+    </test-case>
+    <test-case start="1729890358291" stop="1729890358293" status="passed">
+      <name>testGetMethodNotTransparentInterface</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

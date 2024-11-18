@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422240" stop="1729890422243" version="1.4.0">
+  <name>Magento\Framework\Api\Test\Unit\Data\AttributeValueTest</name>
+  <test-cases>
+    <test-case start="1729890422240" stop="1729890422241" status="passed">
+      <name>testConstructorAndGettersWithString</name>
+    </test-case>
+    <test-case start="1729890422241" stop="1729890422241" status="passed">
+      <name>testConstructorAndGettersWithInteger</name>
+    </test-case>
+    <test-case start="1729890422242" stop="1729890422242" status="passed">
+      <name>testConstructorAndGettersWithFloat</name>
+    </test-case>
+    <test-case start="1729890422243" stop="1729890422243" status="passed">
+      <name>testConstructorAndGettersWithBoolean</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

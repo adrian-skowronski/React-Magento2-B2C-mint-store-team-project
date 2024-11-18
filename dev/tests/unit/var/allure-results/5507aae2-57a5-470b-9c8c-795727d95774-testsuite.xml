@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449105" stop="1729890449108" version="1.4.0">
+  <name>Magento\Framework\Filesystem\Test\Unit\DriverPoolTest</name>
+  <test-cases>
+    <test-case start="1729890449105" stop="1729890449106" status="passed">
+      <name>testGetDriver</name>
+    </test-case>
+    <test-case start="1729890449106" stop="1729890449107" status="passed">
+      <name>testCustomDriver</name>
+    </test-case>
+    <test-case start="1729890449107" stop="1729890449108" status="passed">
+      <name>testCustomDriverException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

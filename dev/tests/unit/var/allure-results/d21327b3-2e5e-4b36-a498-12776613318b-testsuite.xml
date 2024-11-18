@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262349" stop="1729890262362" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\Connector\SignUpCommandTest</name>
+  <test-cases>
+    <test-case start="1729890262349" stop="1729890262359" status="passed">
+      <name>testExecuteSuccess</name>
+    </test-case>
+    <test-case start="1729890262359" stop="1729890262360" status="passed">
+      <name>testExecuteFailureCannotGenerateToken</name>
+    </test-case>
+    <test-case start="1729890262360" stop="1729890262362" status="passed">
+      <name>testExecuteFailureResponseIsEmpty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

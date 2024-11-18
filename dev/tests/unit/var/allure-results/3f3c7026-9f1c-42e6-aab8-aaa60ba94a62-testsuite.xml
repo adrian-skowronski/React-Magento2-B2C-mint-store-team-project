@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890384972" stop="1729890384989" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\InvoiceNotifierTest</name>
+  <test-cases>
+    <test-case start="1729890384973" stop="1729890384984" status="passed">
+      <name>testNotifySuccess</name>
+    </test-case>
+    <test-case start="1729890384984" stop="1729890384986" status="passed">
+      <name>testNotifyFail</name>
+    </test-case>
+    <test-case start="1729890384987" stop="1729890384989" status="passed">
+      <name>testNotifyException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

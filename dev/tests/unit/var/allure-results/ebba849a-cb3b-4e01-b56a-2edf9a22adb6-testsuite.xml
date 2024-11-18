@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890317634" stop="1729890317644" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Metadata\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890317634" stop="1729890317635" status="passed">
+      <name>testValidateDataWithNoDataModel</name>
+    </test-case>
+    <test-case start="1729890317635" stop="1729890317639" status="passed">
+      <name>testValidateData with data set #0</name>
+    </test-case>
+    <test-case start="1729890317639" stop="1729890317640" status="passed">
+      <name>testValidateData with data set #1</name>
+    </test-case>
+    <test-case start="1729890317640" stop="1729890317641" status="passed">
+      <name>testIsValidWithNoModel</name>
+    </test-case>
+    <test-case start="1729890317641" stop="1729890317642" status="passed">
+      <name>testIsValid with data set #0</name>
+    </test-case>
+    <test-case start="1729890317643" stop="1729890317644" status="passed">
+      <name>testIsValid with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

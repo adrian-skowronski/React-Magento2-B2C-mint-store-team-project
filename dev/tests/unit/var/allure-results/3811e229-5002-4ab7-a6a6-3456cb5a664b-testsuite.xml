@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890386239" stop="1729890386376" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest</name>
+  <test-cases>
+    <test-case start="1729890386240" stop="1729890386242" status="passed">
+      <name>testSchemaByExemplar with data set "valid empty"</name>
+    </test-case>
+    <test-case start="1729890386242" stop="1729890386243" status="passed">
+      <name>testSchemaByExemplar with data set "valid empty renderers"</name>
+    </test-case>
+    <test-case start="1729890386244" stop="1729890386245" status="passed">
+      <name>testSchemaByExemplar with data set "valid empty totals"</name>
+    </test-case>
+    <test-case start="1729890386245" stop="1729890386247" status="passed">
+      <name>testSchemaByExemplar with data set "valid empty renderers and totals"</name>
+    </test-case>
+    <test-case start="1729890386247" stop="1729890386249" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid unknown node in &lt;config&gt;"</name>
+    </test-case>
+    <test-case start="1729890386249" stop="1729890386250" status="passed">
+      <name>testSchemaByExemplar with data set "valid pages"</name>
+    </test-case>
+    <test-case start="1729890386251" stop="1729890386252" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid non-unique pages"</name>
+    </test-case>
+    <test-case start="1729890386252" stop="1729890386254" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid unknown node in renderers"</name>
+    </test-case>
+    <test-case start="1729890386254" stop="1729890386255" status="passed">
+      <name>testSchemaByExemplar with data set "valid page renderers"</name>
+    </test-case>
+    <test-case start="1729890386256" stop="1729890386257" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid non-unique page renderers"</name>
+    </test-case>
+    <test-case start="1729890386258" stop="1729890386260" status="failed">
+      <name>testSchemaByExemplar with data set "non-valid empty renderer class name"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'renderer': [facet 'p...]*)*'.'
+-    1 =&gt; 'Element 'renderer': '' is not...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(78): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(50): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;_testSchema()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;testSchemaByExemplar()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890386260" stop="1729890386262" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid unknown node in page"</name>
+    </test-case>
+    <test-case start="1729890386262" stop="1729890386264" status="passed">
+      <name>testSchemaByExemplar with data set "valid totals"</name>
+    </test-case>
+    <test-case start="1729890386264" stop="1729890386266" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid non-unique total items"</name>
+    </test-case>
+    <test-case start="1729890386266" stop="1729890386267" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid unknown node in total items"</name>
+    </test-case>
+    <test-case start="1729890386268" stop="1729890386270" status="failed">
+      <name>testSchemaByExemplar with data set "non-valid totals empty title"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'title': [facet 'minL...f '1'.'
+-    1 =&gt; 'Element 'title': '' is not a ...ring'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(78): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(50): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;_testSchema()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;testSchemaByExemplar()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890386270" stop="1729890386272" status="failed">
+      <name>testSchemaByExemplar with data set "non-valid totals empty source_field"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'source_field': [face...9_]+'.'
+-    1 =&gt; 'Element 'source_field': '' is...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(78): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(50): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;_testSchema()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;testSchemaByExemplar()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890386272" stop="1729890386274" status="failed">
+      <name>testSchemaByExemplar with data set "non-valid totals empty title_source_field"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'title_source_field':...9_]+'.'
+-    1 =&gt; 'Element 'title_source_field':...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(78): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(50): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;_testSchema()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;testSchemaByExemplar()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890386274" stop="1729890386276" status="failed">
+      <name>testSchemaByExemplar with data set "non-valid totals bad model"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'model': [facet 'patt...]*)*'.'
+-    1 =&gt; 'Element 'model': 'a model' is...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(78): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(50): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;_testSchema()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;testSchemaByExemplar()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890386277" stop="1729890386278" status="passed">
+      <name>testSchemaByExemplar with data set "valid totals title_source_field"</name>
+    </test-case>
+    <test-case start="1729890386279" stop="1729890386280" status="passed">
+      <name>testSchemaByExemplar with data set "valid totals model"</name>
+    </test-case>
+    <test-case start="1729890386281" stop="1729890386282" status="passed">
+      <name>testSchemaByExemplar with data set "valid totals font_size"</name>
+    </test-case>
+    <test-case start="1729890386283" stop="1729890386284" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid totals font_size 0"</name>
+    </test-case>
+    <test-case start="1729890386285" stop="1729890386286" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid totals font_size"</name>
+    </test-case>
+    <test-case start="1729890386286" stop="1729890386288" status="passed">
+      <name>testSchemaByExemplar with data set "valid totals display_zero"</name>
+    </test-case>
+    <test-case start="1729890386288" stop="1729890386289" status="passed">
+      <name>testSchemaByExemplar with data set "valid totals display_zero true"</name>
+    </test-case>
+    <test-case start="1729890386290" stop="1729890386291" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid totals display_zero"</name>
+    </test-case>
+    <test-case start="1729890386292" stop="1729890386293" status="passed">
+      <name>testSchemaByExemplar with data set "valid totals sort_order"</name>
+    </test-case>
+    <test-case start="1729890386294" stop="1729890386295" status="passed">
+      <name>testSchemaByExemplar with data set "valid totals sort_order 0"</name>
+    </test-case>
+    <test-case start="1729890386296" stop="1729890386297" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid totals sort_order"</name>
+    </test-case>
+    <test-case start="1729890386298" stop="1729890386300" status="passed">
+      <name>testSchemaByExemplar with data set "valid totals title with translate attribute"</name>
+    </test-case>
+    <test-case start="1729890386300" stop="1729890386302" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid totals title with bad translate attribute"</name>
+    </test-case>
+    <test-case start="1729890386302" stop="1729890386303" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid totals missing title"</name>
+    </test-case>
+    <test-case start="1729890386304" stop="1729890386305" status="passed">
+      <name>testSchemaByExemplar with data set "non-valid totals missing source_field"</name>
+    </test-case>
+    <test-case start="1729890386306" stop="1729890386310" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid empty"</name>
+    </test-case>
+    <test-case start="1729890386311" stop="1729890386312" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid empty renderers"</name>
+    </test-case>
+    <test-case start="1729890386312" stop="1729890386314" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid empty totals"</name>
+    </test-case>
+    <test-case start="1729890386314" stop="1729890386316" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid empty renderers and totals"</name>
+    </test-case>
+    <test-case start="1729890386317" stop="1729890386318" status="passed">
+      <name>testFileSchemaByExemplar with data set "non-valid unknown node in &lt;config&gt;"</name>
+    </test-case>
+    <test-case start="1729890386318" stop="1729890386320" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid pages"</name>
+    </test-case>
+    <test-case start="1729890386320" stop="1729890386321" status="passed">
+      <name>testFileSchemaByExemplar with data set "non-valid non-unique pages"</name>
+    </test-case>
+    <test-case start="1729890386322" stop="1729890386323" status="passed">
+      <name>testFileSchemaByExemplar with data set "non-valid unknown node in renderers"</name>
+    </test-case>
+    <test-case start="1729890386324" stop="1729890386325" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid page renderers"</name>
+    </test-case>
+    <test-case start="1729890386325" stop="1729890386327" status="passed">
+      <name>testFileSchemaByExemplar with data set "non-valid non-unique page renderers"</name>
+    </test-case>
+    <test-case start="1729890386327" stop="1729890386329" status="failed">
+      <name>testFileSchemaByExemplar with data set "non-valid empty renderer class name"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'renderer': [facet 'p...]*)*'.'
+-    1 =&gt; 'Element 'renderer': '' is not...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(78): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(60): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;_testSchema()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;testFileSchemaByExemplar()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890386330" stop="1729890386332" status="passed">
+      <name>testFileSchemaByExemplar with data set "non-valid unknown node in page"</name>
+    </test-case>
+    <test-case start="1729890386332" stop="1729890386333" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid totals"</name>
+    </test-case>
+    <test-case start="1729890386334" stop="1729890386335" status="passed">
+      <name>testFileSchemaByExemplar with data set "non-valid non-unique total items"</name>
+    </test-case>
+    <test-case start="1729890386336" stop="1729890386337" status="passed">
+      <name>testFileSchemaByExemplar with data set "non-valid unknown node in total items"</name>
+    </test-case>
+    <test-case start="1729890386338" stop="1729890386340" status="failed">
+      <name>testFileSchemaByExemplar with data set "non-valid totals empty title"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'title': [facet 'minL...f '1'.'
+-    1 =&gt; 'Element 'title': '' is not a ...ring'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(78): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(60): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;_testSchema()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;testFileSchemaByExemplar()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890386340" stop="1729890386342" status="failed">
+      <name>testFileSchemaByExemplar with data set "non-valid totals empty source_field"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'source_field': [face...9_]+'.'
+-    1 =&gt; 'Element 'source_field': '' is...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(78): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(60): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;_testSchema()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;testFileSchemaByExemplar()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890386343" stop="1729890386345" status="failed">
+      <name>testFileSchemaByExemplar with data set "non-valid totals empty title_source_field"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'title_source_field':...9_]+'.'
+-    1 =&gt; 'Element 'title_source_field':...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(78): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(60): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;_testSchema()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;testFileSchemaByExemplar()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890386345" stop="1729890386347" status="failed">
+      <name>testFileSchemaByExemplar with data set "non-valid totals bad model"</name>
+      <failure>
+        <message>Failed asserting that two arrays are equal.
+--- Expected
++++ Actual
+@@ @@
+ Array (
+     0 =&gt; 'Element 'model': [facet 'patt...]*)*'.'
+-    1 =&gt; 'Element 'model': 'a model' is...Type'.'
+ )
+</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(78): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/magento/module-sales/Test/Unit/Model/Order/Pdf/Config/XsdTest.php(60): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;_testSchema()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Sales\Test\Unit\Model\Order\Pdf\Config\XsdTest-&gt;testFileSchemaByExemplar()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#15 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#16 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890386348" stop="1729890386349" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid totals title_source_field"</name>
+    </test-case>
+    <test-case start="1729890386350" stop="1729890386351" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid totals model"</name>
+    </test-case>
+    <test-case start="1729890386352" stop="1729890386353" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid totals font_size"</name>
+    </test-case>
+    <test-case start="1729890386353" stop="1729890386355" status="passed">
+      <name>testFileSchemaByExemplar with data set "non-valid totals font_size 0"</name>
+    </test-case>
+    <test-case start="1729890386355" stop="1729890386357" status="passed">
+      <name>testFileSchemaByExemplar with data set "non-valid totals font_size"</name>
+    </test-case>
+    <test-case start="1729890386357" stop="1729890386359" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid totals display_zero"</name>
+    </test-case>
+    <test-case start="1729890386359" stop="1729890386361" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid totals display_zero true"</name>
+    </test-case>
+    <test-case start="1729890386361" stop="1729890386363" status="passed">
+      <name>testFileSchemaByExemplar with data set "non-valid totals display_zero"</name>
+    </test-case>
+    <test-case start="1729890386363" stop="1729890386365" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid totals sort_order"</name>
+    </test-case>
+    <test-case start="1729890386365" stop="1729890386366" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid totals sort_order 0"</name>
+    </test-case>
+    <test-case start="1729890386367" stop="1729890386368" status="passed">
+      <name>testFileSchemaByExemplar with data set "non-valid totals sort_order"</name>
+    </test-case>
+    <test-case start="1729890386369" stop="1729890386370" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid totals title with translate attribute"</name>
+    </test-case>
+    <test-case start="1729890386370" stop="1729890386372" status="passed">
+      <name>testFileSchemaByExemplar with data set "non-valid totals title with bad translate attribute"</name>
+    </test-case>
+    <test-case start="1729890386372" stop="1729890386374" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid totals missing title"</name>
+    </test-case>
+    <test-case start="1729890386374" stop="1729890386376" status="passed">
+      <name>testFileSchemaByExemplar with data set "valid totals missing source_field"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890465163" stop="1729890465176" version="1.4.0">
+  <name>Magento\Framework\Webapi\Test\Unit\Rest\Response\Renderer\XmlTest</name>
+  <test-cases>
+    <test-case start="1729890465163" stop="1729890465165" status="passed">
+      <name>testRender with data set #0</name>
+    </test-case>
+    <test-case start="1729890465165" stop="1729890465166" status="passed">
+      <name>testRender with data set #1</name>
+    </test-case>
+    <test-case start="1729890465166" stop="1729890465167" status="passed">
+      <name>testRender with data set #2</name>
+    </test-case>
+    <test-case start="1729890465168" stop="1729890465168" status="passed">
+      <name>testRender with data set #3</name>
+    </test-case>
+    <test-case start="1729890465169" stop="1729890465169" status="passed">
+      <name>testRender with data set #4</name>
+    </test-case>
+    <test-case start="1729890465170" stop="1729890465170" status="passed">
+      <name>testRender with data set #5</name>
+    </test-case>
+    <test-case start="1729890465171" stop="1729890465171" status="passed">
+      <name>testRender with data set #6</name>
+    </test-case>
+    <test-case start="1729890465172" stop="1729890465173" status="passed">
+      <name>testRender with data set #7</name>
+    </test-case>
+    <test-case start="1729890465173" stop="1729890465174" status="passed">
+      <name>testRender with data set #8</name>
+    </test-case>
+    <test-case start="1729890465174" stop="1729890465175" status="passed">
+      <name>testRender with data set #9</name>
+    </test-case>
+    <test-case start="1729890465175" stop="1729890465175" status="passed">
+      <name>testGetMimeType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

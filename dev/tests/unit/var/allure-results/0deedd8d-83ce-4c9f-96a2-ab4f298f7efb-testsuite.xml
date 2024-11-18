@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262514" stop="1729890262518" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\FileInfoTest</name>
+  <test-cases>
+    <test-case start="1729890262515" stop="1729890262516" status="passed">
+      <name>testConstruct with data set "Degenerate object"</name>
+    </test-case>
+    <test-case start="1729890262516" stop="1729890262517" status="passed">
+      <name>testConstruct with data set "Without Initialization Vector"</name>
+    </test-case>
+    <test-case start="1729890262517" stop="1729890262518" status="passed">
+      <name>testConstruct with data set "With Initialization Vector"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302383" stop="1729890302395" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Source\Email\TemplateTest</name>
+  <test-cases>
+    <test-case start="1729890302384" stop="1729890302393" status="passed">
+      <name>testToOptionArray</name>
+    </test-case>
+    <test-case start="1729890302393" stop="1729890302395" status="passed">
+      <name>testToOptionArrayWithoutPath</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

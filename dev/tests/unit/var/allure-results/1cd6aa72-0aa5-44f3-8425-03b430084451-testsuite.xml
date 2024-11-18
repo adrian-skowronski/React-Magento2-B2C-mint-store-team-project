@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890388916" stop="1729890388937" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\ResourceModel\AttributeTest</name>
+  <test-cases>
+    <test-case start="1729890388917" stop="1729890388924" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890388924" stop="1729890388932" status="passed">
+      <name>testSaveFailed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

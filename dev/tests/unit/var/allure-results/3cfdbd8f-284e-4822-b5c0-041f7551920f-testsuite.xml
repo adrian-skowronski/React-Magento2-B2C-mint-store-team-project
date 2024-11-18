@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316324" stop="1729890316375" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\CustomerTest</name>
+  <test-cases>
+    <test-case start="1729890316325" stop="1729890316345" status="passed">
+      <name>testHashPassword</name>
+    </test-case>
+    <test-case start="1729890316345" stop="1729890316347" status="passed">
+      <name>testSendNewAccountEmailException</name>
+    </test-case>
+    <test-case start="1729890316348" stop="1729890316351" status="passed">
+      <name>testSendNewAccountEmailWithoutStoreId</name>
+    </test-case>
+    <test-case start="1729890316352" stop="1729890316354" status="passed">
+      <name>testIsCustomerLocked with data set #0</name>
+    </test-case>
+    <test-case start="1729890316354" stop="1729890316357" status="passed">
+      <name>testIsCustomerLocked with data set #1</name>
+    </test-case>
+    <test-case start="1729890316358" stop="1729890316359" status="passed">
+      <name>testIsConfirmationRequired with data set #0</name>
+    </test-case>
+    <test-case start="1729890316360" stop="1729890316362" status="passed">
+      <name>testIsConfirmationRequired with data set #1</name>
+    </test-case>
+    <test-case start="1729890316362" stop="1729890316364" status="passed">
+      <name>testIsConfirmationRequired with data set #2</name>
+    </test-case>
+    <test-case start="1729890316365" stop="1729890316368" status="passed">
+      <name>testUpdateData</name>
+    </test-case>
+    <test-case start="1729890316368" stop="1729890316372" status="passed">
+      <name>testGetDataModel</name>
+    </test-case>
+    <test-case start="1729890316373" stop="1729890316375" status="passed">
+      <name>testGetRandomConfirmationKey</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890269172" stop="1729890269310" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Model\LinkManagementTest</name>
+  <test-cases>
+    <test-case start="1729890269172" stop="1729890269187" status="passed">
+      <name>testGetChildren</name>
+    </test-case>
+    <test-case start="1729890269188" stop="1729890269191" status="passed">
+      <name>testGetChildrenWithOptionId</name>
+    </test-case>
+    <test-case start="1729890269192" stop="1729890269194" status="passed">
+      <name>testGetChildrenException</name>
+    </test-case>
+    <test-case start="1729890269194" stop="1729890269198" status="passed">
+      <name>testAddChildToNotBundleProduct</name>
+    </test-case>
+    <test-case start="1729890269198" stop="1729890269204" status="passed">
+      <name>testAddChildNonExistingOption</name>
+    </test-case>
+    <test-case start="1729890269204" stop="1729890269218" status="passed">
+      <name>testAddChildLinkedProductIsComposite</name>
+    </test-case>
+    <test-case start="1729890269219" stop="1729890269227" status="passed">
+      <name>testAddChildProductAlreadyExistsInOption</name>
+    </test-case>
+    <test-case start="1729890269228" stop="1729890269240" status="passed">
+      <name>testAddChildCouldNotSave</name>
+    </test-case>
+    <test-case start="1729890269241" stop="1729890269251" status="passed">
+      <name>testAddChild</name>
+    </test-case>
+    <test-case start="1729890269251" stop="1729890269263" status="passed">
+      <name>testSaveChild</name>
+    </test-case>
+    <test-case start="1729890269264" stop="1729890269273" status="passed">
+      <name>testSaveChildFailedToSave</name>
+    </test-case>
+    <test-case start="1729890269273" stop="1729890269277" status="passed">
+      <name>testSaveChildWithoutId</name>
+    </test-case>
+    <test-case start="1729890269277" stop="1729890269285" status="passed">
+      <name>testSaveChildWithInvalidId</name>
+    </test-case>
+    <test-case start="1729890269285" stop="1729890269290" status="passed">
+      <name>testSaveChildWithCompositeProductLink</name>
+    </test-case>
+    <test-case start="1729890269290" stop="1729890269293" status="passed">
+      <name>testSaveChildWithSimpleProduct</name>
+    </test-case>
+    <test-case start="1729890269294" stop="1729890269300" status="passed">
+      <name>testRemoveChild</name>
+    </test-case>
+    <test-case start="1729890269301" stop="1729890269303" status="passed">
+      <name>testRemoveChildForbidden</name>
+    </test-case>
+    <test-case start="1729890269303" stop="1729890269306" status="passed">
+      <name>testRemoveChildInvalidOptionId</name>
+    </test-case>
+    <test-case start="1729890269307" stop="1729890269310" status="passed">
+      <name>testRemoveChildInvalidChildSku</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

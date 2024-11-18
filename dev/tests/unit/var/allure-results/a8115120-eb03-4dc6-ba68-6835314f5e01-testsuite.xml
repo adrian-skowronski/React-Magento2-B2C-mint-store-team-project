@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890324200" stop="1729890324232" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Observer\SetLinkStatusObserverTest</name>
+  <test-cases>
+    <test-case start="1729890324201" stop="1729890324207" status="passed">
+      <name>testSetLinkStatusPending with data set #0</name>
+    </test-case>
+    <test-case start="1729890324208" stop="1729890324213" status="passed">
+      <name>testSetLinkStatusPending with data set #1</name>
+    </test-case>
+    <test-case start="1729890324213" stop="1729890324217" status="passed">
+      <name>testSetLinkStatusPending with data set #2</name>
+    </test-case>
+    <test-case start="1729890324218" stop="1729890324221" status="passed">
+      <name>testSetLinkStatusClosed</name>
+    </test-case>
+    <test-case start="1729890324222" stop="1729890324226" status="passed">
+      <name>testSetLinkStatusInvoiced</name>
+    </test-case>
+    <test-case start="1729890324226" stop="1729890324227" status="passed">
+      <name>testSetLinkStatusEmptyOrder</name>
+    </test-case>
+    <test-case start="1729890324227" stop="1729890324231" status="passed">
+      <name>testSetLinkStatusExpired</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

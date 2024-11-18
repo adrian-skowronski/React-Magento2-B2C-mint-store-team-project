@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890277220" stop="1729890277251" version="1.4.0">
+  <name>Magento\CatalogRuleConfigurable\Test\Unit\Plugin\CatalogRule\Model\Rule\ConfigurableProductHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890277221" stop="1729890277235" status="passed">
+      <name>testAroundGetMatchingProductIdsWithSimpleProduct</name>
+    </test-case>
+    <test-case start="1729890277235" stop="1729890277237" status="passed">
+      <name>testAroundGetMatchingProductIdsWithConfigurableProduct</name>
+    </test-case>
+    <test-case start="1729890277238" stop="1729890277241" status="passed">
+      <name>testAroundGetMatchingProductIdsWithProductsFilter with data set #0</name>
+    </test-case>
+    <test-case start="1729890277241" stop="1729890277244" status="passed">
+      <name>testAroundGetMatchingProductIdsWithProductsFilter with data set #1</name>
+    </test-case>
+    <test-case start="1729890277245" stop="1729890277247" status="passed">
+      <name>testAroundGetMatchingProductIdsWithProductsFilter with data set #2</name>
+    </test-case>
+    <test-case start="1729890277248" stop="1729890277251" status="passed">
+      <name>testAroundGetMatchingProductIdsWithProductsFilter with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

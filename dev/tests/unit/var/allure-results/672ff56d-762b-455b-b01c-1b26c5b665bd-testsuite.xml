@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271603" stop="1729890271617" version="1.4.0">
+  <name>Magento\Captcha\Test\Unit\Observer\CheckUserForgotPasswordBackendObserverTest</name>
+  <test-cases>
+    <test-case start="1729890271603" stop="1729890271608" status="passed">
+      <name>testExecuteWhenCaptchaIsCorrect</name>
+    </test-case>
+    <test-case start="1729890271608" stop="1729890271611" status="passed">
+      <name>testExecuteWhenCaptchaIsIncorrect</name>
+    </test-case>
+    <test-case start="1729890271611" stop="1729890271614" status="passed">
+      <name>testExecuteWhenCaptchaIsNotRequired</name>
+    </test-case>
+    <test-case start="1729890271614" stop="1729890271617" status="passed">
+      <name>testExecuteWhenEmailParamIsNotPresent</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890291984" stop="1729890292013" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890291985" stop="1729890291999" status="passed">
+      <name>testGetByProductType with data set "request object contains `product_links` and `tier_prices`"</name>
+    </test-case>
+    <test-case start="1729890292000" stop="1729890292001" status="passed">
+      <name>testGetByProductType with data set "request object contains `product_links`"</name>
+    </test-case>
+    <test-case start="1729890292002" stop="1729890292003" status="passed">
+      <name>testGetByProductType with data set "request object SKU does not match with product object SKU"</name>
+    </test-case>
+    <test-case start="1729890292003" stop="1729890292004" status="passed">
+      <name>testGetByProductType with data set "request object does not contain `sku`"</name>
+    </test-case>
+    <test-case start="1729890292005" stop="1729890292006" status="passed">
+      <name>testGetByProductType with data set "request object has empty product"</name>
+    </test-case>
+    <test-case start="1729890292007" stop="1729890292008" status="passed">
+      <name>testGetByProductType with data set "request object does not contain product"</name>
+    </test-case>
+    <test-case start="1729890292008" stop="1729890292011" status="passed">
+      <name>testGetByProductType with data set "request object contains `product_links` is null and `tier_prices` is null"</name>
+    </test-case>
+    <test-case start="1729890292012" stop="1729890292013" status="passed">
+      <name>testGetByProductType with data set "request object has empty array"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

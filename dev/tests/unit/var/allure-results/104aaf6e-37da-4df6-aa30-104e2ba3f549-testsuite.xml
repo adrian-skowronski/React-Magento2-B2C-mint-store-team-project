@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327719" stop="1729890327734" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\ResourceModel\EngineTest</name>
+  <test-cases>
+    <test-case start="1729890327719" stop="1729890327729" status="passed">
+      <name>testPrepareEntityIndex with data set #0</name>
+    </test-case>
+    <test-case start="1729890327729" stop="1729890327730" status="passed">
+      <name>testAllowAdvancedIndex</name>
+    </test-case>
+    <test-case start="1729890327730" stop="1729890327732" status="passed">
+      <name>testIsAvailable</name>
+    </test-case>
+    <test-case start="1729890327732" stop="1729890327733" status="passed">
+      <name>testGetAllowedVisibility</name>
+    </test-case>
+    <test-case start="1729890327733" stop="1729890327734" status="passed">
+      <name>testProcessAttributeValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

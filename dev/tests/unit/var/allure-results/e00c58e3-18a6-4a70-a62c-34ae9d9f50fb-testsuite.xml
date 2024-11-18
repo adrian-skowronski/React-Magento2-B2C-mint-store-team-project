@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890354205" stop="1729890354214" version="1.4.0">
+  <name>Magento\Multishipping\Test\Unit\Model\Payment\Method\Specification\EnabledTest</name>
+  <test-cases>
+    <test-case start="1729890354206" stop="1729890354211" status="passed">
+      <name>testIsSatisfiedBy with data set #0</name>
+    </test-case>
+    <test-case start="1729890354211" stop="1729890354212" status="passed">
+      <name>testIsSatisfiedBy with data set #1</name>
+    </test-case>
+    <test-case start="1729890354213" stop="1729890354214" status="passed">
+      <name>testIsSatisfiedBy with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890358161" stop="1729890358212" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Block\InfoTest</name>
+  <test-cases>
+    <test-case start="1729890358163" stop="1729890358166" status="passed">
+      <name>testGetIsSecureMode with data set #0</name>
+    </test-case>
+    <test-case start="1729890358167" stop="1729890358169" status="passed">
+      <name>testGetIsSecureMode with data set #1</name>
+    </test-case>
+    <test-case start="1729890358170" stop="1729890358175" status="passed">
+      <name>testGetIsSecureMode with data set #2</name>
+    </test-case>
+    <test-case start="1729890358176" stop="1729890358179" status="passed">
+      <name>testGetIsSecureMode with data set #3</name>
+    </test-case>
+    <test-case start="1729890358180" stop="1729890358184" status="passed">
+      <name>testGetIsSecureMode with data set #4</name>
+    </test-case>
+    <test-case start="1729890358184" stop="1729890358189" status="passed">
+      <name>testGetIsSecureMode with data set #5</name>
+    </test-case>
+    <test-case start="1729890358190" stop="1729890358192" status="passed">
+      <name>testGetInfoThrowException</name>
+    </test-case>
+    <test-case start="1729890358192" stop="1729890358195" status="passed">
+      <name>testGetSpecificInformation</name>
+    </test-case>
+    <test-case start="1729890358195" stop="1729890358197" status="passed">
+      <name>testGetValueAsArray with data set #0</name>
+    </test-case>
+    <test-case start="1729890358198" stop="1729890358200" status="passed">
+      <name>testGetValueAsArray with data set #1</name>
+    </test-case>
+    <test-case start="1729890358200" stop="1729890358203" status="passed">
+      <name>testGetValueAsArray with data set #2</name>
+    </test-case>
+    <test-case start="1729890358203" stop="1729890358207" status="passed">
+      <name>testGetValueAsArray with data set #3</name>
+    </test-case>
+    <test-case start="1729890358207" stop="1729890358210" status="passed">
+      <name>testGetValueAsArray with data set #4</name>
+    </test-case>
+    <test-case start="1729890358210" stop="1729890358212" status="passed">
+      <name>testGetValueAsArray with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

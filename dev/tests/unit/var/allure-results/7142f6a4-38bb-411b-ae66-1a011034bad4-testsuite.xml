@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890268080" stop="1729890268100" version="1.4.0">
+  <name>Magento\Backup\Test\Unit\Controller\Adminhtml\Index\DownloadTest</name>
+  <test-cases>
+    <test-case start="1729890268080" stop="1729890268087" status="passed">
+      <name>testExecuteBackupFound</name>
+    </test-case>
+    <test-case start="1729890268088" stop="1729890268091" status="passed">
+      <name>testExecuteBackupNotFound with data set #0</name>
+    </test-case>
+    <test-case start="1729890268092" stop="1729890268096" status="passed">
+      <name>testExecuteBackupNotFound with data set #1</name>
+    </test-case>
+    <test-case start="1729890268096" stop="1729890268099" status="passed">
+      <name>testExecuteBackupNotFound with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

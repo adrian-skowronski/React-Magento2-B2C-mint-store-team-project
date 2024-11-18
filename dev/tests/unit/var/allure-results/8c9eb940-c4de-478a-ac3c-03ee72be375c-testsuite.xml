@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890363235" stop="1729890363262" version="1.4.0">
+  <name>Magento\Persistent\Test\Unit\Block\Header\AdditionalTest</name>
+  <test-cases>
+    <test-case start="1729890363236" stop="1729890363260" status="passed">
+      <name>testGetCustomerId</name>
+    </test-case>
+    <test-case start="1729890363260" stop="1729890363261" status="passed">
+      <name>testGetConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

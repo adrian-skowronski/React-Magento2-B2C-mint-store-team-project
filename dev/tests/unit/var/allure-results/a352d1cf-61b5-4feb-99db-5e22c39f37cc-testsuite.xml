@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890292225" stop="1729890292243" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Website\SaveHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890292225" stop="1729890292239" status="passed">
+      <name>testWithMultipleStoreMode</name>
+    </test-case>
+    <test-case start="1729890292239" stop="1729890292241" status="passed">
+      <name>testWithEmptyWebsiteIds</name>
+    </test-case>
+    <test-case start="1729890292241" stop="1729890292242" status="passed">
+      <name>testWithSingleStoreMode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

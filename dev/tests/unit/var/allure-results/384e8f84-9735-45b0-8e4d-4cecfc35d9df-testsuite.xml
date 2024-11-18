@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890311517" stop="1729890311526" version="1.4.0">
+  <name>Magento\Cron\Test\Unit\Model\DeadlockRetrierTest</name>
+  <test-cases>
+    <test-case start="1729890311518" stop="1729890311520" status="passed">
+      <name>testInsideTransaction</name>
+    </test-case>
+    <test-case start="1729890311521" stop="1729890311523" status="passed">
+      <name>testRetry</name>
+    </test-case>
+    <test-case start="1729890311524" stop="1729890311526" status="passed">
+      <name>testRetrySecond</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

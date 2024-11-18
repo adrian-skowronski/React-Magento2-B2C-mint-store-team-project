@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890455126" stop="1729890455130" version="1.4.0">
+  <name>Magento\Framework\Pricing\Test\Unit\Price\PoolTest</name>
+  <test-cases>
+    <test-case start="1729890455127" stop="1729890455127" status="passed">
+      <name>testMergedConfiguration</name>
+    </test-case>
+    <test-case start="1729890455127" stop="1729890455128" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890455128" stop="1729890455129" status="passed">
+      <name>testArrayAccess</name>
+    </test-case>
+    <test-case start="1729890455129" stop="1729890455129" status="passed">
+      <name>testIterator</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

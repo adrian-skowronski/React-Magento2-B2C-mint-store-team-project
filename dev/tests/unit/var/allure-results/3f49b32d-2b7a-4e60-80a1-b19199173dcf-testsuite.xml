@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297770" stop="1729890297821" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890297770" stop="1729890297780" status="passed">
+      <name>testSendPaymentFailedEmail</name>
+    </test-case>
+    <test-case start="1729890297780" stop="1729890297781" status="passed">
+      <name>testGetCheckout</name>
+    </test-case>
+    <test-case start="1729890297781" stop="1729890297784" status="passed">
+      <name>testGetQuote</name>
+    </test-case>
+    <test-case start="1729890297784" stop="1729890297787" status="passed">
+      <name>testFormatPrice</name>
+    </test-case>
+    <test-case start="1729890297787" stop="1729890297789" status="passed">
+      <name>testConvertPrice</name>
+    </test-case>
+    <test-case start="1729890297789" stop="1729890297791" status="passed">
+      <name>testCanOnepageCheckout</name>
+    </test-case>
+    <test-case start="1729890297791" stop="1729890297794" status="passed">
+      <name>testIsContextCheckout</name>
+    </test-case>
+    <test-case start="1729890297794" stop="1729890297796" status="passed">
+      <name>testIsCustomerMustBeLogged</name>
+    </test-case>
+    <test-case start="1729890297796" stop="1729890297799" status="passed">
+      <name>testGetPriceInclTax</name>
+    </test-case>
+    <test-case start="1729890297799" stop="1729890297804" status="passed">
+      <name>testGetPriceInclTaxWithoutTax</name>
+    </test-case>
+    <test-case start="1729890297804" stop="1729890297806" status="passed">
+      <name>testGetSubtotalInclTax</name>
+    </test-case>
+    <test-case start="1729890297806" stop="1729890297808" status="passed">
+      <name>testGetSubtotalInclTaxNegative</name>
+    </test-case>
+    <test-case start="1729890297808" stop="1729890297812" status="passed">
+      <name>testGetBasePriceInclTaxWithoutQty</name>
+    </test-case>
+    <test-case start="1729890297812" stop="1729890297815" status="passed">
+      <name>testGetBasePriceInclTax</name>
+    </test-case>
+    <test-case start="1729890297815" stop="1729890297818" status="passed">
+      <name>testGetBaseSubtotalInclTax</name>
+    </test-case>
+    <test-case start="1729890297818" stop="1729890297821" status="passed">
+      <name>testIsAllowedGuestCheckoutWithoutStore</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

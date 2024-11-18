@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890360929" stop="1729890360947" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Helper\Shortcut\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890360930" stop="1729890360931" status="passed">
+      <name>testIsContextAvailable with data set #0</name>
+    </test-case>
+    <test-case start="1729890360931" stop="1729890360932" status="passed">
+      <name>testIsContextAvailable with data set #1</name>
+    </test-case>
+    <test-case start="1729890360933" stop="1729890360935" status="passed">
+      <name>testIsPriceOrSetAvailable with data set #0</name>
+    </test-case>
+    <test-case start="1729890360935" stop="1729890360937" status="passed">
+      <name>testIsPriceOrSetAvailable with data set #1</name>
+    </test-case>
+    <test-case start="1729890360938" stop="1729890360940" status="passed">
+      <name>testIsPriceOrSetAvailable with data set #2</name>
+    </test-case>
+    <test-case start="1729890360940" stop="1729890360942" status="passed">
+      <name>testIsPriceOrSetAvailable with data set #3</name>
+    </test-case>
+    <test-case start="1729890360942" stop="1729890360943" status="passed">
+      <name>testIsPriceOrSetAvailable with data set #4</name>
+    </test-case>
+    <test-case start="1729890360944" stop="1729890360945" status="passed">
+      <name>testIsMethodAvailable with data set #0</name>
+    </test-case>
+    <test-case start="1729890360945" stop="1729890360947" status="passed">
+      <name>testIsMethodAvailable with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

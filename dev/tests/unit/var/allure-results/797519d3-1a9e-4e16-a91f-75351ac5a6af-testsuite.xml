@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890279880" stop="1729890279901" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Model\Category\ChildrenCategoriesProviderTest</name>
+  <test-cases>
+    <test-case start="1729890279880" stop="1729890279890" status="passed">
+      <name>testGetChildrenRecursive</name>
+    </test-case>
+    <test-case start="1729890279891" stop="1729890279894" status="passed">
+      <name>testGetChildrenForNewCategory</name>
+    </test-case>
+    <test-case start="1729890279894" stop="1729890279901" status="passed">
+      <name>testGetChildren</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

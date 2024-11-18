@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375025" stop="1729890375033" version="1.4.0">
+  <name>Magento\Rss\Test\Unit\App\Action\Plugin\BackendAuthenticationTest</name>
+  <test-cases>
+    <test-case start="1729890375025" stop="1729890375033" status="passed">
+      <name>testAroundDispatch</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

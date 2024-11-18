@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890386763" stop="1729890386772" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Pdf\Total\FactoryTest</name>
+  <test-cases>
+    <test-case start="1729890386763" stop="1729890386766" status="passed">
+      <name>testCreate with data set "default model"</name>
+    </test-case>
+    <test-case start="1729890386767" stop="1729890386770" status="passed">
+      <name>testCreate with data set "custom model"</name>
+    </test-case>
+    <test-case start="1729890386771" stop="1729890386771" status="passed">
+      <name>testCreateException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

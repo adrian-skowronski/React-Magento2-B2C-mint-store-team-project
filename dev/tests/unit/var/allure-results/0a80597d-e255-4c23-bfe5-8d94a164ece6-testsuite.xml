@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361740" stop="1729890361772" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\InfoTest</name>
+  <test-cases>
+    <test-case start="1729890361740" stop="1729890361743" status="passed">
+      <name>testGetPaymentInfo with data set #0</name>
+    </test-case>
+    <test-case start="1729890361743" stop="1729890361746" status="passed">
+      <name>testGetPaymentInfo with data set #1</name>
+    </test-case>
+    <test-case start="1729890361747" stop="1729890361749" status="passed">
+      <name>testGetPaymentInfoLabelValues with data set #0</name>
+    </test-case>
+    <test-case start="1729890361750" stop="1729890361752" status="passed">
+      <name>testGetPaymentInfoLabelValues with data set #1</name>
+    </test-case>
+    <test-case start="1729890361753" stop="1729890361755" status="passed">
+      <name>testGetPublicPaymentInfo with data set #0</name>
+    </test-case>
+    <test-case start="1729890361755" stop="1729890361758" status="passed">
+      <name>testGetPublicPaymentInfo with data set #1</name>
+    </test-case>
+    <test-case start="1729890361758" stop="1729890361761" status="passed">
+      <name>testGetPublicPaymentInfoLabelValues with data set #0</name>
+    </test-case>
+    <test-case start="1729890361761" stop="1729890361763" status="passed">
+      <name>testGetPublicPaymentInfoLabelValues with data set #1</name>
+    </test-case>
+    <test-case start="1729890361764" stop="1729890361766" status="passed">
+      <name>testImportToPayment with data set #0</name>
+    </test-case>
+    <test-case start="1729890361767" stop="1729890361769" status="passed">
+      <name>testExportFromPayment with data set #0</name>
+    </test-case>
+    <test-case start="1729890361770" stop="1729890361772" status="passed">
+      <name>testExportFromPaymentCustomMapping with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890429745" stop="1729890429769" version="1.4.0">
+  <name>Magento\Framework\Cache\Test\Unit\Frontend\Decorator\TagScopeTest</name>
+  <test-cases>
+    <test-case start="1729890429747" stop="1729890429749" status="passed">
+      <name>testGetTag</name>
+    </test-case>
+    <test-case start="1729890429749" stop="1729890429751" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890429751" stop="1729890429753" status="passed">
+      <name>testCleanModeAll</name>
+    </test-case>
+    <test-case start="1729890429754" stop="1729890429757" status="passed">
+      <name>testCleanModeMatchingTag</name>
+    </test-case>
+    <test-case start="1729890429759" stop="1729890429760" status="passed">
+      <name>testCleanModeMatchingAnyTag with data set "failure, failure"</name>
+    </test-case>
+    <test-case start="1729890429762" stop="1729890429764" status="passed">
+      <name>testCleanModeMatchingAnyTag with data set "failure, success"</name>
+    </test-case>
+    <test-case start="1729890429767" stop="1729890429767" status="passed">
+      <name>testCleanModeMatchingAnyTag with data set "success, failure"</name>
+    </test-case>
+    <test-case start="1729890429768" stop="1729890429769" status="passed">
+      <name>testCleanModeMatchingAnyTag with data set "success, success"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

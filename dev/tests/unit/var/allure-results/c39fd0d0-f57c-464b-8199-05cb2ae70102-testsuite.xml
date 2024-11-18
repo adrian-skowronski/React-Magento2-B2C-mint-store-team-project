@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352528" stop="1729890352534" version="1.4.0">
+  <name>Magento\Marketplace\Test\Unit\Model\PartnersTest</name>
+  <test-cases>
+    <test-case start="1729890352529" stop="1729890352532" status="passed">
+      <name>testGetPartners</name>
+    </test-case>
+    <test-case start="1729890352532" stop="1729890352534" status="passed">
+      <name>testGetPartnersException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

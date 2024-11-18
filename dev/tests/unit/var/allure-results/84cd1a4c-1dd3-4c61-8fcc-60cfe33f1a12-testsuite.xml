@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463665" stop="1729890463670" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Helper\PathPatternTest</name>
+  <test-cases>
+    <test-case start="1729890463666" stop="1729890463666" status="passed">
+      <name>testTranslatePatternFromGlob with data set #0</name>
+    </test-case>
+    <test-case start="1729890463667" stop="1729890463667" status="passed">
+      <name>testTranslatePatternFromGlob with data set #1</name>
+    </test-case>
+    <test-case start="1729890463668" stop="1729890463668" status="passed">
+      <name>testTranslatePatternFromGlob with data set #2</name>
+    </test-case>
+    <test-case start="1729890463669" stop="1729890463669" status="passed">
+      <name>testTranslatePatternFromGlob with data set #3</name>
+    </test-case>
+    <test-case start="1729890463670" stop="1729890463670" status="passed">
+      <name>testTranslatePatternFromGlob with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

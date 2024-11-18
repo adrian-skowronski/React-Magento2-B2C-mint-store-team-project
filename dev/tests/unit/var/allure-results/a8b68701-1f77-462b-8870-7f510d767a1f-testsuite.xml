@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890465498" stop="1729890465503" version="1.4.0">
+  <name>Magento\Framework\Webapi\Test\Unit\Validator\EntityArrayValidator\InputArraySizeLimitValueTest</name>
+  <test-cases>
+    <test-case start="1729890465499" stop="1729890465499" status="passed">
+      <name>testIfValueNotNull</name>
+    </test-case>
+    <test-case start="1729890465500" stop="1729890465501" status="passed">
+      <name>testIfValueNullAndRequestIsAsync</name>
+    </test-case>
+    <test-case start="1729890465501" stop="1729890465502" status="passed">
+      <name>testIfValueNullAndRequestIsSync</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

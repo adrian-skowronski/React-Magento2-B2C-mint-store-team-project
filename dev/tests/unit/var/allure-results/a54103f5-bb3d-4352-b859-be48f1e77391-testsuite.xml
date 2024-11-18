@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890362279" stop="1729890362324" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Payflow\TransparentTest</name>
+  <test-cases>
+    <test-case start="1729890362280" stop="1729890362294" status="passed">
+      <name>testCaptureCorrectId with data set "No Transaction ID"</name>
+    </test-case>
+    <test-case start="1729890362294" stop="1729890362305" status="passed">
+      <name>testCaptureCorrectId with data set "With Transaction ID"</name>
+    </test-case>
+    <test-case start="1729890362306" stop="1729890362323" status="passed">
+      <name>testValidAuthorizeRequest with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

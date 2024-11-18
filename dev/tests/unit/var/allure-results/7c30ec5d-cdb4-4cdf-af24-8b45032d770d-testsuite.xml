@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890299872" stop="1729890299892" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Controller\Adminhtml\Wysiwyg\DirectiveTest</name>
+  <test-cases>
+    <test-case start="1729890299872" stop="1729890299884" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890299884" stop="1729890299888" status="passed">
+      <name>testExecuteException</name>
+    </test-case>
+    <test-case start="1729890299888" stop="1729890299892" status="passed">
+      <name>testExecuteWithDeletedImage</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

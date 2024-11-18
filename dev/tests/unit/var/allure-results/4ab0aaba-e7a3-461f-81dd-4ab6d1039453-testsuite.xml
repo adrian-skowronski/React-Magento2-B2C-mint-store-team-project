@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301486" stop="1729890301510" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Block\System\Config\Form\FieldTest</name>
+  <test-cases>
+    <test-case start="1729890301486" stop="1729890301490" status="passed">
+      <name>testRenderHtmlIdLabelInputElementName</name>
+    </test-case>
+    <test-case start="1729890301490" stop="1729890301494" status="passed">
+      <name>testRenderValueWithCommentBlock</name>
+    </test-case>
+    <test-case start="1729890301494" stop="1729890301499" status="passed">
+      <name>testRenderValueWithTooltipBlock</name>
+    </test-case>
+    <test-case start="1729890301499" stop="1729890301502" status="passed">
+      <name>testRenderHint</name>
+    </test-case>
+    <test-case start="1729890301502" stop="1729890301505" status="passed">
+      <name>testRenderScopeLabel</name>
+    </test-case>
+    <test-case start="1729890301505" stop="1729890301510" status="passed">
+      <name>testRenderInheritCheckbox</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

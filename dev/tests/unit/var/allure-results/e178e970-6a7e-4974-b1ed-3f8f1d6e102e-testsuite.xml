@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890400495" stop="1729890400540" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Model\TaxConfigProviderTest</name>
+  <test-cases>
+    <test-case start="1729890400496" stop="1729890400508" status="passed">
+      <name>testGetConfig with data set #0</name>
+    </test-case>
+    <test-case start="1729890400509" stop="1729890400516" status="passed">
+      <name>testGetConfig with data set #1</name>
+    </test-case>
+    <test-case start="1729890400517" stop="1729890400521" status="passed">
+      <name>testGetConfig with data set #2</name>
+    </test-case>
+    <test-case start="1729890400522" stop="1729890400526" status="passed">
+      <name>testGetConfig with data set #3</name>
+    </test-case>
+    <test-case start="1729890400526" stop="1729890400530" status="passed">
+      <name>testGetConfig with data set #4</name>
+    </test-case>
+    <test-case start="1729890400531" stop="1729890400535" status="passed">
+      <name>testGetConfig with data set #5</name>
+    </test-case>
+    <test-case start="1729890400535" stop="1729890400540" status="passed">
+      <name>testGetConfig with data set "zeroRegionToNull"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

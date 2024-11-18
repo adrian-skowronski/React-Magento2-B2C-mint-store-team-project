@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890457962" stop="1729890457965" version="1.4.0">
+  <name>Magento\Framework\Shell\Test\Unit\CommandRendererBackgroundTest</name>
+  <test-cases>
+    <test-case start="1729890457962" stop="1729890457964" status="passed">
+      <name>testRender with data set "windows"</name>
+    </test-case>
+    <test-case start="1729890457964" stop="1729890457965" status="passed">
+      <name>testRender with data set "unix"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890440094" stop="1729890440097" version="1.4.0">
+  <name>Magento\Framework\Code\Test\Unit\Model\File\Validator\NotProtectedExtensionTest</name>
+  <test-cases>
+    <test-case start="1729890440094" stop="1729890440095" status="passed">
+      <name>testGetProtectedFileExtensions</name>
+    </test-case>
+    <test-case start="1729890440095" stop="1729890440096" status="passed">
+      <name>testInitialization</name>
+    </test-case>
+    <test-case start="1729890440096" stop="1729890440097" status="passed">
+      <name>testIsValid</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

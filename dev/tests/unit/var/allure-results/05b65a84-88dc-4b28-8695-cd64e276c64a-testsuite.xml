@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353928" stop="1729890353941" version="1.4.0">
+  <name>Magento\Multishipping\Test\Unit\Model\Cart\MultishippingClearItemAddressTest</name>
+  <test-cases>
+    <test-case start="1729890353929" stop="1729890353934" status="passed">
+      <name>testClearAddressItem with data set "test with `add` action and multi shipping address enabled"</name>
+    </test-case>
+    <test-case start="1729890353935" stop="1729890353937" status="passed">
+      <name>testClearAddressItem with data set "test with `add` action and multi shipping address disabled"</name>
+    </test-case>
+    <test-case start="1729890353938" stop="1729890353941" status="passed">
+      <name>testClearAddressItem with data set "test with `edit` action and multi shipping address disabled"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

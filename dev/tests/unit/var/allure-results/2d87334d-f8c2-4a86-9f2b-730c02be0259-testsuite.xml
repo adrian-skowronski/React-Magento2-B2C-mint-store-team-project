@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890331966" stop="1729890331973" version="1.4.0">
+  <name>Magento\ImportExport\Test\Unit\Model\ExportTest</name>
+  <test-cases>
+    <test-case start="1729890331966" stop="1729890331970" status="passed">
+      <name>testExportDoesntTrimResult</name>
+    </test-case>
+    <test-case start="1729890331971" stop="1729890331972" status="passed">
+      <name>testGetFileNameWithAdapterFileName</name>
+    </test-case>
+    <test-case start="1729890331972" stop="1729890331973" status="passed">
+      <name>testGetFileNameWithoutAdapterFileName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

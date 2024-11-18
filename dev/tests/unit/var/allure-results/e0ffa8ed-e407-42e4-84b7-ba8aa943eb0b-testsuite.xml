@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890420682" stop="1729890420698" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\FlagTest</name>
+  <test-cases>
+    <test-case start="1729890420682" stop="1729890420685" status="passed">
+      <name>testConstruct</name>
+    </test-case>
+    <test-case start="1729890420685" stop="1729890420687" status="passed">
+      <name>testGetFlagDataJson</name>
+    </test-case>
+    <test-case start="1729890420687" stop="1729890420688" status="passed">
+      <name>testGetFlagDataSerialized</name>
+    </test-case>
+    <test-case start="1729890420689" stop="1729890420690" status="passed">
+      <name>testSetFlagData</name>
+    </test-case>
+    <test-case start="1729890420690" stop="1729890420692" status="passed">
+      <name>testLoadSelf</name>
+    </test-case>
+    <test-case start="1729890420692" stop="1729890420693" status="passed">
+      <name>testLoadSelfException</name>
+    </test-case>
+    <test-case start="1729890420694" stop="1729890420696" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+    <test-case start="1729890420696" stop="1729890420698" status="passed">
+      <name>testBeforeSaveException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

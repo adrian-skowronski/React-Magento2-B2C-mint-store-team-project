@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890273928" stop="1729890274001" version="1.4.0">
+  <name>Magento\CatalogInventoryGraphQl\Test\Unit\Model\Resolver\OnlyXLeftInStockResolverTest</name>
+  <test-cases>
+    <test-case start="1729890273929" stop="1729890273966" status="passed">
+      <name>testResolve</name>
+    </test-case>
+    <test-case start="1729890273968" stop="1729890273980" status="passed">
+      <name>testResolveOutStock</name>
+    </test-case>
+    <test-case start="1729890273980" stop="1729890273996" status="passed">
+      <name>testResolveNoThresholdQty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

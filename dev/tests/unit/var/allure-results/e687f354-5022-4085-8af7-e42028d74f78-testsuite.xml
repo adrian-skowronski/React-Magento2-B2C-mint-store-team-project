@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325353" stop="1729890325362" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\Attribute\GroupTest</name>
+  <test-cases>
+    <test-case start="1729890325353" stop="1729890325357" status="passed">
+      <name>testBeforeSaveGeneratesGroupCodeBasedOnGroupName with data set #0</name>
+    </test-case>
+    <test-case start="1729890325358" stop="1729890325359" status="passed">
+      <name>testBeforeSaveGeneratesGroupCodeBasedOnGroupName with data set #1</name>
+    </test-case>
+    <test-case start="1729890325359" stop="1729890325360" status="passed">
+      <name>testBeforeSaveGeneratesGroupCodeBasedOnGroupName with data set #2</name>
+    </test-case>
+    <test-case start="1729890325361" stop="1729890325362" status="passed">
+      <name>testBeforeSaveGeneratesGroupCodeBasedOnGroupName with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

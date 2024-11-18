@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890385690" stop="1729890385729" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Payment\Transaction\RepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890385690" stop="1729890385698" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890385698" stop="1729890385701" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890385702" stop="1729890385704" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890385704" stop="1729890385706" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890385707" stop="1729890385708" status="passed">
+      <name>testGetException</name>
+    </test-case>
+    <test-case start="1729890385708" stop="1729890385711" status="passed">
+      <name>testGetNoSuchEntity</name>
+    </test-case>
+    <test-case start="1729890385712" stop="1729890385714" status="passed">
+      <name>testGetExistInStorage</name>
+    </test-case>
+    <test-case start="1729890385714" stop="1729890385716" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890385717" stop="1729890385720" status="passed">
+      <name>testGetByTransactionId</name>
+    </test-case>
+    <test-case start="1729890385721" stop="1729890385723" status="passed">
+      <name>testGetByTransactionIdNotFound</name>
+    </test-case>
+    <test-case start="1729890385723" stop="1729890385725" status="passed">
+      <name>testGetByTransactionIdFromStorage</name>
+    </test-case>
+    <test-case start="1729890385725" stop="1729890385728" status="passed">
+      <name>testGetByTransactionType</name>
+    </test-case>
+    <test-case start="1729890385728" stop="1729890385729" status="passed">
+      <name>testGetByTransactionTypeFromCache</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462414" stop="1729890462430" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Design\Theme\CustomizationTest</name>
+  <test-cases>
+    <test-case start="1729890462415" stop="1729890462416" status="passed">
+      <name>testGetFiles</name>
+    </test-case>
+    <test-case start="1729890462417" stop="1729890462418" status="passed">
+      <name>testGetFilesByType</name>
+    </test-case>
+    <test-case start="1729890462418" stop="1729890462419" status="passed">
+      <name>testGenerationOfFileInfo</name>
+    </test-case>
+    <test-case start="1729890462419" stop="1729890462420" status="passed">
+      <name>testGetCustomizationPath</name>
+    </test-case>
+    <test-case start="1729890462421" stop="1729890462422" status="passed">
+      <name>testGetThemeFilesPath with data set "physical"</name>
+    </test-case>
+    <test-case start="1729890462422" stop="1729890462423" status="passed">
+      <name>testGetThemeFilesPath with data set "virtual"</name>
+    </test-case>
+    <test-case start="1729890462424" stop="1729890462425" status="passed">
+      <name>testGetThemeFilesPath with data set "staging"</name>
+    </test-case>
+    <test-case start="1729890462425" stop="1729890462426" status="passed">
+      <name>testGetCustomViewConfigPath</name>
+    </test-case>
+    <test-case start="1729890462427" stop="1729890462429" status="passed">
+      <name>testReorder with data set #0</name>
+    </test-case>
+    <test-case start="1729890462429" stop="1729890462430" status="passed">
+      <name>testDelete</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

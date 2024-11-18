@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461567" stop="1729890461578" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\MergeStrategy\ChecksumTest</name>
+  <test-cases>
+    <test-case start="1729890461568" stop="1729890461570" status="passed">
+      <name>testMergeNoAssets</name>
+    </test-case>
+    <test-case start="1729890461570" stop="1729890461573" status="passed">
+      <name>testMergeNoDatFile</name>
+    </test-case>
+    <test-case start="1729890461573" stop="1729890461576" status="passed">
+      <name>testMergeMtimeChanged</name>
+    </test-case>
+    <test-case start="1729890461577" stop="1729890461578" status="passed">
+      <name>testMergeMtimeUnchanged</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

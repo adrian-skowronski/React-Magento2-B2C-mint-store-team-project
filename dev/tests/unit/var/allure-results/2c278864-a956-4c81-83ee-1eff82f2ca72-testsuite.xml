@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890440925" stop="1729890440988" version="1.4.0">
+  <name>Magento\Framework\Config\Test\Unit\DomTest</name>
+  <test-cases>
+    <test-case start="1729890440926" stop="1729890440929" status="passed">
+      <name>testMerge with data set #0</name>
+    </test-case>
+    <test-case start="1729890440930" stop="1729890440932" status="passed">
+      <name>testMerge with data set #1</name>
+    </test-case>
+    <test-case start="1729890440933" stop="1729890440935" status="passed">
+      <name>testMerge with data set #2</name>
+    </test-case>
+    <test-case start="1729890440936" stop="1729890440938" status="passed">
+      <name>testMerge with data set #3</name>
+    </test-case>
+    <test-case start="1729890440938" stop="1729890440940" status="passed">
+      <name>testMerge with data set #4</name>
+    </test-case>
+    <test-case start="1729890440940" stop="1729890440942" status="passed">
+      <name>testMerge with data set #5</name>
+    </test-case>
+    <test-case start="1729890440942" stop="1729890440944" status="passed">
+      <name>testMerge with data set #6</name>
+    </test-case>
+    <test-case start="1729890440945" stop="1729890440947" status="passed">
+      <name>testMerge with data set "text node replaced with cdata"</name>
+    </test-case>
+    <test-case start="1729890440948" stop="1729890440950" status="passed">
+      <name>testMerge with data set "cdata"</name>
+    </test-case>
+    <test-case start="1729890440951" stop="1729890440952" status="passed">
+      <name>testMerge with data set "cdata with html"</name>
+    </test-case>
+    <test-case start="1729890440953" stop="1729890440955" status="passed">
+      <name>testMerge with data set "cdata replaced with text node"</name>
+    </test-case>
+    <test-case start="1729890440956" stop="1729890440957" status="passed">
+      <name>testMerge with data set "big cdata"</name>
+    </test-case>
+    <test-case start="1729890440958" stop="1729890440960" status="passed">
+      <name>testMerge with data set "big cdata with attribute"</name>
+    </test-case>
+    <test-case start="1729890440961" stop="1729890440963" status="passed">
+      <name>testMerge with data set "big cdata replaced with text"</name>
+    </test-case>
+    <test-case start="1729890440963" stop="1729890440967" status="passed">
+      <name>testMerge with data set #7</name>
+    </test-case>
+    <test-case start="1729890440968" stop="1729890440971" status="passed">
+      <name>testMerge with data set #8</name>
+    </test-case>
+    <test-case start="1729890440971" stop="1729890440974" status="passed">
+      <name>testMerge with data set #9</name>
+    </test-case>
+    <test-case start="1729890440975" stop="1729890440978" status="passed">
+      <name>testMerge with data set #10</name>
+    </test-case>
+    <test-case start="1729890440978" stop="1729890440979" status="passed">
+      <name>testMergeException</name>
+    </test-case>
+    <test-case start="1729890440980" stop="1729890440981" status="passed">
+      <name>testValidate with data set "valid"</name>
+    </test-case>
+    <test-case start="1729890440982" stop="1729890440983" status="passed">
+      <name>testValidate with data set "invalid"</name>
+    </test-case>
+    <test-case start="1729890440983" stop="1729890440984" status="passed">
+      <name>testValidateCustomErrorFormat</name>
+    </test-case>
+    <test-case start="1729890440984" stop="1729890440985" status="passed">
+      <name>testValidateCustomErrorFormatInvalid</name>
+    </test-case>
+    <test-case start="1729890440986" stop="1729890440987" status="passed">
+      <name>testValidateUnknownError</name>
+    </test-case>
+    <test-case start="1729890440987" stop="1729890440988" status="passed">
+      <name>testValidateDomDocumentThrowsException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

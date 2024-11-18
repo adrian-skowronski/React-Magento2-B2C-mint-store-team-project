@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890428561" stop="1729890428580" version="1.4.0">
+  <name>Magento\Framework\Autoload\Test\Unit\ClassLoaderWrapperTest</name>
+  <test-cases>
+    <test-case start="1729890428563" stop="1729890428570" status="passed">
+      <name>testAdd</name>
+    </test-case>
+    <test-case start="1729890428570" stop="1729890428571" status="passed">
+      <name>testAddPsr4</name>
+    </test-case>
+    <test-case start="1729890428571" stop="1729890428572" status="passed">
+      <name>testAddDefault</name>
+    </test-case>
+    <test-case start="1729890428573" stop="1729890428574" status="passed">
+      <name>testAddPsr4Default</name>
+    </test-case>
+    <test-case start="1729890428574" stop="1729890428576" status="passed">
+      <name>testSet</name>
+    </test-case>
+    <test-case start="1729890428576" stop="1729890428580" status="passed">
+      <name>testSetPsr4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

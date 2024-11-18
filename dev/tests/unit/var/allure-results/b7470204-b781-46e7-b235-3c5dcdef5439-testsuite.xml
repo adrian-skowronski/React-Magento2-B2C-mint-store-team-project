@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450226" stop="1729890450235" version="1.4.0">
+  <name>Magento\Framework\Image\Test\Unit\Adapter\AbstractTest</name>
+  <test-cases>
+    <test-case start="1729890450226" stop="1729890450229" status="passed">
+      <name>testAdaptResizeValues with data set #0</name>
+    </test-case>
+    <test-case start="1729890450229" stop="1729890450230" status="passed">
+      <name>testAdaptResizeValues with data set #1</name>
+    </test-case>
+    <test-case start="1729890450231" stop="1729890450232" status="passed">
+      <name>testPrepareDestination with data set #0</name>
+    </test-case>
+    <test-case start="1729890450232" stop="1729890450233" status="passed">
+      <name>testPrepareDestination with data set #1</name>
+    </test-case>
+    <test-case start="1729890450233" stop="1729890450234" status="passed">
+      <name>testPrepareDestination with data set #2</name>
+    </test-case>
+    <test-case start="1729890450234" stop="1729890450235" status="passed">
+      <name>testPrepareDestination with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

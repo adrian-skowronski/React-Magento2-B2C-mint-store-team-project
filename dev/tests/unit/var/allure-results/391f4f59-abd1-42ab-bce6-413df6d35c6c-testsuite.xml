@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890257420" stop="1729890257434" version="1.4.0">
+  <name>Magento\AdminAdobeIms\Test\Unit\Plugin\ReplaceVerifyIdentityWithImsPluginTest</name>
+  <test-cases>
+    <test-case start="1729890257421" stop="1729890257427" status="passed">
+      <name>testAroundVerifyIdentityCallsProceedWhenModuleIsDisabled</name>
+    </test-case>
+    <test-case start="1729890257428" stop="1729890257429" status="passed">
+      <name>testAroundVerifyIdentityVerifiesAccessTokenWhenModuleIsEnabled</name>
+    </test-case>
+    <test-case start="1729890257430" stop="1729890257432" status="passed">
+      <name>testAroundVerifyIdentityThrowsExceptionOnInvalidToken</name>
+    </test-case>
+    <test-case start="1729890257432" stop="1729890257434" status="passed">
+      <name>testAroundVerifyIdentityThrowsExceptionOnEmptyToken</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

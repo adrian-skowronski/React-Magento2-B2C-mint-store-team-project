@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890349066" stop="1729890349085" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Helper\Oauth\DataTest</name>
+  <test-cases>
+    <test-case start="1729890349067" stop="1729890349067" status="passed">
+      <name>testIsCleanupProbabilityZero</name>
+    </test-case>
+    <test-case start="1729890349069" stop="1729890349071" status="passed">
+      <name>testIsCleanupProbabilityRandomOne</name>
+    </test-case>
+    <test-case start="1729890349074" stop="1729890349074" status="passed">
+      <name>testGetCleanupExpirationPeriodZero</name>
+    </test-case>
+    <test-case start="1729890349075" stop="1729890349076" status="passed">
+      <name>testGetCleanupExpirationPeriodNonZero</name>
+    </test-case>
+    <test-case start="1729890349076" stop="1729890349077" status="passed">
+      <name>testConsumerPostMaxRedirectsZero</name>
+    </test-case>
+    <test-case start="1729890349078" stop="1729890349078" status="passed">
+      <name>testConsumerPostMaxRedirectsNonZero</name>
+    </test-case>
+    <test-case start="1729890349079" stop="1729890349079" status="passed">
+      <name>testGetConsumerPostTimeoutZero</name>
+    </test-case>
+    <test-case start="1729890349080" stop="1729890349080" status="passed">
+      <name>testGetConsumerPostTimeoutNonZero</name>
+    </test-case>
+    <test-case start="1729890349081" stop="1729890349081" status="passed">
+      <name>testGetCustomerTokenLifetimeNotEmpty</name>
+    </test-case>
+    <test-case start="1729890349082" stop="1729890349083" status="passed">
+      <name>testGetCustomerTokenLifetimeEmpty</name>
+    </test-case>
+    <test-case start="1729890349083" stop="1729890349085" status="passed">
+      <name>testGetAdminTokenLifetimeNotEmpty</name>
+    </test-case>
+    <test-case start="1729890349085" stop="1729890349085" status="passed">
+      <name>testGetAdminTokenLifetimeEmpty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

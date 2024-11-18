@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418268" stop="1729890418271" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\I18n\FilesCollectorTest</name>
+  <test-cases>
+    <test-case start="1729890418269" stop="1729890418270" status="passed">
+      <name>testGetFilesWithoutMask</name>
+    </test-case>
+    <test-case start="1729890418270" stop="1729890418271" status="passed">
+      <name>testGetFilesWithMask</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

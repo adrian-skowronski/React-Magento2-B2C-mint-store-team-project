@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890400891" stop="1729890400918" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Pricing\AdjustmentTest</name>
+  <test-cases>
+    <test-case start="1729890400891" stop="1729890400892" status="passed">
+      <name>testGetAdjustmentCode</name>
+    </test-case>
+    <test-case start="1729890400892" stop="1729890400893" status="passed">
+      <name>testIsIncludedInBasePrice with data set #0</name>
+    </test-case>
+    <test-case start="1729890400893" stop="1729890400894" status="passed">
+      <name>testIsIncludedInBasePrice with data set #1</name>
+    </test-case>
+    <test-case start="1729890400895" stop="1729890400896" status="passed">
+      <name>testIsIncludedInDisplayPrice with data set #0</name>
+    </test-case>
+    <test-case start="1729890400896" stop="1729890400898" status="passed">
+      <name>testIsIncludedInDisplayPrice with data set #1</name>
+    </test-case>
+    <test-case start="1729890400898" stop="1729890400899" status="passed">
+      <name>testIsIncludedInDisplayPrice with data set #2</name>
+    </test-case>
+    <test-case start="1729890400899" stop="1729890400900" status="passed">
+      <name>testIsIncludedInDisplayPrice with data set #3</name>
+    </test-case>
+    <test-case start="1729890400901" stop="1729890400902" status="passed">
+      <name>testExtractAdjustment with data set #0</name>
+    </test-case>
+    <test-case start="1729890400903" stop="1729890400904" status="passed">
+      <name>testExtractAdjustment with data set #1</name>
+    </test-case>
+    <test-case start="1729890400904" stop="1729890400906" status="failed">
+      <name>testExtractAdjustment with data set #2</name>
+      <failure>
+        <message>Failed asserting that -10.200000000000001 matches expected -10.2.</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(2350): PHPUnit\Framework\Constraint\IsEqual-&gt;evaluate()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/Assert.php(324): PHPUnit\Framework\Assert::assertThat()
+#2 /home/adrian-skowronski/www/mint/vendor/magento/module-tax/Test/Unit/Pricing/AdjustmentTest.php(120): PHPUnit\Framework\Assert::assertEquals()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Tax\Test\Unit\Pricing\AdjustmentTest-&gt;testExtractAdjustment()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#12 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#13 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#14 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#15 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890400907" stop="1729890400908" status="passed">
+      <name>testExtractAdjustment with data set #3</name>
+    </test-case>
+    <test-case start="1729890400909" stop="1729890400911" status="passed">
+      <name>testApplyAdjustment with data set #0</name>
+    </test-case>
+    <test-case start="1729890400911" stop="1729890400912" status="passed">
+      <name>testApplyAdjustment with data set #1</name>
+    </test-case>
+    <test-case start="1729890400913" stop="1729890400914" status="passed">
+      <name>testApplyAdjustment with data set #2</name>
+    </test-case>
+    <test-case start="1729890400915" stop="1729890400915" status="passed">
+      <name>testIsExcludedWith with data set #0</name>
+    </test-case>
+    <test-case start="1729890400916" stop="1729890400917" status="passed">
+      <name>testIsExcludedWith with data set #1</name>
+    </test-case>
+    <test-case start="1729890400917" stop="1729890400918" status="passed">
+      <name>testGetSortOrder</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

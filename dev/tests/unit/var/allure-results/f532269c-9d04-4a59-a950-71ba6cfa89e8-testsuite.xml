@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890348240" stop="1729890348270" version="1.4.0">
+  <name>Magento\InstantPurchase\Test\Unit\Block\ButtonTest</name>
+  <test-cases>
+    <test-case start="1729890348242" stop="1729890348262" status="passed">
+      <name>testIsEnabled with data set "Store With ID = 1 and enable module"</name>
+    </test-case>
+    <test-case start="1729890348262" stop="1729890348266" status="passed">
+      <name>testIsEnabled with data set "Store With ID = 1 and disable module"</name>
+    </test-case>
+    <test-case start="1729890348267" stop="1729890348270" status="passed">
+      <name>testGetJsLayout</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450614" stop="1729890450625" version="1.4.0">
+  <name>Magento\Framework\Indexer\Test\Unit\MultiDimensionProviderTest</name>
+  <test-cases>
+    <test-case start="1729890450614" stop="1729890450615" status="passed">
+      <name>testWithNoDataProviders</name>
+    </test-case>
+    <test-case start="1729890450615" stop="1729890450620" status="passed">
+      <name>testWithMultipleDataProviders</name>
+    </test-case>
+    <test-case start="1729890450620" stop="1729890450622" status="passed">
+      <name>testMultiDimensionProviderIsReIterable</name>
+    </test-case>
+    <test-case start="1729890450622" stop="1729890450623" status="passed">
+      <name>testMultiDimensionProviderWithEmptyDataProvider</name>
+    </test-case>
+    <test-case start="1729890450623" stop="1729890450625" status="passed">
+      <name>testMultiDimensionProviderWithMixedDataProvider</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

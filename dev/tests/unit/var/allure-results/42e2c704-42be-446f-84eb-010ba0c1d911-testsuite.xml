@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301199" stop="1729890301206" version="1.4.0">
+  <name>Magento\Config\Test\Unit\App\Config\Source\DumpConfigSourceAggregatedTest</name>
+  <test-cases>
+    <test-case start="1729890301200" stop="1729890301202" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890301202" stop="1729890301204" status="passed">
+      <name>testGetWithExcludeDefault</name>
+    </test-case>
+    <test-case start="1729890301204" stop="1729890301205" status="passed">
+      <name>testGetExcludedFields</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890324529" stop="1729890324536" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Attribute\Data\BooleanTest</name>
+  <test-cases>
+    <test-case start="1729890324530" stop="1729890324532" status="passed">
+      <name>testOutputValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890324533" stop="1729890324534" status="passed">
+      <name>testOutputValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890324535" stop="1729890324536" status="passed">
+      <name>testOutputValue with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

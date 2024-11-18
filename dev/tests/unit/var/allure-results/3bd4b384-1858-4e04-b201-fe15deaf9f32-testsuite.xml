@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285796" stop="1729890285820" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Config\CatalogClone\Media\ImageTest</name>
+  <test-cases>
+    <test-case start="1729890285797" stop="1729890285813" status="passed">
+      <name>testGetPrefixes with data set #0</name>
+    </test-case>
+    <test-case start="1729890285813" stop="1729890285819" status="passed">
+      <name>testGetPrefixes with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297308" stop="1729890297370" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Block\Onepage\SuccessTest</name>
+  <test-cases>
+    <test-case start="1729890297308" stop="1729890297312" status="passed">
+      <name>testGetAdditionalInfoHtml</name>
+    </test-case>
+    <test-case start="1729890297314" stop="1729890297356" status="passed">
+      <name>testToHtmlOrderVisibleOnFront with data set #0</name>
+    </test-case>
+    <test-case start="1729890297356" stop="1729890297367" status="passed">
+      <name>testToHtmlOrderVisibleOnFront with data set #1</name>
+    </test-case>
+    <test-case start="1729890297367" stop="1729890297370" status="passed">
+      <name>testGetContinueUrl</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

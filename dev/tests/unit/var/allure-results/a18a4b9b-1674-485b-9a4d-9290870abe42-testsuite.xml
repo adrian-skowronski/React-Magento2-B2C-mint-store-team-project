@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442110" stop="1729890442115" version="1.4.0">
+  <name>Magento\Framework\DB\Test\Unit\ExpressionConverterTest</name>
+  <test-cases>
+    <test-case start="1729890442110" stop="1729890442111" status="passed">
+      <name>testShortenEntityName with data set "Short identifier"</name>
+    </test-case>
+    <test-case start="1729890442111" stop="1729890442112" status="passed">
+      <name>testShortenEntityName with data set "Hashed identifer"</name>
+    </test-case>
+    <test-case start="1729890442112" stop="1729890442113" status="passed">
+      <name>testShortenEntityName with data set "Hashed identifer with long prefix"</name>
+    </test-case>
+    <test-case start="1729890442113" stop="1729890442114" status="passed">
+      <name>testShortenEntityName with data set "Abbreviated identifier"</name>
+    </test-case>
+    <test-case start="1729890442114" stop="1729890442115" status="passed">
+      <name>testShortenEntityNameReducedHash</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

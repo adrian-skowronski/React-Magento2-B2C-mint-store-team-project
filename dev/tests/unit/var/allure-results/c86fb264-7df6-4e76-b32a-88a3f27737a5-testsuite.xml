@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890259421" stop="1729890259431" version="1.4.0">
+  <name>Magento\AdobeStockClient\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890259422" stop="1729890259429" status="passed">
+      <name>testGetTargetEnvironment</name>
+    </test-case>
+    <test-case start="1729890259430" stop="1729890259430" status="passed">
+      <name>testGetProductName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

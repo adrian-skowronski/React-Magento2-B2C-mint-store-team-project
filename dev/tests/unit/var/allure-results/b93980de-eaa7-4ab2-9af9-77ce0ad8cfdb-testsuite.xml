@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890420743" stop="1729890420745" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\Message\PhraseFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890420743" stop="1729890420744" status="passed">
+      <name>testCreate with data set "positive case"</name>
+    </test-case>
+    <test-case start="1729890420745" stop="1729890420745" status="passed">
+      <name>testCreate with data set "broken messages"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

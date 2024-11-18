@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890371323" stop="1729890371339" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Observer\Frontend\Quote\Address\VatValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890371323" stop="1729890371326" status="passed">
+      <name>testValidateWithDisabledValidationOnEachTransaction</name>
+    </test-case>
+    <test-case start="1729890371326" stop="1729890371329" status="passed">
+      <name>testValidateWithEnabledValidationOnEachTransaction</name>
+    </test-case>
+    <test-case start="1729890371329" stop="1729890371332" status="passed">
+      <name>testValidateWithDifferentCountryIdAndValidatedCountryCode</name>
+    </test-case>
+    <test-case start="1729890371332" stop="1729890371335" status="passed">
+      <name>testValidateWithDifferentVatNumberAndValidatedVatNumber</name>
+    </test-case>
+    <test-case start="1729890371335" stop="1729890371337" status="passed">
+      <name>testIsEnabledWithBillingTaxCalculationAddressType</name>
+    </test-case>
+    <test-case start="1729890371337" stop="1729890371338" status="passed">
+      <name>testIsEnabledWithEnabledVatValidation</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890288097" stop="1729890288110" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Attribute\ManagementTest</name>
+  <test-cases>
+    <test-case start="1729890288098" stop="1729890288100" status="passed">
+      <name>testAssign</name>
+    </test-case>
+    <test-case start="1729890288101" stop="1729890288102" status="passed">
+      <name>testUnassign</name>
+    </test-case>
+    <test-case start="1729890288102" stop="1729890288110" status="passed">
+      <name>testGetAttributes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

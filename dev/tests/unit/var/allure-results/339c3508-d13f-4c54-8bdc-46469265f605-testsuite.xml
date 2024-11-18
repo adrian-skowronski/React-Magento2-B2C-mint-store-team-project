@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890286478" stop="1729890286506" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Category\Product\Plugin\MviewStateTest</name>
+  <test-cases>
+    <test-case start="1729890286478" stop="1729890286482" status="passed">
+      <name>testAfterSetStatusSuspend with data set #0</name>
+    </test-case>
+    <test-case start="1729890286483" stop="1729890286485" status="passed">
+      <name>testAfterSetStatusSuspend with data set #1</name>
+    </test-case>
+    <test-case start="1729890286485" stop="1729890286487" status="passed">
+      <name>testAfterSetStatusResume with data set #0</name>
+    </test-case>
+    <test-case start="1729890286487" stop="1729890286489" status="passed">
+      <name>testAfterSetStatusResume with data set #1</name>
+    </test-case>
+    <test-case start="1729890286490" stop="1729890286491" status="passed">
+      <name>testAfterSetStatusSkip with data set #0</name>
+    </test-case>
+    <test-case start="1729890286491" stop="1729890286493" status="passed">
+      <name>testAfterSetStatusSkip with data set #1</name>
+    </test-case>
+    <test-case start="1729890286493" stop="1729890286495" status="passed">
+      <name>testAfterSetStatusSkip with data set #2</name>
+    </test-case>
+    <test-case start="1729890286496" stop="1729890286497" status="passed">
+      <name>testAfterSetStatusSkip with data set #3</name>
+    </test-case>
+    <test-case start="1729890286498" stop="1729890286500" status="passed">
+      <name>testAfterSetStatusSkip with data set #4</name>
+    </test-case>
+    <test-case start="1729890286500" stop="1729890286502" status="passed">
+      <name>testAfterSetStatusDisabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890286502" stop="1729890286504" status="passed">
+      <name>testAfterSetStatusDisabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890286504" stop="1729890286506" status="passed">
+      <name>testAfterSetStatusDisabled with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

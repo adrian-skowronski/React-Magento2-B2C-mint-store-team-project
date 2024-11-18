@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441343" stop="1729890441364" version="1.4.0">
+  <name>Magento\Framework\Console\Test\Unit\QuestionPerformer\YesNoTest</name>
+  <test-cases>
+    <test-case start="1729890441343" stop="1729890441345" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890441345" stop="1729890441346" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890441347" stop="1729890441348" status="passed">
+      <name>testExecute with data set #2</name>
+    </test-case>
+    <test-case start="1729890441349" stop="1729890441350" status="passed">
+      <name>testExecute with data set #3</name>
+    </test-case>
+    <test-case start="1729890441351" stop="1729890441352" status="passed">
+      <name>testExecute with data set #4</name>
+    </test-case>
+    <test-case start="1729890441352" stop="1729890441353" status="passed">
+      <name>testExecute with data set #5</name>
+    </test-case>
+    <test-case start="1729890441354" stop="1729890441356" status="passed">
+      <name>testExecute with data set #6</name>
+    </test-case>
+    <test-case start="1729890441356" stop="1729890441357" status="passed">
+      <name>testExecute with data set #7</name>
+    </test-case>
+    <test-case start="1729890441358" stop="1729890441359" status="passed">
+      <name>testExecute with data set #8</name>
+    </test-case>
+    <test-case start="1729890441360" stop="1729890441361" status="passed">
+      <name>testExecute with data set #9</name>
+    </test-case>
+    <test-case start="1729890441362" stop="1729890441363" status="passed">
+      <name>testExecute with data set #10</name>
+    </test-case>
+    <test-case start="1729890441363" stop="1729890441364" status="passed">
+      <name>testExecute with data set #11</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

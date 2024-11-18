@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890389501" stop="1729890389509" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\ResourceModel\Order\Plugin\AuthorizationTest</name>
+  <test-cases>
+    <test-case start="1729890389502" stop="1729890389506" status="passed">
+      <name>testAfterLoad</name>
+    </test-case>
+    <test-case start="1729890389506" stop="1729890389508" status="passed">
+      <name>testAfterLoadWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

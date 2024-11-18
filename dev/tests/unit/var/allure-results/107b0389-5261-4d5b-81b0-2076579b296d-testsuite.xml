@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890275410" stop="1729890275442" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\Plugin\ProductLinksTest</name>
+  <test-cases>
+    <test-case start="1729890275411" stop="1729890275440" status="passed">
+      <name>testAfterGetProductCollectionShow with data set #0</name>
+    </test-case>
+    <test-case start="1729890275441" stop="1729890275442" status="passed">
+      <name>testAfterGetProductCollectionShow with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

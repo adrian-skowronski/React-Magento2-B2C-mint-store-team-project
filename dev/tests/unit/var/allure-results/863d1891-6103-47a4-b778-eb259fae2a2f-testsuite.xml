@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890258437" stop="1729890258482" version="1.4.0">
+  <name>Magento\AdobeIms\Test\Unit\Model\UserProfileRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890258440" stop="1729890258452" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890258452" stop="1729890258469" status="passed">
+      <name>testSaveWithException</name>
+    </test-case>
+    <test-case start="1729890258470" stop="1729890258476" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890258477" stop="1729890258479" status="passed">
+      <name>testGeWithException</name>
+    </test-case>
+    <test-case start="1729890258479" stop="1729890258481" status="passed">
+      <name>testGetByUserId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

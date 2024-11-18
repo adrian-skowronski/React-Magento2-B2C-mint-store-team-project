@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319391" stop="1729890319419" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Package\LocaleResolverTest</name>
+  <test-cases>
+    <test-case start="1729890319391" stop="1729890319408" status="passed">
+      <name>testGetUsedPackageLocalesNoDb</name>
+    </test-case>
+    <test-case start="1729890319408" stop="1729890319409" status="passed">
+      <name>testGetUsedPackageLocalesNoDbWithDeployment</name>
+    </test-case>
+    <test-case start="1729890319410" stop="1729890319411" status="passed">
+      <name>testGetUsedPackageLocalesIllegalLocale</name>
+    </test-case>
+    <test-case start="1729890319411" stop="1729890319413" status="passed">
+      <name>testGetUsedPackageLocalesFrontend</name>
+    </test-case>
+    <test-case start="1729890319413" stop="1729890319416" status="passed">
+      <name>testGetUsedPackageLocalesAdmin</name>
+    </test-case>
+    <test-case start="1729890319416" stop="1729890319419" status="passed">
+      <name>testGetUsedPackageLocalesDefault</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

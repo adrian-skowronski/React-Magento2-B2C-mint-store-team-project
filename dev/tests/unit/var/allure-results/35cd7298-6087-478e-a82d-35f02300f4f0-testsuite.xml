@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890278009" stop="1729890278043" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Model\Rule\Condition\ProductTest</name>
+  <test-cases>
+    <test-case start="1729890278010" stop="1729890278023" status="passed">
+      <name>testValidateMeetsCategory</name>
+    </test-case>
+    <test-case start="1729890278024" stop="1729890278028" status="passed">
+      <name>testValidateWithDatetimeValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890278029" stop="1729890278035" status="passed">
+      <name>testValidateWithDatetimeValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890278036" stop="1729890278040" status="passed">
+      <name>testValidateWithDatetimeValue with data set #2</name>
+    </test-case>
+    <test-case start="1729890278040" stop="1729890278043" status="passed">
+      <name>testValidateWithNoValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890359074" stop="1729890359081" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Model\CcConfigProviderTest</name>
+  <test-cases>
+    <test-case start="1729890359075" stop="1729890359081" status="passed">
+      <name>testGetConfig</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

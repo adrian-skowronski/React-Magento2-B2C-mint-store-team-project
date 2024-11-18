@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353419" stop="1729890353426" version="1.4.0">
+  <name>Magento\Msrp\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890353419" stop="1729890353425" status="passed">
+      <name>testIsMinimalPriceLessMsrp</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

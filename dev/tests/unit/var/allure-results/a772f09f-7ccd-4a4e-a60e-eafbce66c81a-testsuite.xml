@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890457638" stop="1729890457641" version="1.4.0">
+  <name>Magento\Framework\Setup\Test\Unit\Declaration\Schema\ShardingTest</name>
+  <test-cases>
+    <test-case start="1729890457639" stop="1729890457639" status="passed">
+      <name>testCanUseResource</name>
+    </test-case>
+    <test-case start="1729890457640" stop="1729890457641" status="passed">
+      <name>testGetResources</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

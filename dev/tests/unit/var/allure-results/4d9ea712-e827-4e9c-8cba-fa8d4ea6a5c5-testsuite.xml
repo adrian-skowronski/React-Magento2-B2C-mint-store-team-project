@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890300954" stop="1729890301024" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Model\Wysiwyg\Images\StorageTest</name>
+  <test-cases>
+    <test-case start="1729890300954" stop="1729890300974" status="passed">
+      <name>testGetResizeWidth</name>
+    </test-case>
+    <test-case start="1729890300974" stop="1729890300977" status="passed">
+      <name>testGetResizeHeight</name>
+    </test-case>
+    <test-case start="1729890300977" stop="1729890300980" status="passed">
+      <name>testDeleteDirectoryOverRoot</name>
+    </test-case>
+    <test-case start="1729890300980" stop="1729890300983" status="passed">
+      <name>testDeleteRootDirectory</name>
+    </test-case>
+    <test-case start="1729890300983" stop="1729890300990" status="passed">
+      <name>testGetDirsCollectionCreateSubDirectories</name>
+    </test-case>
+    <test-case start="1729890300991" stop="1729890300994" status="passed">
+      <name>testGetDirsCollection with data set #0</name>
+    </test-case>
+    <test-case start="1729890300995" stop="1729890300999" status="passed">
+      <name>testGetDirsCollection with data set #1</name>
+    </test-case>
+    <test-case start="1729890300999" stop="1729890301002" status="passed">
+      <name>testGetDirsCollection with data set #2</name>
+    </test-case>
+    <test-case start="1729890301002" stop="1729890301005" status="passed">
+      <name>testGetDirsCollection with data set #3</name>
+    </test-case>
+    <test-case start="1729890301006" stop="1729890301008" status="passed">
+      <name>testGetDirsCollection with data set #4</name>
+    </test-case>
+    <test-case start="1729890301009" stop="1729890301012" status="passed">
+      <name>testGetDirsCollection with data set #5</name>
+    </test-case>
+    <test-case start="1729890301013" stop="1729890301016" status="passed">
+      <name>testGetDirsCollection with data set #6</name>
+    </test-case>
+    <test-case start="1729890301017" stop="1729890301021" status="passed">
+      <name>testUploadFile</name>
+    </test-case>
+    <test-case start="1729890301021" stop="1729890301023" status="passed">
+      <name>testCreateDirectoryWithInvalidName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890401776" stop="1729890401786" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Controller\Result\JsFooterPluginTest</name>
+  <test-cases>
+    <test-case start="1729890401777" stop="1729890401780" status="passed">
+      <name>testAfterRenderResult with data set "content_with_script_tag"</name>
+    </test-case>
+    <test-case start="1729890401780" stop="1729890401782" status="passed">
+      <name>testAfterRenderResult with data set "content_with_config_disable"</name>
+    </test-case>
+    <test-case start="1729890401782" stop="1729890401784" status="passed">
+      <name>testAfterRenderResult with data set "content_without_script_tag"</name>
+    </test-case>
+    <test-case start="1729890401784" stop="1729890401786" status="passed">
+      <name>testAfterRenderResultIfGetContentIsNotAString with data set "null"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

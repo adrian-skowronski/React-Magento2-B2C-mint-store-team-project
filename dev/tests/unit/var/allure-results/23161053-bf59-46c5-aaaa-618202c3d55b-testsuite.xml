@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890440212" stop="1729890440225" version="1.4.0">
+  <name>Magento\Framework\Code\Test\Unit\Validator\ConstructorIntegrityTest</name>
+  <test-cases>
+    <test-case start="1729890440212" stop="1729890440213" status="passed">
+      <name>testValidateIfParentClassExist</name>
+    </test-case>
+    <test-case start="1729890440213" stop="1729890440215" status="passed">
+      <name>testValidateIfClassHasParentConstructCall</name>
+    </test-case>
+    <test-case start="1729890440215" stop="1729890440217" status="passed">
+      <name>testValidateIfClassHasArgumentsQtyEqualToParentClass</name>
+    </test-case>
+    <test-case start="1729890440217" stop="1729890440219" status="passed">
+      <name>testValidateIfClassHasExtraArgumentInTheParentConstructor</name>
+    </test-case>
+    <test-case start="1729890440219" stop="1729890440221" status="passed">
+      <name>testValidateIfClassHasMissingRequiredArguments</name>
+    </test-case>
+    <test-case start="1729890440221" stop="1729890440223" status="passed">
+      <name>testValidateIfClassHasIncompatibleArguments</name>
+    </test-case>
+    <test-case start="1729890440223" stop="1729890440224" status="passed">
+      <name>testValidateWrongOrderForParentArguments</name>
+    </test-case>
+    <test-case start="1729890440224" stop="1729890440225" status="passed">
+      <name>testValidateWrongOptionalParamsType</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

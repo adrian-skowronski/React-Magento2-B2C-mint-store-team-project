@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890407495" stop="1729890407566" version="1.4.0">
+  <name>Magento\Variable\Test\Unit\Model\VariableTest</name>
+  <test-cases>
+    <test-case start="1729890407495" stop="1729890407511" status="passed">
+      <name>testGetValueHtml</name>
+    </test-case>
+    <test-case start="1729890407512" stop="1729890407513" status="passed">
+      <name>testGetValueEmptyHtml</name>
+    </test-case>
+    <test-case start="1729890407514" stop="1729890407515" status="passed">
+      <name>testGetValueText</name>
+    </test-case>
+    <test-case start="1729890407516" stop="1729890407520" status="passed">
+      <name>testValidateMissingInfo with data set "Missing code"</name>
+    </test-case>
+    <test-case start="1729890407521" stop="1729890407523" status="passed">
+      <name>testValidateMissingInfo with data set "Missing name"</name>
+    </test-case>
+    <test-case start="1729890407524" stop="1729890407526" status="passed">
+      <name>testValidate with data set "Empty Variable"</name>
+    </test-case>
+    <test-case start="1729890407526" stop="1729890407528" status="passed">
+      <name>testValidate with data set "IDs match"</name>
+    </test-case>
+    <test-case start="1729890407529" stop="1729890407532" status="passed">
+      <name>testValidate with data set "IDs do not match"</name>
+    </test-case>
+    <test-case start="1729890407532" stop="1729890407537" status="passed">
+      <name>testGetVariablesOptionArrayNoGroup</name>
+    </test-case>
+    <test-case start="1729890407538" stop="1729890407544" status="passed">
+      <name>testGetVariablesOptionArrayWithGroup</name>
+    </test-case>
+    <test-case start="1729890407548" stop="1729890407556" status="passed">
+      <name>testBeforeSave with data set "changed-html-value-without-exception"</name>
+    </test-case>
+    <test-case start="1729890407557" stop="1729890407559" status="passed">
+      <name>testBeforeSave with data set "changed-html-value-with-exception"</name>
+    </test-case>
+    <test-case start="1729890407561" stop="1729890407563" status="passed">
+      <name>testBeforeSave with data set "no-changed-html-value-without-exception"</name>
+    </test-case>
+    <test-case start="1729890407564" stop="1729890407565" status="passed">
+      <name>testBeforeSave with data set "no-html-value-with-exception"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

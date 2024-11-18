@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890359247" stop="1729890359251" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Model\Checks\ZeroTotalTest</name>
+  <test-cases>
+    <test-case start="1729890359248" stop="1729890359249" status="passed">
+      <name>testIsApplicable with data set #0</name>
+    </test-case>
+    <test-case start="1729890359250" stop="1729890359251" status="passed">
+      <name>testIsApplicable with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

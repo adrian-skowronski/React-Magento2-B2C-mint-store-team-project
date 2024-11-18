@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301262" stop="1729890301277" version="1.4.0">
+  <name>Magento\Config\Test\Unit\App\Config\Source\RuntimeConfigSourceTest</name>
+  <test-cases>
+    <test-case start="1729890301262" stop="1729890301266" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890301266" stop="1729890301267" status="passed">
+      <name>testGetWhenDbIsNotAvailable</name>
+    </test-case>
+    <test-case start="1729890301268" stop="1729890301270" status="passed">
+      <name>testGetWhenDbIsEmpty</name>
+    </test-case>
+    <test-case start="1729890301271" stop="1729890301272" status="passed">
+      <name>testGetConfigValue with data set "config value 0"</name>
+    </test-case>
+    <test-case start="1729890301273" stop="1729890301274" status="passed">
+      <name>testGetConfigValue with data set "config value blank"</name>
+    </test-case>
+    <test-case start="1729890301275" stop="1729890301276" status="passed">
+      <name>testGetConfigValue with data set "config value null"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890386854" stop="1729890386878" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Shipment\CommentRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890386854" stop="1729890386873" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890386873" stop="1729890386875" status="passed">
+      <name>testSaveWithException</name>
+    </test-case>
+    <test-case start="1729890386875" stop="1729890386878" status="passed">
+      <name>testSaveSendCatchException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

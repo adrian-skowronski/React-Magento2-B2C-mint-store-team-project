@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285249" stop="1729890285272" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Category\DataProviderTest</name>
+  <test-cases>
+    <test-case start="1729890285249" stop="1729890285256" status="passed">
+      <name>testGetDataNoCategory</name>
+    </test-case>
+    <test-case start="1729890285256" stop="1729890285262" status="passed">
+      <name>testGetDataNoFileExists</name>
+    </test-case>
+    <test-case start="1729890285262" stop="1729890285268" status="passed">
+      <name>testGetData</name>
+    </test-case>
+    <test-case start="1729890285269" stop="1729890285272" status="passed">
+      <name>testGetMetaWithoutParentInheritanceResolving</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

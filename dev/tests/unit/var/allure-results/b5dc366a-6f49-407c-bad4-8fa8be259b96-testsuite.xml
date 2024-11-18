@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325855" stop="1729890325858" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\TypeTest</name>
+  <test-cases>
+    <test-case start="1729890325856" stop="1729890325858" status="passed">
+      <name>testFetchNewIncrementIdRollsBackTransactionAndRethrowsExceptionIfProgramFlowIsInterrupted</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

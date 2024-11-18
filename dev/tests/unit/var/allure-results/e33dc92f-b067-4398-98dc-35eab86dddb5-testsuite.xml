@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890455213" stop="1729890455255" version="1.4.0">
+  <name>Magento\Framework\Pricing\Test\Unit\Render\AmountTest</name>
+  <test-cases>
+    <test-case start="1729890455214" stop="1729890455216" status="passed">
+      <name>testFormatCurrency</name>
+    </test-case>
+    <test-case start="1729890455217" stop="1729890455219" status="passed">
+      <name>testGetDisplayCurrencySymbol</name>
+    </test-case>
+    <test-case start="1729890455219" stop="1729890455224" status="passed">
+      <name>testToHtmlSkipAdjustments with data set #0</name>
+    </test-case>
+    <test-case start="1729890455224" stop="1729890455227" status="passed">
+      <name>testToHtmlSkipAdjustments with data set #1</name>
+    </test-case>
+    <test-case start="1729890455228" stop="1729890455232" status="passed">
+      <name>testToHtmlSkipAdjustments with data set #2</name>
+    </test-case>
+    <test-case start="1729890455232" stop="1729890455235" status="passed">
+      <name>testToHtmlSkipAdjustments with data set #3</name>
+    </test-case>
+    <test-case start="1729890455236" stop="1729890455240" status="passed">
+      <name>testToHtmlGetAdjustmentRenders</name>
+    </test-case>
+    <test-case start="1729890455240" stop="1729890455242" status="passed">
+      <name>testGetDisplayValueExiting</name>
+    </test-case>
+    <test-case start="1729890455243" stop="1729890455244" status="passed">
+      <name>testGetDisplayValue</name>
+    </test-case>
+    <test-case start="1729890455245" stop="1729890455247" status="passed">
+      <name>testGetAmount</name>
+    </test-case>
+    <test-case start="1729890455247" stop="1729890455249" status="passed">
+      <name>testGetSealableItem</name>
+    </test-case>
+    <test-case start="1729890455249" stop="1729890455251" status="passed">
+      <name>testGetPrice</name>
+    </test-case>
+    <test-case start="1729890455251" stop="1729890455255" status="passed">
+      <name>testAdjustmentsHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

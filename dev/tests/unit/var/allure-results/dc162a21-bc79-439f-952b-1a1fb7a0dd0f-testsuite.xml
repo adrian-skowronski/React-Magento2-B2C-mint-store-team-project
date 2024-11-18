@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890331199" stop="1729890331221" version="1.4.0">
+  <name>Magento\GroupedProduct\Test\Unit\Model\Product\Type\Grouped\PriceTest</name>
+  <test-cases>
+    <test-case start="1729890331199" stop="1729890331202" status="passed">
+      <name>testGetFinalPriceIfQtyIsNullAndFinalPriceExist</name>
+    </test-case>
+    <test-case start="1729890331203" stop="1729890331212" status="passed">
+      <name>testGetFinalPrice with data set "custom_option_null"</name>
+    </test-case>
+    <test-case start="1729890331213" stop="1729890331221" status="passed">
+      <name>testGetFinalPrice with data set "custom_option_exist"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

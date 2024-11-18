@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456242" stop="1729890456252" version="1.4.0">
+  <name>Magento\Framework\Search\Test\Unit\Request\CleanerTest</name>
+  <test-cases>
+    <test-case start="1729890456242" stop="1729890456243" status="passed">
+      <name>testClean</name>
+    </test-case>
+    <test-case start="1729890456243" stop="1729890456244" status="passed">
+      <name>testCleanWithoutAggregations</name>
+    </test-case>
+    <test-case start="1729890456244" stop="1729890456245" status="passed">
+      <name>testCleanFilteredQueryType</name>
+    </test-case>
+    <test-case start="1729890456245" stop="1729890456246" status="passed">
+      <name>testCleanQueryType</name>
+    </test-case>
+    <test-case start="1729890456246" stop="1729890456247" status="passed">
+      <name>testCleanFilterType</name>
+    </test-case>
+    <test-case start="1729890456247" stop="1729890456248" status="passed">
+      <name>testCleanQueryCycle</name>
+    </test-case>
+    <test-case start="1729890456248" stop="1729890456248" status="passed">
+      <name>testCleanFilterCycle</name>
+    </test-case>
+    <test-case start="1729890456249" stop="1729890456249" status="passed">
+      <name>testCleanFilterNotFound</name>
+    </test-case>
+    <test-case start="1729890456250" stop="1729890456250" status="passed">
+      <name>testCleanQueryNotExists</name>
+    </test-case>
+    <test-case start="1729890456250" stop="1729890456252" status="passed">
+      <name>testCleanEmptyQueryAndFilter</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

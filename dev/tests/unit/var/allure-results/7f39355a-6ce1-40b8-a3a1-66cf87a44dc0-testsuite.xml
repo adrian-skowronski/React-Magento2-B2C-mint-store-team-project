@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890420828" stop="1729890420834" version="1.4.0">
+  <name>Magento\Framework\Test\Unit\RegistryTest</name>
+  <test-cases>
+    <test-case start="1729890420829" stop="1729890420829" status="passed">
+      <name>testRegistry</name>
+    </test-case>
+    <test-case start="1729890420829" stop="1729890420830" status="passed">
+      <name>testRegister</name>
+    </test-case>
+    <test-case start="1729890420830" stop="1729890420830" status="passed">
+      <name>testRegisterKeyExists</name>
+    </test-case>
+    <test-case start="1729890420831" stop="1729890420834" status="passed">
+      <name>testUnregister</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

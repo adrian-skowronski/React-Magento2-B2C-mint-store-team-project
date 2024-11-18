@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890429355" stop="1729890429414" version="1.4.0">
+  <name>Magento\Framework\Cache\Test\Unit\Backend\RemoteSynchronizedCacheTest</name>
+  <test-cases>
+    <test-case start="1729890429356" stop="1729890429376" status="passed">
+      <name>testInitializeWithException with data set "empty_backend_option"</name>
+    </test-case>
+    <test-case start="1729890429378" stop="1729890429381" status="passed">
+      <name>testInitializeWithException with data set "empty_remote_backend_option"</name>
+    </test-case>
+    <test-case start="1729890429382" stop="1729890429384" status="passed">
+      <name>testInitializeWithException with data set "empty_local_backend_option"</name>
+    </test-case>
+    <test-case start="1729890429386" stop="1729890429390" status="passed">
+      <name>testInitializeWithOutException with data set "not_empty_backend_option"</name>
+    </test-case>
+    <test-case start="1729890429390" stop="1729890429393" status="passed">
+      <name>testLoad</name>
+    </test-case>
+    <test-case start="1729890429395" stop="1729890429396" status="passed">
+      <name>testLoadWithNoLocalAndNoRemoteData</name>
+    </test-case>
+    <test-case start="1729890429397" stop="1729890429398" status="passed">
+      <name>testLoadWithNoLocalAndWithRemoteData</name>
+    </test-case>
+    <test-case start="1729890429399" stop="1729890429400" status="passed">
+      <name>testLoadWithEqualLocalAndRemoteData</name>
+    </test-case>
+    <test-case start="1729890429401" stop="1729890429402" status="passed">
+      <name>testLoadWithStaleCache</name>
+    </test-case>
+    <test-case start="1729890429402" stop="1729890429404" status="passed">
+      <name>testLoadWithoutStaleCache</name>
+    </test-case>
+    <test-case start="1729890429404" stop="1729890429406" status="passed">
+      <name>testRemove</name>
+    </test-case>
+    <test-case start="1729890429406" stop="1729890429408" status="passed">
+      <name>testClean</name>
+    </test-case>
+    <test-case start="1729890429408" stop="1729890429410" status="passed">
+      <name>testSaveWithEqualRemoteData</name>
+    </test-case>
+    <test-case start="1729890429411" stop="1729890429412" status="passed">
+      <name>testSaveWithMismatchedRemoteData</name>
+    </test-case>
+    <test-case start="1729890429413" stop="1729890429414" status="passed">
+      <name>testSaveWithoutRemoteData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

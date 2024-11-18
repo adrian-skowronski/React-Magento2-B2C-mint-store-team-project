@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890289913" stop="1729890289933" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Option\Validator\FileTest</name>
+  <test-cases>
+    <test-case start="1729890289914" stop="1729890289921" status="passed">
+      <name>testIsValidSuccess</name>
+    </test-case>
+    <test-case start="1729890289922" stop="1729890289927" status="passed">
+      <name>testIsValidWithNegativeImageSize</name>
+    </test-case>
+    <test-case start="1729890289928" stop="1729890289933" status="passed">
+      <name>testIsValidWithNegativeImageSizeY</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

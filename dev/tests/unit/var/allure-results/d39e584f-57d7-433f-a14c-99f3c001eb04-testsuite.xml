@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319240" stop="1729890319241" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Model\DeploymentConfig\Hash\GeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890319240" stop="1729890319241" status="passed">
+      <name>testGenerate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

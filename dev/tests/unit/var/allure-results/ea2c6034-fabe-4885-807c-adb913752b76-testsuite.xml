@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890318658" stop="1729890318671" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Setup\RecurringDataTest</name>
+  <test-cases>
+    <test-case start="1729890318659" stop="1729890318664" status="passed">
+      <name>testInstall with data set #0</name>
+    </test-case>
+    <test-case start="1729890318665" stop="1729890318666" status="passed">
+      <name>testInstall with data set #1</name>
+    </test-case>
+    <test-case start="1729890318667" stop="1729890318668" status="passed">
+      <name>testInstall with data set #2</name>
+    </test-case>
+    <test-case start="1729890318669" stop="1729890318671" status="passed">
+      <name>testInstall with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

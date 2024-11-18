@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280586" stop="1729890280608" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Observer\AfterImportDataObserverTest</name>
+  <test-cases>
+    <test-case start="1729890280586" stop="1729890280596" status="passed">
+      <name>testAfterImportData</name>
+    </test-case>
+    <test-case start="1729890280596" stop="1729890280599" status="passed">
+      <name>testCanonicalUrlRewriteGenerateWithUrlPath</name>
+    </test-case>
+    <test-case start="1729890280600" stop="1729890280602" status="passed">
+      <name>testCanonicalUrlRewriteGenerateWithEmptyUrlPath</name>
+    </test-case>
+    <test-case start="1729890280602" stop="1729890280607" status="passed">
+      <name>testCategoriesUrlRewriteGenerate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

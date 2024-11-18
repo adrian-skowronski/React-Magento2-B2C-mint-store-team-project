@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890445988" stop="1729890446010" version="1.4.0">
+  <name>Magento\Framework\DataObject\Test\Unit\CopyTest</name>
+  <test-cases>
+    <test-case start="1729890445988" stop="1729890445990" status="passed">
+      <name>testCopyFieldsetToTargetWhenFieldsetInputInvalid</name>
+    </test-case>
+    <test-case start="1729890445990" stop="1729890445991" status="passed">
+      <name>testCopyFieldsetToTargetWhenFieldIsNotExists</name>
+    </test-case>
+    <test-case start="1729890445991" stop="1729890445993" status="passed">
+      <name>testCopyFieldsetToTargetWhenFieldExists</name>
+    </test-case>
+    <test-case start="1729890445993" stop="1729890445994" status="passed">
+      <name>testCopyFieldsetToTargetWhenTargetNotArray</name>
+    </test-case>
+    <test-case start="1729890445995" stop="1729890445997" status="passed">
+      <name>testGetCopyFieldsetToTargetWhenTargetIsArray</name>
+    </test-case>
+    <test-case start="1729890445997" stop="1729890445999" status="passed">
+      <name>testGetCopyFieldsetToTargetWhenTargetIsExtensibleDataInterface</name>
+    </test-case>
+    <test-case start="1729890445999" stop="1729890446000" status="passed">
+      <name>testGetCopyFieldsetToTargetWhenTargetIsAbstractSimpleObject</name>
+    </test-case>
+    <test-case start="1729890446001" stop="1729890446002" status="passed">
+      <name>testGetDataFromFieldsetWhenSourceIsInvalid</name>
+    </test-case>
+    <test-case start="1729890446002" stop="1729890446003" status="passed">
+      <name>testGetDataFromFieldsetWhenFieldsetDoesNotExist</name>
+    </test-case>
+    <test-case start="1729890446003" stop="1729890446004" status="passed">
+      <name>testGetDataFromFieldsetWhenFieldExists</name>
+    </test-case>
+    <test-case start="1729890446004" stop="1729890446005" status="passed">
+      <name>testGetDataFromFieldsetWhenFieldDoesNotExists</name>
+    </test-case>
+    <test-case start="1729890446006" stop="1729890446008" status="passed">
+      <name>testGetExtensionAttributeForDataObjectChild</name>
+    </test-case>
+    <test-case start="1729890446008" stop="1729890446010" status="passed">
+      <name>testGetDataObjectFieldFromExtensibleEntity</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

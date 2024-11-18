@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890300479" stop="1729890300559" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Model\PageRepository\Validator\LayoutUpdateValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890300480" stop="1729890300483" status="passed">
+      <name>testValidate with data set #0</name>
+    </test-case>
+    <test-case start="1729890300483" stop="1729890300485" status="passed">
+      <name>testValidate with data set #1</name>
+    </test-case>
+    <test-case start="1729890300485" stop="1729890300487" status="passed">
+      <name>testValidate with data set #2</name>
+    </test-case>
+    <test-case start="1729890300487" stop="1729890300488" status="passed">
+      <name>testValidate with data set #3</name>
+    </test-case>
+    <test-case start="1729890300489" stop="1729890300490" status="passed">
+      <name>testValidate with data set #4</name>
+    </test-case>
+    <test-case start="1729890300490" stop="1729890300493" status="passed">
+      <name>testValidate with data set #5</name>
+    </test-case>
+    <test-case start="1729890300495" stop="1729890300497" status="passed">
+      <name>testValidate with data set #6</name>
+    </test-case>
+    <test-case start="1729890300498" stop="1729890300501" status="passed">
+      <name>testValidate with data set #7</name>
+    </test-case>
+    <test-case start="1729890300502" stop="1729890300504" status="passed">
+      <name>testValidate with data set #8</name>
+    </test-case>
+    <test-case start="1729890300504" stop="1729890300506" status="passed">
+      <name>testValidate with data set #9</name>
+    </test-case>
+    <test-case start="1729890300507" stop="1729890300508" status="passed">
+      <name>testValidate with data set #10</name>
+    </test-case>
+    <test-case start="1729890300509" stop="1729890300511" status="passed">
+      <name>testValidate with data set #11</name>
+    </test-case>
+    <test-case start="1729890300511" stop="1729890300515" status="passed">
+      <name>testValidate with data set #12</name>
+    </test-case>
+    <test-case start="1729890300516" stop="1729890300519" status="passed">
+      <name>testValidate with data set #13</name>
+    </test-case>
+    <test-case start="1729890300519" stop="1729890300522" status="passed">
+      <name>testValidate with data set #14</name>
+    </test-case>
+    <test-case start="1729890300522" stop="1729890300525" status="passed">
+      <name>testValidate with data set #15</name>
+    </test-case>
+    <test-case start="1729890300525" stop="1729890300527" status="passed">
+      <name>testValidate with data set #16</name>
+    </test-case>
+    <test-case start="1729890300528" stop="1729890300533" status="passed">
+      <name>testValidate with data set #17</name>
+    </test-case>
+    <test-case start="1729890300533" stop="1729890300535" status="passed">
+      <name>testValidate with data set #18</name>
+    </test-case>
+    <test-case start="1729890300536" stop="1729890300538" status="passed">
+      <name>testValidate with data set #19</name>
+    </test-case>
+    <test-case start="1729890300538" stop="1729890300540" status="passed">
+      <name>testValidate with data set #20</name>
+    </test-case>
+    <test-case start="1729890300541" stop="1729890300543" status="passed">
+      <name>testValidate with data set #21</name>
+    </test-case>
+    <test-case start="1729890300544" stop="1729890300547" status="passed">
+      <name>testValidate with data set #22</name>
+    </test-case>
+    <test-case start="1729890300547" stop="1729890300552" status="passed">
+      <name>testValidate with data set #23</name>
+    </test-case>
+    <test-case start="1729890300552" stop="1729890300554" status="passed">
+      <name>testValidate with data set #24</name>
+    </test-case>
+    <test-case start="1729890300555" stop="1729890300558" status="passed">
+      <name>testValidate with data set #25</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

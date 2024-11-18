@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890323584" stop="1729890323606" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Model\File\ContentValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890323584" stop="1729890323587" status="passed">
+      <name>testIsValid</name>
+    </test-case>
+    <test-case start="1729890323587" stop="1729890323588" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedContentIsNotBase64Encoded</name>
+    </test-case>
+    <test-case start="1729890323588" stop="1729890323589" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #0</name>
+    </test-case>
+    <test-case start="1729890323589" stop="1729890323590" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #1</name>
+    </test-case>
+    <test-case start="1729890323590" stop="1729890323591" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #2</name>
+    </test-case>
+    <test-case start="1729890323592" stop="1729890323593" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #3</name>
+    </test-case>
+    <test-case start="1729890323593" stop="1729890323594" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #4</name>
+    </test-case>
+    <test-case start="1729890323595" stop="1729890323595" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #5</name>
+    </test-case>
+    <test-case start="1729890323596" stop="1729890323597" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #6</name>
+    </test-case>
+    <test-case start="1729890323597" stop="1729890323598" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #7</name>
+    </test-case>
+    <test-case start="1729890323599" stop="1729890323600" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #8</name>
+    </test-case>
+    <test-case start="1729890323600" stop="1729890323601" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #9</name>
+    </test-case>
+    <test-case start="1729890323601" stop="1729890323602" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #10</name>
+    </test-case>
+    <test-case start="1729890323602" stop="1729890323603" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #11</name>
+    </test-case>
+    <test-case start="1729890323604" stop="1729890323604" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #12</name>
+    </test-case>
+    <test-case start="1729890323605" stop="1729890323606" status="passed">
+      <name>testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters with data set #13</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

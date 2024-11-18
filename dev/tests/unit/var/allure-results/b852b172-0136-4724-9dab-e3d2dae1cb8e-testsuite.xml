@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890397990" stop="1729890398014" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Block\Checkout\Shipping\PriceTest</name>
+  <test-cases>
+    <test-case start="1729890397990" stop="1729890398002" status="passed">
+      <name>testGetShippingPriceExclTax</name>
+    </test-case>
+    <test-case start="1729890398003" stop="1729890398007" status="passed">
+      <name>testGetShippingPriceInclTax</name>
+    </test-case>
+    <test-case start="1729890398007" stop="1729890398010" status="passed">
+      <name>testDisplayShippingPriceInclTax</name>
+    </test-case>
+    <test-case start="1729890398011" stop="1729890398014" status="passed">
+      <name>testDisplayShippingBothPrices</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

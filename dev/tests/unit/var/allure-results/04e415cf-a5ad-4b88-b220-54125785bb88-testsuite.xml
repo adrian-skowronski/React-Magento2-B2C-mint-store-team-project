@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448668" stop="1729890448784" version="1.4.0">
+  <name>Magento\Framework\File\Test\Unit\MimeTest</name>
+  <test-cases>
+    <test-case start="1729890448669" stop="1729890448679" status="passed">
+      <name>testGetMimeTypeNonexistentFileException</name>
+    </test-case>
+    <test-case start="1729890448680" stop="1729890448739" status="passed">
+      <name>testGetMimeType with data set "javascript"</name>
+    </test-case>
+    <test-case start="1729890448740" stop="1729890448743" status="passed">
+      <name>testGetMimeType with data set "weird extension"</name>
+    </test-case>
+    <test-case start="1729890448744" stop="1729890448749" status="passed">
+      <name>testGetMimeType with data set "weird uppercase extension"</name>
+    </test-case>
+    <test-case start="1729890448749" stop="1729890448752" status="passed">
+      <name>testGetMimeType with data set "generic mime type"</name>
+    </test-case>
+    <test-case start="1729890448753" stop="1729890448764" status="passed">
+      <name>testGetMimeType with data set "tmp file mime type"</name>
+    </test-case>
+    <test-case start="1729890448765" stop="1729890448768" status="passed">
+      <name>testGetMimeTypeRemote with data set "javascript"</name>
+    </test-case>
+    <test-case start="1729890448769" stop="1729890448773" status="passed">
+      <name>testGetMimeTypeRemote with data set "weird extension"</name>
+    </test-case>
+    <test-case start="1729890448774" stop="1729890448777" status="passed">
+      <name>testGetMimeTypeRemote with data set "weird uppercase extension"</name>
+    </test-case>
+    <test-case start="1729890448778" stop="1729890448782" status="passed">
+      <name>testGetMimeTypeRemote with data set "generic mime type"</name>
+    </test-case>
+    <test-case start="1729890448782" stop="1729890448784" status="passed">
+      <name>testGetMimeTypeRemote with data set "tmp file mime type"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

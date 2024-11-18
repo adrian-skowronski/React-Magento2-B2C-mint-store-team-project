@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890267076" stop="1729890267120" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Model\MenuTest</name>
+  <test-cases>
+    <test-case start="1729890267076" stop="1729890267078" status="passed">
+      <name>testAdd</name>
+    </test-case>
+    <test-case start="1729890267078" stop="1729890267079" status="passed">
+      <name>testAddDoLogAddAction</name>
+    </test-case>
+    <test-case start="1729890267080" stop="1729890267081" status="passed">
+      <name>testAddToItem</name>
+    </test-case>
+    <test-case start="1729890267082" stop="1729890267083" status="passed">
+      <name>testAddWithSortIndexThatAlreadyExistsAddsItemOnNextAvailableIndex</name>
+    </test-case>
+    <test-case start="1729890267084" stop="1729890267085" status="passed">
+      <name>testAddSortsItemsByTheirSortIndex</name>
+    </test-case>
+    <test-case start="1729890267085" stop="1729890267087" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890267087" stop="1729890267089" status="passed">
+      <name>testGetRecursive</name>
+    </test-case>
+    <test-case start="1729890267090" stop="1729890267092" status="passed">
+      <name>testMove</name>
+    </test-case>
+    <test-case start="1729890267092" stop="1729890267093" status="passed">
+      <name>testMoveNonExistentItemThrowsException</name>
+    </test-case>
+    <test-case start="1729890267094" stop="1729890267095" status="passed">
+      <name>testMoveToNonExistentItemThrowsException</name>
+    </test-case>
+    <test-case start="1729890267095" stop="1729890267097" status="passed">
+      <name>testRemoveRemovesMenuItem</name>
+    </test-case>
+    <test-case start="1729890267097" stop="1729890267099" status="passed">
+      <name>testRemoveRemovesMenuItemRecursively</name>
+    </test-case>
+    <test-case start="1729890267099" stop="1729890267101" status="passed">
+      <name>testRemoveDoLogRemoveAction</name>
+    </test-case>
+    <test-case start="1729890267101" stop="1729890267103" status="passed">
+      <name>testReorderReordersItemOnTopLevel</name>
+    </test-case>
+    <test-case start="1729890267103" stop="1729890267105" status="passed">
+      <name>testReorderReordersItemOnItsLevel</name>
+    </test-case>
+    <test-case start="1729890267105" stop="1729890267107" status="passed">
+      <name>testIsLast</name>
+    </test-case>
+    <test-case start="1729890267107" stop="1729890267109" status="passed">
+      <name>testGetFirstAvailableReturnsLeafNode</name>
+    </test-case>
+    <test-case start="1729890267109" stop="1729890267111" status="passed">
+      <name>testGetFirstAvailableReturnsOnlyAllowedAndNotDisabledItem</name>
+    </test-case>
+    <test-case start="1729890267111" stop="1729890267113" status="passed">
+      <name>testMultipleIterationsWorkProperly</name>
+    </test-case>
+    <test-case start="1729890267113" stop="1729890267115" status="passed">
+      <name>testNestedLoop</name>
+    </test-case>
+    <test-case start="1729890267115" stop="1729890267118" status="passed">
+      <name>testSerialize</name>
+    </test-case>
+    <test-case start="1729890267118" stop="1729890267119" status="passed">
+      <name>testUnserialize</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

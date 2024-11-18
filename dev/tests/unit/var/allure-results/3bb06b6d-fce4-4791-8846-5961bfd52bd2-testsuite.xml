@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890298835" stop="1729890298851" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Plugin\ResetQuoteAddressesTest</name>
+  <test-cases>
+    <test-case start="1729890298835" stop="1729890298838" status="passed">
+      <name>testRemovingTheAddressesFromNonEmptyQuote</name>
+    </test-case>
+    <test-case start="1729890298838" stop="1729890298840" status="passed">
+      <name>testClearingAddressesSuccessfullyFromEmptyQuoteWithAddress with data set "Test case with a virtual quote and no shipping assignments"</name>
+    </test-case>
+    <test-case start="1729890298840" stop="1729890298842" status="passed">
+      <name>testClearingAddressesSuccessfullyFromEmptyQuoteWithAddress with data set "Test case with a virtual quote and with shipping assignments"</name>
+    </test-case>
+    <test-case start="1729890298842" stop="1729890298843" status="passed">
+      <name>testClearingAddressesSuccessfullyFromEmptyQuoteWithAddress with data set "Test case with none virtual quote and with shipping assignments"</name>
+    </test-case>
+    <test-case start="1729890298844" stop="1729890298845" status="passed">
+      <name>testClearingTheAddressesFromEmptyQuote with data set "Test case with virtual quote"</name>
+    </test-case>
+    <test-case start="1729890298846" stop="1729890298847" status="passed">
+      <name>testClearingTheAddressesFromEmptyQuote with data set "Test case with a non virtual quote without extension attributes"</name>
+    </test-case>
+    <test-case start="1729890298847" stop="1729890298851" status="passed">
+      <name>testClearingTheAddressesFromEmptyQuote with data set "Test case with a non virtual quote with shipping assignments"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

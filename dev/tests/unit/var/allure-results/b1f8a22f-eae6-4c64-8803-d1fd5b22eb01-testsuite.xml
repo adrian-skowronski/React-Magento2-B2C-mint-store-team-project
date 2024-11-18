@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890427688" stop="1729890427716" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\View\Deployment\Version\Storage\FileTest</name>
+  <test-cases>
+    <test-case start="1729890427689" stop="1729890427707" status="passed">
+      <name>testLoad</name>
+    </test-case>
+    <test-case start="1729890427708" stop="1729890427715" status="passed">
+      <name>testSave</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

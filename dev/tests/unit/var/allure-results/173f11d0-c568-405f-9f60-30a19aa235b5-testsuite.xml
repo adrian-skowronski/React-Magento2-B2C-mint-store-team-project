@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319101" stop="1729890319105" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Console\Command\App\SensitiveConfigSetCommandTest</name>
+  <test-cases>
+    <test-case start="1729890319101" stop="1729890319102" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890319103" stop="1729890319104" status="passed">
+      <name>testExecuteNeedsRegeneration</name>
+    </test-case>
+    <test-case start="1729890319104" stop="1729890319105" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

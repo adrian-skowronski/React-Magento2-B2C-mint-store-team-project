@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890457875" stop="1729890457876" version="1.4.0">
+  <name>Magento\Framework\Setup\Test\Unit\Patch\PatchFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890457875" stop="1729890457876" status="passed">
+      <name>testCreateNonPatchInterface</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

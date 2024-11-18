@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890458759" stop="1729890458781" version="1.4.0">
+  <name>Magento\Framework\Stdlib\Test\Unit\DateTime\Filter\DateTimeTest</name>
+  <test-cases>
+    <test-case start="1729890458760" stop="1729890458764" status="passed">
+      <name>testFilter with data set #0</name>
+    </test-case>
+    <test-case start="1729890458764" stop="1729890458765" status="passed">
+      <name>testFilter with data set #1</name>
+    </test-case>
+    <test-case start="1729890458766" stop="1729890458771" status="passed">
+      <name>testFilter with data set #2</name>
+    </test-case>
+    <test-case start="1729890458773" stop="1729890458775" status="passed">
+      <name>testFilter with data set #3</name>
+    </test-case>
+    <test-case start="1729890458777" stop="1729890458779" status="passed">
+      <name>testFilterWithException with data set #0</name>
+    </test-case>
+    <test-case start="1729890458780" stop="1729890458781" status="passed">
+      <name>testFilterWithException with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

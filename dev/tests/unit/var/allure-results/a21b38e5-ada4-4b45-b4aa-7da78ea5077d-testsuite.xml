@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890391779" stop="1729890391784" version="1.4.0">
+  <name>Magento\Search\Test\Unit\Model\QueryResultTest</name>
+  <test-cases>
+    <test-case start="1729890391779" stop="1729890391780" status="passed">
+      <name>testGetProperties with data set #0</name>
+    </test-case>
+    <test-case start="1729890391780" stop="1729890391781" status="passed">
+      <name>testGetProperties with data set #1</name>
+    </test-case>
+    <test-case start="1729890391781" stop="1729890391782" status="passed">
+      <name>testGetProperties with data set #2</name>
+    </test-case>
+    <test-case start="1729890391782" stop="1729890391783" status="passed">
+      <name>testGetProperties with data set #3</name>
+    </test-case>
+    <test-case start="1729890391783" stop="1729890391784" status="passed">
+      <name>testGetProperties with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

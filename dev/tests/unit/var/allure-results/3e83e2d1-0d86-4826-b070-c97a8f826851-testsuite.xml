@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890320833" stop="1729890320849" version="1.4.0">
+  <name>Magento\Developer\Test\Unit\Model\XmlCatalog\Format\VsCodeTest</name>
+  <test-cases>
+    <test-case start="1729890320835" stop="1729890320840" status="passed">
+      <name>testGenerateNewValidCatalog with data set #0</name>
+    </test-case>
+    <test-case start="1729890320841" stop="1729890320844" status="passed">
+      <name>testGenerateExistingValidCatalog with data set #0</name>
+    </test-case>
+    <test-case start="1729890320845" stop="1729890320847" status="passed">
+      <name>testGenerateExistingEmptyValidCatalog with data set #0</name>
+    </test-case>
+    <test-case start="1729890320847" stop="1729890320849" status="passed">
+      <name>testGenerateExistingInvalidValidCatalog with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

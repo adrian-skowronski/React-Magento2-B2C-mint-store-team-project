@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890379293" stop="1729890379322" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Controller\Adminhtml\Order\Invoice\SaveTest</name>
+  <test-cases>
+    <test-case start="1729890379293" stop="1729890379299" status="passed">
+      <name>testExecuteNotValidPost</name>
+    </test-case>
+    <test-case start="1729890379299" stop="1729890379301" status="passed">
+      <name>testExecuteEmailsDataProvider</name>
+    </test-case>
+    <test-case start="1729890379302" stop="1729890379307" status="passed">
+      <name>testExecuteEmails with data set #0</name>
+    </test-case>
+    <test-case start="1729890379308" stop="1729890379312" status="passed">
+      <name>testExecuteEmails with data set #1</name>
+    </test-case>
+    <test-case start="1729890379313" stop="1729890379317" status="passed">
+      <name>testExecuteEmails with data set #2</name>
+    </test-case>
+    <test-case start="1729890379318" stop="1729890379322" status="passed">
+      <name>testExecuteEmails with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

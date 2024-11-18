@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301167" stop="1729890301174" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\ViewModel\Page\Grid\UrlBuilderTest</name>
+  <test-cases>
+    <test-case start="1729890301168" stop="1729890301170" status="passed">
+      <name>testUrlBuilderWithNoScope with data set #0</name>
+    </test-case>
+    <test-case start="1729890301170" stop="1729890301172" status="passed">
+      <name>testScopedUrlBuilder with data set #0</name>
+    </test-case>
+    <test-case start="1729890301173" stop="1729890301174" status="passed">
+      <name>testScopedUrlBuilder with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

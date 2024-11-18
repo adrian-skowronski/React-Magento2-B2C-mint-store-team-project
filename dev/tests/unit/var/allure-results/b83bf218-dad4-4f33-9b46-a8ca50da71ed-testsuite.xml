@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448638" stop="1729890448643" version="1.4.0">
+  <name>Magento\Framework\File\Test\Unit\CsvTest</name>
+  <test-cases>
+    <test-case start="1729890448639" stop="1729890448640" status="passed">
+      <name>testSetLineLength</name>
+    </test-case>
+    <test-case start="1729890448640" stop="1729890448641" status="passed">
+      <name>testSetDelimiter</name>
+    </test-case>
+    <test-case start="1729890448641" stop="1729890448642" status="passed">
+      <name>testSetEnclosure</name>
+    </test-case>
+    <test-case start="1729890448642" stop="1729890448643" status="passed">
+      <name>testGetDataFileNonExistent</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

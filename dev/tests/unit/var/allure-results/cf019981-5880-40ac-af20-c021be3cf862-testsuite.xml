@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464391" stop="1729890464398" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Model\Layout\MergeTest</name>
+  <test-cases>
+    <test-case start="1729890464391" stop="1729890464395" status="passed">
+      <name>testValidateMergedLayoutThrowsException</name>
+    </test-case>
+    <test-case start="1729890464395" stop="1729890464396" status="passed">
+      <name>testSaveToCache</name>
+    </test-case>
+    <test-case start="1729890464397" stop="1729890464398" status="passed">
+      <name>testNoSaveToCacheWhenCachePresent</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

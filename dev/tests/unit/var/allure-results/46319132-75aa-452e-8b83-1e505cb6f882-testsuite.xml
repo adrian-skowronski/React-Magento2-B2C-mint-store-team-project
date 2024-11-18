@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890323110" stop="1729890323129" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\SamplesTest</name>
+  <test-cases>
+    <test-case start="1729890323110" stop="1729890323124" status="passed">
+      <name>testGetConfig</name>
+    </test-case>
+    <test-case start="1729890323125" stop="1729890323129" status="passed">
+      <name>testGetSampleData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

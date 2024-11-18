@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890398814" stop="1729890398825" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Model\Calculation\Rate\ConverterTest</name>
+  <test-cases>
+    <test-case start="1729890398814" stop="1729890398820" status="passed">
+      <name>testCreateTitlesFromServiceObject</name>
+    </test-case>
+    <test-case start="1729890398820" stop="1729890398821" status="passed">
+      <name>testCreateTitlesFromServiceObjectWhenTitlesAreNotProvided</name>
+    </test-case>
+    <test-case start="1729890398821" stop="1729890398823" status="passed">
+      <name>testCreateArrayFromServiceObject</name>
+    </test-case>
+    <test-case start="1729890398823" stop="1729890398825" status="passed">
+      <name>testPopulateTaxRateData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

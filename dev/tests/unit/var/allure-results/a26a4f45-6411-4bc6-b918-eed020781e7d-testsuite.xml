@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890298881" stop="1729890298887" version="1.4.0">
+  <name>Magento\CmsUrlRewrite\Test\Unit\Model\CmsPageUrlPathGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890298881" stop="1729890298883" status="passed">
+      <name>testGetUrlPath</name>
+    </test-case>
+    <test-case start="1729890298883" stop="1729890298884" status="passed">
+      <name>testGetCanonicalUrlPath</name>
+    </test-case>
+    <test-case start="1729890298884" stop="1729890298885" status="passed">
+      <name>testGenerateUrlKeyWithNullIdentifier</name>
+    </test-case>
+    <test-case start="1729890298886" stop="1729890298887" status="passed">
+      <name>testGenerateUrlKeyWithIdentifier</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

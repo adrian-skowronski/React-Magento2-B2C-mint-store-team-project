@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356320" stop="1729890356325" version="1.4.0">
+  <name>Magento\PageBuilder\Test\Unit\Model\PreviewTest</name>
+  <test-cases>
+    <test-case start="1729890356321" stop="1729890356325" status="passed">
+      <name>testStartPreviewModeWithEmptyDefaultStoreView</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

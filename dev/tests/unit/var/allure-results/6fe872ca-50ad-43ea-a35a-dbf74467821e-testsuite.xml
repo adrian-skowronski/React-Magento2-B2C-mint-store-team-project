@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890427742" stop="1729890427754" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\View\Deployment\VersionTest</name>
+  <test-cases>
+    <test-case start="1729890427743" stop="1729890427744" status="passed">
+      <name>testGetValueFromStorage with data set "default mode"</name>
+    </test-case>
+    <test-case start="1729890427746" stop="1729890427747" status="passed">
+      <name>testGetValueFromStorage with data set "production mode"</name>
+    </test-case>
+    <test-case start="1729890427747" stop="1729890427749" status="passed">
+      <name>testGetValueFromStorage with data set "arbitrary mode"</name>
+    </test-case>
+    <test-case start="1729890427749" stop="1729890427750" status="passed">
+      <name>testGetValueInNonProductionMode</name>
+    </test-case>
+    <test-case start="1729890427750" stop="1729890427751" status="passed">
+      <name>testGetValueWithProductionModeAndException</name>
+    </test-case>
+    <test-case start="1729890427752" stop="1729890427753" status="passed">
+      <name>testGetValueWithDefaultMode</name>
+    </test-case>
+    <test-case start="1729890427753" stop="1729890427754" status="passed">
+      <name>testGetValueWithProductionModeAndEnabledSCDonDemand</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

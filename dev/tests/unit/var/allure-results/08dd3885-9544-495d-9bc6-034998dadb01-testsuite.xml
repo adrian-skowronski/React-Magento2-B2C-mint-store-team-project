@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890410138" stop="1729890410162" version="1.4.0">
+  <name>Magento\Weee\Test\Unit\Observer\UpdateProductOptionsObserverTest</name>
+  <test-cases>
+    <test-case start="1729890410139" stop="1729890410142" status="passed">
+      <name>testUpdateProductOptions with data set "weee not enabled"</name>
+    </test-case>
+    <test-case start="1729890410143" stop="1729890410146" status="passed">
+      <name>testUpdateProductOptions with data set "weee enabled, and display with Weee included in the price"</name>
+    </test-case>
+    <test-case start="1729890410147" stop="1729890410150" status="passed">
+      <name>testUpdateProductOptions with data set "weee enabled, and display with Weee included in the price, and include the Weee descriptions"</name>
+    </test-case>
+    <test-case start="1729890410151" stop="1729890410154" status="passed">
+      <name>testUpdateProductOptions with data set "weee enabled, and display with ExclDescIncl"</name>
+    </test-case>
+    <test-case start="1729890410156" stop="1729890410159" status="passed">
+      <name>testUpdateProductOptions with data set "weee enabled, and display prices including tax but without Weee"</name>
+    </test-case>
+    <test-case start="1729890410160" stop="1729890410162" status="passed">
+      <name>testUpdateProductOptions with data set "weee enabled, and display prices excluding tax but without Weee"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

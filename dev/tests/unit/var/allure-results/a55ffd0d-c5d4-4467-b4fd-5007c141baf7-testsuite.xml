@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327252" stop="1729890327263" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Adapter\FieldMapper\Product\FieldProvider\FieldName\Resolver\NotEavAttributeTest</name>
+  <test-cases>
+    <test-case start="1729890327253" stop="1729890327261" status="passed">
+      <name>testGetFieldName with data set #0</name>
+    </test-case>
+    <test-case start="1729890327261" stop="1729890327263" status="passed">
+      <name>testGetFieldName with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

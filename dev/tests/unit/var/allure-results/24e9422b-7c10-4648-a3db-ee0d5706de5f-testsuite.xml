@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284287" stop="1729890284307" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Controller\Product\ViewTest</name>
+  <test-cases>
+    <test-case start="1729890284288" stop="1729890284304" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890284304" stop="1729890284307" status="passed">
+      <name>testExecuteRecentlyViewed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

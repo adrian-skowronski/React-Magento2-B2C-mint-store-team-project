@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890416023" stop="1729890416037" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\ConfigOptionsList\CacheTest</name>
+  <test-cases>
+    <test-case start="1729890416023" stop="1729890416026" status="passed">
+      <name>testGetOptions</name>
+    </test-case>
+    <test-case start="1729890416026" stop="1729890416027" status="passed">
+      <name>testCreateConfigCacheRedis</name>
+    </test-case>
+    <test-case start="1729890416028" stop="1729890416030" status="passed">
+      <name>testCreateConfigWithRedisConfig</name>
+    </test-case>
+    <test-case start="1729890416031" stop="1729890416032" status="passed">
+      <name>testCreateConfigWithFileCache</name>
+    </test-case>
+    <test-case start="1729890416033" stop="1729890416034" status="passed">
+      <name>testCreateConfigWithIdPrefix</name>
+    </test-case>
+    <test-case start="1729890416034" stop="1729890416035" status="passed">
+      <name>testValidateWithValidInput</name>
+    </test-case>
+    <test-case start="1729890416035" stop="1729890416037" status="passed">
+      <name>testValidateWithInvalidInput</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462066" stop="1729890462079" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\DataSourcePoolTest</name>
+  <test-cases>
+    <test-case start="1729890462066" stop="1729890462069" status="passed">
+      <name>testAddWithException</name>
+    </test-case>
+    <test-case start="1729890462070" stop="1729890462072" status="passed">
+      <name>testAdd</name>
+    </test-case>
+    <test-case start="1729890462073" stop="1729890462075" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890462075" stop="1729890462076" status="passed">
+      <name>testGetEmpty</name>
+    </test-case>
+    <test-case start="1729890462077" stop="1729890462079" status="passed">
+      <name>testAssignAndGetNamespaceData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

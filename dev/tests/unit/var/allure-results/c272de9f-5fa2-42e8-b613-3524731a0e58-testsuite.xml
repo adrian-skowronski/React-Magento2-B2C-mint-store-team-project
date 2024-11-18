@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454978" stop="1729890454986" version="1.4.0">
+  <name>Magento\Framework\Pricing\Test\Unit\Adjustment\PoolTest</name>
+  <test-cases>
+    <test-case start="1729890454978" stop="1729890454979" status="passed">
+      <name>testGetAdjustments</name>
+    </test-case>
+    <test-case start="1729890454980" stop="1729890454981" status="passed">
+      <name>testGetAdjustmentByCode with data set #0</name>
+    </test-case>
+    <test-case start="1729890454981" stop="1729890454982" status="passed">
+      <name>testGetAdjustmentByCode with data set #1</name>
+    </test-case>
+    <test-case start="1729890454982" stop="1729890454983" status="passed">
+      <name>testGetAdjustmentByCode with data set #2</name>
+    </test-case>
+    <test-case start="1729890454983" stop="1729890454984" status="passed">
+      <name>testGetAdjustmentByCode with data set #3</name>
+    </test-case>
+    <test-case start="1729890454984" stop="1729890454985" status="passed">
+      <name>testGetAdjustmentByCode with data set #4</name>
+    </test-case>
+    <test-case start="1729890454985" stop="1729890454986" status="passed">
+      <name>testGetAdjustmentByNotExistingCode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

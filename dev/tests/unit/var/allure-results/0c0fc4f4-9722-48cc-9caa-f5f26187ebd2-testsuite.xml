@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890309554" stop="1729890309574" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Model\Plugin\ProductRepositorySaveTest</name>
+  <test-cases>
+    <test-case start="1729890309555" stop="1729890309565" status="passed">
+      <name>testBeforeSaveWhenProductIsSimple</name>
+    </test-case>
+    <test-case start="1729890309565" stop="1729890309566" status="passed">
+      <name>testBeforeSaveWithoutOptions</name>
+    </test-case>
+    <test-case start="1729890309567" stop="1729890309569" status="passed">
+      <name>testBeforeSaveWithLinks</name>
+    </test-case>
+    <test-case start="1729890309569" stop="1729890309571" status="passed">
+      <name>testBeforeSaveWithLinksWithMissingAttribute</name>
+    </test-case>
+    <test-case start="1729890309571" stop="1729890309574" status="passed">
+      <name>testBeforeSaveWithLinksWithDuplicateAttributes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

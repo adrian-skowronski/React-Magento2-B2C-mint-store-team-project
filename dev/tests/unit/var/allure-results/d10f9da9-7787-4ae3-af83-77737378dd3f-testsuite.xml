@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890321533" stop="1729890321570" version="1.4.0">
+  <name>Magento\Directory\Test\Unit\Block\DataTest</name>
+  <test-cases>
+    <test-case start="1729890321534" stop="1729890321548" status="passed">
+      <name>testGetCountryHtmlSelect with data set #0</name>
+    </test-case>
+    <test-case start="1729890321549" stop="1729890321558" status="passed">
+      <name>testGetCountryHtmlSelect with data set #1</name>
+    </test-case>
+    <test-case start="1729890321560" stop="1729890321570" status="passed">
+      <name>testGetCountryHtmlSelect with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

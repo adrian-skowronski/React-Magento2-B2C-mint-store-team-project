@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422885" stop="1729890422902" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Cache\Frontend\FactoryTest</name>
+  <test-cases>
+    <test-case start="1729890422886" stop="1729890422889" status="passed">
+      <name>testCreate</name>
+    </test-case>
+    <test-case start="1729890422889" stop="1729890422892" status="passed">
+      <name>testCreateOptions</name>
+    </test-case>
+    <test-case start="1729890422892" stop="1729890422893" status="passed">
+      <name>testCreateEnforcedOptions</name>
+    </test-case>
+    <test-case start="1729890422894" stop="1729890422896" status="passed">
+      <name>testIdPrefix with data set "default id prefix"</name>
+    </test-case>
+    <test-case start="1729890422896" stop="1729890422898" status="passed">
+      <name>testIdPrefix with data set "id prefix in "id_prefix" option"</name>
+    </test-case>
+    <test-case start="1729890422898" stop="1729890422900" status="passed">
+      <name>testIdPrefix with data set "id prefix in "prefix" option"</name>
+    </test-case>
+    <test-case start="1729890422900" stop="1729890422902" status="passed">
+      <name>testCreateDecorators</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

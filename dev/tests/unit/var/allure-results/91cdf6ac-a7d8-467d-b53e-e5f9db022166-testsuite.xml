@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403001" stop="1729890403012" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Theme\RegistrationTest</name>
+  <test-cases>
+    <test-case start="1729890403002" stop="1729890403012" status="passed">
+      <name>testRegister</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

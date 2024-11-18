@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890297875" stop="1729890297887" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Model\Cart\CollectQuoteTest</name>
+  <test-cases>
+    <test-case start="1729890297875" stop="1729890297884" status="passed">
+      <name>testCollect</name>
+    </test-case>
+    <test-case start="1729890297885" stop="1729890297886" status="passed">
+      <name>testCollectWhenCustomerIsNotLoggedIn</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890410024" stop="1729890410040" version="1.4.0">
+  <name>Magento\Weee\Test\Unit\Observer\AddPaymentWeeeItemTest</name>
+  <test-cases>
+    <test-case start="1729890410025" stop="1729890410030" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890410031" stop="1729890410034" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890410035" stop="1729890410037" status="passed">
+      <name>testExecute with data set #2</name>
+    </test-case>
+    <test-case start="1729890410037" stop="1729890410040" status="passed">
+      <name>testExecute with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

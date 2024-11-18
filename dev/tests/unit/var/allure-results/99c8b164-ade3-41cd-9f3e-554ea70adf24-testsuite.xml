@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890365689" stop="1729890365715" version="1.4.0">
+  <name>Magento\ProductVideo\Test\Unit\Observer\ChangeTemplateObserverTest</name>
+  <test-cases>
+    <test-case start="1729890365689" stop="1729890365715" status="passed">
+      <name>testChangeTemplate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352610" stop="1729890352616" version="1.4.0">
+  <name>Magento\MediaGallery\Test\Unit\Model\Asset\Command\DeleteByDirectoryPathTest</name>
+  <test-cases>
+    <test-case start="1729890352610" stop="1729890352614" status="passed">
+      <name>testDeleteByDirectoryPath with data set "Existing path"</name>
+    </test-case>
+    <test-case start="1729890352615" stop="1729890352616" status="passed">
+      <name>testDeleteByDirectoryPath with data set "Empty path"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

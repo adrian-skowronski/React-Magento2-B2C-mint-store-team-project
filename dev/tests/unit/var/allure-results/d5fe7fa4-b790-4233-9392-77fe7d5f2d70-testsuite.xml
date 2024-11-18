@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890390647" stop="1729890390650" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Observer\Backend\CatalogPriceRuleTest</name>
+  <test-cases>
+    <test-case start="1729890390648" stop="1729890390650" status="passed">
+      <name>testDispatch</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

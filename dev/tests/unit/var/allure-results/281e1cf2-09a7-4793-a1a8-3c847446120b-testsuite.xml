@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890360300" stop="1729890360311" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Controller\Billing\Agreement\CancelTest</name>
+  <test-cases>
+    <test-case start="1729890360300" stop="1729890360305" status="passed">
+      <name>testExecuteActionSuccess</name>
+    </test-case>
+    <test-case start="1729890360305" stop="1729890360308" status="passed">
+      <name>testExecuteAgreementDoesNotBelongToCustomer</name>
+    </test-case>
+    <test-case start="1729890360308" stop="1729890360311" status="passed">
+      <name>testExecuteAgreementStatusDoesNotAllowToCancel</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

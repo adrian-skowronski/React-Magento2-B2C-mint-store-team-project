@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271136" stop="1729890271147" version="1.4.0">
+  <name>Magento\Captcha\Test\Unit\Cron\DeleteExpiredImagesTest</name>
+  <test-cases>
+    <test-case start="1729890271136" stop="1729890271140" status="passed">
+      <name>testDeleteExpiredImages with data set #0</name>
+    </test-case>
+    <test-case start="1729890271141" stop="1729890271142" status="passed">
+      <name>testDeleteExpiredImages with data set #1</name>
+    </test-case>
+    <test-case start="1729890271143" stop="1729890271145" status="passed">
+      <name>testDeleteExpiredImages with data set #2</name>
+    </test-case>
+    <test-case start="1729890271145" stop="1729890271147" status="passed">
+      <name>testDeleteExpiredImages with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330409" stop="1729890330416" version="1.4.0">
+  <name>Magento\GoogleOptimizer\Test\Unit\Observer\Category\DeleteCategoryGoogleExperimentScriptObserverTest</name>
+  <test-cases>
+    <test-case start="1729890330409" stop="1729890330413" status="passed">
+      <name>testDeleteFromCategoryGoogleExperimentScriptSuccess</name>
+    </test-case>
+    <test-case start="1729890330413" stop="1729890330416" status="passed">
+      <name>testDeleteFromCategoryGoogleExperimentScriptFail</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890299807" stop="1729890299814" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Controller\Adminhtml\Page\MassDisableTest</name>
+  <test-cases>
+    <test-case start="1729890299808" stop="1729890299814" status="passed">
+      <name>testMassDisableAction</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

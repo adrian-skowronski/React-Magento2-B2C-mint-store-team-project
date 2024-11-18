@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404662" stop="1729890404672" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\Form\Element\CheckboxSetTest</name>
+  <test-cases>
+    <test-case start="1729890404663" stop="1729890404665" status="passed">
+      <name>testGetComponentName</name>
+    </test-case>
+    <test-case start="1729890404665" stop="1729890404666" status="passed">
+      <name>testGetIsSelected</name>
+    </test-case>
+    <test-case start="1729890404666" stop="1729890404667" status="passed">
+      <name>testGetHtmlId</name>
+    </test-case>
+    <test-case start="1729890404667" stop="1729890404668" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+    <test-case start="1729890404669" stop="1729890404670" status="passed">
+      <name>testGetFormInputName</name>
+    </test-case>
+    <test-case start="1729890404670" stop="1729890404671" status="passed">
+      <name>testIsReadonly</name>
+    </test-case>
+    <test-case start="1729890404671" stop="1729890404672" status="passed">
+      <name>testGetCssClasses</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

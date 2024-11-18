@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356778" stop="1729890356795" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Model\App\FrontController\VarnishPluginTest</name>
+  <test-cases>
+    <test-case start="1729890356779" stop="1729890356788" status="passed">
+      <name>testAfterDispatchReturnsCache with data set "developer_mode"</name>
+    </test-case>
+    <test-case start="1729890356789" stop="1729890356791" status="passed">
+      <name>testAfterDispatchReturnsCache with data set "production"</name>
+    </test-case>
+    <test-case start="1729890356791" stop="1729890356793" status="passed">
+      <name>testAfterDispatchNotResponse</name>
+    </test-case>
+    <test-case start="1729890356793" stop="1729890356795" status="passed">
+      <name>testAfterDispatchDisabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

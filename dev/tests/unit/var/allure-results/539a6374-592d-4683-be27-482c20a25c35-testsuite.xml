@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890333385" stop="1729890333430" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\Indexer\DependencyDecoratorTest</name>
+  <test-cases>
+    <test-case start="1729890333385" stop="1729890333387" status="passed">
+      <name>testOverload with data set #0</name>
+    </test-case>
+    <test-case start="1729890333388" stop="1729890333389" status="passed">
+      <name>testOverload with data set #1</name>
+    </test-case>
+    <test-case start="1729890333389" stop="1729890333390" status="passed">
+      <name>testTransitMethods with data set #0</name>
+    </test-case>
+    <test-case start="1729890333391" stop="1729890333392" status="passed">
+      <name>testTransitMethods with data set #1</name>
+    </test-case>
+    <test-case start="1729890333392" stop="1729890333394" status="passed">
+      <name>testTransitMethods with data set #2</name>
+    </test-case>
+    <test-case start="1729890333395" stop="1729890333396" status="passed">
+      <name>testTransitMethods with data set #3</name>
+    </test-case>
+    <test-case start="1729890333396" stop="1729890333398" status="passed">
+      <name>testTransitMethods with data set #4</name>
+    </test-case>
+    <test-case start="1729890333398" stop="1729890333399" status="passed">
+      <name>testTransitMethods with data set #5</name>
+    </test-case>
+    <test-case start="1729890333400" stop="1729890333401" status="passed">
+      <name>testTransitMethods with data set #6</name>
+    </test-case>
+    <test-case start="1729890333401" stop="1729890333403" status="passed">
+      <name>testTransitMethods with data set #7</name>
+    </test-case>
+    <test-case start="1729890333403" stop="1729890333404" status="passed">
+      <name>testTransitMethods with data set #8</name>
+    </test-case>
+    <test-case start="1729890333405" stop="1729890333406" status="passed">
+      <name>testTransitMethods with data set #9</name>
+    </test-case>
+    <test-case start="1729890333406" stop="1729890333407" status="passed">
+      <name>testTransitMethods with data set #10</name>
+    </test-case>
+    <test-case start="1729890333407" stop="1729890333409" status="passed">
+      <name>testTransitMethods with data set #11</name>
+    </test-case>
+    <test-case start="1729890333409" stop="1729890333411" status="passed">
+      <name>testTransitMethods with data set #12</name>
+    </test-case>
+    <test-case start="1729890333412" stop="1729890333413" status="passed">
+      <name>testTransitMethods with data set #13</name>
+    </test-case>
+    <test-case start="1729890333414" stop="1729890333415" status="passed">
+      <name>testTransitMethods with data set #14</name>
+    </test-case>
+    <test-case start="1729890333416" stop="1729890333417" status="passed">
+      <name>testTransitMethodsWithParamsAndEmptyReturn with data set #0</name>
+    </test-case>
+    <test-case start="1729890333418" stop="1729890333419" status="passed">
+      <name>testTransitMethodsWithParamsAndSelfReturn with data set #0</name>
+    </test-case>
+    <test-case start="1729890333419" stop="1729890333420" status="passed">
+      <name>testTransitMethodsWithParamsAndSelfReturn with data set #1</name>
+    </test-case>
+    <test-case start="1729890333420" stop="1729890333421" status="passed">
+      <name>testReindexAll</name>
+    </test-case>
+    <test-case start="1729890333422" stop="1729890333424" status="passed">
+      <name>testInvalidate</name>
+    </test-case>
+    <test-case start="1729890333424" stop="1729890333426" status="passed">
+      <name>testReindexRow</name>
+    </test-case>
+    <test-case start="1729890333426" stop="1729890333430" status="passed">
+      <name>testReindexList</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

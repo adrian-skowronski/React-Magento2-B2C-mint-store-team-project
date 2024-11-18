@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890410364" stop="1729890410377" version="1.4.0">
+  <name>Magento\Weee\Test\Unit\Pricing\TaxAdjustmentTest</name>
+  <test-cases>
+    <test-case start="1729890410364" stop="1729890410365" status="passed">
+      <name>testGetAdjustmentCode</name>
+    </test-case>
+    <test-case start="1729890410365" stop="1729890410366" status="passed">
+      <name>testIsIncludedInBasePrice</name>
+    </test-case>
+    <test-case start="1729890410367" stop="1729890410369" status="passed">
+      <name>testIsIncludedInDisplayPrice with data set "display_incl_tax"</name>
+    </test-case>
+    <test-case start="1729890410369" stop="1729890410371" status="passed">
+      <name>testIsIncludedInDisplayPrice with data set "display_incl_tax_excl_weee"</name>
+    </test-case>
+    <test-case start="1729890410371" stop="1729890410373" status="passed">
+      <name>testIsIncludedInDisplayPrice with data set "display_excl_tax"</name>
+    </test-case>
+    <test-case start="1729890410374" stop="1729890410375" status="passed">
+      <name>testIsIncludedInDisplayPrice with data set "display_excl_tax_incl_weee"</name>
+    </test-case>
+    <test-case start="1729890410376" stop="1729890410377" status="passed">
+      <name>testApplyAdjustment with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

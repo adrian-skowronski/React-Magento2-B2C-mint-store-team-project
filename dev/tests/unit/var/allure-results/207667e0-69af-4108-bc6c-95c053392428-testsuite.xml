@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890409345" stop="1729890409431" version="1.4.0">
+  <name>Magento\Weee\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890409346" stop="1729890409357" status="passed">
+      <name>testGetAmount</name>
+    </test-case>
+    <test-case start="1729890409357" stop="1729890409359" status="passed">
+      <name>testGetWeeeAmountInvoiced</name>
+    </test-case>
+    <test-case start="1729890409359" stop="1729890409361" status="passed">
+      <name>testGetBaseWeeeAmountInvoiced</name>
+    </test-case>
+    <test-case start="1729890409361" stop="1729890409363" status="passed">
+      <name>testGetWeeeTaxAmountInvoiced</name>
+    </test-case>
+    <test-case start="1729890409363" stop="1729890409366" status="passed">
+      <name>testGetWeeeBaseTaxAmountInvoiced</name>
+    </test-case>
+    <test-case start="1729890409366" stop="1729890409368" status="passed">
+      <name>testGetWeeeAmountRefunded</name>
+    </test-case>
+    <test-case start="1729890409369" stop="1729890409372" status="passed">
+      <name>testGetBaseWeeeAmountRefunded</name>
+    </test-case>
+    <test-case start="1729890409372" stop="1729890409375" status="passed">
+      <name>testGetWeeeTaxAmountRefunded</name>
+    </test-case>
+    <test-case start="1729890409375" stop="1729890409377" status="passed">
+      <name>testGetBaseWeeeTaxAmountRefunded</name>
+    </test-case>
+    <test-case start="1729890409378" stop="1729890409382" status="passed">
+      <name>testGetWeeeAttributesForBundle with data set #0</name>
+    </test-case>
+    <test-case start="1729890409382" stop="1729890409387" status="passed">
+      <name>testGetWeeeAttributesForBundle with data set #1</name>
+    </test-case>
+    <test-case start="1729890409387" stop="1729890409391" status="passed">
+      <name>testGetWeeeAttributesForBundle with data set #2</name>
+    </test-case>
+    <test-case start="1729890409392" stop="1729890409395" status="passed">
+      <name>testGetWeeeAttributesForBundle with data set #3</name>
+    </test-case>
+    <test-case start="1729890409395" stop="1729890409400" status="passed">
+      <name>testGetWeeeAttributesForBundle with data set #4</name>
+    </test-case>
+    <test-case start="1729890409401" stop="1729890409405" status="passed">
+      <name>testGetWeeeAttributesForBundle with data set #5</name>
+    </test-case>
+    <test-case start="1729890409405" stop="1729890409408" status="passed">
+      <name>testGetAppliedSimple</name>
+    </test-case>
+    <test-case start="1729890409408" stop="1729890409411" status="passed">
+      <name>testGetAppliedBundle</name>
+    </test-case>
+    <test-case start="1729890409411" stop="1729890409413" status="passed">
+      <name>testGetRecursiveAmountSimple</name>
+    </test-case>
+    <test-case start="1729890409414" stop="1729890409417" status="passed">
+      <name>testGetRecursiveAmountBundle</name>
+    </test-case>
+    <test-case start="1729890409418" stop="1729890409421" status="passed">
+      <name>testGetProductWeeeAttributesForDisplay</name>
+    </test-case>
+    <test-case start="1729890409421" stop="1729890409426" status="passed">
+      <name>testGetTaxDisplayConfig</name>
+    </test-case>
+    <test-case start="1729890409426" stop="1729890409428" status="passed">
+      <name>testGetTotalAmounts</name>
+    </test-case>
+    <test-case start="1729890409428" stop="1729890409430" status="passed">
+      <name>testGetBaseTotalAmounts</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

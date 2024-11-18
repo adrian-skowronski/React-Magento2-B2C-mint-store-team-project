@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329205" stop="1729890329451" version="1.4.0">
+  <name>Magento\Fedex\Test\Unit\Model\CarrierTest</name>
+  <test-cases>
+    <test-case start="1729890329205" stop="1729890329212" status="passed">
+      <name>testSetRequestWithoutCity</name>
+    </test-case>
+    <test-case start="1729890329212" stop="1729890329215" status="passed">
+      <name>testSetRequestWithCity</name>
+    </test-case>
+    <test-case start="1729890329216" stop="1729890329220" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #0</name>
+    </test-case>
+    <test-case start="1729890329220" stop="1729890329224" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #1</name>
+    </test-case>
+    <test-case start="1729890329224" stop="1729890329228" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #2</name>
+    </test-case>
+    <test-case start="1729890329228" stop="1729890329232" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #3</name>
+    </test-case>
+    <test-case start="1729890329232" stop="1729890329237" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #4</name>
+    </test-case>
+    <test-case start="1729890329238" stop="1729890329242" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #5</name>
+    </test-case>
+    <test-case start="1729890329242" stop="1729890329246" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #6</name>
+    </test-case>
+    <test-case start="1729890329246" stop="1729890329250" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #7</name>
+    </test-case>
+    <test-case start="1729890329251" stop="1729890329254" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #8</name>
+    </test-case>
+    <test-case start="1729890329255" stop="1729890329259" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #9</name>
+    </test-case>
+    <test-case start="1729890329260" stop="1729890329264" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #10</name>
+    </test-case>
+    <test-case start="1729890329265" stop="1729890329269" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #11</name>
+    </test-case>
+    <test-case start="1729890329269" stop="1729890329273" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #12</name>
+    </test-case>
+    <test-case start="1729890329273" stop="1729890329277" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #13</name>
+    </test-case>
+    <test-case start="1729890329278" stop="1729890329282" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #14</name>
+    </test-case>
+    <test-case start="1729890329282" stop="1729890329286" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #15</name>
+    </test-case>
+    <test-case start="1729890329286" stop="1729890329289" status="passed">
+      <name>testCollectRatesRateAmountOriginBased with data set #16</name>
+    </test-case>
+    <test-case start="1729890329290" stop="1729890329292" status="passed">
+      <name>testCollectRatesErrorMessage</name>
+    </test-case>
+    <test-case start="1729890329292" stop="1729890329295" status="passed">
+      <name>testFilterDebugData with data set #0</name>
+    </test-case>
+    <test-case start="1729890329295" stop="1729890329302" status="passed">
+      <name>testGetTrackingErrorResponse</name>
+    </test-case>
+    <test-case start="1729890329303" stop="1729890329306" status="passed">
+      <name>testGetTracking with data set "tracking1"</name>
+    </test-case>
+    <test-case start="1729890329306" stop="1729890329308" status="passed">
+      <name>testGetTracking with data set "tracking1-again"</name>
+    </test-case>
+    <test-case start="1729890329309" stop="1729890329405" status="passed">
+      <name>testGetTracking with data set "tracking2"</name>
+    </test-case>
+    <test-case start="1729890329405" stop="1729890329409" status="passed">
+      <name>testGetTracking with data set "tracking3"</name>
+    </test-case>
+    <test-case start="1729890329410" stop="1729890329413" status="passed">
+      <name>testGetTracking with data set "tracking4"</name>
+    </test-case>
+    <test-case start="1729890329414" stop="1729890329417" status="passed">
+      <name>testGetTracking with data set "tracking5"</name>
+    </test-case>
+    <test-case start="1729890329418" stop="1729890329421" status="passed">
+      <name>testGetTracking with data set "tracking6"</name>
+    </test-case>
+    <test-case start="1729890329421" stop="1729890329424" status="passed">
+      <name>testGetTracking with data set "tracking7"</name>
+    </test-case>
+    <test-case start="1729890329425" stop="1729890329428" status="passed">
+      <name>testGetTrackingWithEvents with data set "tracking1"</name>
+    </test-case>
+    <test-case start="1729890329429" stop="1729890329431" status="passed">
+      <name>testGetTrackingWithEvents with data set "tracking1-again"</name>
+    </test-case>
+    <test-case start="1729890329432" stop="1729890329434" status="passed">
+      <name>testGetTrackingWithEvents with data set "tracking2"</name>
+    </test-case>
+    <test-case start="1729890329435" stop="1729890329437" status="passed">
+      <name>testGetTrackingWithEvents with data set "tracking3"</name>
+    </test-case>
+    <test-case start="1729890329438" stop="1729890329441" status="passed">
+      <name>testGetTrackingWithEvents with data set "tracking4"</name>
+    </test-case>
+    <test-case start="1729890329441" stop="1729890329444" status="passed">
+      <name>testGetTrackingWithEvents with data set "tracking5"</name>
+    </test-case>
+    <test-case start="1729890329444" stop="1729890329447" status="passed">
+      <name>testGetTrackingWithEvents with data set "tracking6"</name>
+    </test-case>
+    <test-case start="1729890329447" stop="1729890329450" status="passed">
+      <name>testGetTrackingWithEvents with data set "tracking7"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

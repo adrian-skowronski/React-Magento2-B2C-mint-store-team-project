@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287235" stop="1729890287242" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Product\Price\Plugin\CustomerGroupTest</name>
+  <test-cases>
+    <test-case start="1729890287235" stop="1729890287239" status="passed">
+      <name>testAroundSave with data set "customer_group_id = 0"</name>
+    </test-case>
+    <test-case start="1729890287239" stop="1729890287240" status="passed">
+      <name>testAroundSave with data set "customer_group_id = 1"</name>
+    </test-case>
+    <test-case start="1729890287241" stop="1729890287242" status="passed">
+      <name>testAroundSave with data set "customer_group_id = null"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

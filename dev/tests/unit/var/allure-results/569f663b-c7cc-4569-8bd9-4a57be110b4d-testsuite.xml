@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890380123" stop="1729890380131" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Config\Backend\Grid\AsyncIndexingTest</name>
+  <test-cases>
+    <test-case start="1729890380123" stop="1729890380125" status="passed">
+      <name>testAfterSave with data set #0</name>
+    </test-case>
+    <test-case start="1729890380126" stop="1729890380127" status="passed">
+      <name>testAfterSave with data set #1</name>
+    </test-case>
+    <test-case start="1729890380128" stop="1729890380129" status="passed">
+      <name>testAfterSave with data set #2</name>
+    </test-case>
+    <test-case start="1729890380130" stop="1729890380131" status="passed">
+      <name>testAfterSave with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

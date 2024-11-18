@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890450270" stop="1729890450276" version="1.4.0">
+  <name>Magento\Framework\Image\Test\Unit\Adapter\ImageMagickTest</name>
+  <test-cases>
+    <test-case start="1729890450270" stop="1729890450271" status="passed">
+      <name>testWatermark with data set #0</name>
+    </test-case>
+    <test-case start="1729890450271" stop="1729890450272" status="passed">
+      <name>testWatermark with data set #1</name>
+    </test-case>
+    <test-case start="1729890450273" stop="1729890450273" status="passed">
+      <name>testWatermark with data set #2</name>
+    </test-case>
+    <test-case start="1729890450274" stop="1729890450275" status="passed">
+      <name>testSaveWithException</name>
+    </test-case>
+    <test-case start="1729890450275" stop="1729890450276" status="passed">
+      <name>testOpenInvalidUrl</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

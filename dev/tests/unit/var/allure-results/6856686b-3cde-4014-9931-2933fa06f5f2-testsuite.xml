@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375795" stop="1729890375808" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Helper\CouponTest</name>
+  <test-cases>
+    <test-case start="1729890375795" stop="1729890375797" status="passed">
+      <name>testGetFormatsList</name>
+    </test-case>
+    <test-case start="1729890375797" stop="1729890375798" status="passed">
+      <name>testGetDefaultLength</name>
+    </test-case>
+    <test-case start="1729890375799" stop="1729890375800" status="passed">
+      <name>testGetDefaultFormat</name>
+    </test-case>
+    <test-case start="1729890375800" stop="1729890375801" status="passed">
+      <name>testGetDefaultPrefix</name>
+    </test-case>
+    <test-case start="1729890375801" stop="1729890375802" status="passed">
+      <name>testGetDefaultSuffix</name>
+    </test-case>
+    <test-case start="1729890375803" stop="1729890375804" status="passed">
+      <name>testGetDefaultDashInterval</name>
+    </test-case>
+    <test-case start="1729890375804" stop="1729890375806" status="passed">
+      <name>testGetCharset</name>
+    </test-case>
+    <test-case start="1729890375806" stop="1729890375807" status="passed">
+      <name>testGetSeparator</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

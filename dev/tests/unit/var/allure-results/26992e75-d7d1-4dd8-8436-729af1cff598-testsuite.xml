@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294172" stop="1729890294179" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ResourceModel\Product\FlatTest</name>
+  <test-cases>
+    <test-case start="1729890294172" stop="1729890294177" status="passed">
+      <name>testSetIntStoreId</name>
+    </test-case>
+    <test-case start="1729890294178" stop="1729890294179" status="passed">
+      <name>testSetNotIntStoreId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

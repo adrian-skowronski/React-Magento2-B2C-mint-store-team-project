@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890365814" stop="1729890365828" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\BillingAddressManagementTest</name>
+  <test-cases>
+    <test-case start="1729890365815" stop="1729890365819" status="passed">
+      <name>testGetAddress</name>
+    </test-case>
+    <test-case start="1729890365820" stop="1729890365824" status="passed">
+      <name>testSetAddress</name>
+    </test-case>
+    <test-case start="1729890365824" stop="1729890365827" status="passed">
+      <name>testSetAddressWithInabilityToSaveQuote</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

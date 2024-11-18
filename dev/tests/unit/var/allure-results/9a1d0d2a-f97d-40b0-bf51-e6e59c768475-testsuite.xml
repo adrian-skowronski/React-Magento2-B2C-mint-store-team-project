@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890286795" stop="1729890286801" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Product\Eav\Plugin\AttributeSetTest</name>
+  <test-cases>
+    <test-case start="1729890286796" stop="1729890286799" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+    <test-case start="1729890286799" stop="1729890286800" status="passed">
+      <name>testAfterSave</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

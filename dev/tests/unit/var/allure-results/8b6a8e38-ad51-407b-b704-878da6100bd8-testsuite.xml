@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319065" stop="1729890319075" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Console\Command\App\SensitiveConfigSet\SensitiveConfigSetFacadeTest</name>
+  <test-cases>
+    <test-case start="1729890319065" stop="1729890319068" status="passed">
+      <name>testConfigFileNotExist</name>
+    </test-case>
+    <test-case start="1729890319069" stop="1729890319070" status="passed">
+      <name>testWriterException</name>
+    </test-case>
+    <test-case start="1729890319070" stop="1729890319071" status="passed">
+      <name>testEmptyConfigPaths</name>
+    </test-case>
+    <test-case start="1729890319072" stop="1729890319073" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890319073" stop="1729890319075" status="passed">
+      <name>testExecuteInteractive</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

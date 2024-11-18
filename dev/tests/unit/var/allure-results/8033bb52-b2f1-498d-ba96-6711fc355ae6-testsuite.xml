@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418630" stop="1729890418673" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Mvc\Bootstrap\InitParamListenerTest</name>
+  <test-cases>
+    <test-case start="1729890418630" stop="1729890418635" status="passed">
+      <name>testAttach</name>
+    </test-case>
+    <test-case start="1729890418636" stop="1729890418637" status="passed">
+      <name>testDetach</name>
+    </test-case>
+    <test-case start="1729890418637" stop="1729890418643" status="passed">
+      <name>testOnBootstrap</name>
+    </test-case>
+    <test-case start="1729890418644" stop="1729890418644" status="passed">
+      <name>testCreateDirectoryList</name>
+    </test-case>
+    <test-case start="1729890418645" stop="1729890418645" status="passed">
+      <name>testCreateDirectoryListException</name>
+    </test-case>
+    <test-case start="1729890418646" stop="1729890418647" status="passed">
+      <name>testCreateService with data set "none"</name>
+    </test-case>
+    <test-case start="1729890418648" stop="1729890418649" status="passed">
+      <name>testCreateService with data set "mage_mode App"</name>
+    </test-case>
+    <test-case start="1729890418650" stop="1729890418651" status="passed">
+      <name>testCreateService with data set "mage_mode Env"</name>
+    </test-case>
+    <test-case start="1729890418652" stop="1729890418654" status="passed">
+      <name>testCreateService with data set "mage_mode CLI"</name>
+    </test-case>
+    <test-case start="1729890418654" stop="1729890418656" status="passed">
+      <name>testCreateService with data set "one MAGE_DIRS CLI"</name>
+    </test-case>
+    <test-case start="1729890418657" stop="1729890418658" status="passed">
+      <name>testCreateService with data set "two MAGE_DIRS CLI"</name>
+    </test-case>
+    <test-case start="1729890418659" stop="1729890418660" status="passed">
+      <name>testCreateService with data set "mage_mode only"</name>
+    </test-case>
+    <test-case start="1729890418661" stop="1729890418662" status="passed">
+      <name>testCreateService with data set "MAGE_DIRS Env"</name>
+    </test-case>
+    <test-case start="1729890418663" stop="1729890418664" status="passed">
+      <name>testCreateService with data set "two MAGE_DIRS"</name>
+    </test-case>
+    <test-case start="1729890418665" stop="1729890418666" status="passed">
+      <name>testCreateService with data set "Env overwrites App"</name>
+    </test-case>
+    <test-case start="1729890418667" stop="1729890418668" status="passed">
+      <name>testCreateService with data set "CLI overwrites Env"</name>
+    </test-case>
+    <test-case start="1729890418669" stop="1729890418670" status="passed">
+      <name>testCreateService with data set "CLI overwrites All"</name>
+    </test-case>
+    <test-case start="1729890418670" stop="1729890418672" status="passed">
+      <name>testCreateFilesystem</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890290165" stop="1729890290214" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\OptionTest</name>
+  <test-cases>
+    <test-case start="1729890290165" stop="1729890290175" status="passed">
+      <name>testGetProductSku</name>
+    </test-case>
+    <test-case start="1729890290176" stop="1729890290179" status="passed">
+      <name>testHasValues</name>
+    </test-case>
+    <test-case start="1729890290179" stop="1729890290186" status="passed">
+      <name>testGetRegularPrice</name>
+    </test-case>
+    <test-case start="1729890290188" stop="1729890290191" status="passed">
+      <name>testCleanFileExtensions with data set #0</name>
+    </test-case>
+    <test-case start="1729890290192" stop="1729890290195" status="passed">
+      <name>testCleanFileExtensions with data set #1</name>
+    </test-case>
+    <test-case start="1729890290195" stop="1729890290198" status="passed">
+      <name>testCleanFileExtensions with data set #2</name>
+    </test-case>
+    <test-case start="1729890290199" stop="1729890290201" status="passed">
+      <name>testCleanFileExtensions with data set #3</name>
+    </test-case>
+    <test-case start="1729890290203" stop="1729890290206" status="passed">
+      <name>testCleanFileExtensions with data set #4</name>
+    </test-case>
+    <test-case start="1729890290207" stop="1729890290210" status="passed">
+      <name>testCleanFileExtensions with data set #5</name>
+    </test-case>
+    <test-case start="1729890290210" stop="1729890290214" status="passed">
+      <name>testCleanFileExtensions with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

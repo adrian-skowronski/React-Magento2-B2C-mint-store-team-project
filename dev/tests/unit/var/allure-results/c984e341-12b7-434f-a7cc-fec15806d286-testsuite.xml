@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890270816" stop="1729890270830" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Pricing\Price\TierPriceTest</name>
+  <test-cases>
+    <test-case start="1729890270817" stop="1729890270825" status="passed">
+      <name>testGetterTierPriceList with data set "base case"</name>
+    </test-case>
+    <test-case start="1729890270826" stop="1729890270827" status="passed">
+      <name>testGetSavePercent with data set "no fraction"</name>
+    </test-case>
+    <test-case start="1729890270828" stop="1729890270830" status="passed">
+      <name>testGetSavePercent with data set "lower half"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

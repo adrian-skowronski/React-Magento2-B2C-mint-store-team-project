@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328250" stop="1729890328256" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\SearchAdapter\Query\BuilderTest</name>
+  <test-cases>
+    <test-case start="1729890328251" stop="1729890328252" status="passed">
+      <name>testInitQuery</name>
+    </test-case>
+    <test-case start="1729890328252" stop="1729890328255" status="passed">
+      <name>testInitQueryLimitFrom</name>
+    </test-case>
+    <test-case start="1729890328255" stop="1729890328256" status="passed">
+      <name>testInitAggregations</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

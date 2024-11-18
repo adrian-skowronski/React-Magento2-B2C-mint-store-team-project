@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464041" stop="1729890464044" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Layout\Reader\FactoryTest</name>
+  <test-cases>
+    <test-case start="1729890464041" stop="1729890464042" status="passed">
+      <name>testCreateInvalidArgument</name>
+    </test-case>
+    <test-case start="1729890464042" stop="1729890464044" status="passed">
+      <name>testCreateValidArgument</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

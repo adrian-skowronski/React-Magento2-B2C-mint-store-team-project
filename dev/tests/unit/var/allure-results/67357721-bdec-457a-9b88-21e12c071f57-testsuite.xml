@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262059" stop="1729890262068" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\Config\Backend\EnabledTest</name>
+  <test-cases>
+    <test-case start="1729890262060" stop="1729890262062" status="passed">
+      <name>testAfterSaveSuccessEnabled</name>
+    </test-case>
+    <test-case start="1729890262063" stop="1729890262064" status="passed">
+      <name>testAfterSaveSuccessDisabled</name>
+    </test-case>
+    <test-case start="1729890262065" stop="1729890262066" status="passed">
+      <name>testAfterSaveSuccessValueNotChanged</name>
+    </test-case>
+    <test-case start="1729890262067" stop="1729890262068" status="passed">
+      <name>testExecuteAfterSaveFailedWithLocalizedException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

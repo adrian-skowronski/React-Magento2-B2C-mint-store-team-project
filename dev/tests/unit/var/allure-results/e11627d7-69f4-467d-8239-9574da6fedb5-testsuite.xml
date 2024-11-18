@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301981" stop="1729890301992" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Backend\Email\LogoTest</name>
+  <test-cases>
+    <test-case start="1729890301982" stop="1729890301987" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+    <test-case start="1729890301987" stop="1729890301989" status="passed">
+      <name>testBeforeSaveWithTmpInValue</name>
+    </test-case>
+    <test-case start="1729890301989" stop="1729890301990" status="passed">
+      <name>testBeforeSaveWithDelete</name>
+    </test-case>
+    <test-case start="1729890301991" stop="1729890301992" status="passed">
+      <name>testBeforeSaveWithoutOldValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

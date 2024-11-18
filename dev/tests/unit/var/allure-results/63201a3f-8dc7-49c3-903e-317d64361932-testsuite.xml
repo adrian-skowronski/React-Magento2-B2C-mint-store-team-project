@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264217" stop="1729890264228" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\MenuTest</name>
+  <test-cases>
+    <test-case start="1729890264218" stop="1729890264225" status="passed">
+      <name>testGetActiveItemModelMenuIsNotNull</name>
+    </test-case>
+    <test-case start="1729890264225" stop="1729890264228" status="passed">
+      <name>testGetActiveItemModelMenuIsNull</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

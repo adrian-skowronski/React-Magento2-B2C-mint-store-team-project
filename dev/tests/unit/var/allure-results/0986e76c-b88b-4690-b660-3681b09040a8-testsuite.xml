@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890269481" stop="1729890269490" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Model\OptionTypeListTest</name>
+  <test-cases>
+    <test-case start="1729890269481" stop="1729890269490" status="passed">
+      <name>testGetItems</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

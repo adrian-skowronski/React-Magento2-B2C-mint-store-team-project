@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890323831" stop="1729890323853" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Model\Product\TypeTest</name>
+  <test-cases>
+    <test-case start="1729890323832" stop="1729890323841" status="passed">
+      <name>testHasWeightFalse</name>
+    </test-case>
+    <test-case start="1729890323841" stop="1729890323844" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+    <test-case start="1729890323844" stop="1729890323846" status="passed">
+      <name>testHasLinks</name>
+    </test-case>
+    <test-case start="1729890323847" stop="1729890323851" status="passed">
+      <name>testCheckProductBuyState</name>
+    </test-case>
+    <test-case start="1729890323851" stop="1729890323853" status="passed">
+      <name>testCheckProductBuyStateException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353210" stop="1729890353216" version="1.4.0">
+  <name>Magento\MediaStorage\Test\Unit\Model\File\Storage\ResponseTest</name>
+  <test-cases>
+    <test-case start="1729890353211" stop="1729890353214" status="passed">
+      <name>testSendResponse</name>
+    </test-case>
+    <test-case start="1729890353215" stop="1729890353216" status="passed">
+      <name>testSendResponseWithoutFilePath</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

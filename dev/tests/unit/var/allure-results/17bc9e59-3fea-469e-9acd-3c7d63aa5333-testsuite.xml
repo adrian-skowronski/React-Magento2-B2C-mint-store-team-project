@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452680" stop="1729890452684" version="1.4.0">
+  <name>Magento\Framework\Module\Test\Unit\Declaration\Converter\DomTest</name>
+  <test-cases>
+    <test-case start="1729890452680" stop="1729890452682" status="passed">
+      <name>testConvertWithValidDom</name>
+    </test-case>
+    <test-case start="1729890452682" stop="1729890452683" status="passed">
+      <name>testConvertWithInvalidDom with data set "Module node without "name" attribute"</name>
+    </test-case>
+    <test-case start="1729890452683" stop="1729890452684" status="passed">
+      <name>testConvertWithInvalidDom with data set "Sequence module node without "name" attribute"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

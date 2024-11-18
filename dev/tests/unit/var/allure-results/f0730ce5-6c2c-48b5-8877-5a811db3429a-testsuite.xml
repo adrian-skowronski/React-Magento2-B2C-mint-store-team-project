@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890362057" stop="1729890362067" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Payflow\Service\Response\Handler\FraudHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890362057" stop="1729890362059" status="passed">
+      <name>testHandleApprovedTransaction</name>
+    </test-case>
+    <test-case start="1729890362059" stop="1729890362060" status="passed">
+      <name>testHandle with data set #0</name>
+    </test-case>
+    <test-case start="1729890362061" stop="1729890362062" status="passed">
+      <name>testHandle with data set #1</name>
+    </test-case>
+    <test-case start="1729890362062" stop="1729890362064" status="passed">
+      <name>testHandle with data set #2</name>
+    </test-case>
+    <test-case start="1729890362065" stop="1729890362067" status="passed">
+      <name>testHandleXXEXml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

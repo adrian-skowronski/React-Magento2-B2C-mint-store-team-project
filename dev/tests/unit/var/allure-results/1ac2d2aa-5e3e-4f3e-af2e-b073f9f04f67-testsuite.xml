@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319445" stop="1729890319466" version="1.4.0">
+  <name>Magento\Deploy\Test\Unit\Service\DeployStaticContentTest</name>
+  <test-cases>
+    <test-case start="1729890319446" stop="1729890319457" status="passed">
+      <name>testDeploy with data set #0</name>
+    </test-case>
+    <test-case start="1729890319458" stop="1729890319461" status="passed">
+      <name>testDeploy with data set #1</name>
+    </test-case>
+    <test-case start="1729890319462" stop="1729890319463" status="passed">
+      <name>testDeploy with data set #2</name>
+    </test-case>
+    <test-case start="1729890319463" stop="1729890319466" status="passed">
+      <name>testMaxExecutionTimeOptionPassed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

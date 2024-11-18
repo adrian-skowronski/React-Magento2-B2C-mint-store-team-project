@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890415758" stop="1729890415770" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Fixtures\TaxRatesFixtureTest</name>
+  <test-cases>
+    <test-case start="1729890415759" stop="1729890415765" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890415765" stop="1729890415767" status="passed">
+      <name>testNoFixtureConfigValue</name>
+    </test-case>
+    <test-case start="1729890415768" stop="1729890415769" status="passed">
+      <name>testGetActionTitle</name>
+    </test-case>
+    <test-case start="1729890415769" stop="1729890415770" status="passed">
+      <name>testIntroduceParamLabels</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

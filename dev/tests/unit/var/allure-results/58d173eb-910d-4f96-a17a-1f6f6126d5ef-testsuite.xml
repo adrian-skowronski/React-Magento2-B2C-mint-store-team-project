@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890314663" stop="1729890314666" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\CustomerData\SectionPoolTest</name>
+  <test-cases>
+    <test-case start="1729890314664" stop="1729890314665" status="passed">
+      <name>testGetSectionsDataAllSections</name>
+    </test-case>
+    <test-case start="1729890314665" stop="1729890314666" status="passed">
+      <name>testGetSectionsDataAllSectionsException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

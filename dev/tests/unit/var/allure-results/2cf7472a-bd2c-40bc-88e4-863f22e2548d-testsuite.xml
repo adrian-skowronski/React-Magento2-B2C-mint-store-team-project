@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890293928" stop="1729890293939" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ResourceModel\MediaImageDeleteProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890293931" stop="1729890293935" status="passed">
+      <name>testExecuteCategoryProductMediaDelete with data set "test image can be deleted with existing product and product images"</name>
+    </test-case>
+    <test-case start="1729890293936" stop="1729890293937" status="passed">
+      <name>testExecuteCategoryProductMediaDelete with data set "test image can not be deleted without valid product id"</name>
+    </test-case>
+    <test-case start="1729890293938" stop="1729890293939" status="passed">
+      <name>testExecuteCategoryProductMediaDelete with data set "test image can not be deleted without valid product images"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

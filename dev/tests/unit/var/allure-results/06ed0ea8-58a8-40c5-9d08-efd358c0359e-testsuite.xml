@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316391" stop="1729890316395" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Data\CustomerTest</name>
+  <test-cases>
+    <test-case start="1729890316392" stop="1729890316393" status="passed">
+      <name>testGetGroupId</name>
+    </test-case>
+    <test-case start="1729890316393" stop="1729890316395" status="passed">
+      <name>testGetCreatedIn with data set "array"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

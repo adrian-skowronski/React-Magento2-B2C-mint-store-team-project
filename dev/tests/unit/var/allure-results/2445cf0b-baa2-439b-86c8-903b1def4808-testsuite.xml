@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890308415" stop="1729890308434" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Controller\Adminhtml\Product\WizardTest</name>
+  <test-cases>
+    <test-case start="1729890308416" stop="1729890308433" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

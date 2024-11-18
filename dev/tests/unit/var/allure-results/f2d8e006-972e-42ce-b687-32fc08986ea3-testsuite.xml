@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890289027" stop="1729890289252" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\ImageTest</name>
+  <test-cases>
+    <test-case start="1729890289027" stop="1729890289072" status="passed">
+      <name>testSetGetQuality</name>
+    </test-case>
+    <test-case start="1729890289073" stop="1729890289086" status="passed">
+      <name>testSetGetKeepAspectRatio</name>
+    </test-case>
+    <test-case start="1729890289086" stop="1729890289106" status="passed">
+      <name>testSetKeepFrame</name>
+    </test-case>
+    <test-case start="1729890289108" stop="1729890289114" status="passed">
+      <name>testSetKeepTransparency</name>
+    </test-case>
+    <test-case start="1729890289115" stop="1729890289122" status="passed">
+      <name>testSetConstrainOnly</name>
+    </test-case>
+    <test-case start="1729890289125" stop="1729890289131" status="passed">
+      <name>testSetBackgroundColor</name>
+    </test-case>
+    <test-case start="1729890289132" stop="1729890289140" status="passed">
+      <name>testSetSize</name>
+    </test-case>
+    <test-case start="1729890289144" stop="1729890289153" status="passed">
+      <name>testSetGetBaseFile</name>
+    </test-case>
+    <test-case start="1729890289156" stop="1729890289160" status="passed">
+      <name>testSetBaseNoSelectionFile</name>
+    </test-case>
+    <test-case start="1729890289160" stop="1729890289169" status="passed">
+      <name>testSetGetImageProcessor</name>
+    </test-case>
+    <test-case start="1729890289169" stop="1729890289173" status="passed">
+      <name>testResize</name>
+    </test-case>
+    <test-case start="1729890289174" stop="1729890289178" status="passed">
+      <name>testRotate</name>
+    </test-case>
+    <test-case start="1729890289178" stop="1729890289182" status="passed">
+      <name>testSetAngle</name>
+    </test-case>
+    <test-case start="1729890289182" stop="1729890289190" status="passed">
+      <name>testSetWatermark</name>
+    </test-case>
+    <test-case start="1729890289190" stop="1729890289193" status="passed">
+      <name>testSaveFile</name>
+    </test-case>
+    <test-case start="1729890289194" stop="1729890289197" status="passed">
+      <name>testSaveFileNoSelection</name>
+    </test-case>
+    <test-case start="1729890289198" stop="1729890289202" status="passed">
+      <name>testGetUrl</name>
+    </test-case>
+    <test-case start="1729890289202" stop="1729890289205" status="passed">
+      <name>testGetUrlNoSelection</name>
+    </test-case>
+    <test-case start="1729890289206" stop="1729890289208" status="passed">
+      <name>testSetGetDestinationSubdir</name>
+    </test-case>
+    <test-case start="1729890289209" stop="1729890289213" status="passed">
+      <name>testIsCached</name>
+    </test-case>
+    <test-case start="1729890289214" stop="1729890289224" status="passed">
+      <name>testClearCache with data set #0</name>
+    </test-case>
+    <test-case start="1729890289224" stop="1729890289228" status="passed">
+      <name>testClearCache with data set #1</name>
+    </test-case>
+    <test-case start="1729890289229" stop="1729890289232" status="passed">
+      <name>testResizeWithoutSize</name>
+    </test-case>
+    <test-case start="1729890289233" stop="1729890289236" status="passed">
+      <name>testGetImageProcessor</name>
+    </test-case>
+    <test-case start="1729890289237" stop="1729890289240" status="passed">
+      <name>testIsBaseFilePlaceholder</name>
+    </test-case>
+    <test-case start="1729890289240" stop="1729890289244" status="passed">
+      <name>testGetResizedImageInfoWithCache</name>
+    </test-case>
+    <test-case start="1729890289244" stop="1729890289249" status="passed">
+      <name>testGetResizedImageInfoEmptyCache</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

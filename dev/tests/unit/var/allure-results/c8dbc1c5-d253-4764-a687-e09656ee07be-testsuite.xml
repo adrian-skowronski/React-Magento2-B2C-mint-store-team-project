@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890424506" stop="1729890424510" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\CronTest</name>
+  <test-cases>
+    <test-case start="1729890424507" stop="1729890424510" status="passed">
+      <name>testLaunchDispatchesCronEvent</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325026" stop="1729890325048" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\AttributeSetRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890325027" stop="1729890325032" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890325032" stop="1729890325033" status="passed">
+      <name>testGetThrowsExceptionIfRequestedAttributeSetDoesNotExist</name>
+    </test-case>
+    <test-case start="1729890325034" stop="1729890325035" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890325035" stop="1729890325036" status="passed">
+      <name>testSaveThrowsExceptionIfGivenEntityCannotBeSaved</name>
+    </test-case>
+    <test-case start="1729890325037" stop="1729890325038" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890325038" stop="1729890325039" status="passed">
+      <name>testDeleteThrowsExceptionIfGivenEntityCannotBeDeleted</name>
+    </test-case>
+    <test-case start="1729890325040" stop="1729890325041" status="passed">
+      <name>testDeleteThrowsExceptionIfGivenAttributeSetIsDefault</name>
+    </test-case>
+    <test-case start="1729890325041" stop="1729890325043" status="passed">
+      <name>testDeleteById</name>
+    </test-case>
+    <test-case start="1729890325044" stop="1729890325046" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890325047" stop="1729890325048" status="passed">
+      <name>testGetListIfEntityTypeCodeIsNull</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330838" stop="1729890330863" version="1.4.0">
+  <name>Magento\GroupedImportExport\Test\Unit\Model\Import\Product\Type\Grouped\LinksTest</name>
+  <test-cases>
+    <test-case start="1729890330839" stop="1729890330846" status="passed">
+      <name>testSaveLinksDataNoProductsAttrs with data set #0</name>
+    </test-case>
+    <test-case start="1729890330847" stop="1729890330852" status="passed">
+      <name>testSaveLinksDataWithProductsAttrs with data set #0</name>
+    </test-case>
+    <test-case start="1729890330852" stop="1729890330856" status="passed">
+      <name>testGetAttributes with data set #0</name>
+    </test-case>
+    <test-case start="1729890330856" stop="1729890330859" status="passed">
+      <name>testGetAttributes with data set #1</name>
+    </test-case>
+    <test-case start="1729890330859" stop="1729890330863" status="passed">
+      <name>testGetAttributes with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

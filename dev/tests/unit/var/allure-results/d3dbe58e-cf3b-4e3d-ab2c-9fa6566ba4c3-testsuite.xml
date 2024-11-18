@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329163" stop="1729890329174" version="1.4.0">
+  <name>Magento\EncryptionKey\Test\Unit\Controller\Adminhtml\Crypt\Key\SaveTest</name>
+  <test-cases>
+    <test-case start="1729890329163" stop="1729890329169" status="passed">
+      <name>testExecuteNonRandomAndWithCryptKey</name>
+    </test-case>
+    <test-case start="1729890329170" stop="1729890329172" status="passed">
+      <name>testExecuteNonRandomAndWithoutCryptKey</name>
+    </test-case>
+    <test-case start="1729890329172" stop="1729890329174" status="passed">
+      <name>testExecuteRandom</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

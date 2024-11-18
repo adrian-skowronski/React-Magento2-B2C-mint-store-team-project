@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361986" stop="1729890361997" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Payflow\Service\GatewayTest</name>
+  <test-cases>
+    <test-case start="1729890361986" stop="1729890361991" status="passed">
+      <name>testPostRequestOk with data set #0</name>
+    </test-case>
+    <test-case start="1729890361991" stop="1729890361993" status="passed">
+      <name>testPostRequestOk with data set #1</name>
+    </test-case>
+    <test-case start="1729890361994" stop="1729890361995" status="passed">
+      <name>testRequestBody with data set #0</name>
+    </test-case>
+    <test-case start="1729890361996" stop="1729890361997" status="passed">
+      <name>testPostRequestFail</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280076" stop="1729890280089" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Model\Category\Plugin\Store\GroupTest</name>
+  <test-cases>
+    <test-case start="1729890280076" stop="1729890280086" status="passed">
+      <name>testAfterSave</name>
+    </test-case>
+    <test-case start="1729890280087" stop="1729890280089" status="passed">
+      <name>testAfterSaveWithNoStoresAssigned</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

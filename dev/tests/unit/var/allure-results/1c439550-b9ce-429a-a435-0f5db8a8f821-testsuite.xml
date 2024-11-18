@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449020" stop="1729890449051" version="1.4.0">
+  <name>Magento\Framework\Filesystem\Test\Unit\Driver\FileTest</name>
+  <test-cases>
+    <test-case start="1729890449021" stop="1729890449022" status="passed">
+      <name>testGetAbsolutePath with data set #0</name>
+    </test-case>
+    <test-case start="1729890449022" stop="1729890449023" status="passed">
+      <name>testGetAbsolutePath with data set #1</name>
+    </test-case>
+    <test-case start="1729890449024" stop="1729890449025" status="passed">
+      <name>testGetAbsolutePath with data set #2</name>
+    </test-case>
+    <test-case start="1729890449026" stop="1729890449027" status="passed">
+      <name>testGetAbsolutePath with data set #3</name>
+    </test-case>
+    <test-case start="1729890449027" stop="1729890449028" status="passed">
+      <name>testGetAbsolutePath with data set #4</name>
+    </test-case>
+    <test-case start="1729890449029" stop="1729890449030" status="passed">
+      <name>testGetAbsolutePath with data set #5</name>
+    </test-case>
+    <test-case start="1729890449031" stop="1729890449032" status="passed">
+      <name>testGetRelativePath with data set #0</name>
+    </test-case>
+    <test-case start="1729890449032" stop="1729890449033" status="passed">
+      <name>testGetRelativePath with data set #1</name>
+    </test-case>
+    <test-case start="1729890449034" stop="1729890449034" status="passed">
+      <name>testGetRelativePath with data set #2</name>
+    </test-case>
+    <test-case start="1729890449035" stop="1729890449036" status="passed">
+      <name>testGetRelativePath with data set #3</name>
+    </test-case>
+    <test-case start="1729890449036" stop="1729890449037" status="passed">
+      <name>testGetRelativePath with data set #4</name>
+    </test-case>
+    <test-case start="1729890449038" stop="1729890449038" status="passed">
+      <name>testGetRelativePath with data set #5</name>
+    </test-case>
+    <test-case start="1729890449039" stop="1729890449040" status="passed">
+      <name>testGetRealPathSafety with data set #0</name>
+    </test-case>
+    <test-case start="1729890449040" stop="1729890449041" status="passed">
+      <name>testGetRealPathSafety with data set #1</name>
+    </test-case>
+    <test-case start="1729890449041" stop="1729890449042" status="passed">
+      <name>testGetRealPathSafety with data set #2</name>
+    </test-case>
+    <test-case start="1729890449042" stop="1729890449043" status="passed">
+      <name>testGetRealPathSafety with data set #3</name>
+    </test-case>
+    <test-case start="1729890449043" stop="1729890449043" status="passed">
+      <name>testGetRealPathSafety with data set #4</name>
+    </test-case>
+    <test-case start="1729890449043" stop="1729890449044" status="passed">
+      <name>testGetRealPathSafety with data set #5</name>
+    </test-case>
+    <test-case start="1729890449044" stop="1729890449044" status="passed">
+      <name>testGetRealPathSafety with data set #6</name>
+    </test-case>
+    <test-case start="1729890449045" stop="1729890449045" status="passed">
+      <name>testGetRealPathSafety with data set #7</name>
+    </test-case>
+    <test-case start="1729890449046" stop="1729890449046" status="passed">
+      <name>testGetRealPathSafety with data set #8</name>
+    </test-case>
+    <test-case start="1729890449047" stop="1729890449047" status="passed">
+      <name>testGetRealPathSafety with data set #9</name>
+    </test-case>
+    <test-case start="1729890449048" stop="1729890449048" status="passed">
+      <name>testGetRealPathSafety with data set #10</name>
+    </test-case>
+    <test-case start="1729890449049" stop="1729890449049" status="passed">
+      <name>testGetRealPathSafety with data set #11</name>
+    </test-case>
+    <test-case start="1729890449050" stop="1729890449050" status="passed">
+      <name>testGetRealPathSafety with data set #12</name>
+    </test-case>
+    <test-case start="1729890449051" stop="1729890449051" status="passed">
+      <name>testGetRealPathSafety with data set #13</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

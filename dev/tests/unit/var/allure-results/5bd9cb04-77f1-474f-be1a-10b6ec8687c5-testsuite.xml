@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890412153" stop="1729890412156" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Plugin\Ui\DataProvider\WishlistSettingsTest</name>
+  <test-cases>
+    <test-case start="1729890412153" stop="1729890412155" status="passed">
+      <name>testAfterGetData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

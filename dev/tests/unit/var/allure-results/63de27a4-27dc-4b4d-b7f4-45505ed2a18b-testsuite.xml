@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392356" stop="1729890392359" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Model\Plugin\LoginControllerTest</name>
+  <test-cases>
+    <test-case start="1729890392356" stop="1729890392359" status="passed">
+      <name>testBeforeExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

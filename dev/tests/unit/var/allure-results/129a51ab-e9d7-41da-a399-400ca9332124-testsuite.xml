@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454625" stop="1729890454644" version="1.4.0">
+  <name>Magento\Framework\ObjectManager\Test\Unit\ObjectManagerTest</name>
+  <test-cases>
+    <test-case start="1729890454625" stop="1729890454626" status="passed">
+      <name>testCreateCreatesNewInstanceEveryTime</name>
+    </test-case>
+    <test-case start="1729890454626" stop="1729890454627" status="passed">
+      <name>testGetCreatesNewInstanceOnlyOnce</name>
+    </test-case>
+    <test-case start="1729890454627" stop="1729890454628" status="passed">
+      <name>testCreateCreatesPreferredImplementation</name>
+    </test-case>
+    <test-case start="1729890454628" stop="1729890454629" status="passed">
+      <name>testGetCreatesPreferredImplementation</name>
+    </test-case>
+    <test-case start="1729890454629" stop="1729890454630" status="passed">
+      <name>testCreateThrowsExceptionIfRequiredConstructorParameterIsNotProvided</name>
+    </test-case>
+    <test-case start="1729890454630" stop="1729890454631" status="passed">
+      <name>testCreateResolvesScalarParametersAutomatically</name>
+    </test-case>
+    <test-case start="1729890454631" stop="1729890454632" status="passed">
+      <name>testGetCreatesSharedInstancesEveryTime</name>
+    </test-case>
+    <test-case start="1729890454632" stop="1729890454633" status="passed">
+      <name>testGetDetectsCircularDependency</name>
+    </test-case>
+    <test-case start="1729890454633" stop="1729890454634" status="passed">
+      <name>testCreateIgnoresOptionalArguments</name>
+    </test-case>
+    <test-case start="1729890454634" stop="1729890454635" status="passed">
+      <name>testCreateCreatesPreconfiguredInstance</name>
+    </test-case>
+    <test-case start="1729890454635" stop="1729890454636" status="passed">
+      <name>testParameterShareabilityConfigurationIsApplied</name>
+    </test-case>
+    <test-case start="1729890454636" stop="1729890454638" status="passed">
+      <name>testTypeShareabilityConfigurationIsApplied</name>
+    </test-case>
+    <test-case start="1729890454638" stop="1729890454639" status="passed">
+      <name>testParameterShareabilityConfigurationOverridesTypeShareability</name>
+    </test-case>
+    <test-case start="1729890454640" stop="1729890454640" status="passed">
+      <name>testGlobalArgumentsCanBeConfigured</name>
+    </test-case>
+    <test-case start="1729890454641" stop="1729890454642" status="passed">
+      <name>testConfiguredArgumentsAreInherited</name>
+    </test-case>
+    <test-case start="1729890454642" stop="1729890454643" status="passed">
+      <name>testConfiguredArgumentsOverrideInheritedArguments</name>
+    </test-case>
+    <test-case start="1729890454643" stop="1729890454643" status="passed">
+      <name>testGetIgnoresFirstSlash</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

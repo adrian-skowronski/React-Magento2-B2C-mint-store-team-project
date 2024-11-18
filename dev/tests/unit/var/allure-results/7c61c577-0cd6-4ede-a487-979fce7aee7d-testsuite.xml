@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890377779" stop="1729890377853" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Block\Adminhtml\Order\Create\Items\GridTest</name>
+  <test-cases>
+    <test-case start="1729890377780" stop="1729890377796" status="passed">
+      <name>testTierPriceInfo with data set #0</name>
+    </test-case>
+    <test-case start="1729890377796" stop="1729890377800" status="passed">
+      <name>testTierPriceInfo with data set #1</name>
+    </test-case>
+    <test-case start="1729890377801" stop="1729890377805" status="passed">
+      <name>testTierPriceInfo with data set #2</name>
+    </test-case>
+    <test-case start="1729890377806" stop="1729890377811" status="passed">
+      <name>testTierPriceInfo with data set #3</name>
+    </test-case>
+    <test-case start="1729890377811" stop="1729890377816" status="passed">
+      <name>testTierPriceInfo with data set #4</name>
+    </test-case>
+    <test-case start="1729890377816" stop="1729890377823" status="passed">
+      <name>testGetItems</name>
+    </test-case>
+    <test-case start="1729890377824" stop="1729890377832" status="passed">
+      <name>testGetItemUnitPriceHtml</name>
+    </test-case>
+    <test-case start="1729890377832" stop="1729890377839" status="passed">
+      <name>testGetItemRowTotalHtml</name>
+    </test-case>
+    <test-case start="1729890377839" stop="1729890377845" status="passed">
+      <name>testGetItemRowTotalWithDiscountHtml</name>
+    </test-case>
+    <test-case start="1729890377846" stop="1729890377849" status="passed">
+      <name>testGetSubtotalWithDiscount with data set "displayTotalsIncludeTaxTrue"</name>
+    </test-case>
+    <test-case start="1729890377850" stop="1729890377853" status="passed">
+      <name>testGetSubtotalWithDiscount with data set "displayTotalsIncludeTaxFalse"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

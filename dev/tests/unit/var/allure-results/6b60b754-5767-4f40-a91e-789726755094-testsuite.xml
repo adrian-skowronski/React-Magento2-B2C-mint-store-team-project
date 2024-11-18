@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356904" stop="1729890356923" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Model\Cache\ServerTest</name>
+  <test-cases>
+    <test-case start="1729890356905" stop="1729890356911" status="passed">
+      <name>testGetUris with data set "http host"</name>
+    </test-case>
+    <test-case start="1729890356912" stop="1729890356916" status="passed">
+      <name>testGetUris with data set "url"</name>
+    </test-case>
+    <test-case start="1729890356917" stop="1729890356922" status="passed">
+      <name>testGetUris with data set "config"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

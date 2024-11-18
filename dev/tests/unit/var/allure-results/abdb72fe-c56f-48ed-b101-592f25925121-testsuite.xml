@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890291100" stop="1729890291138" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\ProductList\ToolbarTest</name>
+  <test-cases>
+    <test-case start="1729890291101" stop="1729890291105" status="passed">
+      <name>testGetOrder with data set #0</name>
+    </test-case>
+    <test-case start="1729890291108" stop="1729890291113" status="passed">
+      <name>testGetDirection with data set #0</name>
+    </test-case>
+    <test-case start="1729890291115" stop="1729890291117" status="passed">
+      <name>testGetMode with data set #0</name>
+    </test-case>
+    <test-case start="1729890291120" stop="1729890291125" status="passed">
+      <name>testGetLimit with data set #0</name>
+    </test-case>
+    <test-case start="1729890291127" stop="1729890291130" status="passed">
+      <name>testGetCurrentPage with data set #0</name>
+    </test-case>
+    <test-case start="1729890291131" stop="1729890291132" status="passed">
+      <name>testGetCurrentPage with data set #1</name>
+    </test-case>
+    <test-case start="1729890291135" stop="1729890291137" status="passed">
+      <name>testGetCurrentPageNoParam</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

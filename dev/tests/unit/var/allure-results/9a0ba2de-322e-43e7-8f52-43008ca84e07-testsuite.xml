@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890377132" stop="1729890377158" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Observer\AssignCouponDataAfterOrderCustomerAssignObserverTest</name>
+  <test-cases>
+    <test-case start="1729890377133" stop="1729890377154" status="passed">
+      <name>testExecuteAssignCouponData</name>
+    </test-case>
+    <test-case start="1729890377155" stop="1729890377158" status="passed">
+      <name>testExecuteAssignCouponDataWithEmptyCustomerId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

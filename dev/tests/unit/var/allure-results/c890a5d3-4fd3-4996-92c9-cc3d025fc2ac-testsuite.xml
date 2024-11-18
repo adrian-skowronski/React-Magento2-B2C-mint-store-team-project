@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890412876" stop="1729890412929" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Console\Command\ConfigSetCommandTest</name>
+  <test-cases>
+    <test-case start="1729890412879" stop="1729890412898" status="passed">
+      <name>testExecuteNoInteractive</name>
+    </test-case>
+    <test-case start="1729890412899" stop="1729890412914" status="passed">
+      <name>testExecuteInteractiveWithYes</name>
+    </test-case>
+    <test-case start="1729890412917" stop="1729890412923" status="passed">
+      <name>testExecuteInteractiveWithNo</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

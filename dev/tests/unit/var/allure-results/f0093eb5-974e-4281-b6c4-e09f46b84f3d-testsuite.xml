@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890317750" stop="1729890317758" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Renderer\RegionTest</name>
+  <test-cases>
+    <test-case start="1729890317751" stop="1729890317755" status="passed">
+      <name>testRender with data set "with no defined regions"</name>
+    </test-case>
+    <test-case start="1729890317756" stop="1729890317758" status="passed">
+      <name>testRender with data set "with defined regions"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

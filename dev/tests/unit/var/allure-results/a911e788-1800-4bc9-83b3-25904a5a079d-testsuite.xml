@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464868" stop="1729890464885" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\UiComponent\Argument\Interpreter\ConfigurableObjectTest</name>
+  <test-cases>
+    <test-case start="1729890464869" stop="1729890464871" status="passed">
+      <name>testValidCombinations with data set #0</name>
+    </test-case>
+    <test-case start="1729890464872" stop="1729890464873" status="passed">
+      <name>testValidCombinations with data set #1</name>
+    </test-case>
+    <test-case start="1729890464873" stop="1729890464875" status="passed">
+      <name>testValidCombinations with data set #2</name>
+    </test-case>
+    <test-case start="1729890464875" stop="1729890464877" status="passed">
+      <name>testValidCombinations with data set #3</name>
+    </test-case>
+    <test-case start="1729890464878" stop="1729890464879" status="passed">
+      <name>testInvalidCombinations with data set #0</name>
+    </test-case>
+    <test-case start="1729890464880" stop="1729890464881" status="passed">
+      <name>testInvalidCombinations with data set #1</name>
+    </test-case>
+    <test-case start="1729890464881" stop="1729890464882" status="passed">
+      <name>testInvalidCombinations with data set #2</name>
+    </test-case>
+    <test-case start="1729890464883" stop="1729890464884" status="passed">
+      <name>testInvalidCombinations with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

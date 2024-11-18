@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271516" stop="1729890271531" version="1.4.0">
+  <name>Magento\Captcha\Test\Unit\Observer\CheckContactUsFormObserverTest</name>
+  <test-cases>
+    <test-case start="1729890271517" stop="1729890271524" status="passed">
+      <name>testCheckContactUsFormWhenCaptchaIsRequiredAndValid</name>
+    </test-case>
+    <test-case start="1729890271524" stop="1729890271529" status="passed">
+      <name>testCheckContactUsFormRedirectsCustomerWithWarningMessageWhenCaptchaIsRequiredAndInvalid</name>
+    </test-case>
+    <test-case start="1729890271529" stop="1729890271531" status="passed">
+      <name>testCheckContactUsFormDoesNotCheckCaptchaWhenItIsNotRequired</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

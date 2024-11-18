@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464562" stop="1729890464636" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Page\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890464563" stop="1729890464565" status="passed">
+      <name>testSetBuilder</name>
+    </test-case>
+    <test-case start="1729890464566" stop="1729890464567" status="passed">
+      <name>testBuild</name>
+    </test-case>
+    <test-case start="1729890464567" stop="1729890464568" status="passed">
+      <name>testGetTitle</name>
+    </test-case>
+    <test-case start="1729890464569" stop="1729890464570" status="passed">
+      <name>testMetadata</name>
+    </test-case>
+    <test-case start="1729890464570" stop="1729890464572" status="passed">
+      <name>testContentType</name>
+    </test-case>
+    <test-case start="1729890464572" stop="1729890464573" status="passed">
+      <name>testContentTypeEmpty</name>
+    </test-case>
+    <test-case start="1729890464573" stop="1729890464575" status="passed">
+      <name>testContentTypeAuto</name>
+    </test-case>
+    <test-case start="1729890464575" stop="1729890464576" status="passed">
+      <name>testMediaType</name>
+    </test-case>
+    <test-case start="1729890464577" stop="1729890464578" status="passed">
+      <name>testMediaTypeEmpty</name>
+    </test-case>
+    <test-case start="1729890464578" stop="1729890464580" status="passed">
+      <name>testCharset</name>
+    </test-case>
+    <test-case start="1729890464580" stop="1729890464581" status="passed">
+      <name>testCharsetEmpty</name>
+    </test-case>
+    <test-case start="1729890464582" stop="1729890464583" status="passed">
+      <name>testDescription</name>
+    </test-case>
+    <test-case start="1729890464583" stop="1729890464585" status="passed">
+      <name>testDescriptionEmpty</name>
+    </test-case>
+    <test-case start="1729890464585" stop="1729890464586" status="passed">
+      <name>testKeywords</name>
+    </test-case>
+    <test-case start="1729890464586" stop="1729890464587" status="passed">
+      <name>testKeywordsEmpty</name>
+    </test-case>
+    <test-case start="1729890464588" stop="1729890464589" status="passed">
+      <name>testRobots</name>
+    </test-case>
+    <test-case start="1729890464589" stop="1729890464591" status="passed">
+      <name>testRobotsEmpty</name>
+    </test-case>
+    <test-case start="1729890464591" stop="1729890464592" status="passed">
+      <name>testRobotsAdminhtml</name>
+    </test-case>
+    <test-case start="1729890464593" stop="1729890464594" status="passed">
+      <name>testGetAssetCollection</name>
+    </test-case>
+    <test-case start="1729890464595" stop="1729890464597" status="passed">
+      <name>testAddPageAsset with data set #0</name>
+    </test-case>
+    <test-case start="1729890464598" stop="1729890464600" status="passed">
+      <name>testAddPageAsset with data set #1</name>
+    </test-case>
+    <test-case start="1729890464601" stop="1729890464602" status="passed">
+      <name>testAddRemotePageAsset with data set #0</name>
+    </test-case>
+    <test-case start="1729890464603" stop="1729890464605" status="passed">
+      <name>testAddRemotePageAsset with data set #1</name>
+    </test-case>
+    <test-case start="1729890464605" stop="1729890464607" status="passed">
+      <name>testAddRss</name>
+    </test-case>
+    <test-case start="1729890464607" stop="1729890464608" status="passed">
+      <name>testAddBodyClass</name>
+    </test-case>
+    <test-case start="1729890464609" stop="1729890464610" status="passed">
+      <name>testElementAttribute with data set #0</name>
+    </test-case>
+    <test-case start="1729890464611" stop="1729890464612" status="passed">
+      <name>testElementAttribute with data set #1</name>
+    </test-case>
+    <test-case start="1729890464613" stop="1729890464614" status="passed">
+      <name>testElementAttribute with data set #2</name>
+    </test-case>
+    <test-case start="1729890464615" stop="1729890464616" status="passed">
+      <name>testElementAttributeException with data set #0</name>
+    </test-case>
+    <test-case start="1729890464617" stop="1729890464618" status="passed">
+      <name>testElementAttributeException with data set #1</name>
+    </test-case>
+    <test-case start="1729890464618" stop="1729890464619" status="passed">
+      <name>testElementAttributeException with data set #2</name>
+    </test-case>
+    <test-case start="1729890464620" stop="1729890464622" status="passed">
+      <name>testElementAttributes with data set #0</name>
+    </test-case>
+    <test-case start="1729890464622" stop="1729890464624" status="passed">
+      <name>testPageLayout with data set #0</name>
+    </test-case>
+    <test-case start="1729890464624" stop="1729890464625" status="passed">
+      <name>testPageLayout with data set #1</name>
+    </test-case>
+    <test-case start="1729890464626" stop="1729890464627" status="passed">
+      <name>testPageLayout with data set #2</name>
+    </test-case>
+    <test-case start="1729890464628" stop="1729890464629" status="passed">
+      <name>testPageLayout with data set #3</name>
+    </test-case>
+    <test-case start="1729890464629" stop="1729890464630" status="passed">
+      <name>testGetFaviconFile</name>
+    </test-case>
+    <test-case start="1729890464631" stop="1729890464632" status="passed">
+      <name>testGetDefaultFavicon</name>
+    </test-case>
+    <test-case start="1729890464632" stop="1729890464634" status="passed">
+      <name>testGetIncludes with data set #0</name>
+    </test-case>
+    <test-case start="1729890464634" stop="1729890464635" status="passed">
+      <name>testGetIncludes with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

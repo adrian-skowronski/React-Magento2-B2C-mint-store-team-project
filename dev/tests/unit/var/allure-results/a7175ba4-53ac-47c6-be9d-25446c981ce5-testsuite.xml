@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890417262" stop="1729890417271" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\Dependency\Parser\CodeTest</name>
+  <test-cases>
+    <test-case start="1729890417263" stop="1729890417265" status="passed">
+      <name>testParseWithWrongOptionFilesForParse with data set #0</name>
+    </test-case>
+    <test-case start="1729890417266" stop="1729890417266" status="passed">
+      <name>testParseWithWrongOptionFilesForParse with data set #1</name>
+    </test-case>
+    <test-case start="1729890417267" stop="1729890417267" status="passed">
+      <name>testParseWithWrongOptionFilesForParse with data set #2</name>
+    </test-case>
+    <test-case start="1729890417268" stop="1729890417269" status="passed">
+      <name>testParseWithWrongOptionDeclaredNamespace with data set #0</name>
+    </test-case>
+    <test-case start="1729890417269" stop="1729890417270" status="passed">
+      <name>testParseWithWrongOptionDeclaredNamespace with data set #1</name>
+    </test-case>
+    <test-case start="1729890417270" stop="1729890417271" status="passed">
+      <name>testParseWithWrongOptionDeclaredNamespace with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

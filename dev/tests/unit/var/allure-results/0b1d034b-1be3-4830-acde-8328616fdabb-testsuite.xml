@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890379675" stop="1729890379873" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Helper\AdminTest</name>
+  <test-cases>
+    <test-case start="1729890379676" stop="1729890379684" status="passed">
+      <name>testDisplayPrices with data set #0</name>
+    </test-case>
+    <test-case start="1729890379685" stop="1729890379693" status="passed">
+      <name>testDisplayPrices with data set #1</name>
+    </test-case>
+    <test-case start="1729890379693" stop="1729890379700" status="passed">
+      <name>testDisplayPrices with data set #2</name>
+    </test-case>
+    <test-case start="1729890379700" stop="1729890379707" status="passed">
+      <name>testDisplayPrices with data set #3</name>
+    </test-case>
+    <test-case start="1729890379707" stop="1729890379714" status="passed">
+      <name>testDisplayPrices with data set #4</name>
+    </test-case>
+    <test-case start="1729890379715" stop="1729890379721" status="passed">
+      <name>testDisplayPrices with data set #5</name>
+    </test-case>
+    <test-case start="1729890379722" stop="1729890379730" status="passed">
+      <name>testDisplayPrices with data set #6</name>
+    </test-case>
+    <test-case start="1729890379730" stop="1729890379737" status="passed">
+      <name>testDisplayPrices with data set #7</name>
+    </test-case>
+    <test-case start="1729890379738" stop="1729890379744" status="passed">
+      <name>testDisplayPrices with data set #8</name>
+    </test-case>
+    <test-case start="1729890379745" stop="1729890379752" status="passed">
+      <name>testDisplayPriceAttribute with data set #0</name>
+    </test-case>
+    <test-case start="1729890379753" stop="1729890379760" status="passed">
+      <name>testDisplayPriceAttribute with data set #1</name>
+    </test-case>
+    <test-case start="1729890379761" stop="1729890379768" status="passed">
+      <name>testDisplayPriceAttribute with data set #2</name>
+    </test-case>
+    <test-case start="1729890379769" stop="1729890379776" status="passed">
+      <name>testDisplayPriceAttribute with data set #3</name>
+    </test-case>
+    <test-case start="1729890379776" stop="1729890379783" status="passed">
+      <name>testDisplayPriceAttribute with data set #4</name>
+    </test-case>
+    <test-case start="1729890379783" stop="1729890379790" status="passed">
+      <name>testDisplayPriceAttribute with data set #5</name>
+    </test-case>
+    <test-case start="1729890379791" stop="1729890379798" status="passed">
+      <name>testDisplayPriceAttribute with data set #6</name>
+    </test-case>
+    <test-case start="1729890379799" stop="1729890379806" status="passed">
+      <name>testDisplayPriceAttribute with data set #7</name>
+    </test-case>
+    <test-case start="1729890379807" stop="1729890379814" status="passed">
+      <name>testDisplayPriceAttribute with data set #8</name>
+    </test-case>
+    <test-case start="1729890379814" stop="1729890379823" status="passed">
+      <name>testApplySalableProductTypesFilter with data set #0</name>
+    </test-case>
+    <test-case start="1729890379823" stop="1729890379830" status="passed">
+      <name>testApplySalableProductTypesFilter with data set #1</name>
+    </test-case>
+    <test-case start="1729890379830" stop="1729890379838" status="passed">
+      <name>testApplySalableProductTypesFilter with data set #2</name>
+    </test-case>
+    <test-case start="1729890379839" stop="1729890379846" status="passed">
+      <name>testApplySalableProductTypesFilter with data set #3</name>
+    </test-case>
+    <test-case start="1729890379846" stop="1729890379852" status="passed">
+      <name>testApplySalableProductTypesFilter with data set #4</name>
+    </test-case>
+    <test-case start="1729890379853" stop="1729890379860" status="passed">
+      <name>testApplySalableProductTypesFilter with data set #5</name>
+    </test-case>
+    <test-case start="1729890379861" stop="1729890379867" status="passed">
+      <name>testApplySalableProductTypesFilter with data set #6</name>
+    </test-case>
+    <test-case start="1729890379868" stop="1729890379873" status="passed">
+      <name>testEscapeHtmlWithLinks</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

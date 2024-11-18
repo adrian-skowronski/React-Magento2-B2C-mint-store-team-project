@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890445415" stop="1729890445419" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Form\FormKey\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890445415" stop="1729890445417" status="passed">
+      <name>testValidate with data set "formKeyExist"</name>
+    </test-case>
+    <test-case start="1729890445417" stop="1729890445419" status="passed">
+      <name>testValidate with data set "formKeyNotEqualToFormKeyInSession"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

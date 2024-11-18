@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890312687" stop="1729890312690" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Block\Account\LinkTest</name>
+  <test-cases>
+    <test-case start="1729890312687" stop="1729890312690" status="passed">
+      <name>testGetHref</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

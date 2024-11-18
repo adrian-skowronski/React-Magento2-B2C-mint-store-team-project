@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890354020" stop="1729890354148" version="1.4.0">
+  <name>Magento\Multishipping\Test\Unit\Model\Checkout\Type\MultishippingTest</name>
+  <test-cases>
+    <test-case start="1729890354021" stop="1729890354038" status="passed">
+      <name>testSetShippingItemsInformation</name>
+    </test-case>
+    <test-case start="1729890354039" stop="1729890354043" status="passed">
+      <name>testSetShippingItemsInformationForAddressLeak</name>
+    </test-case>
+    <test-case start="1729890354044" stop="1729890354046" status="passed">
+      <name>testUpdateQuoteCustomerShippingAddress</name>
+    </test-case>
+    <test-case start="1729890354047" stop="1729890354051" status="passed">
+      <name>testUpdateQuoteCustomerShippingAddressForAddressLeak</name>
+    </test-case>
+    <test-case start="1729890354051" stop="1729890354055" status="passed">
+      <name>testSetQuoteCustomerBillingAddress</name>
+    </test-case>
+    <test-case start="1729890354055" stop="1729890354058" status="passed">
+      <name>testSetQuoteCustomerBillingAddressForAddressLeak</name>
+    </test-case>
+    <test-case start="1729890354058" stop="1729890354068" status="passed">
+      <name>testGetQuoteShippingAddressesItems</name>
+    </test-case>
+    <test-case start="1729890354068" stop="1729890354075" status="passed">
+      <name>testSetShippingMethods</name>
+    </test-case>
+    <test-case start="1729890354075" stop="1729890354105" status="passed">
+      <name>testCreateOrders</name>
+    </test-case>
+    <test-case start="1729890354106" stop="1729890354124" status="passed">
+      <name>testCreateOrdersWithThrowsException with data set #0</name>
+    </test-case>
+    <test-case start="1729890354124" stop="1729890354131" status="passed">
+      <name>testCreateOrdersCountryNotPresentInAllowedListException</name>
+    </test-case>
+    <test-case start="1729890354132" stop="1729890354142" status="passed">
+      <name>testValidateMinimumAmountMultiAddressFalse</name>
+    </test-case>
+    <test-case start="1729890354143" stop="1729890354148" status="passed">
+      <name>testValidateMinimumAmountMultiAddressTrue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890296141" stop="1729890296143" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Ui\DataProvider\Product\Form\NewCategoryDataProviderTest</name>
+  <test-cases>
+    <test-case start="1729890296141" stop="1729890296142" status="passed">
+      <name>testGetData</name>
+    </test-case>
+    <test-case start="1729890296142" stop="1729890296143" status="passed">
+      <name>testGetMeta</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

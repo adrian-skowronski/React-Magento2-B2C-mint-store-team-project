@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316795" stop="1729890316800" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\Metadata\CustomerMetadataManagementTest</name>
+  <test-cases>
+    <test-case start="1729890316795" stop="1729890316798" status="passed">
+      <name>testCanBeSearchableInGrid</name>
+    </test-case>
+    <test-case start="1729890316798" stop="1729890316800" status="passed">
+      <name>testCanBeFilterableInGrid</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

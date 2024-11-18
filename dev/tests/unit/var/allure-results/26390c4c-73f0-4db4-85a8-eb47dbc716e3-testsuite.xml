@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890347906" stop="1729890347943" version="1.4.0">
+  <name>Magento\Indexer\Test\Unit\Model\ProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890347907" stop="1729890347915" status="passed">
+      <name>testReindexAllInvalid</name>
+    </test-case>
+    <test-case start="1729890347916" stop="1729890347921" status="passed">
+      <name>testReindexAllInvalidWithSharedIndex with data set "Without dependencies"</name>
+    </test-case>
+    <test-case start="1729890347921" stop="1729890347925" status="passed">
+      <name>testReindexAllInvalidWithSharedIndex with data set "With dependencies and some indexers is invalid"</name>
+    </test-case>
+    <test-case start="1729890347925" stop="1729890347935" status="passed">
+      <name>testReindexAll</name>
+    </test-case>
+    <test-case start="1729890347936" stop="1729890347939" status="passed">
+      <name>testUpdateMview</name>
+    </test-case>
+    <test-case start="1729890347940" stop="1729890347943" status="passed">
+      <name>testClearChangelog</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

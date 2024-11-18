@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404968" stop="1729890404980" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\Listing\Columns\WebsitesTest</name>
+  <test-cases>
+    <test-case start="1729890404968" stop="1729890404972" status="passed">
+      <name>testPrepare</name>
+    </test-case>
+    <test-case start="1729890404972" stop="1729890404973" status="passed">
+      <name>testGetComponentName</name>
+    </test-case>
+    <test-case start="1729890404974" stop="1729890404974" status="passed">
+      <name>testPrepareItems</name>
+    </test-case>
+    <test-case start="1729890404975" stop="1729890404976" status="passed">
+      <name>testSorting with data set #0</name>
+    </test-case>
+    <test-case start="1729890404977" stop="1729890404978" status="passed">
+      <name>testSorting with data set #1</name>
+    </test-case>
+    <test-case start="1729890404979" stop="1729890404980" status="passed">
+      <name>testSorting with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

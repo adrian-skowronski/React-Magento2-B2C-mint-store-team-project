@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890367358" stop="1729890367434" version="1.4.0">
+  <name>Magento\Quote\Test\Unit\Model\GuestCart\GuestPaymentMethodManagementTest</name>
+  <test-cases>
+    <test-case start="1729890367359" stop="1729890367369" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890367378" stop="1729890367415" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890367415" stop="1729890367434" status="passed">
+      <name>testSetSimpleProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

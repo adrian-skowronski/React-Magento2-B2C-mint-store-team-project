@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890357019" stop="1729890357033" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Model\Controller\Result\BuiltinPluginTest</name>
+  <test-cases>
+    <test-case start="1729890357019" stop="1729890357025" status="passed">
+      <name>testAfterResultWithoutPlugin</name>
+    </test-case>
+    <test-case start="1729890357025" stop="1729890357029" status="passed">
+      <name>testAfterResultWithPlugin</name>
+    </test-case>
+    <test-case start="1729890357029" stop="1729890357033" status="passed">
+      <name>testAfterResultWithPluginDeveloperMode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

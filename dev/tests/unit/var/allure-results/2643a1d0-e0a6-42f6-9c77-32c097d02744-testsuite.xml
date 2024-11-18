@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890378099" stop="1729890378110" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Block\Adminhtml\Order\View\InfoTest</name>
+  <test-cases>
+    <test-case start="1729890378100" stop="1729890378105" status="passed">
+      <name>testGetAddressEditLink</name>
+    </test-case>
+    <test-case start="1729890378106" stop="1729890378108" status="passed">
+      <name>testGetCustomerGroupNameWhenGroupIsNotExist</name>
+    </test-case>
+    <test-case start="1729890378108" stop="1729890378110" status="passed">
+      <name>testGetCustomerGroupNameWhenGroupExists</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

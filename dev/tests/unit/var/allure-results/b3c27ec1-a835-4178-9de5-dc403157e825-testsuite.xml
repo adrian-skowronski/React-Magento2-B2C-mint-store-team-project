@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890392106" stop="1729890392138" version="1.4.0">
+  <name>Magento\Security\Test\Unit\Block\Adminhtml\Session\ActivityTest</name>
+  <test-cases>
+    <test-case start="1729890392106" stop="1729890392119" status="passed">
+      <name>testSessionInfoCollectionIsEmpty</name>
+    </test-case>
+    <test-case start="1729890392120" stop="1729890392122" status="passed">
+      <name>testAreMultipleSessionsActive with data set #0</name>
+    </test-case>
+    <test-case start="1729890392122" stop="1729890392125" status="passed">
+      <name>testAreMultipleSessionsActive with data set #1</name>
+    </test-case>
+    <test-case start="1729890392125" stop="1729890392127" status="passed">
+      <name>testAreMultipleSessionsActive with data set #2</name>
+    </test-case>
+    <test-case start="1729890392128" stop="1729890392130" status="passed">
+      <name>testGetRemoteIp</name>
+    </test-case>
+    <test-case start="1729890392130" stop="1729890392134" status="passed">
+      <name>testFormatDateTime with data set #0</name>
+    </test-case>
+    <test-case start="1729890392134" stop="1729890392137" status="passed">
+      <name>testFormatDateTime with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

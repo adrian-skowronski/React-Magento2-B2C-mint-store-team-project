@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402875" stop="1729890402887" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Theme\Domain\VirtualTest</name>
+  <test-cases>
+    <test-case start="1729890402876" stop="1729890402878" status="passed">
+      <name>testGetStagingThemeExisting</name>
+    </test-case>
+    <test-case start="1729890402878" stop="1729890402880" status="passed">
+      <name>testGetStagingThemeNew</name>
+    </test-case>
+    <test-case start="1729890402881" stop="1729890402883" status="passed">
+      <name>testIsAssigned</name>
+    </test-case>
+    <test-case start="1729890402884" stop="1729890402885" status="passed">
+      <name>testGetPhysicalTheme with data set "empty"</name>
+    </test-case>
+    <test-case start="1729890402886" stop="1729890402887" status="passed">
+      <name>testGetPhysicalTheme with data set "theme"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

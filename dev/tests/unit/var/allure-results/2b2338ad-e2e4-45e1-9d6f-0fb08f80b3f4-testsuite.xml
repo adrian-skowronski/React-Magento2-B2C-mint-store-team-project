@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890417829" stop="1729890417837" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\Di\Code\Reader\InstancesNamesList\InterceptionsTest</name>
+  <test-cases>
+    <test-case start="1729890417830" stop="1729890417833" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890417833" stop="1729890417834" status="passed">
+      <name>testGetListNoValidation</name>
+    </test-case>
+    <test-case start="1729890417835" stop="1729890417836" status="passed">
+      <name>testGetListException with data set #0</name>
+    </test-case>
+    <test-case start="1729890417836" stop="1729890417837" status="passed">
+      <name>testGetListException with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890460449" stop="1729890460709" version="1.4.0">
+  <name>Magento\Framework\Validator\Test\Unit\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890460450" stop="1729890460454" status="passed">
+      <name>testConstructException</name>
+    </test-case>
+    <test-case start="1729890460454" stop="1729890460474" status="passed">
+      <name>testCreateValidatorInvalidEntityName</name>
+    </test-case>
+    <test-case start="1729890460474" stop="1729890460488" status="passed">
+      <name>testCreateValidatorInvalidGroupName</name>
+    </test-case>
+    <test-case start="1729890460488" stop="1729890460491" status="passed">
+      <name>testCreateValidatorInvalidConstraintClass</name>
+    </test-case>
+    <test-case start="1729890460492" stop="1729890460502" status="passed">
+      <name>testGetValidatorBuilderClassNotFound</name>
+    </test-case>
+    <test-case start="1729890460502" stop="1729890460508" status="passed">
+      <name>testGetValidatorBuilderInstanceInvalid</name>
+    </test-case>
+    <test-case start="1729890460508" stop="1729890460525" status="passed">
+      <name>testGetValidatorBuilderInstance</name>
+    </test-case>
+    <test-case start="1729890460526" stop="1729890460537" status="passed">
+      <name>testCreateValidator with data set #0</name>
+    </test-case>
+    <test-case start="1729890460538" stop="1729890460549" status="passed">
+      <name>testCreateValidator with data set #1</name>
+    </test-case>
+    <test-case start="1729890460550" stop="1729890460567" status="passed">
+      <name>testCreateValidator with data set #2</name>
+    </test-case>
+    <test-case start="1729890460568" stop="1729890460573" status="passed">
+      <name>testCreateValidator with data set #3</name>
+    </test-case>
+    <test-case start="1729890460573" stop="1729890460574" status="canceled">
+      <name>testBuilderConfiguration</name>
+      <failure>
+        <message>Skipped in #27500 due to testing protected/private methods and properties</message>
+        <stack-trace>#0 /home/adrian-skowronski/www/mint/vendor/magento/framework/Validator/Test/Unit/ConfigTest.php(233): PHPUnit\Framework\Assert::markTestSkipped()
+#1 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1548): Magento\Framework\Validator\Test\Unit\ConfigTest-&gt;testBuilderConfiguration()
+#2 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(1154): PHPUnit\Framework\TestCase-&gt;runTest()
+#3 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestResult.php(728): PHPUnit\Framework\TestCase-&gt;runBare()
+#4 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestCase.php(904): PHPUnit\Framework\TestResult-&gt;run()
+#5 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestCase-&gt;run()
+#6 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#7 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit\Framework\TestSuite-&gt;run()
+#8 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(653): PHPUnit\Framework\TestSuite-&gt;run()
+#9 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(144): PHPUnit\TextUI\TestRunner-&gt;run()
+#10 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/src/TextUI/Command.php(97): PHPUnit\TextUI\Command-&gt;run()
+#11 /home/adrian-skowronski/www/mint/vendor/phpunit/phpunit/phpunit(98): PHPUnit\TextUI\Command::main()
+#12 {main}</stack-trace>
+      </failure>
+    </test-case>
+    <test-case start="1729890460575" stop="1729890460578" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #0</name>
+    </test-case>
+    <test-case start="1729890460582" stop="1729890460585" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #1</name>
+    </test-case>
+    <test-case start="1729890460585" stop="1729890460599" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #2</name>
+    </test-case>
+    <test-case start="1729890460601" stop="1729890460609" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #3</name>
+    </test-case>
+    <test-case start="1729890460612" stop="1729890460616" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #4</name>
+    </test-case>
+    <test-case start="1729890460618" stop="1729890460624" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #5</name>
+    </test-case>
+    <test-case start="1729890460626" stop="1729890460633" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #6</name>
+    </test-case>
+    <test-case start="1729890460637" stop="1729890460643" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #7</name>
+    </test-case>
+    <test-case start="1729890460646" stop="1729890460656" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #8</name>
+    </test-case>
+    <test-case start="1729890460660" stop="1729890460662" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #9</name>
+    </test-case>
+    <test-case start="1729890460665" stop="1729890460668" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #10</name>
+    </test-case>
+    <test-case start="1729890460672" stop="1729890460679" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #11</name>
+    </test-case>
+    <test-case start="1729890460686" stop="1729890460695" status="passed">
+      <name>testValidateInvalidConfigFiles with data set #12</name>
+    </test-case>
+    <test-case start="1729890460696" stop="1729890460708" status="passed">
+      <name>testGetSchemaFile</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890268115" stop="1729890268140" version="1.4.0">
+  <name>Magento\Backup\Test\Unit\Controller\Adminhtml\Index\RollbackTest</name>
+  <test-cases>
+    <test-case start="1729890268115" stop="1729890268130" status="passed">
+      <name>testExecuteRollbackDisabled</name>
+    </test-case>
+    <test-case start="1729890268131" stop="1729890268134" status="passed">
+      <name>testExecuteBackupNotFound</name>
+    </test-case>
+    <test-case start="1729890268135" stop="1729890268140" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

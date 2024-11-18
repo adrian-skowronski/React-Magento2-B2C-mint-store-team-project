@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441778" stop="1729890441796" version="1.4.0">
+  <name>Magento\Framework\Css\Test\Unit\PreProcessor\Instruction\MagentoImportTest</name>
+  <test-cases>
+    <test-case start="1729890441779" stop="1729890441784" status="passed">
+      <name>testProcess with data set "non-modular notation"</name>
+    </test-case>
+    <test-case start="1729890441785" stop="1729890441787" status="passed">
+      <name>testProcess with data set "modular"</name>
+    </test-case>
+    <test-case start="1729890441787" stop="1729890441789" status="passed">
+      <name>testProcess with data set "non-modular reference notation"</name>
+    </test-case>
+    <test-case start="1729890441790" stop="1729890441792" status="passed">
+      <name>testProcess with data set "modular reference"</name>
+    </test-case>
+    <test-case start="1729890441793" stop="1729890441794" status="passed">
+      <name>testProcessNoImport</name>
+    </test-case>
+    <test-case start="1729890441794" stop="1729890441796" status="passed">
+      <name>testProcessException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

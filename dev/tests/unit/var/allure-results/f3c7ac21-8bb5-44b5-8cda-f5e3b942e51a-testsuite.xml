@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327187" stop="1729890327194" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Adapter\FieldMapper\Product\FieldProvider\FieldIndex\IndexResolverTest</name>
+  <test-cases>
+    <test-case start="1729890327188" stop="1729890327190" status="passed">
+      <name>testGetFieldName with data set #0</name>
+    </test-case>
+    <test-case start="1729890327190" stop="1729890327191" status="passed">
+      <name>testGetFieldName with data set #1</name>
+    </test-case>
+    <test-case start="1729890327192" stop="1729890327193" status="passed">
+      <name>testGetFieldName with data set #2</name>
+    </test-case>
+    <test-case start="1729890327193" stop="1729890327194" status="passed">
+      <name>testGetFieldName with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

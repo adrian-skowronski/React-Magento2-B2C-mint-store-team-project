@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890271348" stop="1729890271371" version="1.4.0">
+  <name>Magento\Captcha\Test\Unit\Model\Customer\Plugin\AjaxLoginTest</name>
+  <test-cases>
+    <test-case start="1729890271348" stop="1729890271355" status="passed">
+      <name>testAroundExecute</name>
+    </test-case>
+    <test-case start="1729890271355" stop="1729890271358" status="passed">
+      <name>testAroundExecuteIncorrectCaptcha</name>
+    </test-case>
+    <test-case start="1729890271359" stop="1729890271361" status="passed">
+      <name>testAroundExecuteCaptchaIsNotRequired with data set #0</name>
+    </test-case>
+    <test-case start="1729890271362" stop="1729890271364" status="passed">
+      <name>testAroundExecuteCaptchaIsNotRequired with data set #1</name>
+    </test-case>
+    <test-case start="1729890271365" stop="1729890271367" status="passed">
+      <name>testAroundExecuteCaptchaIsNotRequired with data set #2</name>
+    </test-case>
+    <test-case start="1729890271368" stop="1729890271370" status="passed">
+      <name>testAroundExecuteCaptchaIsNotRequired with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

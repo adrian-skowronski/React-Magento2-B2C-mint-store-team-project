@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890295835" stop="1729890295849" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Ui\DataProvider\Product\Form\Modifier\CurrencySymbolProviderTest</name>
+  <test-cases>
+    <test-case start="1729890295836" stop="1729890295841" status="passed">
+      <name>testGetCurrenciesPerWebsite with data set "verify website currency with default website and global price scope"</name>
+    </test-case>
+    <test-case start="1729890295842" stop="1729890295844" status="passed">
+      <name>testGetCurrenciesPerWebsite with data set "verify website currency with default website and website price scope"</name>
+    </test-case>
+    <test-case start="1729890295845" stop="1729890295849" status="passed">
+      <name>testGetCurrenciesPerWebsite with data set "verify website currency with two website and website price scope"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

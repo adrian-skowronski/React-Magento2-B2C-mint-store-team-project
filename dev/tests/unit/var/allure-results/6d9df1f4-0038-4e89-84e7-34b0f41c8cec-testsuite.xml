@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262171" stop="1729890262212" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\Connector\Http\Client\CurlTest</name>
+  <test-cases>
+    <test-case start="1729890262172" stop="1729890262209" status="passed">
+      <name>testRequestSuccess with data set #0</name>
+    </test-case>
+    <test-case start="1729890262210" stop="1729890262211" status="passed">
+      <name>testRequestError with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

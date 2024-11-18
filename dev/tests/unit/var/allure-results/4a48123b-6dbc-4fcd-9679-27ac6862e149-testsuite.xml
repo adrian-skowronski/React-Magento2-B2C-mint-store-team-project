@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890272612" stop="1729890272621" version="1.4.0">
+  <name>Magento\CatalogImportExport\Test\Unit\Model\Import\Product\Validator\SuperProductsSkuTest</name>
+  <test-cases>
+    <test-case start="1729890272613" stop="1729890272615" status="passed">
+      <name>testIsValid with data set #0</name>
+    </test-case>
+    <test-case start="1729890272616" stop="1729890272617" status="passed">
+      <name>testIsValid with data set #1</name>
+    </test-case>
+    <test-case start="1729890272617" stop="1729890272618" status="passed">
+      <name>testIsValid with data set #2</name>
+    </test-case>
+    <test-case start="1729890272619" stop="1729890272620" status="passed">
+      <name>testIsValid with data set #3</name>
+    </test-case>
+    <test-case start="1729890272621" stop="1729890272621" status="passed">
+      <name>testIsValid with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

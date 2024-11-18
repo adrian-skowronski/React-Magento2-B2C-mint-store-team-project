@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890276025" stop="1729890276030" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\Quote\Item\QuantityValidator\QuoteItemQtyListTest</name>
+  <test-cases>
+    <test-case start="1729890276026" stop="1729890276026" status="passed">
+      <name>testSingleQuoteItemQty</name>
+    </test-case>
+    <test-case start="1729890276027" stop="1729890276030" status="passed">
+      <name>testMultipleQuoteItemQty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

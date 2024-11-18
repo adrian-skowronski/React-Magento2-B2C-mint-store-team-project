@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890377721" stop="1729890377724" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Block\Adminhtml\Order\Create\CustomerTest</name>
+  <test-cases>
+    <test-case start="1729890377721" stop="1729890377724" status="passed">
+      <name>testGetButtonsHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

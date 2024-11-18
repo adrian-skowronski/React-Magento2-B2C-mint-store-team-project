@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890319648" stop="1729890319659" version="1.4.0">
+  <name>Magento\Developer\Test\Unit\Console\Command\GeneratePatchCommandTest</name>
+  <test-cases>
+    <test-case start="1729890319649" stop="1729890319656" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890319656" stop="1729890319658" status="passed">
+      <name>testWrongParameter</name>
+    </test-case>
+    <test-case start="1729890319658" stop="1729890319659" status="passed">
+      <name>testBadModule</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

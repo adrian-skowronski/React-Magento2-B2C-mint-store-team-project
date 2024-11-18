@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890275461" stop="1729890275478" version="1.4.0">
+  <name>Magento\CatalogInventory\Test\Unit\Model\Product\CopyConstructor\CatalogInventoryTest</name>
+  <test-cases>
+    <test-case start="1729890275463" stop="1729890275469" status="passed">
+      <name>testBuildWithoutCurrentProductStockItem</name>
+    </test-case>
+    <test-case start="1729890275473" stop="1729890275478" status="passed">
+      <name>testBuildWithCurrentProductStockItem</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

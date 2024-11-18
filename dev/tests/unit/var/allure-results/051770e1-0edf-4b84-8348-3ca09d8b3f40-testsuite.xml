@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454704" stop="1729890454712" version="1.4.0">
+  <name>Magento\Framework\ObjectManager\Test\Unit\TMapTest</name>
+  <test-cases>
+    <test-case start="1729890454705" stop="1729890454706" status="passed">
+      <name>testConstructor</name>
+    </test-case>
+    <test-case start="1729890454707" stop="1729890454708" status="passed">
+      <name>testRead</name>
+    </test-case>
+    <test-case start="1729890454708" stop="1729890454710" status="passed">
+      <name>testRemove</name>
+    </test-case>
+    <test-case start="1729890454710" stop="1729890454712" status="passed">
+      <name>testEdit</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

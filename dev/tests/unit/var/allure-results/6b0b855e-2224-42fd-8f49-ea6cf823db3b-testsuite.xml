@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463890" stop="1729890463893" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Layout\File\Collector\AggregateTest</name>
+  <test-cases>
+    <test-case start="1729890463890" stop="1729890463893" status="passed">
+      <name>testGetFiles</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

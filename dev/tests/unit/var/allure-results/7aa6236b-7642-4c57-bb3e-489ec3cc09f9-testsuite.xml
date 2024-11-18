@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890415595" stop="1729890415599" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Fixtures\FixtureConfigTest</name>
+  <test-cases>
+    <test-case start="1729890415595" stop="1729890415597" status="passed">
+      <name>testLoadConfigException</name>
+    </test-case>
+    <test-case start="1729890415597" stop="1729890415598" status="passed">
+      <name>testLoadConfig</name>
+    </test-case>
+    <test-case start="1729890415599" stop="1729890415599" status="passed">
+      <name>testGetValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

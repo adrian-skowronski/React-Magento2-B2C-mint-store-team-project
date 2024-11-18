@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448022" stop="1729890448029" version="1.4.0">
+  <name>Magento\Framework\EntityManager\Test\Unit\Sequence\SequenceApplierTest</name>
+  <test-cases>
+    <test-case start="1729890448022" stop="1729890448025" status="passed">
+      <name>testApplySequenceIsNull</name>
+    </test-case>
+    <test-case start="1729890448025" stop="1729890448027" status="passed">
+      <name>testApplyEntityHasIdentifier</name>
+    </test-case>
+    <test-case start="1729890448027" stop="1729890448029" status="passed">
+      <name>testApplyEntityDoesNotHaveIdentifier</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

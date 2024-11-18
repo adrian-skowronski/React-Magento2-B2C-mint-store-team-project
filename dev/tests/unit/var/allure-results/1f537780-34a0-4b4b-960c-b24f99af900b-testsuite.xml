@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890292430" stop="1729890292450" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ProductLink\ManagementTest</name>
+  <test-cases>
+    <test-case start="1729890292430" stop="1729890292438" status="passed">
+      <name>testGetLinkedItemsByType</name>
+    </test-case>
+    <test-case start="1729890292438" stop="1729890292440" status="passed">
+      <name>testGetLinkedItemsByTypeWithWrongType</name>
+    </test-case>
+    <test-case start="1729890292440" stop="1729890292442" status="passed">
+      <name>testSetProductLinks</name>
+    </test-case>
+    <test-case start="1729890292442" stop="1729890292443" status="passed">
+      <name>testSetProductLinksWithoutLinkTypeInLink</name>
+    </test-case>
+    <test-case start="1729890292443" stop="1729890292444" status="passed">
+      <name>testSetProductLinksWithEmptyArrayItems</name>
+    </test-case>
+    <test-case start="1729890292444" stop="1729890292445" status="passed">
+      <name>testSetProductLinksThrowExceptionIfProductLinkTypeDoesNotExist</name>
+    </test-case>
+    <test-case start="1729890292446" stop="1729890292447" status="passed">
+      <name>testSetProductLinksNoProductException</name>
+    </test-case>
+    <test-case start="1729890292447" stop="1729890292450" status="passed">
+      <name>testSetProductLinksInvalidDataException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

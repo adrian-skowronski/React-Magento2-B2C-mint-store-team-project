@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461589" stop="1729890461597" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\MergeStrategy\DirectTest</name>
+  <test-cases>
+    <test-case start="1729890461589" stop="1729890461592" status="passed">
+      <name>testMergeNoAssets</name>
+    </test-case>
+    <test-case start="1729890461593" stop="1729890461595" status="passed">
+      <name>testMergeGeneric</name>
+    </test-case>
+    <test-case start="1729890461595" stop="1729890461596" status="passed">
+      <name>testMergeCss</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890324389" stop="1729890324399" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890324389" stop="1729890324390" status="passed">
+      <name>testGetAttributeMetadata</name>
+    </test-case>
+    <test-case start="1729890324391" stop="1729890324392" status="passed">
+      <name>testGetFrontendClasses</name>
+    </test-case>
+    <test-case start="1729890324392" stop="1729890324393" status="passed">
+      <name>testGetAttributeLockedFieldsNoEntityCode</name>
+    </test-case>
+    <test-case start="1729890324393" stop="1729890324394" status="passed">
+      <name>testGetAttributeLockedFieldsNonCachedLockedFiled</name>
+    </test-case>
+    <test-case start="1729890324395" stop="1729890324396" status="passed">
+      <name>testGetAttributeLockedFieldsCachedLockedFiled</name>
+    </test-case>
+    <test-case start="1729890324396" stop="1729890324398" status="passed">
+      <name>testGetAttributeLockedFieldsNoLockedFields</name>
+    </test-case>
+    <test-case start="1729890324398" stop="1729890324399" status="passed">
+      <name>testGetInputTypesValidatorData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395175" stop="1729890395220" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\ScopeFallbackResolverTest</name>
+  <test-cases>
+    <test-case start="1729890395176" stop="1729890395178" status="passed">
+      <name>testGetFallbackScope with data set #0</name>
+    </test-case>
+    <test-case start="1729890395179" stop="1729890395180" status="passed">
+      <name>testGetFallbackScope with data set #1</name>
+    </test-case>
+    <test-case start="1729890395181" stop="1729890395183" status="passed">
+      <name>testGetFallbackScope with data set #2</name>
+    </test-case>
+    <test-case start="1729890395184" stop="1729890395185" status="passed">
+      <name>testGetFallbackScope with data set #3</name>
+    </test-case>
+    <test-case start="1729890395186" stop="1729890395187" status="passed">
+      <name>testGetFallbackScope with data set #4</name>
+    </test-case>
+    <test-case start="1729890395188" stop="1729890395190" status="passed">
+      <name>testGetFallbackScope with data set #5</name>
+    </test-case>
+    <test-case start="1729890395191" stop="1729890395192" status="passed">
+      <name>testGetFallbackScope with data set #6</name>
+    </test-case>
+    <test-case start="1729890395193" stop="1729890395194" status="passed">
+      <name>testGetFallbackScope with data set #7</name>
+    </test-case>
+    <test-case start="1729890395195" stop="1729890395196" status="passed">
+      <name>testGetFallbackScope with data set #8</name>
+    </test-case>
+    <test-case start="1729890395197" stop="1729890395199" status="passed">
+      <name>testGetFallbackScope with data set #9</name>
+    </test-case>
+    <test-case start="1729890395200" stop="1729890395201" status="passed">
+      <name>testGetFallbackScope with data set #10</name>
+    </test-case>
+    <test-case start="1729890395202" stop="1729890395204" status="passed">
+      <name>testGetFallbackScope with data set #11</name>
+    </test-case>
+    <test-case start="1729890395205" stop="1729890395206" status="passed">
+      <name>testGetFallbackScope with data set #12</name>
+    </test-case>
+    <test-case start="1729890395207" stop="1729890395209" status="passed">
+      <name>testGetFallbackScope with data set #13</name>
+    </test-case>
+    <test-case start="1729890395210" stop="1729890395213" status="passed">
+      <name>testGetFallbackScope with data set #14</name>
+    </test-case>
+    <test-case start="1729890395214" stop="1729890395217" status="passed">
+      <name>testGetFallbackScope with data set #15</name>
+    </test-case>
+    <test-case start="1729890395218" stop="1729890395220" status="passed">
+      <name>testGetFallbackScope with data set #16</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

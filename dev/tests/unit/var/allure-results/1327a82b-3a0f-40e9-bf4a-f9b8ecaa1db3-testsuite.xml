@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890314194" stop="1729890314223" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Controller\Adminhtml\Index\InlineEditTest</name>
+  <test-cases>
+    <test-case start="1729890314194" stop="1729890314205" status="passed">
+      <name>testExecuteWithUpdateBilling</name>
+    </test-case>
+    <test-case start="1729890314205" stop="1729890314210" status="passed">
+      <name>testExecuteWithoutItems</name>
+    </test-case>
+    <test-case start="1729890314210" stop="1729890314218" status="passed">
+      <name>testExecuteLocalizedException</name>
+    </test-case>
+    <test-case start="1729890314218" stop="1729890314223" status="passed">
+      <name>testExecuteException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

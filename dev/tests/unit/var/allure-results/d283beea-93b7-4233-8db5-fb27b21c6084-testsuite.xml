@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890278847" stop="1729890278867" version="1.4.0">
+  <name>Magento\CatalogSearch\Test\Unit\Model\Indexer\Fulltext\Plugin\AttributeTest</name>
+  <test-cases>
+    <test-case start="1729890278847" stop="1729890278853" status="passed">
+      <name>testBeforeSave</name>
+    </test-case>
+    <test-case start="1729890278853" stop="1729890278854" status="passed">
+      <name>testAfterSaveNoInvalidation</name>
+    </test-case>
+    <test-case start="1729890278855" stop="1729890278857" status="passed">
+      <name>testAfterSaveWithInvalidation with data set "save_new_with_invalidation"</name>
+    </test-case>
+    <test-case start="1729890278857" stop="1729890278858" status="passed">
+      <name>testAfterSaveWithInvalidation with data set "save_new_without_invalidation"</name>
+    </test-case>
+    <test-case start="1729890278859" stop="1729890278860" status="passed">
+      <name>testAfterSaveWithInvalidation with data set "update_existing_with_inalidation"</name>
+    </test-case>
+    <test-case start="1729890278861" stop="1729890278861" status="passed">
+      <name>testAfterSaveWithInvalidation with data set "update_existing_without_inalidation"</name>
+    </test-case>
+    <test-case start="1729890278862" stop="1729890278863" status="passed">
+      <name>testBeforeDelete</name>
+    </test-case>
+    <test-case start="1729890278863" stop="1729890278865" status="passed">
+      <name>testAfterDeleteNoInvalidation</name>
+    </test-case>
+    <test-case start="1729890278865" stop="1729890278866" status="passed">
+      <name>testAfterDeleteWithInvalidation</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

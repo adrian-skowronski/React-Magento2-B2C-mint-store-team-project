@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890461632" stop="1729890461643" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Asset\MergedTest</name>
+  <test-cases>
+    <test-case start="1729890461633" stop="1729890461634" status="passed">
+      <name>testConstructorNothingToMerge</name>
+    </test-case>
+    <test-case start="1729890461634" stop="1729890461636" status="passed">
+      <name>testConstructorRequireMergeInterface</name>
+    </test-case>
+    <test-case start="1729890461636" stop="1729890461637" status="passed">
+      <name>testConstructorIncompatibleContentTypes</name>
+    </test-case>
+    <test-case start="1729890461638" stop="1729890461640" status="passed">
+      <name>testIteratorInterfaceMerge</name>
+    </test-case>
+    <test-case start="1729890461640" stop="1729890461643" status="passed">
+      <name>testIteratorInterfaceMergeFailure</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

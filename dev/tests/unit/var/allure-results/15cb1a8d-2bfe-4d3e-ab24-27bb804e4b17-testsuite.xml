@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403962" stop="1729890403971" version="1.4.0">
+  <name>Magento\Translation\Test\Unit\Model\Source\InitialTranslationSourceTest</name>
+  <test-cases>
+    <test-case start="1729890403962" stop="1729890403969" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890403969" stop="1729890403971" status="passed">
+      <name>testGetWithoutAvailableDb</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

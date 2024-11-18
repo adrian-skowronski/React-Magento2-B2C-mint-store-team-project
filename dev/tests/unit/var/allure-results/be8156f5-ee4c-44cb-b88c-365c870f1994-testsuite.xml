@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262590" stop="1729890262612" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\LinkProviderTest</name>
+  <test-cases>
+    <test-case start="1729890262590" stop="1729890262601" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890262601" stop="1729890262603" status="passed">
+      <name>testFileNotReady with data set #0</name>
+    </test-case>
+    <test-case start="1729890262603" stop="1729890262605" status="passed">
+      <name>testFileNotReady with data set #1</name>
+    </test-case>
+    <test-case start="1729890262605" stop="1729890262606" status="passed">
+      <name>testFileNotReady with data set #2</name>
+    </test-case>
+    <test-case start="1729890262607" stop="1729890262608" status="passed">
+      <name>testFileNotReady with data set #3</name>
+    </test-case>
+    <test-case start="1729890262609" stop="1729890262610" status="passed">
+      <name>testFileNotReady with data set #4</name>
+    </test-case>
+    <test-case start="1729890262611" stop="1729890262612" status="passed">
+      <name>testFileNotReady with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

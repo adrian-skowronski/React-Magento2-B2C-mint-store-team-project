@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280941" stop="1729890280946" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Ui\DataProvider\Product\Form\Modifier\ProductUrlRewriteTest</name>
+  <test-cases>
+    <test-case start="1729890280941" stop="1729890280944" status="passed">
+      <name>testModifyMeta</name>
+    </test-case>
+    <test-case start="1729890280945" stop="1729890280946" status="passed">
+      <name>testModifyData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

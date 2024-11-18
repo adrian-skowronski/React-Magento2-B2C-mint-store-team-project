@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262041" stop="1729890262048" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\Config\Backend\Enabled\SubscriptionHandlerTest</name>
+  <test-cases>
+    <test-case start="1729890262042" stop="1729890262043" status="passed">
+      <name>testProcessEnabledTokenExist</name>
+    </test-case>
+    <test-case start="1729890262044" stop="1729890262045" status="passed">
+      <name>testProcessEnabledTokenDoesNotExist</name>
+    </test-case>
+    <test-case start="1729890262045" stop="1729890262047" status="passed">
+      <name>testProcessDisabledTokenDoesNotExist</name>
+    </test-case>
+    <test-case start="1729890262047" stop="1729890262048" status="passed">
+      <name>testProcessDisabledTokenExists</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

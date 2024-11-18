@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890387254" stop="1729890387260" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Shipment\Validation\TrackValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890387254" stop="1729890387257" status="passed">
+      <name>testValidateTrackWithNumber</name>
+    </test-case>
+    <test-case start="1729890387257" stop="1729890387259" status="passed">
+      <name>testValidateTrackWithoutNumber</name>
+    </test-case>
+    <test-case start="1729890387259" stop="1729890387260" status="passed">
+      <name>testValidateTrackWithEmptyTracks</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

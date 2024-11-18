@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890454517" stop="1729890454525" version="1.4.0">
+  <name>Magento\Framework\ObjectManager\Test\Unit\Factory\CompiledTest</name>
+  <test-cases>
+    <test-case start="1729890454517" stop="1729890454520" status="passed">
+      <name>testCreateSimple</name>
+    </test-case>
+    <test-case start="1729890454520" stop="1729890454521" status="passed">
+      <name>testCreateSimpleWithException</name>
+    </test-case>
+    <test-case start="1729890454522" stop="1729890454524" status="passed">
+      <name>testCreateSimpleConfiguredArguments</name>
+    </test-case>
+    <test-case start="1729890454524" stop="1729890454525" status="passed">
+      <name>testCreateGetArgumentsInRuntime</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890380663" stop="1729890380672" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Creditmemo\CommentRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890380663" stop="1729890380668" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890380669" stop="1729890380670" status="passed">
+      <name>testSaveWithException</name>
+    </test-case>
+    <test-case start="1729890380670" stop="1729890380672" status="passed">
+      <name>testSaveSendCatchException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

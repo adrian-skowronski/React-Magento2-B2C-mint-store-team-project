@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310136" stop="1729890310137" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Model\ResourceModel\Product\LinkedProductSelectBuilderTest</name>
+  <test-cases>
+    <test-case start="1729890310136" stop="1729890310137" status="passed">
+      <name>testBuild</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

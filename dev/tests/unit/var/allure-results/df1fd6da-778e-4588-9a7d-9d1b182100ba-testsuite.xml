@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890289821" stop="1729890289823" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Product\Option\UrlBuilderTest</name>
+  <test-cases>
+    <test-case start="1729890289822" stop="1729890289823" status="passed">
+      <name>testGetUrl</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316406" stop="1729890316475" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\EmailNotificationTest</name>
+  <test-cases>
+    <test-case start="1729890316407" stop="1729890316415" status="passed">
+      <name>testEmailNotifyWhenCredentialsChanged with data set #0</name>
+    </test-case>
+    <test-case start="1729890316416" stop="1729890316420" status="passed">
+      <name>testEmailNotifyWhenCredentialsChanged with data set #1</name>
+    </test-case>
+    <test-case start="1729890316421" stop="1729890316425" status="passed">
+      <name>testEmailNotifyWhenCredentialsChanged with data set #2</name>
+    </test-case>
+    <test-case start="1729890316426" stop="1729890316431" status="passed">
+      <name>testEmailNotifyWhenCredentialsChanged with data set #3</name>
+    </test-case>
+    <test-case start="1729890316432" stop="1729890316437" status="passed">
+      <name>testEmailNotifyWhenCredentialsChanged with data set #4</name>
+    </test-case>
+    <test-case start="1729890316438" stop="1729890316442" status="passed">
+      <name>testEmailNotifyWhenCredentialsChanged with data set #5</name>
+    </test-case>
+    <test-case start="1729890316443" stop="1729890316448" status="passed">
+      <name>testPasswordReminder with data set #0</name>
+    </test-case>
+    <test-case start="1729890316449" stop="1729890316453" status="passed">
+      <name>testPasswordReminder with data set #1</name>
+    </test-case>
+    <test-case start="1729890316453" stop="1729890316458" status="passed">
+      <name>testPasswordReminderCustomerWithoutStoreId</name>
+    </test-case>
+    <test-case start="1729890316458" stop="1729890316462" status="passed">
+      <name>testPasswordResetConfirmation with data set #0</name>
+    </test-case>
+    <test-case start="1729890316463" stop="1729890316467" status="passed">
+      <name>testPasswordResetConfirmation with data set #1</name>
+    </test-case>
+    <test-case start="1729890316467" stop="1729890316471" status="passed">
+      <name>testNewAccount with data set #0</name>
+    </test-case>
+    <test-case start="1729890316472" stop="1729890316475" status="passed">
+      <name>testNewAccount with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

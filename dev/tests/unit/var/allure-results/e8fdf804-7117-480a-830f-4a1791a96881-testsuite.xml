@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890400844" stop="1729890400854" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Observer\UpdateProductOptionsObserverTest</name>
+  <test-cases>
+    <test-case start="1729890400845" stop="1729890400848" status="passed">
+      <name>testUpdateProductOptions with data set #0</name>
+    </test-case>
+    <test-case start="1729890400849" stop="1729890400851" status="passed">
+      <name>testUpdateProductOptions with data set #1</name>
+    </test-case>
+    <test-case start="1729890400852" stop="1729890400854" status="passed">
+      <name>testUpdateProductOptions with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

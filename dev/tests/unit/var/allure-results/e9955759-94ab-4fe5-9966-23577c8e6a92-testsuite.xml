@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329516" stop="1729890329527" version="1.4.0">
+  <name>Magento\GiftMessageGraphQl\Test\Unit\Model\Resolver\Order\GiftMessageTest</name>
+  <test-cases>
+    <test-case start="1729890329516" stop="1729890329524" status="passed">
+      <name>testResolveWithoutIDInValueParameter</name>
+    </test-case>
+    <test-case start="1729890329524" stop="1729890329525" status="passed">
+      <name>testResolve</name>
+    </test-case>
+    <test-case start="1729890329526" stop="1729890329527" status="passed">
+      <name>testResolveWithMessageId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

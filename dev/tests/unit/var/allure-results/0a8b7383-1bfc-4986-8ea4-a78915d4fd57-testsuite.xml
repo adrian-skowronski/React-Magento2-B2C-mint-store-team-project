@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361107" stop="1729890361115" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Api\ProcessableExceptionTest</name>
+  <test-cases>
+    <test-case start="1729890361108" stop="1729890361108" status="passed">
+      <name>testGetUserMessage with data set #0</name>
+    </test-case>
+    <test-case start="1729890361109" stop="1729890361109" status="passed">
+      <name>testGetUserMessage with data set #1</name>
+    </test-case>
+    <test-case start="1729890361110" stop="1729890361111" status="passed">
+      <name>testGetUserMessage with data set #2</name>
+    </test-case>
+    <test-case start="1729890361111" stop="1729890361112" status="passed">
+      <name>testGetUserMessage with data set #3</name>
+    </test-case>
+    <test-case start="1729890361112" stop="1729890361113" status="passed">
+      <name>testGetUserMessage with data set #4</name>
+    </test-case>
+    <test-case start="1729890361113" stop="1729890361114" status="passed">
+      <name>testGetUserMessage with data set #5</name>
+    </test-case>
+    <test-case start="1729890361114" stop="1729890361115" status="passed">
+      <name>testGetUserMessage with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

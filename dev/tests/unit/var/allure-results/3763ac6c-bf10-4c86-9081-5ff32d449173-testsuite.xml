@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328225" stop="1729890328239" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\SearchAdapter\Query\Builder\SortTest</name>
+  <test-cases>
+    <test-case start="1729890328226" stop="1729890328228" status="passed">
+      <name>testGetSort with data set #0</name>
+    </test-case>
+    <test-case start="1729890328229" stop="1729890328230" status="passed">
+      <name>testGetSort with data set #1</name>
+    </test-case>
+    <test-case start="1729890328231" stop="1729890328232" status="passed">
+      <name>testGetSort with data set #2</name>
+    </test-case>
+    <test-case start="1729890328233" stop="1729890328235" status="passed">
+      <name>testGetSort with data set #3</name>
+    </test-case>
+    <test-case start="1729890328235" stop="1729890328236" status="passed">
+      <name>testGetSort with data set #4</name>
+    </test-case>
+    <test-case start="1729890328237" stop="1729890328239" status="passed">
+      <name>testGetSort with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890263944" stop="1729890263993" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\App\Area\FrontNameResolverTest</name>
+  <test-cases>
+    <test-case start="1729890263945" stop="1729890263953" status="passed">
+      <name>testIfCustomPathUsed</name>
+    </test-case>
+    <test-case start="1729890263953" stop="1729890263954" status="passed">
+      <name>testIfCustomPathNotUsed</name>
+    </test-case>
+    <test-case start="1729890263956" stop="1729890263958" status="passed">
+      <name>testIsHostBackend with data set "withoutPort"</name>
+    </test-case>
+    <test-case start="1729890263959" stop="1729890263961" status="passed">
+      <name>testIsHostBackend with data set "withPort"</name>
+    </test-case>
+    <test-case start="1729890263962" stop="1729890263967" status="passed">
+      <name>testIsHostBackend with data set "withStandartPortInUrlWithoutPortInHost"</name>
+    </test-case>
+    <test-case start="1729890263968" stop="1729890263970" status="passed">
+      <name>testIsHostBackend with data set "withoutStandartPortInUrlWithPortInHost"</name>
+    </test-case>
+    <test-case start="1729890263971" stop="1729890263974" status="passed">
+      <name>testIsHostBackend with data set "differentHosts"</name>
+    </test-case>
+    <test-case start="1729890263975" stop="1729890263977" status="passed">
+      <name>testIsHostBackend with data set "differentPortsOnOneHost"</name>
+    </test-case>
+    <test-case start="1729890263978" stop="1729890263983" status="passed">
+      <name>testIsHostBackend with data set "withCustomAdminUrl"</name>
+    </test-case>
+    <test-case start="1729890263983" stop="1729890263986" status="passed">
+      <name>testIsHostBackend with data set "withCustomAdminUrlWrongHost"</name>
+    </test-case>
+    <test-case start="1729890263987" stop="1729890263990" status="passed">
+      <name>testIsHostBackend with data set "withEmptyHost"</name>
+    </test-case>
+    <test-case start="1729890263990" stop="1729890263992" status="passed">
+      <name>testIsHostBackendWithEmptyHost</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

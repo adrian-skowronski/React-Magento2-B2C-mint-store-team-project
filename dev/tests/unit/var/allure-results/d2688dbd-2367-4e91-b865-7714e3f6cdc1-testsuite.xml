@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890447898" stop="1729890447908" version="1.4.0">
+  <name>Magento\Framework\EntityManager\Test\Unit\MapperTest</name>
+  <test-cases>
+    <test-case start="1729890447899" stop="1729890447901" status="passed">
+      <name>testEntityToDatabase</name>
+    </test-case>
+    <test-case start="1729890447902" stop="1729890447903" status="passed">
+      <name>testEntityToDatabaseException</name>
+    </test-case>
+    <test-case start="1729890447904" stop="1729890447905" status="passed">
+      <name>testDatabaseToEntity</name>
+    </test-case>
+    <test-case start="1729890447906" stop="1729890447908" status="passed">
+      <name>testDatabaseToEntityException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

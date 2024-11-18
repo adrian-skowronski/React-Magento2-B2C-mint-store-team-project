@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890348675" stop="1729890348719" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Controller\Adminhtml\Integration\EditTest</name>
+  <test-cases>
+    <test-case start="1729890348675" stop="1729890348693" status="passed">
+      <name>testEditAction</name>
+    </test-case>
+    <test-case start="1729890348693" stop="1729890348702" status="passed">
+      <name>testEditActionNonExistentIntegration</name>
+    </test-case>
+    <test-case start="1729890348703" stop="1729890348709" status="passed">
+      <name>testEditActionNoDataAdd</name>
+    </test-case>
+    <test-case start="1729890348709" stop="1729890348718" status="passed">
+      <name>testEditException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

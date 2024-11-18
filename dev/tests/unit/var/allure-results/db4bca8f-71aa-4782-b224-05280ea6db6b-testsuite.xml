@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890405706" stop="1729890405727" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Controller\Adminhtml\Index\Render\HandleTest</name>
+  <test-cases>
+    <test-case start="1729890405707" stop="1729890405720" status="passed">
+      <name>testExecuteNoButtons</name>
+    </test-case>
+    <test-case start="1729890405721" stop="1729890405727" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

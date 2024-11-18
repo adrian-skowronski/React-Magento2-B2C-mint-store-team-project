@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325059" stop="1729890325082" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890325060" stop="1729890325063" status="passed">
+      <name>testGetAttributeCache</name>
+    </test-case>
+    <test-case start="1729890325064" stop="1729890325067" status="passed">
+      <name>testGetAttributes with data set "cache-disabled"</name>
+    </test-case>
+    <test-case start="1729890325068" stop="1729890325071" status="passed">
+      <name>testGetAttributes with data set "cache-miss"</name>
+    </test-case>
+    <test-case start="1729890325071" stop="1729890325074" status="passed">
+      <name>testGetAttributes with data set "cached"</name>
+    </test-case>
+    <test-case start="1729890325074" stop="1729890325075" status="passed">
+      <name>testClear</name>
+    </test-case>
+    <test-case start="1729890325075" stop="1729890325076" status="passed">
+      <name>testGetEntityTypeInstanceOfTypePassed</name>
+    </test-case>
+    <test-case start="1729890325076" stop="1729890325079" status="passed">
+      <name>testGetEntityTypeCacheExists</name>
+    </test-case>
+    <test-case start="1729890325079" stop="1729890325082" status="passed">
+      <name>testGetEntityTypeCacheDoesNotExist</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

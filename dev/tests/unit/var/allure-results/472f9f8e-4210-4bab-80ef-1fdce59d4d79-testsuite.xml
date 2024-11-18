@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294069" stop="1729890294141" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ResourceModel\Product\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890294070" stop="1729890294094" status="passed">
+      <name>testAddProductCategoriesFilter</name>
+    </test-case>
+    <test-case start="1729890294095" stop="1729890294105" status="passed">
+      <name>testAddMediaGalleryData</name>
+    </test-case>
+    <test-case start="1729890294106" stop="1729890294119" status="passed">
+      <name>testAddTierPriceDataByGroupId</name>
+    </test-case>
+    <test-case start="1729890294120" stop="1729890294125" status="passed">
+      <name>testAddTierPriceData</name>
+    </test-case>
+    <test-case start="1729890294126" stop="1729890294135" status="passed">
+      <name>testGetNewEmptyItem</name>
+    </test-case>
+    <test-case start="1729890294136" stop="1729890294141" status="passed">
+      <name>testAddWebsiteFilterOnAdminStore</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

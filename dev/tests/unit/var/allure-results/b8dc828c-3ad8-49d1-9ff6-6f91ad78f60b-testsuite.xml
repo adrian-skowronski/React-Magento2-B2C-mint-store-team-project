@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890298783" stop="1729890298787" version="1.4.0">
+  <name>Magento\Checkout\Test\Unit\Observer\LoadCustomerQuoteObserverTest</name>
+  <test-cases>
+    <test-case start="1729890298783" stop="1729890298786" status="passed">
+      <name>testLoadCustomerQuoteThrowingCoreException</name>
+    </test-case>
+    <test-case start="1729890298786" stop="1729890298787" status="passed">
+      <name>testLoadCustomerQuoteThrowingException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

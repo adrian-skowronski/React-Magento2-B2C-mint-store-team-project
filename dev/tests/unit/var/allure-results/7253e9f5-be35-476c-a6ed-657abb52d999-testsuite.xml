@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262723" stop="1729890262734" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Model\SubscriptionStatusProviderTest</name>
+  <test-cases>
+    <test-case start="1729890262723" stop="1729890262724" status="passed">
+      <name>testGetStatusShouldBeFailed with data set "Subscription update doesn't active"</name>
+    </test-case>
+    <test-case start="1729890262725" stop="1729890262726" status="passed">
+      <name>testGetStatusShouldBeFailed with data set "Subscription update is active"</name>
+    </test-case>
+    <test-case start="1729890262727" stop="1729890262728" status="passed">
+      <name>testGetStatusShouldBePending with data set "Subscription update doesn't active and the token does not exist"</name>
+    </test-case>
+    <test-case start="1729890262728" stop="1729890262730" status="passed">
+      <name>testGetStatusShouldBePending with data set "Subscription update is active and the token does not exist"</name>
+    </test-case>
+    <test-case start="1729890262730" stop="1729890262732" status="passed">
+      <name>testGetStatusShouldBePending with data set "Subscription update is active and token exist"</name>
+    </test-case>
+    <test-case start="1729890262732" stop="1729890262733" status="passed">
+      <name>testGetStatusShouldBeEnabled</name>
+    </test-case>
+    <test-case start="1729890262733" stop="1729890262734" status="passed">
+      <name>testGetStatusShouldBeDisabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890282258" stop="1729890282291" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Block\Product\ImageFactoryTest</name>
+  <test-cases>
+    <test-case start="1729890282258" stop="1729890282283" status="passed">
+      <name>testCreate with data set #0</name>
+    </test-case>
+    <test-case start="1729890282284" stop="1729890282288" status="passed">
+      <name>testCreate with data set #1</name>
+    </test-case>
+    <test-case start="1729890282288" stop="1729890282291" status="passed">
+      <name>testCreate with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

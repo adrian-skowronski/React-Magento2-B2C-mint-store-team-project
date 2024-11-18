@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890284731" stop="1729890284736" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Helper\Product\ProductListTest</name>
+  <test-cases>
+    <test-case start="1729890284731" stop="1729890284733" status="passed">
+      <name>testGetDefaultLimitPerPageValueReturnsOneOfAvailableLimits with data set "limit-available"</name>
+    </test-case>
+    <test-case start="1729890284734" stop="1729890284736" status="passed">
+      <name>testGetDefaultLimitPerPageValueReturnsOneOfAvailableLimits with data set "limit-not-available"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890323143" stop="1729890323152" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Block\Adminhtml\Sales\Items\Column\Downloadable\NameTest</name>
+  <test-cases>
+    <test-case start="1729890323144" stop="1729890323152" status="passed">
+      <name>testGetLinks</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

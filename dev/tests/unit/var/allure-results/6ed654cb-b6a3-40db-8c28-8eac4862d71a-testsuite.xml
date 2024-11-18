@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330651" stop="1729890330673" version="1.4.0">
+  <name>Magento\GoogleOptimizer\Test\Unit\Ui\DataProvider\Product\Form\Modifier\GoogleOptimizerTest</name>
+  <test-cases>
+    <test-case start="1729890330652" stop="1729890330656" status="passed">
+      <name>testGetDataGoogleExperimentDisabled</name>
+    </test-case>
+    <test-case start="1729890330657" stop="1729890330661" status="passed">
+      <name>testGetDataGoogleExperimentEnabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890330662" stop="1729890330666" status="passed">
+      <name>testGetDataGoogleExperimentEnabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890330666" stop="1729890330669" status="passed">
+      <name>testGetMetaGoogleExperimentDisabled</name>
+    </test-case>
+    <test-case start="1729890330669" stop="1729890330672" status="passed">
+      <name>testGetMetaGoogleExperimentEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

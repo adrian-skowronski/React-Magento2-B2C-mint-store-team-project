@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890379098" stop="1729890379123" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Controller\Adminhtml\Order\CreditmemoLoaderTest</name>
+  <test-cases>
+    <test-case start="1729890379098" stop="1729890379102" status="passed">
+      <name>testLoadByCreditmemoId</name>
+    </test-case>
+    <test-case start="1729890379102" stop="1729890379108" status="passed">
+      <name>testLoadCannotCreditmemo</name>
+    </test-case>
+    <test-case start="1729890379109" stop="1729890379123" status="passed">
+      <name>testLoadByOrder</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

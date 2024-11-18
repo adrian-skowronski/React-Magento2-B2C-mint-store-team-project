@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890360618" stop="1729890360629" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Controller\Transparent\RequestSecureTokenTest</name>
+  <test-cases>
+    <test-case start="1729890360618" stop="1729890360625" status="passed">
+      <name>testExecuteSuccess</name>
+    </test-case>
+    <test-case start="1729890360625" stop="1729890360628" status="passed">
+      <name>testExecuteTokenRequestException</name>
+    </test-case>
+    <test-case start="1729890360628" stop="1729890360629" status="passed">
+      <name>testExecuteEmptyQuoteError</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

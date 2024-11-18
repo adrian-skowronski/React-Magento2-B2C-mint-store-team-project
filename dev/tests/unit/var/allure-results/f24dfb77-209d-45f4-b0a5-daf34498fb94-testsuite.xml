@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404683" stop="1729890404693" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\Form\Element\DataType\DateTest</name>
+  <test-cases>
+    <test-case start="1729890404683" stop="1729890404684" status="passed">
+      <name>testPrepareWithTimeOffset</name>
+    </test-case>
+    <test-case start="1729890404685" stop="1729890404686" status="passed">
+      <name>testPrepareWithoutTimeOffset</name>
+    </test-case>
+    <test-case start="1729890404687" stop="1729890404688" status="passed">
+      <name>testPrepare</name>
+    </test-case>
+    <test-case start="1729890404688" stop="1729890404690" status="passed">
+      <name>testConvertDatetime with data set #0</name>
+    </test-case>
+    <test-case start="1729890404690" stop="1729890404691" status="passed">
+      <name>testConvertDatetime with data set #1</name>
+    </test-case>
+    <test-case start="1729890404692" stop="1729890404693" status="passed">
+      <name>testConvertDatetime with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

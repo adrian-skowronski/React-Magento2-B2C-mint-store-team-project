@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890381054" stop="1729890381072" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Order\Creditmemo\Total\ShippingTest</name>
+  <test-cases>
+    <test-case start="1729890381055" stop="1729890381058" status="passed">
+      <name>testCollectException</name>
+    </test-case>
+    <test-case start="1729890381059" stop="1729890381061" status="passed">
+      <name>testCollectNoSpecifiedShippingAmount</name>
+    </test-case>
+    <test-case start="1729890381062" stop="1729890381064" status="passed">
+      <name>testCollectWithSpecifiedShippingAmount with data set "half"</name>
+    </test-case>
+    <test-case start="1729890381064" stop="1729890381066" status="passed">
+      <name>testCollectWithSpecifiedShippingAmount with data set "quarter"</name>
+    </test-case>
+    <test-case start="1729890381066" stop="1729890381069" status="passed">
+      <name>testCollectUsingTaxInclShippingAmount</name>
+    </test-case>
+    <test-case start="1729890381069" stop="1729890381072" status="passed">
+      <name>testCollectRefundShippingAmountIncTax</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

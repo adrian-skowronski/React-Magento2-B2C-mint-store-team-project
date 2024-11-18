@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310110" stop="1729890310125" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Model\ResourceModel\Attribute\OptionSelectBuilderTest</name>
+  <test-cases>
+    <test-case start="1729890310110" stop="1729890310123" status="passed">
+      <name>testGetSelect</name>
+    </test-case>
+    <test-case start="1729890310123" stop="1729890310125" status="passed">
+      <name>testGetSelectWithBackendModel</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

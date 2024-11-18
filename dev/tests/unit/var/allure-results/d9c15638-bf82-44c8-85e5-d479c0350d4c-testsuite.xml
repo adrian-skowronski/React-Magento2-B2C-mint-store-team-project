@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402282" stop="1729890402298" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Design\Backend\FileTest</name>
+  <test-cases>
+    <test-case start="1729890402283" stop="1729890402286" status="passed">
+      <name>testAfterLoad</name>
+    </test-case>
+    <test-case start="1729890402287" stop="1729890402289" status="passed">
+      <name>testBeforeSave with data set "Normal file name"</name>
+    </test-case>
+    <test-case start="1729890402289" stop="1729890402291" status="passed">
+      <name>testBeforeSave with data set "Vulnerable file name"</name>
+    </test-case>
+    <test-case start="1729890402291" stop="1729890402292" status="passed">
+      <name>testBeforeSaveWithoutFile</name>
+    </test-case>
+    <test-case start="1729890402293" stop="1729890402294" status="passed">
+      <name>testBeforeSaveWithExistingFile</name>
+    </test-case>
+    <test-case start="1729890402295" stop="1729890402297" status="passed">
+      <name>testGetRelativeMediaPath with data set "Normal path"</name>
+    </test-case>
+    <test-case start="1729890402297" stop="1729890402298" status="passed">
+      <name>testGetRelativeMediaPath with data set "Complex path"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

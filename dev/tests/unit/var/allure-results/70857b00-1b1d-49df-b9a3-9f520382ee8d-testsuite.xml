@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890332171" stop="1729890332173" version="1.4.0">
+  <name>Magento\ImportExport\Test\Unit\Model\Import\Entity\EavAbstractTest</name>
+  <test-cases>
+    <test-case start="1729890332171" stop="1729890332173" status="passed">
+      <name>testGetEntityTypeId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

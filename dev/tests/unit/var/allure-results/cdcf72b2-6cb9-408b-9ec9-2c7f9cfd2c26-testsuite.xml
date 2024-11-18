@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462299" stop="1729890462317" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Design\FileResolution\Fallback\Resolver\SimpleTest</name>
+  <test-cases>
+    <test-case start="1729890462299" stop="1729890462301" status="passed">
+      <name>testResolve with data set "no area"</name>
+    </test-case>
+    <test-case start="1729890462302" stop="1729890462303" status="passed">
+      <name>testResolve with data set "no theme"</name>
+    </test-case>
+    <test-case start="1729890462304" stop="1729890462306" status="passed">
+      <name>testResolve with data set "no locale"</name>
+    </test-case>
+    <test-case start="1729890462306" stop="1729890462308" status="passed">
+      <name>testResolve with data set "no module"</name>
+    </test-case>
+    <test-case start="1729890462309" stop="1729890462310" status="passed">
+      <name>testResolve with data set "all params"</name>
+    </test-case>
+    <test-case start="1729890462310" stop="1729890462312" status="passed">
+      <name>testResolveSecurityException</name>
+    </test-case>
+    <test-case start="1729890462312" stop="1729890462314" status="passed">
+      <name>testResolveSecurity</name>
+    </test-case>
+    <test-case start="1729890462314" stop="1729890462315" status="passed">
+      <name>testResolveNoPatterns</name>
+    </test-case>
+    <test-case start="1729890462315" stop="1729890462317" status="passed">
+      <name>testResolveNonexistentFile</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

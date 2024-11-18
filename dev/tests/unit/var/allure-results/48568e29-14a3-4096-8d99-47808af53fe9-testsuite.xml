@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890379521" stop="1729890379666" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\CustomerData\LastOrderedItemsTest</name>
+  <test-cases>
+    <test-case start="1729890379521" stop="1729890379661" status="passed">
+      <name>testGetSectionData</name>
+    </test-case>
+    <test-case start="1729890379662" stop="1729890379666" status="passed">
+      <name>testGetSectionDataWithNotExistingProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

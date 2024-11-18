@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890318035" stop="1729890318054" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\ResourceModel\Group\Grid\ServiceCollectionTest</name>
+  <test-cases>
+    <test-case start="1729890318035" stop="1729890318040" status="passed">
+      <name>testGetSearchCriteriaImplicitEq</name>
+    </test-case>
+    <test-case start="1729890318040" stop="1729890318042" status="passed">
+      <name>testGetSearchCriteriaOneField</name>
+    </test-case>
+    <test-case start="1729890318042" stop="1729890318044" status="passed">
+      <name>testGetSearchCriteriaOr</name>
+    </test-case>
+    <test-case start="1729890318044" stop="1729890318047" status="passed">
+      <name>testGetSearchCriteriaAnd</name>
+    </test-case>
+    <test-case start="1729890318047" stop="1729890318049" status="passed">
+      <name>testAddFieldToFilterInconsistentArrays with data set "missingCondition"</name>
+    </test-case>
+    <test-case start="1729890318049" stop="1729890318051" status="passed">
+      <name>testAddFieldToFilterInconsistentArrays with data set "missingField"</name>
+    </test-case>
+    <test-case start="1729890318051" stop="1729890318053" status="passed">
+      <name>testAddFieldToFilterEmptyArrays with data set "missingCondition"</name>
+    </test-case>
+    <test-case start="1729890318053" stop="1729890318054" status="passed">
+      <name>testAddFieldToFilterEmptyArrays with data set "missingField"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890448040" stop="1729890448045" version="1.4.0">
+  <name>Magento\Framework\EntityManager\Test\Unit\TypeResolverTest</name>
+  <test-cases>
+    <test-case start="1729890448040" stop="1729890448041" status="passed">
+      <name>testResolve with data set #0</name>
+    </test-case>
+    <test-case start="1729890448042" stop="1729890448044" status="passed">
+      <name>testResolve with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

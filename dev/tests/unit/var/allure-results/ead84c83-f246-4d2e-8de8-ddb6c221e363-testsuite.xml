@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890423112" stop="1729890423122" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Cache\Type\AccessProxyTest</name>
+  <test-cases>
+    <test-case start="1729890423112" stop="1729890423115" status="passed">
+      <name>testProxyMethod with data set #0</name>
+    </test-case>
+    <test-case start="1729890423115" stop="1729890423116" status="passed">
+      <name>testProxyMethod with data set #1</name>
+    </test-case>
+    <test-case start="1729890423117" stop="1729890423118" status="passed">
+      <name>testProxyMethod with data set #2</name>
+    </test-case>
+    <test-case start="1729890423119" stop="1729890423120" status="passed">
+      <name>testProxyMethod with data set #3</name>
+    </test-case>
+    <test-case start="1729890423121" stop="1729890423122" status="passed">
+      <name>testProxyMethod with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890350302" stop="1729890350308" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Model\ResourceModel\Oauth\ConsumerTest</name>
+  <test-cases>
+    <test-case start="1729890350303" stop="1729890350305" status="passed">
+      <name>testAfterDelete</name>
+    </test-case>
+    <test-case start="1729890350305" stop="1729890350308" status="passed">
+      <name>testGetTimeInSecondsSinceCreation</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

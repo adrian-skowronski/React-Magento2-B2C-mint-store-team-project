@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890265310" stop="1729890265322" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Console\Command\MaintenanceDisableCommandTest</name>
+  <test-cases>
+    <test-case start="1729890265311" stop="1729890265313" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890265313" stop="1729890265315" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890265315" stop="1729890265316" status="passed">
+      <name>testExecute with data set #2</name>
+    </test-case>
+    <test-case start="1729890265317" stop="1729890265318" status="passed">
+      <name>testExecute with data set #3</name>
+    </test-case>
+    <test-case start="1729890265319" stop="1729890265320" status="passed">
+      <name>testIsSetAddressInfo with data set #0</name>
+    </test-case>
+    <test-case start="1729890265321" stop="1729890265322" status="passed">
+      <name>testIsSetAddressInfo with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

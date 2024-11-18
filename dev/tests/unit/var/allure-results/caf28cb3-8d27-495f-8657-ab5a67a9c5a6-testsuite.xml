@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393334" stop="1729890393343" version="1.4.0">
+  <name>Magento\Shipping\Test\Unit\Model\Rate\CarrierResultTest</name>
+  <test-cases>
+    <test-case start="1729890393334" stop="1729890393342" status="passed">
+      <name>testComposing</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

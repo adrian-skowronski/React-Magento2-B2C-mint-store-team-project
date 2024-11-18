@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890365162" stop="1729890365178" version="1.4.0">
+  <name>Magento\ProductVideo\Test\Unit\Block\Adminhtml\Product\Edit\NewVideoTest</name>
+  <test-cases>
+    <test-case start="1729890365163" stop="1729890365176" status="passed">
+      <name>testGetHtmlId</name>
+    </test-case>
+    <test-case start="1729890365176" stop="1729890365178" status="passed">
+      <name>testGetWidgetOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

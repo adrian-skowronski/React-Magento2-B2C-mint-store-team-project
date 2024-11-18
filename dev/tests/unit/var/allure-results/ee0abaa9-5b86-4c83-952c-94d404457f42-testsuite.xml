@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406922" stop="1729890406925" version="1.4.0">
+  <name>Magento\User\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1729890406922" stop="1729890406924" status="passed">
+      <name>testGenerateResetPasswordLinkToken</name>
+    </test-case>
+    <test-case start="1729890406924" stop="1729890406925" status="passed">
+      <name>testGetResetPasswordLinkExpirationPeriod</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

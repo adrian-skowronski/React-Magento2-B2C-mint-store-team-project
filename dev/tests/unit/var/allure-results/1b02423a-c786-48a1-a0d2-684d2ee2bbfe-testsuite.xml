@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403898" stop="1729890403901" version="1.4.0">
+  <name>Magento\Translation\Test\Unit\Model\Js\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890403898" stop="1729890403899" status="passed">
+      <name>testIsEmbeddedStrategy</name>
+    </test-case>
+    <test-case start="1729890403899" stop="1729890403900" status="passed">
+      <name>testDictionaryEnabled</name>
+    </test-case>
+    <test-case start="1729890403900" stop="1729890403901" status="passed">
+      <name>testGetPatterns</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890396186" stop="1729890396189" version="1.4.0">
+  <name>Magento\Swatches\Test\Unit\Block\Adminhtml\Attribute\Edit\Options\VisualTest</name>
+  <test-cases>
+    <test-case start="1729890396186" stop="1729890396188" status="passed">
+      <name>testGetJsonConfigDataSet1</name>
+    </test-case>
+    <test-case start="1729890396188" stop="1729890396189" status="passed">
+      <name>testGetJsonConfigDataSet2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

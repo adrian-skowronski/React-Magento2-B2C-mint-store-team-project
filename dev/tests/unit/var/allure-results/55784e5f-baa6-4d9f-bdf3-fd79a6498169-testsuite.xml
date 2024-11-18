@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890446115" stop="1729890446132" version="1.4.0">
+  <name>Magento\Framework\Encryption\Test\Unit\Adapter\SodiumChachaIetfTest</name>
+  <test-cases>
+    <test-case start="1729890446115" stop="1729890446116" status="passed">
+      <name>testEncrypt with data set #0</name>
+    </test-case>
+    <test-case start="1729890446117" stop="1729890446118" status="passed">
+      <name>testEncrypt with data set #1</name>
+    </test-case>
+    <test-case start="1729890446118" stop="1729890446119" status="passed">
+      <name>testEncrypt with data set #2</name>
+    </test-case>
+    <test-case start="1729890446119" stop="1729890446120" status="passed">
+      <name>testEncrypt with data set #3</name>
+    </test-case>
+    <test-case start="1729890446120" stop="1729890446121" status="passed">
+      <name>testEncrypt with data set #4</name>
+    </test-case>
+    <test-case start="1729890446122" stop="1729890446122" status="passed">
+      <name>testEncrypt with data set #5</name>
+    </test-case>
+    <test-case start="1729890446123" stop="1729890446123" status="passed">
+      <name>testEncrypt with data set #6</name>
+    </test-case>
+    <test-case start="1729890446124" stop="1729890446125" status="passed">
+      <name>testDecrypt with data set #0</name>
+    </test-case>
+    <test-case start="1729890446125" stop="1729890446126" status="passed">
+      <name>testDecrypt with data set #1</name>
+    </test-case>
+    <test-case start="1729890446127" stop="1729890446127" status="passed">
+      <name>testDecrypt with data set #2</name>
+    </test-case>
+    <test-case start="1729890446128" stop="1729890446128" status="passed">
+      <name>testDecrypt with data set #3</name>
+    </test-case>
+    <test-case start="1729890446129" stop="1729890446129" status="passed">
+      <name>testDecrypt with data set #4</name>
+    </test-case>
+    <test-case start="1729890446130" stop="1729890446130" status="passed">
+      <name>testDecrypt with data set #5</name>
+    </test-case>
+    <test-case start="1729890446131" stop="1729890446131" status="passed">
+      <name>testDecrypt with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

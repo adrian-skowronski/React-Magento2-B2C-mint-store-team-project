@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890412099" stop="1729890412101" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Observer\CustomerLogoutTest</name>
+  <test-cases>
+    <test-case start="1729890412100" stop="1729890412101" status="passed">
+      <name>testExecute</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

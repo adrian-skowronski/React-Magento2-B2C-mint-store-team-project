@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890375547" stop="1729890375559" version="1.4.0">
+  <name>Magento\SalesInventory\Test\Unit\Model\Order\ReturnValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890375548" stop="1729890375551" status="passed">
+      <name>testValidate with data set "PostirivValidationTest"</name>
+    </test-case>
+    <test-case start="1729890375552" stop="1729890375557" status="passed">
+      <name>testValidate with data set "WithWrongReturnToStockItems"</name>
+    </test-case>
+    <test-case start="1729890375557" stop="1729890375559" status="passed">
+      <name>testValidationWithWrongOrderItems</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

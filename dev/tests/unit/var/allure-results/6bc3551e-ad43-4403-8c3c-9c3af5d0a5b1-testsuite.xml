@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890364638" stop="1729890364689" version="1.4.0">
+  <name>Magento\ProductAlert\Test\Unit\Block\Product\View\PriceTest</name>
+  <test-cases>
+    <test-case start="1729890364639" stop="1729890364659" status="passed">
+      <name>testSetTemplatePriceAlertAllowed</name>
+    </test-case>
+    <test-case start="1729890364660" stop="1729890364663" status="passed">
+      <name>testSetTemplatePriceAlertNotAllowed with data set "price alert is not allowed"</name>
+    </test-case>
+    <test-case start="1729890364664" stop="1729890364673" status="passed">
+      <name>testSetTemplatePriceAlertNotAllowed with data set "no product price"</name>
+    </test-case>
+    <test-case start="1729890364674" stop="1729890364682" status="passed">
+      <name>testSetTemplatePriceAlertNotAllowed with data set "price alert is not allowed and no product price"</name>
+    </test-case>
+    <test-case start="1729890364683" stop="1729890364689" status="passed">
+      <name>testSetTemplateNoProduct</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

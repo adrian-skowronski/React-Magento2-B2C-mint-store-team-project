@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890412181" stop="1729890412203" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Pricing\ConfiguredPrice\ConfigurableProductTest</name>
+  <test-cases>
+    <test-case start="1729890412183" stop="1729890412201" status="passed">
+      <name>testGetValue with data set "options"</name>
+    </test-case>
+    <test-case start="1729890412202" stop="1729890412203" status="passed">
+      <name>testGetValueWithNoCustomOption</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

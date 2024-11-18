@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328686" stop="1729890328694" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Model\BackendTemplateTest</name>
+  <test-cases>
+    <test-case start="1729890328687" stop="1729890328692" status="passed">
+      <name>testGetSystemConfigPathsWhereCurrentlyUsedNoId</name>
+    </test-case>
+    <test-case start="1729890328692" stop="1729890328694" status="passed">
+      <name>testGetSystemConfigPathsWhereCurrentlyUsedValidId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

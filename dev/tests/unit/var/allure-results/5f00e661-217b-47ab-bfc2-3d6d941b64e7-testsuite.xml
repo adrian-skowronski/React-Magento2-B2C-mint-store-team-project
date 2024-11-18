@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890378391" stop="1729890378394" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Block\Order\Email\Items\Order\DefaultOrderTest</name>
+  <test-cases>
+    <test-case start="1729890378392" stop="1729890378394" status="passed">
+      <name>testGetItemPrice</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

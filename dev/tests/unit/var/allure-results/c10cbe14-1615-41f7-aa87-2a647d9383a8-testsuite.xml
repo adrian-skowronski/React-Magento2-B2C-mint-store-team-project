@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890293666" stop="1729890293675" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ProductTypes\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890293667" stop="1729890293670" status="passed">
+      <name>testGetType with data set "global_key_exist"</name>
+    </test-case>
+    <test-case start="1729890293671" stop="1729890293672" status="passed">
+      <name>testGetType with data set "return_default_value"</name>
+    </test-case>
+    <test-case start="1729890293672" stop="1729890293673" status="passed">
+      <name>testGetAll</name>
+    </test-case>
+    <test-case start="1729890293673" stop="1729890293674" status="passed">
+      <name>testIsProductSet</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

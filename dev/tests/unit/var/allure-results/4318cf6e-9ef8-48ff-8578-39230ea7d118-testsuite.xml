@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890400250" stop="1729890400269" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Model\TaxCalculationTest</name>
+  <test-cases>
+    <test-case start="1729890400250" stop="1729890400260" status="passed">
+      <name>testGetCalculatedRate</name>
+    </test-case>
+    <test-case start="1729890400260" stop="1729890400262" status="passed">
+      <name>testGetDefaultCalculatedRate</name>
+    </test-case>
+    <test-case start="1729890400262" stop="1729890400264" status="passed">
+      <name>testCalculateTaxIfNoItemsInQuote</name>
+    </test-case>
+    <test-case start="1729890400265" stop="1729890400269" status="passed">
+      <name>testCalculateTax</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

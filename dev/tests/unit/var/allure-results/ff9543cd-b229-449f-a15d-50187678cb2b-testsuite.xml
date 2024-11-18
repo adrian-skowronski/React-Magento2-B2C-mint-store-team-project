@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890442431" stop="1729890442433" version="1.4.0">
+  <name>Magento\Framework\DB\Test\Unit\Select\CompositeQueryModifierTest</name>
+  <test-cases>
+    <test-case start="1729890442432" stop="1729890442433" status="passed">
+      <name>testModify</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

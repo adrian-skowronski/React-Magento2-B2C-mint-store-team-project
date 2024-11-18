@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890452728" stop="1729890452739" version="1.4.0">
+  <name>Magento\Framework\Module\Test\Unit\Dir\ReverseResolverTest</name>
+  <test-cases>
+    <test-case start="1729890452728" stop="1729890452729" status="passed">
+      <name>testGetModuleName with data set "module root dir"</name>
+    </test-case>
+    <test-case start="1729890452730" stop="1729890452731" status="passed">
+      <name>testGetModuleName with data set "module root dir trailing slash"</name>
+    </test-case>
+    <test-case start="1729890452731" stop="1729890452732" status="passed">
+      <name>testGetModuleName with data set "module root dir backward slash"</name>
+    </test-case>
+    <test-case start="1729890452732" stop="1729890452733" status="passed">
+      <name>testGetModuleName with data set "dir in module"</name>
+    </test-case>
+    <test-case start="1729890452734" stop="1729890452734" status="passed">
+      <name>testGetModuleName with data set "dir in module trailing slash"</name>
+    </test-case>
+    <test-case start="1729890452735" stop="1729890452735" status="passed">
+      <name>testGetModuleName with data set "dir in module backward slash"</name>
+    </test-case>
+    <test-case start="1729890452736" stop="1729890452737" status="passed">
+      <name>testGetModuleName with data set "file in module"</name>
+    </test-case>
+    <test-case start="1729890452737" stop="1729890452738" status="passed">
+      <name>testGetModuleName with data set "file in module backward slash"</name>
+    </test-case>
+    <test-case start="1729890452738" stop="1729890452739" status="passed">
+      <name>testGetModuleName with data set "unknown module"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

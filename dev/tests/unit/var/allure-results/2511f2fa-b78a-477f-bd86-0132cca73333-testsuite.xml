@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328266" stop="1729890328272" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\SearchAdapter\Query\Preprocessor\StopwordsTest</name>
+  <test-cases>
+    <test-case start="1729890328267" stop="1729890328270" status="passed">
+      <name>testProcess</name>
+    </test-case>
+    <test-case start="1729890328270" stop="1729890328272" status="passed">
+      <name>testProcessFromCache</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

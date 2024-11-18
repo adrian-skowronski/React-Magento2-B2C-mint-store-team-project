@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890373523" stop="1729890373587" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Model\ResourceModel\Product\Sold\Collection\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890373524" stop="1729890373584" status="passed">
+      <name>testGetSelectCountSql</name>
+    </test-case>
+    <test-case start="1729890373584" stop="1729890373587" status="passed">
+      <name>testAddOrderedQty</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

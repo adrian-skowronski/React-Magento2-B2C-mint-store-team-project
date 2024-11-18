@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890294239" stop="1729890294325" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ResourceModel\Product\ImageTest</name>
+  <test-cases>
+    <test-case start="1729890294240" stop="1729890294243" status="passed">
+      <name>testGetCountAllProductImages with data set #0</name>
+    </test-case>
+    <test-case start="1729890294243" stop="1729890294248" status="passed">
+      <name>testGetCountAllProductImages with data set #1</name>
+    </test-case>
+    <test-case start="1729890294248" stop="1729890294252" status="passed">
+      <name>testGetCountAllProductImages with data set #2</name>
+    </test-case>
+    <test-case start="1729890294252" stop="1729890294256" status="passed">
+      <name>testGetCountAllProductImages with data set #3</name>
+    </test-case>
+    <test-case start="1729890294256" stop="1729890294259" status="passed">
+      <name>testGetCountAllProductImages with data set #4</name>
+    </test-case>
+    <test-case start="1729890294259" stop="1729890294262" status="passed">
+      <name>testGetCountAllProductImages with data set #5</name>
+    </test-case>
+    <test-case start="1729890294263" stop="1729890294267" status="passed">
+      <name>testGetCountUsedProductImages with data set #0</name>
+    </test-case>
+    <test-case start="1729890294267" stop="1729890294270" status="passed">
+      <name>testGetCountUsedProductImages with data set #1</name>
+    </test-case>
+    <test-case start="1729890294270" stop="1729890294273" status="passed">
+      <name>testGetCountUsedProductImages with data set #2</name>
+    </test-case>
+    <test-case start="1729890294273" stop="1729890294276" status="passed">
+      <name>testGetCountUsedProductImages with data set #3</name>
+    </test-case>
+    <test-case start="1729890294276" stop="1729890294281" status="passed">
+      <name>testGetCountUsedProductImages with data set #4</name>
+    </test-case>
+    <test-case start="1729890294281" stop="1729890294284" status="passed">
+      <name>testGetCountUsedProductImages with data set #5</name>
+    </test-case>
+    <test-case start="1729890294285" stop="1729890294287" status="passed">
+      <name>testGetAllProductImages with data set #0</name>
+    </test-case>
+    <test-case start="1729890294288" stop="1729890294291" status="passed">
+      <name>testGetAllProductImages with data set #1</name>
+    </test-case>
+    <test-case start="1729890294291" stop="1729890294295" status="passed">
+      <name>testGetAllProductImages with data set #2</name>
+    </test-case>
+    <test-case start="1729890294295" stop="1729890294300" status="passed">
+      <name>testGetAllProductImages with data set #3</name>
+    </test-case>
+    <test-case start="1729890294300" stop="1729890294302" status="passed">
+      <name>testGetAllProductImages with data set #4</name>
+    </test-case>
+    <test-case start="1729890294303" stop="1729890294305" status="passed">
+      <name>testGetAllProductImages with data set #5</name>
+    </test-case>
+    <test-case start="1729890294305" stop="1729890294308" status="passed">
+      <name>testGetUsedProductImages with data set #0</name>
+    </test-case>
+    <test-case start="1729890294308" stop="1729890294311" status="passed">
+      <name>testGetUsedProductImages with data set #1</name>
+    </test-case>
+    <test-case start="1729890294311" stop="1729890294316" status="passed">
+      <name>testGetUsedProductImages with data set #2</name>
+    </test-case>
+    <test-case start="1729890294316" stop="1729890294319" status="passed">
+      <name>testGetUsedProductImages with data set #3</name>
+    </test-case>
+    <test-case start="1729890294319" stop="1729890294322" status="passed">
+      <name>testGetUsedProductImages with data set #4</name>
+    </test-case>
+    <test-case start="1729890294322" stop="1729890294324" status="passed">
+      <name>testGetUsedProductImages with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

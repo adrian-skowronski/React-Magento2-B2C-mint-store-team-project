@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890313886" stop="1729890313895" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Controller\Address\DeleteTest</name>
+  <test-cases>
+    <test-case start="1729890313887" stop="1729890313891" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890313892" stop="1729890313895" status="passed">
+      <name>testExecuteWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890371842" stop="1729890371856" version="1.4.0">
+  <name>Magento\RemoteStorage\Test\Unit\Plugin\ImageTest</name>
+  <test-cases>
+    <test-case start="1729890371843" stop="1729890371850" status="passed">
+      <name>testAroundSaveWithNewName with data set "with_new_name"</name>
+    </test-case>
+    <test-case start="1729890371850" stop="1729890371853" status="passed">
+      <name>testAroundSaveWithNewName with data set "with_old_name"</name>
+    </test-case>
+    <test-case start="1729890371853" stop="1729890371856" status="passed">
+      <name>testBeforeOpen</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463740" stop="1729890463750" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Layout\Argument\Interpreter\ObjectTest</name>
+  <test-cases>
+    <test-case start="1729890463740" stop="1729890463741" status="passed">
+      <name>testEvaluate</name>
+    </test-case>
+    <test-case start="1729890463742" stop="1729890463743" status="passed">
+      <name>testEvaluateWrongClass with data set "no class"</name>
+    </test-case>
+    <test-case start="1729890463743" stop="1729890463744" status="passed">
+      <name>testEvaluateWrongClass with data set "unexpected class"</name>
+    </test-case>
+    <test-case start="1729890463744" stop="1729890463745" status="passed">
+      <name>testEvaluateShareEnabledWrongClass with data set "no class"</name>
+    </test-case>
+    <test-case start="1729890463746" stop="1729890463747" status="passed">
+      <name>testEvaluateShareEnabledWrongClass with data set "unexpected class"</name>
+    </test-case>
+    <test-case start="1729890463747" stop="1729890463748" status="passed">
+      <name>testEvaluateShareDisabledWrongClass with data set "no class"</name>
+    </test-case>
+    <test-case start="1729890463749" stop="1729890463750" status="passed">
+      <name>testEvaluateShareDisabledWrongClass with data set "unexpected class"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

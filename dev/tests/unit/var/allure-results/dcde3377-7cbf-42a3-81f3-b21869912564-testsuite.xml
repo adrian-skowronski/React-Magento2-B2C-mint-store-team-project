@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404315" stop="1729890404333" version="1.4.0">
+  <name>Magento\Ui\Test\Unit\Component\Control\ActionPoolTest</name>
+  <test-cases>
+    <test-case start="1729890404315" stop="1729890404327" status="passed">
+      <name>testAdd</name>
+    </test-case>
+    <test-case start="1729890404327" stop="1729890404330" status="passed">
+      <name>testRemove</name>
+    </test-case>
+    <test-case start="1729890404330" stop="1729890404332" status="passed">
+      <name>testUpdate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

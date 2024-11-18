@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890354478" stop="1729890354487" version="1.4.0">
+  <name>Magento\NewRelicReporting\Test\Unit\Model\Cron\ReportNewRelicCronTest</name>
+  <test-cases>
+    <test-case start="1729890354478" stop="1729890354483" status="passed">
+      <name>testReportNewRelicCronModuleDisabledFromConfig</name>
+    </test-case>
+    <test-case start="1729890354483" stop="1729890354485" status="passed">
+      <name>testReportNewRelicCron</name>
+    </test-case>
+    <test-case start="1729890354485" stop="1729890354487" status="passed">
+      <name>testReportNewRelicCronRequestFailed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

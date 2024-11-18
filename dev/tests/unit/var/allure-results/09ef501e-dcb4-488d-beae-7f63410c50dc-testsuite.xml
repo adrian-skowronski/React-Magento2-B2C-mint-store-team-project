@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890446218" stop="1729890447714" version="1.4.0">
+  <name>Magento\Framework\Encryption\Test\Unit\EncryptorTest</name>
+  <test-cases>
+    <test-case start="1729890446219" stop="1729890446219" status="passed">
+      <name>testGetHashNoSalt</name>
+    </test-case>
+    <test-case start="1729890446220" stop="1729890446337" status="passed">
+      <name>testGetHashSpecifiedSalt</name>
+    </test-case>
+    <test-case start="1729890446338" stop="1729890446447" status="passed">
+      <name>testGetHashRandomSaltDefaultLength</name>
+    </test-case>
+    <test-case start="1729890446447" stop="1729890446568" status="passed">
+      <name>testGetHashRandomSaltSpecifiedLength</name>
+    </test-case>
+    <test-case start="1729890446569" stop="1729890446570" status="passed">
+      <name>testValidateHash with data set #0</name>
+    </test-case>
+    <test-case start="1729890446570" stop="1729890446571" status="passed">
+      <name>testValidateHash with data set #1</name>
+    </test-case>
+    <test-case start="1729890446572" stop="1729890446573" status="passed">
+      <name>testValidateHash with data set #2</name>
+    </test-case>
+    <test-case start="1729890446573" stop="1729890446695" status="passed">
+      <name>testValidateHash with data set #3</name>
+    </test-case>
+    <test-case start="1729890446696" stop="1729890446697" status="passed">
+      <name>testValidateHash with data set #4</name>
+    </test-case>
+    <test-case start="1729890446698" stop="1729890446699" status="passed">
+      <name>testEncryptWithEmptyKey with data set #0</name>
+    </test-case>
+    <test-case start="1729890446699" stop="1729890446700" status="passed">
+      <name>testEncryptWithEmptyKey with data set #1</name>
+    </test-case>
+    <test-case start="1729890446701" stop="1729890446702" status="passed">
+      <name>testEncryptWithEmptyKey with data set #2</name>
+    </test-case>
+    <test-case start="1729890446702" stop="1729890446703" status="passed">
+      <name>testEncryptWithEmptyKey with data set #3</name>
+    </test-case>
+    <test-case start="1729890446704" stop="1729890446705" status="passed">
+      <name>testDecryptWithEmptyKey with data set #0</name>
+    </test-case>
+    <test-case start="1729890446705" stop="1729890446706" status="passed">
+      <name>testDecryptWithEmptyKey with data set #1</name>
+    </test-case>
+    <test-case start="1729890446707" stop="1729890446708" status="passed">
+      <name>testDecryptWithEmptyKey with data set #2</name>
+    </test-case>
+    <test-case start="1729890446708" stop="1729890446709" status="passed">
+      <name>testDecryptWithEmptyKey with data set #3</name>
+    </test-case>
+    <test-case start="1729890446710" stop="1729890446711" status="passed">
+      <name>testEncrypt</name>
+    </test-case>
+    <test-case start="1729890446711" stop="1729890446712" status="passed">
+      <name>testDecrypt</name>
+    </test-case>
+    <test-case start="1729890446713" stop="1729890446720" status="passed">
+      <name>testLegacyDecrypt</name>
+    </test-case>
+    <test-case start="1729890446721" stop="1729890446722" status="passed">
+      <name>testEncryptDecryptNewKeyAdded</name>
+    </test-case>
+    <test-case start="1729890446722" stop="1729890446723" status="passed">
+      <name>testValidateKey</name>
+    </test-case>
+    <test-case start="1729890446723" stop="1729890446724" status="passed">
+      <name>testValidateKeyInvalid</name>
+    </test-case>
+    <test-case start="1729890446725" stop="1729890446726" status="passed">
+      <name>testGetHashMustUseSpecifiedHashingAlgo with data set #0</name>
+    </test-case>
+    <test-case start="1729890446727" stop="1729890446728" status="passed">
+      <name>testGetHashMustUseSpecifiedHashingAlgo with data set #1</name>
+    </test-case>
+    <test-case start="1729890446729" stop="1729890446730" status="passed">
+      <name>testGetHashMustUseSpecifiedHashingAlgo with data set #2</name>
+    </test-case>
+    <test-case start="1729890446731" stop="1729890446732" status="passed">
+      <name>testGetHashMustUseSpecifiedHashingAlgo with data set #3</name>
+    </test-case>
+    <test-case start="1729890446733" stop="1729890446848" status="passed">
+      <name>testGetHashMustUseSpecifiedHashingAlgo with data set #4</name>
+    </test-case>
+    <test-case start="1729890446849" stop="1729890446850" status="passed">
+      <name>testHash</name>
+    </test-case>
+    <test-case start="1729890446851" stop="1729890447285" status="passed">
+      <name>testValidation</name>
+    </test-case>
+    <test-case start="1729890447286" stop="1729890447714" status="passed">
+      <name>testUpgradedValidation</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

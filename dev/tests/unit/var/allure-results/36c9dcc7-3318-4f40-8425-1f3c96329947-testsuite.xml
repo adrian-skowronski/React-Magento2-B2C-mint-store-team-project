@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406602" stop="1729890406614" version="1.4.0">
+  <name>Magento\UrlRewrite\Test\Unit\Model\ResourceModel\UrlRewriteCollectionTest</name>
+  <test-cases>
+    <test-case start="1729890406603" stop="1729890406605" status="passed">
+      <name>testAddStoreFilterIfStoreIsArray with data set #0</name>
+    </test-case>
+    <test-case start="1729890406606" stop="1729890406607" status="passed">
+      <name>testAddStoreFilterIfStoreIsArray with data set #1</name>
+    </test-case>
+    <test-case start="1729890406608" stop="1729890406610" status="passed">
+      <name>testAddStoreFilterIfStoreIsInt with data set #0</name>
+    </test-case>
+    <test-case start="1729890406611" stop="1729890406614" status="passed">
+      <name>testAddStoreFilterIfStoreIsInt with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890355016" stop="1729890355029" version="1.4.0">
+  <name>Magento\Newsletter\Test\Unit\Block\Adminhtml\Template\PreviewTest</name>
+  <test-cases>
+    <test-case start="1729890355016" stop="1729890355022" status="passed">
+      <name>testToHtml</name>
+    </test-case>
+    <test-case start="1729890355022" stop="1729890355026" status="passed">
+      <name>testToHtmlForNewTemplate</name>
+    </test-case>
+    <test-case start="1729890355026" stop="1729890355029" status="passed">
+      <name>testToHtmlWithSubscriber</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

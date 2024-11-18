@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422960" stop="1729890422967" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Cache\InMemoryStateTest</name>
+  <test-cases>
+    <test-case start="1729890422960" stop="1729890422961" status="passed">
+      <name>allCachesAreDisabledByDefault</name>
+    </test-case>
+    <test-case start="1729890422962" stop="1729890422962" status="passed">
+      <name>enablesOnlySpecificCacheType</name>
+    </test-case>
+    <test-case start="1729890422963" stop="1729890422963" status="passed">
+      <name>allowsToSpecifyCacheTypeConfiguration</name>
+    </test-case>
+    <test-case start="1729890422964" stop="1729890422964" status="passed">
+      <name>mergesPersistentStateInTheFinalObject</name>
+    </test-case>
+    <test-case start="1729890422965" stop="1729890422966" status="passed">
+      <name>runtimeValuesAreAreNotPreservedWhenPersistedStateIsModified</name>
+    </test-case>
+    <test-case start="1729890422966" stop="1729890422967" status="passed">
+      <name>persistingStoresRuntimeValuesPersistedState</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

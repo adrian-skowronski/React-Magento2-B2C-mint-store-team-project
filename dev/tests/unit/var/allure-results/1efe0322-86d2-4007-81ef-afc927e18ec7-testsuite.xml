@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403397" stop="1729890403411" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\View\DesignTest</name>
+  <test-cases>
+    <test-case start="1729890403398" stop="1729890403399" status="passed">
+      <name>testGetThemePath with data set #0</name>
+    </test-case>
+    <test-case start="1729890403400" stop="1729890403401" status="passed">
+      <name>testGetThemePath with data set #1</name>
+    </test-case>
+    <test-case start="1729890403402" stop="1729890403403" status="passed">
+      <name>testGetThemePath with data set #2</name>
+    </test-case>
+    <test-case start="1729890403404" stop="1729890403405" status="passed">
+      <name>testSetDefaultDesignTheme with data set "single"</name>
+    </test-case>
+    <test-case start="1729890403406" stop="1729890403408" status="passed">
+      <name>testSetDefaultDesignTheme with data set "multi"</name>
+    </test-case>
+    <test-case start="1729890403408" stop="1729890403409" status="passed">
+      <name>testGetDesignParams</name>
+    </test-case>
+    <test-case start="1729890403410" stop="1729890403411" status="passed">
+      <name>testSetDesignTheme</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

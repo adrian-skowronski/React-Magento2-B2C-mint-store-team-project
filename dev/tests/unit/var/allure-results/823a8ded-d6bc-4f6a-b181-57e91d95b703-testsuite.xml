@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890411238" stop="1729890411243" version="1.4.0">
+  <name>Magento\Wishlist\Test\Unit\Controller\Index\PluginTest</name>
+  <test-cases>
+    <test-case start="1729890411239" stop="1729890411243" status="passed">
+      <name>testBeforeDispatch</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

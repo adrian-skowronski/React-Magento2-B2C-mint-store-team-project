@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890261502" stop="1729890261534" version="1.4.0">
+  <name>Magento\AdvancedSearch\Test\Unit\Controller\Adminhtml\Search\System\Config\TestConnectionTest</name>
+  <test-cases>
+    <test-case start="1729890261502" stop="1729890261528" status="passed">
+      <name>testExecuteEmptyEngine</name>
+    </test-case>
+    <test-case start="1729890261528" stop="1729890261531" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890261531" stop="1729890261534" status="passed">
+      <name>testExecutePingFailed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

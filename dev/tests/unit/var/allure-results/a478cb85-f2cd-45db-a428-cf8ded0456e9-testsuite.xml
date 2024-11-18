@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890415559" stop="1729890415568" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Fixtures\CustomersFixtureTest</name>
+  <test-cases>
+    <test-case start="1729890415559" stop="1729890415564" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890415565" stop="1729890415566" status="passed">
+      <name>testDoNoExecuteIfCustomersAlreadyGenerated</name>
+    </test-case>
+    <test-case start="1729890415566" stop="1729890415567" status="passed">
+      <name>testGetActionTitle</name>
+    </test-case>
+    <test-case start="1729890415567" stop="1729890415568" status="passed">
+      <name>testIntroduceParamLabels</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

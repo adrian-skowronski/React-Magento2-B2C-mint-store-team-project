@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890361141" stop="1729890361144" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Billing\Agreement\OrdersUpdaterTest</name>
+  <test-cases>
+    <test-case start="1729890361141" stop="1729890361143" status="passed">
+      <name>testUpdate</name>
+    </test-case>
+    <test-case start="1729890361144" stop="1729890361144" status="passed">
+      <name>testUpdateWhenBillingAgreementIsNotSet</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

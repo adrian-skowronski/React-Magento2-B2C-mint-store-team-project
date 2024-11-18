@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327393" stop="1729890327405" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Adapter\FieldMapper\Product\FieldProvider\FieldType\Resolver\IntegerTypeTest</name>
+  <test-cases>
+    <test-case start="1729890327394" stop="1729890327396" status="passed">
+      <name>testGetFieldType with data set #0</name>
+    </test-case>
+    <test-case start="1729890327397" stop="1729890327398" status="passed">
+      <name>testGetFieldType with data set #1</name>
+    </test-case>
+    <test-case start="1729890327399" stop="1729890327400" status="passed">
+      <name>testGetFieldType with data set #2</name>
+    </test-case>
+    <test-case start="1729890327400" stop="1729890327401" status="passed">
+      <name>testGetFieldType with data set #3</name>
+    </test-case>
+    <test-case start="1729890327402" stop="1729890327403" status="passed">
+      <name>testGetFieldType with data set #4</name>
+    </test-case>
+    <test-case start="1729890327404" stop="1729890327405" status="passed">
+      <name>testGetFieldType with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

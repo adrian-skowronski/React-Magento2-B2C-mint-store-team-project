@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890285906" stop="1729890286128" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890285906" stop="1729890285932" status="passed">
+      <name>testLoadAttributeSets</name>
+    </test-case>
+    <test-case start="1729890285937" stop="1729890285939" status="passed">
+      <name>testGetAttributeSetName</name>
+    </test-case>
+    <test-case start="1729890285943" stop="1729890285946" status="passed">
+      <name>testGetAttributeSetId</name>
+    </test-case>
+    <test-case start="1729890285947" stop="1729890285977" status="passed">
+      <name>testLoadAttributeGroups</name>
+    </test-case>
+    <test-case start="1729890285980" stop="1729890285983" status="passed">
+      <name>testGetAttributeGroupName</name>
+    </test-case>
+    <test-case start="1729890285987" stop="1729890285990" status="passed">
+      <name>testGetAttributeGroupId</name>
+    </test-case>
+    <test-case start="1729890285990" stop="1729890286008" status="passed">
+      <name>testLoadProductTypes</name>
+    </test-case>
+    <test-case start="1729890286011" stop="1729890286014" status="passed">
+      <name>testGetProductTypeId</name>
+    </test-case>
+    <test-case start="1729890286019" stop="1729890286022" status="passed">
+      <name>testGetProductTypeName</name>
+    </test-case>
+    <test-case start="1729890286023" stop="1729890286025" status="passed">
+      <name>testGetSourceOptionId with data set #0</name>
+    </test-case>
+    <test-case start="1729890286025" stop="1729890286027" status="passed">
+      <name>testGetSourceOptionId with data set #1</name>
+    </test-case>
+    <test-case start="1729890286027" stop="1729890286029" status="passed">
+      <name>testGetSourceOptionId with data set #2</name>
+    </test-case>
+    <test-case start="1729890286030" stop="1729890286110" status="passed">
+      <name>testGetAttributesUsedInProductListing</name>
+    </test-case>
+    <test-case start="1729890286113" stop="1729890286119" status="passed">
+      <name>testGetProductAttributes</name>
+    </test-case>
+    <test-case start="1729890286120" stop="1729890286123" status="passed">
+      <name>testGetAttributesUsedForSortBy</name>
+    </test-case>
+    <test-case start="1729890286123" stop="1729890286126" status="passed">
+      <name>testGetAttributeUsedForSortByArray</name>
+    </test-case>
+    <test-case start="1729890286126" stop="1729890286128" status="passed">
+      <name>testGetProductListDefaultSortBy</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890409031" stop="1729890409051" version="1.4.0">
+  <name>Magento\Weee\Test\Unit\App\Action\ContextPluginTest</name>
+  <test-cases>
+    <test-case start="1729890409031" stop="1729890409040" status="passed">
+      <name>testBeforeExecuteBasedOnDefault</name>
+    </test-case>
+    <test-case start="1729890409040" stop="1729890409043" status="passed">
+      <name>testBeforeExecuteBasedOnOrigin</name>
+    </test-case>
+    <test-case start="1729890409043" stop="1729890409046" status="passed">
+      <name>testBeforeExecuteBasedOnBilling</name>
+    </test-case>
+    <test-case start="1729890409046" stop="1729890409051" status="passed">
+      <name>testBeforeExecuterBasedOnShipping</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

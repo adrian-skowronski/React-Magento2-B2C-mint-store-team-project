@@ -1,0 +1,1 @@
+/home/adrian-skowronski/www/mint/vendor/magento/module-paypal/view/adminhtml/web/js/rules.js

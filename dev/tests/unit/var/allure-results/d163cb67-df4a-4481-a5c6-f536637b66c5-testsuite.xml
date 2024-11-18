@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890296305" stop="1729890296321" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\ViewModel\Product\BreadcrumbsTest</name>
+  <test-cases>
+    <test-case start="1729890296306" stop="1729890296307" status="passed">
+      <name>testGetCategoryUrlSuffix</name>
+    </test-case>
+    <test-case start="1729890296308" stop="1729890296309" status="passed">
+      <name>testIsCategoryUsedInProductUrl</name>
+    </test-case>
+    <test-case start="1729890296309" stop="1729890296310" status="passed">
+      <name>testGetProductName with data set #0</name>
+    </test-case>
+    <test-case start="1729890296311" stop="1729890296312" status="passed">
+      <name>testGetProductName with data set #1</name>
+    </test-case>
+    <test-case start="1729890296313" stop="1729890296314" status="passed">
+      <name>testGetJsonConfigurationHtmlEscaped with data set #0</name>
+    </test-case>
+    <test-case start="1729890296315" stop="1729890296316" status="passed">
+      <name>testGetJsonConfigurationHtmlEscaped with data set #1</name>
+    </test-case>
+    <test-case start="1729890296317" stop="1729890296318" status="passed">
+      <name>testGetJsonConfigurationHtmlEscaped with data set #2</name>
+    </test-case>
+    <test-case start="1729890296319" stop="1729890296320" status="passed">
+      <name>testGetJsonConfigurationHtmlEscaped with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

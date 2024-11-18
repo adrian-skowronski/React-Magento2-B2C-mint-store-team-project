@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310774" stop="1729890310792" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Ui\DataProvider\Product\Form\Modifier\CompositeTest</name>
+  <test-cases>
+    <test-case start="1729890310774" stop="1729890310784" status="passed">
+      <name>testModifyData</name>
+    </test-case>
+    <test-case start="1729890310785" stop="1729890310787" status="passed">
+      <name>testDisallowModifyData</name>
+    </test-case>
+    <test-case start="1729890310788" stop="1729890310790" status="passed">
+      <name>testModifyMeta</name>
+    </test-case>
+    <test-case start="1729890310790" stop="1729890310792" status="passed">
+      <name>testDisallowModifyMeta</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

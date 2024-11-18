@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890262764" stop="1729890262774" version="1.4.0">
+  <name>Magento\Analytics\Test\Unit\Plugin\BearerTokenValidatorPluginTest</name>
+  <test-cases>
+    <test-case start="1729890262764" stop="1729890262771" status="passed">
+      <name>testTrueIsPassedThrough</name>
+    </test-case>
+    <test-case start="1729890262771" stop="1729890262772" status="passed">
+      <name>testFalseWhenIntegrationDoesntMatch</name>
+    </test-case>
+    <test-case start="1729890262772" stop="1729890262774" status="passed">
+      <name>testTrueWhenIntegrationMatches</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

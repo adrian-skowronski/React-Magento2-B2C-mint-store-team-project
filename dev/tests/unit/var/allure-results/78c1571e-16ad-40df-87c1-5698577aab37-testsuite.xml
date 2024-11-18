@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353256" stop="1729890353283" version="1.4.0">
+  <name>Magento\MediaStorage\Test\Unit\Service\ImageResizeTest</name>
+  <test-cases>
+    <test-case start="1729890353256" stop="1729890353269" status="passed">
+      <name>testResizeFromThemesMediaStorageDatabase</name>
+    </test-case>
+    <test-case start="1729890353270" stop="1729890353272" status="passed">
+      <name>testResizeFromThemesHiddenImagesMediaStorageDatabase</name>
+    </test-case>
+    <test-case start="1729890353272" stop="1729890353275" status="passed">
+      <name>testResizeFromThemesUnsupportedImage</name>
+    </test-case>
+    <test-case start="1729890353275" stop="1729890353277" status="passed">
+      <name>testResizeFromImageNameMediaStorageDatabase</name>
+    </test-case>
+    <test-case start="1729890353278" stop="1729890353280" status="passed">
+      <name>testSkipResizingAlreadyResizedImageOnDisk</name>
+    </test-case>
+    <test-case start="1729890353281" stop="1729890353283" status="passed">
+      <name>testSkipResizingAlreadyResizedImageInDatabase</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

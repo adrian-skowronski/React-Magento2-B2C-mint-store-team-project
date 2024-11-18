@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890359537" stop="1729890359556" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Model\MethodListTest</name>
+  <test-cases>
+    <test-case start="1729890359538" stop="1729890359556" status="passed">
+      <name>testGetAvailableMethods</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

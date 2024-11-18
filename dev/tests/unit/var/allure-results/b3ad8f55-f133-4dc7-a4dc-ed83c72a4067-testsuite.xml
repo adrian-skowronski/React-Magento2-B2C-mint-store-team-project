@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890395447" stop="1729890395474" version="1.4.0">
+  <name>Magento\Store\Test\Unit\Model\StoreRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890395447" stop="1729890395448" status="passed">
+      <name>testGetWithException</name>
+    </test-case>
+    <test-case start="1729890395449" stop="1729890395455" status="passed">
+      <name>testGetWithAvailableStoreFromScope</name>
+    </test-case>
+    <test-case start="1729890395456" stop="1729890395460" status="passed">
+      <name>testGetByIdWithAvailableStoreFromScope</name>
+    </test-case>
+    <test-case start="1729890395461" stop="1729890395465" status="passed">
+      <name>testGetByIdWithException</name>
+    </test-case>
+    <test-case start="1729890395466" stop="1729890395474" status="passed">
+      <name>testGetList</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

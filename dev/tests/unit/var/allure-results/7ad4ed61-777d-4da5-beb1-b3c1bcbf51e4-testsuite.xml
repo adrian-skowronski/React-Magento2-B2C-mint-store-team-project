@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890311103" stop="1729890311112" version="1.4.0">
+  <name>Magento\Contact\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890311103" stop="1729890311105" status="passed">
+      <name>testIsEnabled with data set #0</name>
+    </test-case>
+    <test-case start="1729890311106" stop="1729890311107" status="passed">
+      <name>testIsEnabled with data set #1</name>
+    </test-case>
+    <test-case start="1729890311107" stop="1729890311109" status="passed">
+      <name>testEmailTemplate</name>
+    </test-case>
+    <test-case start="1729890311109" stop="1729890311110" status="passed">
+      <name>testEmailSender</name>
+    </test-case>
+    <test-case start="1729890311110" stop="1729890311112" status="passed">
+      <name>testEmailRecipient</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

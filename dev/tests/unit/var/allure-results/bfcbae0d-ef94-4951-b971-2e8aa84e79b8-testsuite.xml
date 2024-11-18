@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408483" stop="1729890408500" version="1.4.0">
+  <name>Magento\Webapi\Test\Unit\Model\Config\ClassReflectorTest</name>
+  <test-cases>
+    <test-case start="1729890408483" stop="1729890408496" status="passed">
+      <name>testReflectClassMethods</name>
+    </test-case>
+    <test-case start="1729890408496" stop="1729890408499" status="passed">
+      <name>testExtractMethodData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

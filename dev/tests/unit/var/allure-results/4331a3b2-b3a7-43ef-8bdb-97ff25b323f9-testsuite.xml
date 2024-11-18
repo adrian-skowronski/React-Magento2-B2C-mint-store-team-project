@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890269005" stop="1729890269021" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Controller\Adminhtml\Product\Initialization\Helper\Plugin\BundleTest</name>
+  <test-cases>
+    <test-case start="1729890269005" stop="1729890269017" status="passed">
+      <name>testAfterInitializeIfBundleAnsCustomOptionsAndBundleSelectionsExist</name>
+    </test-case>
+    <test-case start="1729890269018" stop="1729890269019" status="passed">
+      <name>testAfterInitializeIfBundleSelectionsAndCustomOptionsExist</name>
+    </test-case>
+    <test-case start="1729890269019" stop="1729890269021" status="passed">
+      <name>testAfterInitializeIfBundleOptionsNotExist</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

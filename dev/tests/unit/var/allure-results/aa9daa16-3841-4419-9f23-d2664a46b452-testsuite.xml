@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890353995" stop="1729890354008" version="1.4.0">
+  <name>Magento\Multishipping\Test\Unit\Model\Checkout\Type\Multishipping\PluginTest</name>
+  <test-cases>
+    <test-case start="1729890353995" stop="1729890353997" status="passed">
+      <name>testBeforeInitCaseTrue</name>
+    </test-case>
+    <test-case start="1729890353998" stop="1729890353999" status="passed">
+      <name>testBeforeInitCaseFalse</name>
+    </test-case>
+    <test-case start="1729890353999" stop="1729890354006" status="passed">
+      <name>testAfterSave with data set "test with multi shipping addresses"</name>
+    </test-case>
+    <test-case start="1729890354006" stop="1729890354008" status="passed">
+      <name>testAfterSave with data set "test without multi shipping addresses"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

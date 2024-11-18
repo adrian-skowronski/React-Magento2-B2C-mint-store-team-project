@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462730" stop="1729890462734" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\FormKeyTest</name>
+  <test-cases>
+    <test-case start="1729890462730" stop="1729890462732" status="passed">
+      <name>testGetFormKey</name>
+    </test-case>
+    <test-case start="1729890462732" stop="1729890462734" status="passed">
+      <name>testToHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

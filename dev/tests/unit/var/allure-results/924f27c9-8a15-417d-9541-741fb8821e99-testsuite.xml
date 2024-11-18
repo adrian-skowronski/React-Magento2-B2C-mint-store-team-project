@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330212" stop="1729890330223" version="1.4.0">
+  <name>Magento\GoogleAnalytics\Test\Unit\Observer\SetGoogleAnalyticsOnOrderSuccessPageViewObserverTest</name>
+  <test-cases>
+    <test-case start="1729890330212" stop="1729890330218" status="passed">
+      <name>testExecuteWithNoOrderIds</name>
+    </test-case>
+    <test-case start="1729890330218" stop="1729890330223" status="passed">
+      <name>testExecuteWithOrderIds</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

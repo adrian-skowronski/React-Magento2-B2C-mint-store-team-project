@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890324185" stop="1729890324191" version="1.4.0">
+  <name>Magento\Downloadable\Test\Unit\Observer\SetHasDownloadableProductsObserverTest</name>
+  <test-cases>
+    <test-case start="1729890324185" stop="1729890324187" status="passed">
+      <name>testExecuteWithSessionHasDownloadableProducts</name>
+    </test-case>
+    <test-case start="1729890324187" stop="1729890324189" status="passed">
+      <name>testExecuteWithSessionNoDownloadableProducts with data set "Order has one item is downloadable product"</name>
+    </test-case>
+    <test-case start="1729890324189" stop="1729890324191" status="passed">
+      <name>testExecuteWithSessionNoDownloadableProducts with data set "Order has all items are simple product"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

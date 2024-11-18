@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890311358" stop="1729890311361" version="1.4.0">
+  <name>Magento\Cron\Test\Unit\Console\Command\CronRemoveCommandTest</name>
+  <test-cases>
+    <test-case start="1729890311358" stop="1729890311359" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890311360" stop="1729890311360" status="passed">
+      <name>testExecuteFailed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403629" stop="1729890403638" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Observer\CleanThemeRelatedContentObserverTest</name>
+  <test-cases>
+    <test-case start="1729890403630" stop="1729890403633" status="passed">
+      <name>testCleanThemeRelatedContent</name>
+    </test-case>
+    <test-case start="1729890403634" stop="1729890403636" status="passed">
+      <name>testCleanThemeRelatedContentException</name>
+    </test-case>
+    <test-case start="1729890403636" stop="1729890403638" status="passed">
+      <name>testCleanThemeRelatedContentNonObjectTheme</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890329552" stop="1729890329555" version="1.4.0">
+  <name>Magento\GiftMessage\Test\Unit\Block\Cart\Item\Renderer\Actions\GiftOptionsTest</name>
+  <test-cases>
+    <test-case start="1729890329552" stop="1729890329554" status="passed">
+      <name>testGetJsLayout</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

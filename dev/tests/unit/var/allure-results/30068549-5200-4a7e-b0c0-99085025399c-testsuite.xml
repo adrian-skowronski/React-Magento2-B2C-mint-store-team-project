@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376128" stop="1729890376133" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\Quote\ChildrenValidationLocatorTest</name>
+  <test-cases>
+    <test-case start="1729890376129" stop="1729890376130" status="passed">
+      <name>testIsChildrenValidationRequired with data set #0</name>
+    </test-case>
+    <test-case start="1729890376130" stop="1729890376131" status="passed">
+      <name>testIsChildrenValidationRequired with data set #1</name>
+    </test-case>
+    <test-case start="1729890376132" stop="1729890376133" status="passed">
+      <name>testIsChildrenValidationRequired with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

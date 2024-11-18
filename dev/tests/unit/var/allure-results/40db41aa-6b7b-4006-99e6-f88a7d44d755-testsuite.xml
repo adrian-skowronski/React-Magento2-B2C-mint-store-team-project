@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890396248" stop="1729890396444" version="1.4.0">
+  <name>Magento\Swatches\Test\Unit\Block\Product\Renderer\Listing\ConfigurableTest</name>
+  <test-cases>
+    <test-case start="1729890396249" stop="1729890396265" status="passed">
+      <name>testGetJsonSwatchConfigWithoutSwatches</name>
+    </test-case>
+    <test-case start="1729890396265" stop="1729890396392" status="passed">
+      <name>testGetJsonSwatchNotUsedInProductListing</name>
+    </test-case>
+    <test-case start="1729890396393" stop="1729890396411" status="passed">
+      <name>testGetJsonSwatchUsedInProductListing</name>
+    </test-case>
+    <test-case start="1729890396412" stop="1729890396423" status="passed">
+      <name>testGetPricesJson</name>
+    </test-case>
+    <test-case start="1729890396423" stop="1729890396444" status="passed">
+      <name>testGetCacheKey</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

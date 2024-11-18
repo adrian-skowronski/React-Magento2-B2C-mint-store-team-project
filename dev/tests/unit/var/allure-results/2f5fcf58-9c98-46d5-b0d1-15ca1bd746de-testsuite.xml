@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890309602" stop="1729890309611" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Model\Product\CartConfiguration\Plugin\ConfigurableTest</name>
+  <test-cases>
+    <test-case start="1729890309602" stop="1729890309608" status="passed">
+      <name>testAroundIsProductConfiguredChecksThatSuperAttributeIsSetWhenProductIsConfigurable</name>
+    </test-case>
+    <test-case start="1729890309609" stop="1729890309610" status="passed">
+      <name>testAroundIsProductConfiguredWhenProductIsNotConfigurable</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

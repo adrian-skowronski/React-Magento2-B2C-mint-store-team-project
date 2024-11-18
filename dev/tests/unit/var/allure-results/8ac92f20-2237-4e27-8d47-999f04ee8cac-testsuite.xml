@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402175" stop="1729890402184" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Config\ValidatorTest</name>
+  <test-cases>
+    <test-case start="1729890402175" stop="1729890402182" status="passed">
+      <name>testValidateHasRecursiveReference</name>
+    </test-case>
+    <test-case start="1729890402182" stop="1729890402184" status="passed">
+      <name>testValidateNoRecursiveReference</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

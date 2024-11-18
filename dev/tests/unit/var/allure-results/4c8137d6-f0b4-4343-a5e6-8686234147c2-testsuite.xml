@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408327" stop="1729890408366" version="1.4.0">
+  <name>Magento\Webapi\Test\Unit\Controller\Rest\Router\RouteTest</name>
+  <test-cases>
+    <test-case start="1729890408328" stop="1729890408328" status="passed">
+      <name>testResourceName</name>
+    </test-case>
+    <test-case start="1729890408329" stop="1729890408330" status="passed">
+      <name>testRoute with data set #0</name>
+    </test-case>
+    <test-case start="1729890408330" stop="1729890408331" status="passed">
+      <name>testRoute with data set #1</name>
+    </test-case>
+    <test-case start="1729890408332" stop="1729890408334" status="passed">
+      <name>testRoute with data set #2</name>
+    </test-case>
+    <test-case start="1729890408334" stop="1729890408335" status="passed">
+      <name>testRoute with data set #3</name>
+    </test-case>
+    <test-case start="1729890408336" stop="1729890408337" status="passed">
+      <name>testRoute with data set #4</name>
+    </test-case>
+    <test-case start="1729890408338" stop="1729890408338" status="passed">
+      <name>testRoute with data set #5</name>
+    </test-case>
+    <test-case start="1729890408339" stop="1729890408340" status="passed">
+      <name>testRoute with data set #6</name>
+    </test-case>
+    <test-case start="1729890408341" stop="1729890408342" status="passed">
+      <name>testRoute with data set #7</name>
+    </test-case>
+    <test-case start="1729890408342" stop="1729890408343" status="passed">
+      <name>testRoute with data set #8</name>
+    </test-case>
+    <test-case start="1729890408344" stop="1729890408345" status="passed">
+      <name>testRoute with data set #9</name>
+    </test-case>
+    <test-case start="1729890408345" stop="1729890408346" status="passed">
+      <name>testRoute with data set #10</name>
+    </test-case>
+    <test-case start="1729890408347" stop="1729890408348" status="passed">
+      <name>testRoute with data set #11</name>
+    </test-case>
+    <test-case start="1729890408349" stop="1729890408350" status="passed">
+      <name>testRoute with data set #12</name>
+    </test-case>
+    <test-case start="1729890408351" stop="1729890408352" status="passed">
+      <name>testRoute with data set #13</name>
+    </test-case>
+    <test-case start="1729890408352" stop="1729890408353" status="passed">
+      <name>testRoute with data set #14</name>
+    </test-case>
+    <test-case start="1729890408354" stop="1729890408355" status="passed">
+      <name>testRoute with data set #15</name>
+    </test-case>
+    <test-case start="1729890408356" stop="1729890408357" status="passed">
+      <name>testRoute with data set #16</name>
+    </test-case>
+    <test-case start="1729890408357" stop="1729890408358" status="passed">
+      <name>testRoute with data set #17</name>
+    </test-case>
+    <test-case start="1729890408359" stop="1729890408360" status="passed">
+      <name>testRoute with data set #18</name>
+    </test-case>
+    <test-case start="1729890408361" stop="1729890408361" status="passed">
+      <name>testRoute with data set #19</name>
+    </test-case>
+    <test-case start="1729890408362" stop="1729890408363" status="passed">
+      <name>testRoute with data set #20</name>
+    </test-case>
+    <test-case start="1729890408364" stop="1729890408364" status="passed">
+      <name>testRoute with data set #21</name>
+    </test-case>
+    <test-case start="1729890408365" stop="1729890408366" status="passed">
+      <name>testRoute with data set #22</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

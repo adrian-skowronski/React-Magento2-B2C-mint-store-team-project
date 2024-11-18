@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890302164" stop="1729890302174" version="1.4.0">
+  <name>Magento\Config\Test\Unit\Model\Config\Export\TypePoolTest</name>
+  <test-cases>
+    <test-case start="1729890302165" stop="1729890302165" status="passed">
+      <name>testIsPresent with data set #0</name>
+    </test-case>
+    <test-case start="1729890302166" stop="1729890302167" status="passed">
+      <name>testIsPresent with data set #1</name>
+    </test-case>
+    <test-case start="1729890302167" stop="1729890302168" status="passed">
+      <name>testIsPresent with data set #2</name>
+    </test-case>
+    <test-case start="1729890302169" stop="1729890302169" status="passed">
+      <name>testIsPresent with data set #3</name>
+    </test-case>
+    <test-case start="1729890302170" stop="1729890302171" status="passed">
+      <name>testIsPresent with data set #4</name>
+    </test-case>
+    <test-case start="1729890302172" stop="1729890302172" status="passed">
+      <name>testIsPresent with data set #5</name>
+    </test-case>
+    <test-case start="1729890302173" stop="1729890302174" status="passed">
+      <name>testIsPresent with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

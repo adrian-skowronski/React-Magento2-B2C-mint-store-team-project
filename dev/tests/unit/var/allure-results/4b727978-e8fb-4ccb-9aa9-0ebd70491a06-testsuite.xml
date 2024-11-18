@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328117" stop="1729890328131" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\SearchAdapter\Filter\BuilderTest</name>
+  <test-cases>
+    <test-case start="1729890328117" stop="1729890328121" status="passed">
+      <name>testBuildFailure</name>
+    </test-case>
+    <test-case start="1729890328121" stop="1729890328123" status="passed">
+      <name>testBuild with data set #0</name>
+    </test-case>
+    <test-case start="1729890328124" stop="1729890328126" status="passed">
+      <name>testBuild with data set #1</name>
+    </test-case>
+    <test-case start="1729890328127" stop="1729890328128" status="passed">
+      <name>testBuildNegation with data set #0</name>
+    </test-case>
+    <test-case start="1729890328129" stop="1729890328131" status="passed">
+      <name>testBuildNegation with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

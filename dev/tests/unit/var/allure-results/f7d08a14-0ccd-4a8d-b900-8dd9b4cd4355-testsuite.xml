@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890410455" stop="1729890410464" version="1.4.0">
+  <name>Magento\Widget\Test\Unit\Block\Adminhtml\Widget\Catalog\Category\ChooserTest</name>
+  <test-cases>
+    <test-case start="1729890410456" stop="1729890410464" status="passed">
+      <name>testGetTreeHasLevelField</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

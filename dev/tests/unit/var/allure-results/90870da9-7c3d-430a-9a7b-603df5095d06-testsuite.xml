@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890421827" stop="1729890421832" version="1.4.0">
+  <name>Magento\Framework\Acl\Test\Unit\AclResource\Config\Converter\DomTest</name>
+  <test-cases>
+    <test-case start="1729890421828" stop="1729890421830" status="passed">
+      <name>testConvertWithValidDom with data set #0</name>
+    </test-case>
+    <test-case start="1729890421831" stop="1729890421832" status="passed">
+      <name>testConvertWithInvalidDom with data set #0</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

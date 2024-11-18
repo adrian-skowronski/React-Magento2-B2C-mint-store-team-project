@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890407470" stop="1729890407478" version="1.4.0">
+  <name>Magento\Variable\Test\Unit\Model\Variable\DataTest</name>
+  <test-cases>
+    <test-case start="1729890407470" stop="1729890407472" status="passed">
+      <name>testGetDefaultVariables</name>
+    </test-case>
+    <test-case start="1729890407472" stop="1729890407478" status="passed">
+      <name>testGetCustomVariables</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

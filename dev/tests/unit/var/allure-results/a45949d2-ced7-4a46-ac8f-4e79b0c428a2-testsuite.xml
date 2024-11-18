@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890360392" stop="1729890360605" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Controller\Payflow\ReturnUrlTest</name>
+  <test-cases>
+    <test-case start="1729890360393" stop="1729890360410" status="passed">
+      <name>testExecuteAllowedOrderState with data set #0</name>
+    </test-case>
+    <test-case start="1729890360410" stop="1729890360418" status="passed">
+      <name>testExecuteAllowedOrderState with data set #1</name>
+    </test-case>
+    <test-case start="1729890360419" stop="1729890360427" status="passed">
+      <name>testExecuteAllowedOrderState with data set #2</name>
+    </test-case>
+    <test-case start="1729890360428" stop="1729890360438" status="passed">
+      <name>testFailedHashValidation with data set #0</name>
+    </test-case>
+    <test-case start="1729890360439" stop="1729890360447" status="passed">
+      <name>testFailedHashValidation with data set #1</name>
+    </test-case>
+    <test-case start="1729890360447" stop="1729890360454" status="passed">
+      <name>testFailedHashValidation with data set #2</name>
+    </test-case>
+    <test-case start="1729890360454" stop="1729890360463" status="passed">
+      <name>testExecuteNotAllowedOrderState with data set #0</name>
+    </test-case>
+    <test-case start="1729890360464" stop="1729890360472" status="passed">
+      <name>testExecuteNotAllowedOrderState with data set #1</name>
+    </test-case>
+    <test-case start="1729890360472" stop="1729890360481" status="passed">
+      <name>testExecuteNotAllowedOrderState with data set #2</name>
+    </test-case>
+    <test-case start="1729890360481" stop="1729890360491" status="passed">
+      <name>testExecuteNotAllowedOrderState with data set #3</name>
+    </test-case>
+    <test-case start="1729890360491" stop="1729890360508" status="passed">
+      <name>testExecuteNotAllowedOrderState with data set #4</name>
+    </test-case>
+    <test-case start="1729890360509" stop="1729890360519" status="passed">
+      <name>testExecuteNotAllowedOrderState with data set #5</name>
+    </test-case>
+    <test-case start="1729890360519" stop="1729890360529" status="passed">
+      <name>testExecuteNotAllowedOrderState with data set #6</name>
+    </test-case>
+    <test-case start="1729890360529" stop="1729890360537" status="passed">
+      <name>testExecuteNotAllowedOrderState with data set #7</name>
+    </test-case>
+    <test-case start="1729890360538" stop="1729890360547" status="passed">
+      <name>testExecuteNotAllowedOrderState with data set #8</name>
+    </test-case>
+    <test-case start="1729890360547" stop="1729890360559" status="passed">
+      <name>testExecuteNotAllowedOrderState with data set #9</name>
+    </test-case>
+    <test-case start="1729890360559" stop="1729890360569" status="passed">
+      <name>testCheckRejectByPaymentMethod</name>
+    </test-case>
+    <test-case start="1729890360570" stop="1729890360579" status="passed">
+      <name>testCheckXSSEscaped with data set #0</name>
+    </test-case>
+    <test-case start="1729890360579" stop="1729890360587" status="passed">
+      <name>testCheckXSSEscaped with data set #1</name>
+    </test-case>
+    <test-case start="1729890360588" stop="1729890360596" status="passed">
+      <name>testCheckXSSEscaped with data set #2</name>
+    </test-case>
+    <test-case start="1729890360596" stop="1729890360605" status="passed">
+      <name>testCheckAdvancedAcceptingByPaymentMethod</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

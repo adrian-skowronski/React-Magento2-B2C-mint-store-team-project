@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890456216" stop="1729890456217" version="1.4.0">
+  <name>Magento\Framework\Search\Test\Unit\Request\BinderTest</name>
+  <test-cases>
+    <test-case start="1729890456216" stop="1729890456217" status="passed">
+      <name>testBind</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

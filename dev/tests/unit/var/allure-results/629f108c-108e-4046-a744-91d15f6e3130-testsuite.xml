@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890397210" stop="1729890397238" version="1.4.0">
+  <name>Magento\Swatches\Test\Unit\Model\Plugin\FilterRendererTest</name>
+  <test-cases>
+    <test-case start="1729890397211" stop="1729890397236" status="passed">
+      <name>testAroundRenderTrue</name>
+    </test-case>
+    <test-case start="1729890397237" stop="1729890397238" status="passed">
+      <name>testAroundRenderFalse</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

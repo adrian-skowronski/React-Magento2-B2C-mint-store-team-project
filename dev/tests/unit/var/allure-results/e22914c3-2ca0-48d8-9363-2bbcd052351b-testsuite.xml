@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890417017" stop="1729890417023" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\ModuleUninstallerTest</name>
+  <test-cases>
+    <test-case start="1729890417017" stop="1729890417021" status="passed">
+      <name>testUninstallRemoveData</name>
+    </test-case>
+    <test-case start="1729890417021" stop="1729890417023" status="passed">
+      <name>testUninstallRemoveCode</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

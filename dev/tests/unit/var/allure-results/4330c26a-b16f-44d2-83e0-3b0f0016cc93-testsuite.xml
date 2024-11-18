@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890272504" stop="1729890272517" version="1.4.0">
+  <name>Magento\CatalogImportExport\Test\Unit\Model\Import\Product\Validator\LayoutUpdatePermissionsTest</name>
+  <test-cases>
+    <test-case start="1729890272505" stop="1729890272506" status="passed">
+      <name>testValidationConfiguration with data set #0</name>
+    </test-case>
+    <test-case start="1729890272507" stop="1729890272508" status="passed">
+      <name>testValidationConfiguration with data set #1</name>
+    </test-case>
+    <test-case start="1729890272508" stop="1729890272509" status="passed">
+      <name>testValidationConfiguration with data set #2</name>
+    </test-case>
+    <test-case start="1729890272510" stop="1729890272511" status="passed">
+      <name>testValidationConfiguration with data set #3</name>
+    </test-case>
+    <test-case start="1729890272512" stop="1729890272513" status="passed">
+      <name>testValidationConfiguration with data set #4</name>
+    </test-case>
+    <test-case start="1729890272513" stop="1729890272515" status="passed">
+      <name>testValidationConfiguration with data set #5</name>
+    </test-case>
+    <test-case start="1729890272515" stop="1729890272517" status="passed">
+      <name>testValidationConfiguration with data set #6</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

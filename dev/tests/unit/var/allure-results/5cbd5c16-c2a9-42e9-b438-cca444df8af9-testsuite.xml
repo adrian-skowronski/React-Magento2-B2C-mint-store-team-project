@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890391557" stop="1729890391587" version="1.4.0">
+  <name>Magento\Search\Test\Unit\Controller\Adminhtml\Term\SaveTest</name>
+  <test-cases>
+    <test-case start="1729890391557" stop="1729890391565" status="passed">
+      <name>testExecuteIsPostData with data set #0</name>
+    </test-case>
+    <test-case start="1729890391566" stop="1729890391570" status="passed">
+      <name>testExecuteIsPostData with data set #1</name>
+    </test-case>
+    <test-case start="1729890391570" stop="1729890391574" status="passed">
+      <name>testExecuteLoadQueryQueryId</name>
+    </test-case>
+    <test-case start="1729890391574" stop="1729890391577" status="passed">
+      <name>testExecuteLoadQueryQueryIdQueryText</name>
+    </test-case>
+    <test-case start="1729890391577" stop="1729890391580" status="passed">
+      <name>testExecuteLoadQueryQueryIdQueryText2</name>
+    </test-case>
+    <test-case start="1729890391580" stop="1729890391583" status="passed">
+      <name>testExecuteLoadQueryQueryIdQueryTextException</name>
+    </test-case>
+    <test-case start="1729890391583" stop="1729890391587" status="passed">
+      <name>testExecuteException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

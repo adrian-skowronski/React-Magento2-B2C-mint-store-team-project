@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890277946" stop="1729890277990" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Model\Rule\Condition\MappableConditionProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890277947" stop="1729890277954" status="passed">
+      <name>testConditionV1</name>
+    </test-case>
+    <test-case start="1729890277955" stop="1729890277958" status="passed">
+      <name>testConditionV2</name>
+    </test-case>
+    <test-case start="1729890277958" stop="1729890277961" status="passed">
+      <name>testConditionV3</name>
+    </test-case>
+    <test-case start="1729890277961" stop="1729890277966" status="passed">
+      <name>testConditionV4</name>
+    </test-case>
+    <test-case start="1729890277967" stop="1729890277970" status="passed">
+      <name>testConditionV5</name>
+    </test-case>
+    <test-case start="1729890277971" stop="1729890277974" status="passed">
+      <name>testConditionV6</name>
+    </test-case>
+    <test-case start="1729890277975" stop="1729890277981" status="passed">
+      <name>testConditionV7</name>
+    </test-case>
+    <test-case start="1729890277982" stop="1729890277984" status="passed">
+      <name>testConditionV8</name>
+    </test-case>
+    <test-case start="1729890277985" stop="1729890277987" status="passed">
+      <name>testConditionV9</name>
+    </test-case>
+    <test-case start="1729890277988" stop="1729890277989" status="passed">
+      <name>testException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

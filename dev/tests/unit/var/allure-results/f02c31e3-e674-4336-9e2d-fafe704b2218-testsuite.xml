@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890301055" stop="1729890301062" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Observer\NoCookiesObserverTest</name>
+  <test-cases>
+    <test-case start="1729890301056" stop="1729890301060" status="passed">
+      <name>testNoCookies with data set "url IS empty"</name>
+    </test-case>
+    <test-case start="1729890301060" stop="1729890301062" status="passed">
+      <name>testNoCookies with data set "url NOT empty"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

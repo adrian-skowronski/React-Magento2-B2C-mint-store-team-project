@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890443318" stop="1729890443341" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Form\AbstractFormTest</name>
+  <test-cases>
+    <test-case start="1729890443318" stop="1729890443322" status="passed">
+      <name>testAddElement</name>
+    </test-case>
+    <test-case start="1729890443322" stop="1729890443323" status="passed">
+      <name>testAddField</name>
+    </test-case>
+    <test-case start="1729890443324" stop="1729890443325" status="passed">
+      <name>testAddFieldset</name>
+    </test-case>
+    <test-case start="1729890443326" stop="1729890443327" status="passed">
+      <name>testAddColumn</name>
+    </test-case>
+    <test-case start="1729890443328" stop="1729890443329" status="passed">
+      <name>testAddCustomAttribute</name>
+    </test-case>
+    <test-case start="1729890443330" stop="1729890443331" status="passed">
+      <name>testSerialize with data set #0</name>
+    </test-case>
+    <test-case start="1729890443331" stop="1729890443332" status="passed">
+      <name>testSerialize with data set #1</name>
+    </test-case>
+    <test-case start="1729890443332" stop="1729890443333" status="passed">
+      <name>testSerialize with data set #2</name>
+    </test-case>
+    <test-case start="1729890443334" stop="1729890443335" status="passed">
+      <name>testSerialize with data set #3</name>
+    </test-case>
+    <test-case start="1729890443335" stop="1729890443336" status="passed">
+      <name>testSerialize with data set #4</name>
+    </test-case>
+    <test-case start="1729890443337" stop="1729890443338" status="passed">
+      <name>testSerialize with data set #5</name>
+    </test-case>
+    <test-case start="1729890443338" stop="1729890443339" status="passed">
+      <name>testSerialize with data set #6</name>
+    </test-case>
+    <test-case start="1729890443340" stop="1729890443341" status="passed">
+      <name>testSerialize with data set #7</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890455056" stop="1729890455083" version="1.4.0">
+  <name>Magento\Framework\Pricing\Test\Unit\Price\AbstractPriceTest</name>
+  <test-cases>
+    <test-case start="1729890455057" stop="1729890455065" status="passed">
+      <name>testGetAmount</name>
+    </test-case>
+    <test-case start="1729890455066" stop="1729890455070" status="passed">
+      <name>testGetPriceCode</name>
+    </test-case>
+    <test-case start="1729890455070" stop="1729890455076" status="passed">
+      <name>testGetCustomAmount</name>
+    </test-case>
+    <test-case start="1729890455076" stop="1729890455079" status="passed">
+      <name>testGetCustomAmountDefault</name>
+    </test-case>
+    <test-case start="1729890455079" stop="1729890455083" status="passed">
+      <name>testGetQuantity</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

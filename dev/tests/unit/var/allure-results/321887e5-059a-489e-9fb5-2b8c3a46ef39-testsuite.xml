@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287097" stop="1729890287117" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\Indexer\Product\Flat\System\Config\ModeTest</name>
+  <test-cases>
+    <test-case start="1729890287098" stop="1729890287100" status="passed">
+      <name>testProcessValueEqual with data set #0</name>
+    </test-case>
+    <test-case start="1729890287101" stop="1729890287102" status="passed">
+      <name>testProcessValueEqual with data set #1</name>
+    </test-case>
+    <test-case start="1729890287103" stop="1729890287104" status="passed">
+      <name>testProcessValueEqual with data set #2</name>
+    </test-case>
+    <test-case start="1729890287105" stop="1729890287107" status="passed">
+      <name>testProcessValueEqual with data set #3</name>
+    </test-case>
+    <test-case start="1729890287108" stop="1729890287109" status="passed">
+      <name>testProcessValueOn with data set #0</name>
+    </test-case>
+    <test-case start="1729890287110" stop="1729890287111" status="passed">
+      <name>testProcessValueOn with data set #1</name>
+    </test-case>
+    <test-case start="1729890287112" stop="1729890287115" status="passed">
+      <name>testProcessValueOff with data set #0</name>
+    </test-case>
+    <test-case start="1729890287115" stop="1729890287117" status="passed">
+      <name>testProcessValueOff with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890264563" stop="1729890264571" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Block\Widget\Grid\Column\Renderer\Radio\ExtendedTest</name>
+  <test-cases>
+    <test-case start="1729890264563" stop="1729890264569" status="passed">
+      <name>testRender with data set "checked"</name>
+    </test-case>
+    <test-case start="1729890264570" stop="1729890264571" status="passed">
+      <name>testRender with data set "not checked"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

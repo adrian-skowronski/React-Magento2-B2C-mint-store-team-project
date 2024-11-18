@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890270523" stop="1729890270540" version="1.4.0">
+  <name>Magento\Bundle\Test\Unit\Pricing\Price\BundleRegularPriceTest</name>
+  <test-cases>
+    <test-case start="1729890270523" stop="1729890270529" status="passed">
+      <name>testGetAmount</name>
+    </test-case>
+    <test-case start="1729890270529" stop="1729890270531" status="passed">
+      <name>testGetMaximalPrice</name>
+    </test-case>
+    <test-case start="1729890270531" stop="1729890270533" status="passed">
+      <name>testGetMaximalPriceForFixedPriceBundleWithOption</name>
+    </test-case>
+    <test-case start="1729890270533" stop="1729890270537" status="passed">
+      <name>testGetMinimalPrice</name>
+    </test-case>
+    <test-case start="1729890270537" stop="1729890270540" status="passed">
+      <name>testGetMinimalPriceForFixedPricedBundleWithOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

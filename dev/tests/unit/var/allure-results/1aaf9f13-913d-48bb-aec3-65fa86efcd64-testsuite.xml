@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890393696" stop="1729890393701" version="1.4.0">
+  <name>Magento\Sitemap\Test\Unit\Model\ObserverTest</name>
+  <test-cases>
+    <test-case start="1729890393696" stop="1729890393699" status="passed">
+      <name>testScheduledGenerateSitemapsSendsExceptionEmail</name>
+    </test-case>
+    <test-case start="1729890393699" stop="1729890393700" status="passed">
+      <name>testCronGenerateSitemapEnvironmentEmulation</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

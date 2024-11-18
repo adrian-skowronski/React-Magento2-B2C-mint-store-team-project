@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890299121" stop="1729890299144" version="1.4.0">
+  <name>Magento\Cms\Test\Unit\Block\Adminhtml\Wysiwyg\Images\TreeTest</name>
+  <test-cases>
+    <test-case start="1729890299122" stop="1729890299144" status="passed">
+      <name>testGetTreeJson</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

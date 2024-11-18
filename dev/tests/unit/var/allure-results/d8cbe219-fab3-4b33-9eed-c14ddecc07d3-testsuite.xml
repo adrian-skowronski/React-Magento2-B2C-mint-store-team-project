@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328898" stop="1729890328900" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Model\Template\Css\ProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890328898" stop="1729890328900" status="passed">
+      <name>testProcess</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

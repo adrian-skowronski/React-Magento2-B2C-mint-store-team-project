@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316255" stop="1729890316265" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\CustomerExtractorTest</name>
+  <test-cases>
+    <test-case start="1729890316255" stop="1729890316257" status="passed">
+      <name>testExtract with data set "extract data when group id is null"</name>
+    </test-case>
+    <test-case start="1729890316258" stop="1729890316261" status="passed">
+      <name>testExtract with data set "extract data when group id is not null and default"</name>
+    </test-case>
+    <test-case start="1729890316262" stop="1729890316265" status="passed">
+      <name>testExtract with data set "extract data when group id is different from default"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

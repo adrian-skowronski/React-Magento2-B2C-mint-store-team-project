@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890406714" stop="1729890406721" version="1.4.0">
+  <name>Magento\User\Test\Unit\Block\Role\EditTest</name>
+  <test-cases>
+    <test-case start="1729890406714" stop="1729890406721" status="passed">
+      <name>testPrepareLayoutSuccessOnFalseGetId</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

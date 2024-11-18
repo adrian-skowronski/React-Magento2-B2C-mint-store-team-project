@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328320" stop="1729890328322" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\SearchAdapter\SearchIndexNameResolverTest</name>
+  <test-cases>
+    <test-case start="1729890328321" stop="1729890328321" status="passed">
+      <name>testGetIndexNameCatalogSearchFullText</name>
+    </test-case>
+    <test-case start="1729890328322" stop="1729890328322" status="passed">
+      <name>testGetIndexName</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

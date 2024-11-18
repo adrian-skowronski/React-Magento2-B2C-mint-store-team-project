@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403247" stop="1729890403326" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\ThemeTest</name>
+  <test-cases>
+    <test-case start="1729890403248" stop="1729890403249" status="passed">
+      <name>testThemeImageGetter</name>
+    </test-case>
+    <test-case start="1729890403250" stop="1729890403251" status="passed">
+      <name>testIsVirtual with data set #0</name>
+    </test-case>
+    <test-case start="1729890403252" stop="1729890403254" status="passed">
+      <name>testIsVirtual with data set #1</name>
+    </test-case>
+    <test-case start="1729890403254" stop="1729890403256" status="passed">
+      <name>testIsVirtual with data set #2</name>
+    </test-case>
+    <test-case start="1729890403257" stop="1729890403259" status="passed">
+      <name>testIsPhysical with data set #0</name>
+    </test-case>
+    <test-case start="1729890403259" stop="1729890403261" status="passed">
+      <name>testIsPhysical with data set #1</name>
+    </test-case>
+    <test-case start="1729890403261" stop="1729890403263" status="passed">
+      <name>testIsPhysical with data set #2</name>
+    </test-case>
+    <test-case start="1729890403264" stop="1729890403266" status="passed">
+      <name>testIsVisible with data set #0</name>
+    </test-case>
+    <test-case start="1729890403267" stop="1729890403268" status="passed">
+      <name>testIsVisible with data set #1</name>
+    </test-case>
+    <test-case start="1729890403269" stop="1729890403271" status="passed">
+      <name>testIsVisible with data set #2</name>
+    </test-case>
+    <test-case start="1729890403272" stop="1729890403274" status="passed">
+      <name>testIsDeletable with data set #0</name>
+    </test-case>
+    <test-case start="1729890403275" stop="1729890403276" status="passed">
+      <name>testIsDeletable with data set #1</name>
+    </test-case>
+    <test-case start="1729890403276" stop="1729890403278" status="passed">
+      <name>testIsDeletable with data set #2</name>
+    </test-case>
+    <test-case start="1729890403279" stop="1729890403280" status="passed">
+      <name>testGetCode with data set "string code"</name>
+    </test-case>
+    <test-case start="1729890403280" stop="1729890403282" status="passed">
+      <name>testGetCode with data set "null code"</name>
+    </test-case>
+    <test-case start="1729890403282" stop="1729890403284" status="passed">
+      <name>testGetCode with data set "number code"</name>
+    </test-case>
+    <test-case start="1729890403284" stop="1729890403286" status="passed">
+      <name>testGetInheritedThemes</name>
+    </test-case>
+    <test-case start="1729890403287" stop="1729890403290" status="passed">
+      <name>testAfterDelete</name>
+    </test-case>
+    <test-case start="1729890403290" stop="1729890403293" status="passed">
+      <name>testGetStagingVersion</name>
+    </test-case>
+    <test-case start="1729890403293" stop="1729890403294" status="passed">
+      <name>testGetStagingVersionWithoutTheme</name>
+    </test-case>
+    <test-case start="1729890403294" stop="1729890403296" status="passed">
+      <name>testGetDomainModel</name>
+    </test-case>
+    <test-case start="1729890403296" stop="1729890403297" status="passed">
+      <name>testGetDomainModelWithIncorrectType</name>
+    </test-case>
+    <test-case start="1729890403297" stop="1729890403299" status="passed">
+      <name>testValidate</name>
+    </test-case>
+    <test-case start="1729890403300" stop="1729890403302" status="passed">
+      <name>testValidatePass</name>
+    </test-case>
+    <test-case start="1729890403302" stop="1729890403304" status="passed">
+      <name>testHasChildThemes</name>
+    </test-case>
+    <test-case start="1729890403305" stop="1729890403306" status="passed">
+      <name>testGetCustomization</name>
+    </test-case>
+    <test-case start="1729890403306" stop="1729890403308" status="passed">
+      <name>testIsEditable</name>
+    </test-case>
+    <test-case start="1729890403308" stop="1729890403310" status="passed">
+      <name>getFullThemePath</name>
+    </test-case>
+    <test-case start="1729890403310" stop="1729890403311" status="passed">
+      <name>getParentTheme</name>
+    </test-case>
+    <test-case start="1729890403312" stop="1729890403313" status="passed">
+      <name>testToArray with data set "null"</name>
+    </test-case>
+    <test-case start="1729890403314" stop="1729890403315" status="passed">
+      <name>testToArray with data set "valid"</name>
+    </test-case>
+    <test-case start="1729890403316" stop="1729890403317" status="passed">
+      <name>testToArray with data set "valid with parent"</name>
+    </test-case>
+    <test-case start="1729890403317" stop="1729890403319" status="passed">
+      <name>testToArray with data set "valid with children"</name>
+    </test-case>
+    <test-case start="1729890403320" stop="1729890403322" status="passed">
+      <name>testPopulateFromArray with data set "valid data"</name>
+    </test-case>
+    <test-case start="1729890403322" stop="1729890403324" status="passed">
+      <name>testPopulateFromArray with data set "valid data with parent"</name>
+    </test-case>
+    <test-case start="1729890403325" stop="1729890403326" status="passed">
+      <name>testPopulateFromArray with data set "valid data with children"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

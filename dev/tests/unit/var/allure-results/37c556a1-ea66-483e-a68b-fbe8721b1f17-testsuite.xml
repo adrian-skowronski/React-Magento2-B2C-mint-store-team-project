@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890400327" stop="1729890400366" version="1.4.0">
+  <name>Magento\Tax\Test\Unit\Model\TaxClass\RepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890400327" stop="1729890400335" status="passed">
+      <name>testDelete</name>
+    </test-case>
+    <test-case start="1729890400335" stop="1729890400337" status="passed">
+      <name>testDeleteResourceException</name>
+    </test-case>
+    <test-case start="1729890400337" stop="1729890400338" status="passed">
+      <name>testDeleteWithException</name>
+    </test-case>
+    <test-case start="1729890400339" stop="1729890400340" status="passed">
+      <name>testGet</name>
+    </test-case>
+    <test-case start="1729890400340" stop="1729890400342" status="passed">
+      <name>testDeleteById</name>
+    </test-case>
+    <test-case start="1729890400342" stop="1729890400344" status="passed">
+      <name>testGetList</name>
+    </test-case>
+    <test-case start="1729890400345" stop="1729890400349" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890400349" stop="1729890400352" status="passed">
+      <name>testSaveWithInputException</name>
+    </test-case>
+    <test-case start="1729890400353" stop="1729890400355" status="passed">
+      <name>testSaveWithLocalizedException</name>
+    </test-case>
+    <test-case start="1729890400356" stop="1729890400358" status="passed">
+      <name>testSaveWithSameClassException</name>
+    </test-case>
+    <test-case start="1729890400359" stop="1729890400361" status="passed">
+      <name>testSaveWithValidateTaxClassDataException with data set #0</name>
+    </test-case>
+    <test-case start="1729890400362" stop="1729890400366" status="passed">
+      <name>testSaveWithValidateTaxClassDataException with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

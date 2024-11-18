@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376483" stop="1729890376681" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\Rule\Condition\Product\SubselectTest</name>
+  <test-cases>
+    <test-case start="1729890376483" stop="1729890376495" status="passed">
+      <name>testValidateForFixedBundleProduct with data set "validate true for bundle product data with conditions"</name>
+    </test-case>
+    <test-case start="1729890376496" stop="1729890376649" status="passed">
+      <name>testValidateForFixedBundleProduct with data set "validate false for bundle product data with conditions"</name>
+    </test-case>
+    <test-case start="1729890376650" stop="1729890376653" status="passed">
+      <name>testValidateForFixedBundleProduct with data set "validate product data without conditions with bundle product"</name>
+    </test-case>
+    <test-case start="1729890376654" stop="1729890376666" status="passed">
+      <name>testValidateForFixedBundleProduct with data set "validate true for bundle product data with conditions for attribute base_row_total"</name>
+    </test-case>
+    <test-case start="1729890376667" stop="1729890376675" status="passed">
+      <name>testValidateForFixedBundleProduct with data set "validate true for simple product data with conditions"</name>
+    </test-case>
+    <test-case start="1729890376676" stop="1729890376681" status="passed">
+      <name>testValidateForFixedBundleProduct with data set "validate false for simple product data with conditions"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

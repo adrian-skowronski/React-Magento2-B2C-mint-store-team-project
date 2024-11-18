@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352651" stop="1729890352656" version="1.4.0">
+  <name>Magento\MediaGallery\Test\Unit\Model\Asset\Command\GetByIdExceptionDuringMediaAssetInitializationTest</name>
+  <test-cases>
+    <test-case start="1729890352652" stop="1729890352656" status="passed">
+      <name>testErrorDuringMediaAssetInitializationException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

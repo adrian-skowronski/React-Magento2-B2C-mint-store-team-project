@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463226" stop="1729890463236" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\UiComponent\DataProvider\SanitizerTest</name>
+  <test-cases>
+    <test-case start="1729890463226" stop="1729890463227" status="passed">
+      <name>testSanitize with data set "simpleSet"</name>
+    </test-case>
+    <test-case start="1729890463228" stop="1729890463228" status="passed">
+      <name>testSanitize with data set "configuredSet"</name>
+    </test-case>
+    <test-case start="1729890463229" stop="1729890463229" status="passed">
+      <name>testSanitize with data set "partiallyConfiguredSet"</name>
+    </test-case>
+    <test-case start="1729890463230" stop="1729890463230" status="passed">
+      <name>testSanitize with data set "enabledSet"</name>
+    </test-case>
+    <test-case start="1729890463231" stop="1729890463232" status="passed">
+      <name>testSanitize with data set "complexSet"</name>
+    </test-case>
+    <test-case start="1729890463233" stop="1729890463234" status="passed">
+      <name>testSanitizeComponentMetadata with data set "simpleComponent"</name>
+    </test-case>
+    <test-case start="1729890463234" stop="1729890463235" status="passed">
+      <name>testSanitizeComponentMetadata with data set "argumentsOnly"</name>
+    </test-case>
+    <test-case start="1729890463236" stop="1729890463236" status="passed">
+      <name>testSanitizeComponentMetadata with data set "childrenOnly"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

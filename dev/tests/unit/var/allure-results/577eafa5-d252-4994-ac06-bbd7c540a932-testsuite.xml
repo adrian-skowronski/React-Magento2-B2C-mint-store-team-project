@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890389155" stop="1729890389178" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\ResourceModel\Order\Creditmemo\CommentTest</name>
+  <test-cases>
+    <test-case start="1729890389155" stop="1729890389173" status="passed">
+      <name>testSave</name>
+    </test-case>
+    <test-case start="1729890389174" stop="1729890389178" status="passed">
+      <name>testSaveValidationFailed</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

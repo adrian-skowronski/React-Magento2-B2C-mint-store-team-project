@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890280051" stop="1729890280062" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Model\Category\Plugin\StorageTest</name>
+  <test-cases>
+    <test-case start="1729890280052" stop="1729890280059" status="passed">
+      <name>testAfterReplace with data set #0</name>
+    </test-case>
+    <test-case start="1729890280059" stop="1729890280061" status="passed">
+      <name>testAfterReplace with data set #1</name>
+    </test-case>
+    <test-case start="1729890280061" stop="1729890280062" status="passed">
+      <name>testBeforeDeleteByData</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

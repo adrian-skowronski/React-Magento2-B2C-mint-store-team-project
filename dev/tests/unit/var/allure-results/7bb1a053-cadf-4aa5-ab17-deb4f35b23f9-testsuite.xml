@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890359629" stop="1729890359646" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Observer\SalesOrderBeforeSaveObserverTest</name>
+  <test-cases>
+    <test-case start="1729890359629" stop="1729890359632" status="passed">
+      <name>testSalesOrderBeforeSaveMethodNotFree</name>
+    </test-case>
+    <test-case start="1729890359632" stop="1729890359635" status="passed">
+      <name>testSalesOrderBeforeSaveCantUnhold</name>
+    </test-case>
+    <test-case start="1729890359635" stop="1729890359637" status="passed">
+      <name>testSalesOrderBeforeSaveIsCanceled</name>
+    </test-case>
+    <test-case start="1729890359637" stop="1729890359640" status="passed">
+      <name>testSalesOrderBeforeSaveIsClosed</name>
+    </test-case>
+    <test-case start="1729890359640" stop="1729890359644" status="passed">
+      <name>testSalesOrderBeforeSaveSetForced</name>
+    </test-case>
+    <test-case start="1729890359644" stop="1729890359645" status="passed">
+      <name>testDoesNothingWhenNoPaymentIsAvailable</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

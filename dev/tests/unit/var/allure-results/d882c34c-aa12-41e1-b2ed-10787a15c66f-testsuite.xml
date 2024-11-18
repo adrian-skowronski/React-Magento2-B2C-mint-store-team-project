@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890362907" stop="1729890362912" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\System\Config\Source\BmlPositionTest</name>
+  <test-cases>
+    <test-case start="1729890362907" stop="1729890362909" status="passed">
+      <name>testGetBmlPositionsHP</name>
+    </test-case>
+    <test-case start="1729890362909" stop="1729890362910" status="passed">
+      <name>testGetBmlPositionsCCP</name>
+    </test-case>
+    <test-case start="1729890362910" stop="1729890362911" status="passed">
+      <name>testGetBmlPositionsCPP</name>
+    </test-case>
+    <test-case start="1729890362912" stop="1729890362912" status="passed">
+      <name>testGetBmlPositionsCheckout</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

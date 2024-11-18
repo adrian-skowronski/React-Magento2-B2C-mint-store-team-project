@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890328910" stop="1729890328987" version="1.4.0">
+  <name>Magento\Email\Test\Unit\Model\Template\FilterTest</name>
+  <test-cases>
+    <test-case start="1729890328910" stop="1729890328915" status="passed">
+      <name>testFilterExceptionHandler</name>
+    </test-case>
+    <test-case start="1729890328916" stop="1729890328956" status="passed">
+      <name>testApplyInlineCss with data set "Ensure styles get inlined"</name>
+    </test-case>
+    <test-case start="1729890328957" stop="1729890328959" status="passed">
+      <name>testApplyInlineCss with data set "CSS with error does not get inlined"</name>
+    </test-case>
+    <test-case start="1729890328960" stop="1729890328963" status="passed">
+      <name>testApplyInlineCss with data set "Ensure disableStyleBlocksParsing option is working"</name>
+    </test-case>
+    <test-case start="1729890328964" stop="1729890328967" status="passed">
+      <name>testGetCssFilesContent</name>
+    </test-case>
+    <test-case start="1729890328967" stop="1729890328969" status="passed">
+      <name>testApplyInlineCssThrowsExceptionWhenDesignParamsNotSet</name>
+    </test-case>
+    <test-case start="1729890328969" stop="1729890328972" status="passed">
+      <name>testConfigDirectiveAvailable</name>
+    </test-case>
+    <test-case start="1729890328972" stop="1729890328975" status="passed">
+      <name>testConfigDirectiveUnavailable</name>
+    </test-case>
+    <test-case start="1729890328975" stop="1729890328979" status="passed">
+      <name>testConfigDirectiveGetCountry</name>
+    </test-case>
+    <test-case start="1729890328979" stop="1729890328981" status="passed">
+      <name>testConfigDirectiveGetRegion</name>
+    </test-case>
+    <test-case start="1729890328982" stop="1729890328984" status="passed">
+      <name>testProtocolDirectiveWithValidSchema</name>
+    </test-case>
+    <test-case start="1729890328984" stop="1729890328987" status="passed">
+      <name>testProtocolDirectiveWithInvalidSchema</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

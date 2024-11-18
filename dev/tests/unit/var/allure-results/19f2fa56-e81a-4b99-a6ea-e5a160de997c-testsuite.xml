@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890310237" stop="1729890310243" version="1.4.0">
+  <name>Magento\ConfigurableProduct\Test\Unit\Observer\HideUnsupportedAttributeTypesTest</name>
+  <test-cases>
+    <test-case start="1729890310237" stop="1729890310239" status="passed">
+      <name>testExecuteWhenBlockNotPassed</name>
+    </test-case>
+    <test-case start="1729890310239" stop="1729890310241" status="passed">
+      <name>testExecuteWithDefaultTypes with data set "testWithDefaultTypes"</name>
+    </test-case>
+    <test-case start="1729890310242" stop="1729890310243" status="passed">
+      <name>testExecuteWithDefaultTypes with data set "testWithCustomTypes"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

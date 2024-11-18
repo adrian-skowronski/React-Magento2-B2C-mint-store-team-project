@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890465017" stop="1729890465022" version="1.4.0">
+  <name>Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest</name>
+  <test-cases>
+    <test-case start="1729890465018" stop="1729890465018" status="passed">
+      <name>testDeserializerInvalidArgumentException</name>
+    </test-case>
+    <test-case start="1729890465019" stop="1729890465019" status="passed">
+      <name>testDeserialize</name>
+    </test-case>
+    <test-case start="1729890465019" stop="1729890465020" status="passed">
+      <name>testDeserializeInvalidEncodedBodyExceptionDeveloperModeOff</name>
+    </test-case>
+    <test-case start="1729890465021" stop="1729890465021" status="passed">
+      <name>testDeserializeInvalidEncodedBodyExceptionDeveloperModeOn</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

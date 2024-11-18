@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890356975" stop="1729890356996" version="1.4.0">
+  <name>Magento\PageCache\Test\Unit\Model\ConfigTest</name>
+  <test-cases>
+    <test-case start="1729890356976" stop="1729890356987" status="passed">
+      <name>testGetVcl</name>
+    </test-case>
+    <test-case start="1729890356988" stop="1729890356993" status="passed">
+      <name>testGetTll</name>
+    </test-case>
+    <test-case start="1729890356993" stop="1729890356995" status="passed">
+      <name>testIsEnabled</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

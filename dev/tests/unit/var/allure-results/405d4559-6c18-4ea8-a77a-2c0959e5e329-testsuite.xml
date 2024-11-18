@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890416054" stop="1729890416073" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Model\ConfigOptionsList\LockTest</name>
+  <test-cases>
+    <test-case start="1729890416055" stop="1729890416055" status="passed">
+      <name>testGetOptions</name>
+    </test-case>
+    <test-case start="1729890416056" stop="1729890416057" status="passed">
+      <name>testCreateConfig with data set "Check default values"</name>
+    </test-case>
+    <test-case start="1729890416057" stop="1729890416058" status="passed">
+      <name>testCreateConfig with data set "Check default value for cache lock"</name>
+    </test-case>
+    <test-case start="1729890416059" stop="1729890416059" status="passed">
+      <name>testCreateConfig with data set "Check default value for zookeeper lock"</name>
+    </test-case>
+    <test-case start="1729890416060" stop="1729890416061" status="passed">
+      <name>testCreateConfig with data set "Check specific db lock options"</name>
+    </test-case>
+    <test-case start="1729890416061" stop="1729890416063" status="passed">
+      <name>testCreateConfig with data set "Check specific zookeeper lock options"</name>
+    </test-case>
+    <test-case start="1729890416064" stop="1729890416065" status="passed">
+      <name>testCreateConfig with data set "Check specific file lock options"</name>
+    </test-case>
+    <test-case start="1729890416066" stop="1729890416067" status="passed">
+      <name>testCreateConfig with data set "Check specific db lock prefix null options"</name>
+    </test-case>
+    <test-case start="1729890416067" stop="1729890416069" status="passed">
+      <name>testCreateConfig with data set "Check specific db lock prefix empty options"</name>
+    </test-case>
+    <test-case start="1729890416070" stop="1729890416071" status="passed">
+      <name>testValidate with data set "Wrong lock provider"</name>
+    </test-case>
+    <test-case start="1729890416071" stop="1729890416072" status="passed">
+      <name>testValidate with data set "Empty host and path for Zookeeper"</name>
+    </test-case>
+    <test-case start="1729890416072" stop="1729890416073" status="passed">
+      <name>testValidate with data set "Empty path for File lock"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

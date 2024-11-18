@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890355395" stop="1729890355446" version="1.4.0">
+  <name>Magento\Newsletter\Test\Unit\Model\SubscriptionManagerTest</name>
+  <test-cases>
+    <test-case start="1729890355396" stop="1729890355399" status="passed">
+      <name>testSubscribe with data set "Subscribe new"</name>
+    </test-case>
+    <test-case start="1729890355400" stop="1729890355402" status="passed">
+      <name>testSubscribe with data set "Subscribe new: confirm required"</name>
+    </test-case>
+    <test-case start="1729890355403" stop="1729890355405" status="passed">
+      <name>testSubscribe with data set "Subscribe existing"</name>
+    </test-case>
+    <test-case start="1729890355406" stop="1729890355408" status="passed">
+      <name>testUnsubscribe</name>
+    </test-case>
+    <test-case start="1729890355409" stop="1729890355413" status="passed">
+      <name>testSubscribeCustomer with data set "Subscribe new"</name>
+    </test-case>
+    <test-case start="1729890355413" stop="1729890355418" status="passed">
+      <name>testSubscribeCustomer with data set "Subscribe new: customer confirm required"</name>
+    </test-case>
+    <test-case start="1729890355418" stop="1729890355422" status="passed">
+      <name>testSubscribeCustomer with data set "Subscribe existing"</name>
+    </test-case>
+    <test-case start="1729890355422" stop="1729890355425" status="passed">
+      <name>testSubscribeCustomer with data set "Subscribe existing: subscription confirm required"</name>
+    </test-case>
+    <test-case start="1729890355426" stop="1729890355428" status="passed">
+      <name>testSubscribeCustomer with data set "Update subscription data"</name>
+    </test-case>
+    <test-case start="1729890355429" stop="1729890355431" status="passed">
+      <name>testSubscribeCustomer with data set "Update subscription data: subscription confirm required "</name>
+    </test-case>
+    <test-case start="1729890355432" stop="1729890355436" status="passed">
+      <name>testUnsubscribeCustomer with data set "Unsubscribe new"</name>
+    </test-case>
+    <test-case start="1729890355437" stop="1729890355440" status="passed">
+      <name>testUnsubscribeCustomer with data set "Unsubscribe existing"</name>
+    </test-case>
+    <test-case start="1729890355440" stop="1729890355443" status="passed">
+      <name>testUnsubscribeCustomer with data set "Unsubscribe existing: subscription confirm required"</name>
+    </test-case>
+    <test-case start="1729890355443" stop="1729890355446" status="passed">
+      <name>testUnsubscribeCustomer with data set "Update subscription data"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

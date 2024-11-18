@@ -1,0 +1,1 @@
+/home/adrian-skowronski/www/mint/vendor/magento/module-sales-rule/view/frontend/web/js/view/payment/discount.js

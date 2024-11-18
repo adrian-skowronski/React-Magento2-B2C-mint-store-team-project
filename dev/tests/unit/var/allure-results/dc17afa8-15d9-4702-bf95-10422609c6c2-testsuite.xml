@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890330334" stop="1729890330347" version="1.4.0">
+  <name>Magento\GoogleOptimizer\Test\Unit\Helper\CodeTest</name>
+  <test-cases>
+    <test-case start="1729890330335" stop="1729890330340" status="passed">
+      <name>testLoadingCodeForCategoryEntity</name>
+    </test-case>
+    <test-case start="1729890330340" stop="1729890330342" status="passed">
+      <name>testLoadingCodeForProductEntity</name>
+    </test-case>
+    <test-case start="1729890330342" stop="1729890330344" status="passed">
+      <name>testLoadingCodeForPageEntity</name>
+    </test-case>
+    <test-case start="1729890330344" stop="1729890330346" status="passed">
+      <name>testExceptionNotValidEntityType</name>
+    </test-case>
+    <test-case start="1729890330346" stop="1729890330347" status="passed">
+      <name>testExceptionEmptyEntity</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

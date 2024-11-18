@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890464974" stop="1729890464983" version="1.4.0">
+  <name>Magento\Framework\Webapi\Test\Unit\InputLimit\DefaultPageSizeSetterTest</name>
+  <test-cases>
+    <test-case start="1729890464974" stop="1729890464979" status="passed">
+      <name>testPageSizeIsNotSetWhenLimitingIsDisabled</name>
+    </test-case>
+    <test-case start="1729890464979" stop="1729890464980" status="passed">
+      <name>testPageSizeIsNotSetWhenAlreadySet</name>
+    </test-case>
+    <test-case start="1729890464980" stop="1729890464981" status="passed">
+      <name>testPageSizeIsSetWithPreferredConfigValue</name>
+    </test-case>
+    <test-case start="1729890464981" stop="1729890464982" status="passed">
+      <name>testPageSizeIsSetWithPreferredFallbackValue</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

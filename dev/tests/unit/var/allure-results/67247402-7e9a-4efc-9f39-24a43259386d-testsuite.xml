@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890403653" stop="1729890403656" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Plugin\CollectionTest</name>
+  <test-cases>
+    <test-case start="1729890403653" stop="1729890403654" status="passed">
+      <name>testCurrentPageIsNotOverriddenIfFirstPage</name>
+    </test-case>
+    <test-case start="1729890403655" stop="1729890403656" status="passed">
+      <name>testCurrentPageIsOverriddenIfNotAFirstPage</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

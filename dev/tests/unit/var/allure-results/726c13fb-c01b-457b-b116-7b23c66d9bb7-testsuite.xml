@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890266545" stop="1729890266556" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Model\Menu\BuilderTest</name>
+  <test-cases>
+    <test-case start="1729890266546" stop="1729890266549" status="passed">
+      <name>testProcessCommand</name>
+    </test-case>
+    <test-case start="1729890266550" stop="1729890266553" status="passed">
+      <name>testGetResultBuildsTreeStructure</name>
+    </test-case>
+    <test-case start="1729890266554" stop="1729890266555" status="passed">
+      <name>testGetResultSkipsRemovedItems</name>
+    </test-case>
+    <test-case start="1729890266555" stop="1729890266556" status="passed">
+      <name>testGetResultSkipItemsWithInvalidParent</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890325509" stop="1729890325518" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\Entity\AttributeLoaderTest</name>
+  <test-cases>
+    <test-case start="1729890325509" stop="1729890325514" status="passed">
+      <name>testLoadAllAttributes</name>
+    </test-case>
+    <test-case start="1729890325515" stop="1729890325518" status="passed">
+      <name>testLoadAllAttributesAttributeCodesPresentInDefaultAttributes</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

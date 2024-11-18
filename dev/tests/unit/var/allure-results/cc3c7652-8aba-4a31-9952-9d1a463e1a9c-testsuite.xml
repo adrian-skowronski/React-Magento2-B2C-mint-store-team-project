@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890408414" stop="1729890408427" version="1.4.0">
+  <name>Magento\Webapi\Test\Unit\Controller\SoapTest</name>
+  <test-cases>
+    <test-case start="1729890408414" stop="1729890408421" status="passed">
+      <name>testDispatchWsdl</name>
+    </test-case>
+    <test-case start="1729890408421" stop="1729890408423" status="passed">
+      <name>testDispatchInvalidWsdlRequest</name>
+    </test-case>
+    <test-case start="1729890408423" stop="1729890408425" status="passed">
+      <name>testDispatchSoapRequest</name>
+    </test-case>
+    <test-case start="1729890408425" stop="1729890408427" status="passed">
+      <name>testDispatchWithException</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

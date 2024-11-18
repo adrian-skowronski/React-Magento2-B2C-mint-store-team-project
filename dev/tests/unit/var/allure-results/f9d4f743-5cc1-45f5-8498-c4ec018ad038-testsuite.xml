@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890418340" stop="1729890418346" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Module\I18n\Parser\AbstractParserTest</name>
+  <test-cases>
+    <test-case start="1729890418340" stop="1729890418341" status="passed">
+      <name>testValidateOptions with data set #0</name>
+    </test-case>
+    <test-case start="1729890418342" stop="1729890418342" status="passed">
+      <name>testValidateOptions with data set #1</name>
+    </test-case>
+    <test-case start="1729890418343" stop="1729890418343" status="passed">
+      <name>testValidateOptions with data set #2</name>
+    </test-case>
+    <test-case start="1729890418344" stop="1729890418345" status="passed">
+      <name>testValidateOptions with data set #3</name>
+    </test-case>
+    <test-case start="1729890418345" stop="1729890418346" status="passed">
+      <name>testValidateOptions with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

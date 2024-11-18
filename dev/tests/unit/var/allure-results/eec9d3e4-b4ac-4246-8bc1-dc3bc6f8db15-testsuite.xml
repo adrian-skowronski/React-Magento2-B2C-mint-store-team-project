@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890316587" stop="1729890316592" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\GroupRegistryTest</name>
+  <test-cases>
+    <test-case start="1729890316587" stop="1729890316589" status="passed">
+      <name>testRetrieve</name>
+    </test-case>
+    <test-case start="1729890316590" stop="1729890316591" status="passed">
+      <name>testRetrieveException</name>
+    </test-case>
+    <test-case start="1729890316591" stop="1729890316592" status="passed">
+      <name>testRemove</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890402434" stop="1729890402445" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Model\Design\Config\Plugin\DumpTest</name>
+  <test-cases>
+    <test-case start="1729890402435" stop="1729890402438" status="passed">
+      <name>testAfterGet with data set #0</name>
+    </test-case>
+    <test-case start="1729890402439" stop="1729890402440" status="passed">
+      <name>testAfterGet with data set #1</name>
+    </test-case>
+    <test-case start="1729890402440" stop="1729890402441" status="passed">
+      <name>testAfterGet with data set #2</name>
+    </test-case>
+    <test-case start="1729890402442" stop="1729890402443" status="passed">
+      <name>testAfterGet with data set #3</name>
+    </test-case>
+    <test-case start="1729890402443" stop="1729890402445" status="passed">
+      <name>testAfterGet with data set #4</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

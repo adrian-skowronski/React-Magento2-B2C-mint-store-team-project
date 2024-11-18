@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890296545" stop="1729890296547" version="1.4.0">
+  <name>Magento\CheckoutAgreements\Test\Unit\Model\Api\SearchCriteria\CollectionProcessor\FilterProcessor\StoreFilterTest</name>
+  <test-cases>
+    <test-case start="1729890296545" stop="1729890296547" status="passed">
+      <name>testApply</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

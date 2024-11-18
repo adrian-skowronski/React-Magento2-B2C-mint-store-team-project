@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890277293" stop="1729890277303" version="1.4.0">
+  <name>Magento\CatalogRule\Test\Unit\Block\Adminhtml\Edit\DeleteButtonTest</name>
+  <test-cases>
+    <test-case start="1729890277293" stop="1729890277302" status="passed">
+      <name>testGetButtonDataWithoutRule</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

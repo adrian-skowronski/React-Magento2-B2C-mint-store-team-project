@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890357945" stop="1729890357984" version="1.4.0">
+  <name>Magento\Payment\Test\Unit\Block\Info\CcTest</name>
+  <test-cases>
+    <test-case start="1729890357946" stop="1729890357950" status="passed">
+      <name>testGetCcTypeName with data set #0</name>
+    </test-case>
+    <test-case start="1729890357951" stop="1729890357953" status="passed">
+      <name>testGetCcTypeName with data set #1</name>
+    </test-case>
+    <test-case start="1729890357954" stop="1729890357957" status="passed">
+      <name>testGetCcTypeName with data set #2</name>
+    </test-case>
+    <test-case start="1729890357959" stop="1729890357962" status="passed">
+      <name>testHasCcExpDate with data set #0</name>
+    </test-case>
+    <test-case start="1729890357963" stop="1729890357965" status="passed">
+      <name>testHasCcExpDate with data set #1</name>
+    </test-case>
+    <test-case start="1729890357965" stop="1729890357967" status="passed">
+      <name>testHasCcExpDate with data set #2</name>
+    </test-case>
+    <test-case start="1729890357968" stop="1729890357970" status="passed">
+      <name>testGetCcExpMonth with data set #0</name>
+    </test-case>
+    <test-case start="1729890357971" stop="1729890357973" status="passed">
+      <name>testGetCcExpMonth with data set #1</name>
+    </test-case>
+    <test-case start="1729890357974" stop="1729890357978" status="passed">
+      <name>testGetCcExpDate with data set #0</name>
+    </test-case>
+    <test-case start="1729890357979" stop="1729890357981" status="passed">
+      <name>testGetCcExpDate with data set #1</name>
+    </test-case>
+    <test-case start="1729890357981" stop="1729890357984" status="passed">
+      <name>testGetCcExpDate with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

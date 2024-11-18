@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890267025" stop="1729890267063" version="1.4.0">
+  <name>Magento\Backend\Test\Unit\Model\Menu\ItemTest</name>
+  <test-cases>
+    <test-case start="1729890267025" stop="1729890267028" status="passed">
+      <name>testGetUrlWithEmptyActionReturnsHashSign</name>
+    </test-case>
+    <test-case start="1729890267028" stop="1729890267029" status="passed">
+      <name>testGetUrlWithValidActionReturnsUrl</name>
+    </test-case>
+    <test-case start="1729890267030" stop="1729890267031" status="passed">
+      <name>testHasClickCallbackReturnsFalseIfItemHasAction</name>
+    </test-case>
+    <test-case start="1729890267031" stop="1729890267032" status="passed">
+      <name>testHasClickCallbackReturnsTrueIfItemHasNoAction</name>
+    </test-case>
+    <test-case start="1729890267033" stop="1729890267034" status="passed">
+      <name>testGetClickCallbackReturnsStoppingJsIfItemDoesntHaveAction</name>
+    </test-case>
+    <test-case start="1729890267035" stop="1729890267036" status="passed">
+      <name>testGetClickCallbackReturnsEmptyStringIfItemHasAction</name>
+    </test-case>
+    <test-case start="1729890267036" stop="1729890267037" status="passed">
+      <name>testIsDisabledReturnsTrueIfModuleOutputIsDisabled</name>
+    </test-case>
+    <test-case start="1729890267037" stop="1729890267039" status="passed">
+      <name>testIsDisabledReturnsTrueIfModuleDependenciesFail</name>
+    </test-case>
+    <test-case start="1729890267039" stop="1729890267040" status="passed">
+      <name>testIsDisabledReturnsTrueIfConfigDependenciesFail</name>
+    </test-case>
+    <test-case start="1729890267040" stop="1729890267042" status="passed">
+      <name>testIsDisabledReturnsFalseIfNoDependenciesFail</name>
+    </test-case>
+    <test-case start="1729890267042" stop="1729890267043" status="passed">
+      <name>testIsAllowedReturnsTrueIfResourceIsAvailable</name>
+    </test-case>
+    <test-case start="1729890267044" stop="1729890267045" status="passed">
+      <name>testIsAllowedReturnsFalseIfResourceIsNotAvailable</name>
+    </test-case>
+    <test-case start="1729890267045" stop="1729890267046" status="passed">
+      <name>testGetChildrenCreatesSubmenuOnFirstCall</name>
+    </test-case>
+    <test-case start="1729890267047" stop="1729890267049" status="passed">
+      <name>testToArray with data set "no submenu"</name>
+    </test-case>
+    <test-case start="1729890267050" stop="1729890267052" status="passed">
+      <name>testToArray with data set "with submenu"</name>
+    </test-case>
+    <test-case start="1729890267053" stop="1729890267055" status="passed">
+      <name>testToArray with data set "small set of data"</name>
+    </test-case>
+    <test-case start="1729890267056" stop="1729890267058" status="passed">
+      <name>testPopulateFromArray with data set "default data to constructor"</name>
+    </test-case>
+    <test-case start="1729890267059" stop="1729890267060" status="passed">
+      <name>testPopulateFromArray with data set "data without submenu to constructor"</name>
+    </test-case>
+    <test-case start="1729890267061" stop="1729890267063" status="passed">
+      <name>testPopulateFromArray with data set "data with submenu to constructor"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890414437" stop="1729890414478" version="1.4.0">
+  <name>Magento\Setup\Test\Unit\Console\Command\InstallStoreConfigurationCommandTest</name>
+  <test-cases>
+    <test-case start="1729890414438" stop="1729890414446" status="passed">
+      <name>testExecute</name>
+    </test-case>
+    <test-case start="1729890414446" stop="1729890414448" status="passed">
+      <name>testExecuteNotInstalled</name>
+    </test-case>
+    <test-case start="1729890414449" stop="1729890414451" status="passed">
+      <name>testExecuteInvalidData with data set #0</name>
+    </test-case>
+    <test-case start="1729890414452" stop="1729890414454" status="passed">
+      <name>testExecuteInvalidData with data set #1</name>
+    </test-case>
+    <test-case start="1729890414455" stop="1729890414457" status="passed">
+      <name>testExecuteInvalidData with data set #2</name>
+    </test-case>
+    <test-case start="1729890414458" stop="1729890414460" status="passed">
+      <name>testExecuteInvalidData with data set #3</name>
+    </test-case>
+    <test-case start="1729890414461" stop="1729890414463" status="passed">
+      <name>testExecuteInvalidData with data set #4</name>
+    </test-case>
+    <test-case start="1729890414464" stop="1729890414466" status="passed">
+      <name>testExecuteInvalidData with data set #5</name>
+    </test-case>
+    <test-case start="1729890414466" stop="1729890414469" status="passed">
+      <name>testExecuteInvalidData with data set #6</name>
+    </test-case>
+    <test-case start="1729890414469" stop="1729890414472" status="passed">
+      <name>testExecuteInvalidData with data set #7</name>
+    </test-case>
+    <test-case start="1729890414472" stop="1729890414474" status="passed">
+      <name>testExecuteInvalidData with data set #8</name>
+    </test-case>
+    <test-case start="1729890414475" stop="1729890414477" status="passed">
+      <name>testExecuteInvalidData with data set #9</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890360697" stop="1729890360709" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Helper\BackendTest</name>
+  <test-cases>
+    <test-case start="1729890360697" stop="1729890360699" status="passed">
+      <name>testGetConfigurationCountryCodeFromRequest</name>
+    </test-case>
+    <test-case start="1729890360699" stop="1729890360700" status="passed">
+      <name>testGetConfigurationCountryCodeFromConfig with data set #0</name>
+    </test-case>
+    <test-case start="1729890360701" stop="1729890360702" status="passed">
+      <name>testGetConfigurationCountryCodeFromConfig with data set #1</name>
+    </test-case>
+    <test-case start="1729890360703" stop="1729890360704" status="passed">
+      <name>testGetConfigurationCountryCodeFromDefault with data set #0</name>
+    </test-case>
+    <test-case start="1729890360705" stop="1729890360706" status="passed">
+      <name>testGetConfigurationCountryCodeFromDefault with data set #1</name>
+    </test-case>
+    <test-case start="1729890360707" stop="1729890360708" status="passed">
+      <name>testGetConfigurationCountryCodeFromDefault with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

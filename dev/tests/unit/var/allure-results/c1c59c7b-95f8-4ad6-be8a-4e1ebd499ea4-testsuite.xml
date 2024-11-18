@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890404173" stop="1729890404177" version="1.4.0">
+  <name>Magento\TwoFactorAuth\Test\Unit\Model\Provider\Engine\U2fKey\ConfigReaderTest</name>
+  <test-cases>
+    <test-case start="1729890404174" stop="1729890404176" status="passed">
+      <name>testGetValidDomain</name>
+    </test-case>
+    <test-case start="1729890404176" stop="1729890404177" status="passed">
+      <name>testGetInvalidDomain</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

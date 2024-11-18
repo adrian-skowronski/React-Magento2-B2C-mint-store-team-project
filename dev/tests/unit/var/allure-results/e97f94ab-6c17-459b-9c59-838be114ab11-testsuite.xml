@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890451346" stop="1729890451366" version="1.4.0">
+  <name>Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest</name>
+  <test-cases>
+    <test-case start="1729890451346" stop="1729890451350" status="passed">
+      <name>testLock</name>
+    </test-case>
+    <test-case start="1729890451351" stop="1729890451354" status="passed">
+      <name>testlockWithTooLongName</name>
+    </test-case>
+    <test-case start="1729890451354" stop="1729890451356" status="passed">
+      <name>testlockWithAlreadyAcquiredLockInSameSession</name>
+    </test-case>
+    <test-case start="1729890451356" stop="1729890451358" status="passed">
+      <name>testLockWithUnavailableDeploymentConfig</name>
+    </test-case>
+    <test-case start="1729890451358" stop="1729890451361" status="passed">
+      <name>testUnlockWithUnavailableDeploymentConfig</name>
+    </test-case>
+    <test-case start="1729890451362" stop="1729890451365" status="passed">
+      <name>testIsLockedWithUnavailableDB</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890377116" stop="1729890377123" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Observer\AddSalesRuleNameToOrderObserverTest</name>
+  <test-cases>
+    <test-case start="1729890377116" stop="1729890377119" status="passed">
+      <name>testAddSalesRuleNameToOrderWithoutCouponCode</name>
+    </test-case>
+    <test-case start="1729890377119" stop="1729890377120" status="passed">
+      <name>testAddSalesRuleNameToOrderWithoutRule</name>
+    </test-case>
+    <test-case start="1729890377121" stop="1729890377123" status="passed">
+      <name>testAddSalesRuleNameToOrder</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

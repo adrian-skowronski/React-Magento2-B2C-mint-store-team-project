@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890391384" stop="1729890391392" version="1.4.0">
+  <name>Magento\Search\Test\Unit\Adapter\Query\Preprocessor\SynonymsTest</name>
+  <test-cases>
+    <test-case start="1729890391385" stop="1729890391389" status="passed">
+      <name>testProcess with data set "oneWord"</name>
+    </test-case>
+    <test-case start="1729890391390" stop="1729890391390" status="passed">
+      <name>testProcess with data set "twoWords"</name>
+    </test-case>
+    <test-case start="1729890391391" stop="1729890391392" status="passed">
+      <name>testProcess with data set "noSynonyms"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

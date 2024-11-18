@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352267" stop="1729890352313" version="1.4.0">
+  <name>Magento\LayeredNavigation\Test\Unit\Block\NavigationTest</name>
+  <test-cases>
+    <test-case start="1729890352268" stop="1729890352285" status="passed">
+      <name>testGetStateHtml</name>
+    </test-case>
+    <test-case start="1729890352286" stop="1729890352290" status="passed">
+      <name>testCanShowBlock</name>
+    </test-case>
+    <test-case start="1729890352291" stop="1729890352296" status="passed">
+      <name>testCanShowBlockWithDifferentDisplayModes with data set #0</name>
+    </test-case>
+    <test-case start="1729890352297" stop="1729890352302" status="passed">
+      <name>testCanShowBlockWithDifferentDisplayModes with data set #1</name>
+    </test-case>
+    <test-case start="1729890352303" stop="1729890352309" status="passed">
+      <name>testCanShowBlockWithDifferentDisplayModes with data set #2</name>
+    </test-case>
+    <test-case start="1729890352309" stop="1729890352313" status="passed">
+      <name>testGetClearUrl</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

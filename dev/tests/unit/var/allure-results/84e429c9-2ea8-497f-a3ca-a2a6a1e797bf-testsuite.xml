@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890352982" stop="1729890353061" version="1.4.0">
+  <name>Magento\MediaStorage\Test\Unit\Helper\File\Storage\DatabaseTest</name>
+  <test-cases>
+    <test-case start="1729890352983" stop="1729890352986" status="passed">
+      <name>testCheckDbUsage with data set "media database"</name>
+    </test-case>
+    <test-case start="1729890352986" stop="1729890352988" status="passed">
+      <name>testCheckDbUsage with data set "non-media database"</name>
+    </test-case>
+    <test-case start="1729890352988" stop="1729890352995" status="passed">
+      <name>testGetStorageDatabaseModel</name>
+    </test-case>
+    <test-case start="1729890352996" stop="1729890352997" status="passed">
+      <name>testGetStorageFileModel</name>
+    </test-case>
+    <test-case start="1729890352998" stop="1729890353000" status="passed">
+      <name>testGetResourceStorageModel</name>
+    </test-case>
+    <test-case start="1729890353000" stop="1729890353002" status="passed">
+      <name>testSaveFile with data set "media database"</name>
+    </test-case>
+    <test-case start="1729890353002" stop="1729890353005" status="passed">
+      <name>testSaveFile with data set "non-media database"</name>
+    </test-case>
+    <test-case start="1729890353005" stop="1729890353008" status="passed">
+      <name>testRenameFile with data set "media database"</name>
+    </test-case>
+    <test-case start="1729890353008" stop="1729890353010" status="passed">
+      <name>testRenameFile with data set "non-media database"</name>
+    </test-case>
+    <test-case start="1729890353010" stop="1729890353013" status="passed">
+      <name>testCopyFile with data set "media database"</name>
+    </test-case>
+    <test-case start="1729890353013" stop="1729890353015" status="passed">
+      <name>testCopyFile with data set "non-media database"</name>
+    </test-case>
+    <test-case start="1729890353016" stop="1729890353018" status="passed">
+      <name>testFileExists with data set "media database"</name>
+    </test-case>
+    <test-case start="1729890353018" stop="1729890353021" status="passed">
+      <name>testFileExists with data set "non-media database"</name>
+    </test-case>
+    <test-case start="1729890353022" stop="1729890353024" status="passed">
+      <name>testGetUniqueFilename with data set "media database"</name>
+    </test-case>
+    <test-case start="1729890353024" stop="1729890353026" status="passed">
+      <name>testGetUniqueFilename with data set "non-media database"</name>
+    </test-case>
+    <test-case start="1729890353026" stop="1729890353030" status="passed">
+      <name>testSaveFileToFileSystem with data set "media database, no id"</name>
+    </test-case>
+    <test-case start="1729890353031" stop="1729890353033" status="passed">
+      <name>testSaveFileToFileSystem with data set "media database, with id"</name>
+    </test-case>
+    <test-case start="1729890353034" stop="1729890353036" status="passed">
+      <name>testSaveFileToFileSystem with data set "non-media database"</name>
+    </test-case>
+    <test-case start="1729890353037" stop="1729890353038" status="passed">
+      <name>testGetMediaRelativePath</name>
+    </test-case>
+    <test-case start="1729890353038" stop="1729890353041" status="passed">
+      <name>testDeleteFolder with data set "media database"</name>
+    </test-case>
+    <test-case start="1729890353042" stop="1729890353044" status="passed">
+      <name>testDeleteFolder with data set "non-media database"</name>
+    </test-case>
+    <test-case start="1729890353045" stop="1729890353047" status="passed">
+      <name>testDeleteFile with data set "media database"</name>
+    </test-case>
+    <test-case start="1729890353047" stop="1729890353049" status="passed">
+      <name>testDeleteFile with data set "non-media database"</name>
+    </test-case>
+    <test-case start="1729890353050" stop="1729890353052" status="passed">
+      <name>testSaveUploadedFile with data set "media database, file not unique"</name>
+    </test-case>
+    <test-case start="1729890353053" stop="1729890353055" status="passed">
+      <name>testSaveUploadedFile with data set "media database, file unique"</name>
+    </test-case>
+    <test-case start="1729890353055" stop="1729890353058" status="passed">
+      <name>testSaveUploadedFile with data set "non-media database"</name>
+    </test-case>
+    <test-case start="1729890353058" stop="1729890353060" status="passed">
+      <name>testGetMediaBaseDir</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

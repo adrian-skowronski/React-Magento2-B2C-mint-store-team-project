@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890317996" stop="1729890318009" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Model\ResourceModel\Db\VersionControl\AddressSnapshotTest</name>
+  <test-cases>
+    <test-case start="1729890317997" stop="1729890318001" status="passed">
+      <name>testIsModified with data set #0</name>
+    </test-case>
+    <test-case start="1729890318001" stop="1729890318002" status="passed">
+      <name>testIsModified with data set #1</name>
+    </test-case>
+    <test-case start="1729890318003" stop="1729890318005" status="passed">
+      <name>testIsModified with data set #2</name>
+    </test-case>
+    <test-case start="1729890318005" stop="1729890318007" status="passed">
+      <name>testIsModified with data set #3</name>
+    </test-case>
+    <test-case start="1729890318007" stop="1729890318009" status="passed">
+      <name>testIsModifiedBypass</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

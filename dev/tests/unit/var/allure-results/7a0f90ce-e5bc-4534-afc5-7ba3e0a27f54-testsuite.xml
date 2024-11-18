@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890279919" stop="1729890279930" version="1.4.0">
+  <name>Magento\CatalogUrlRewrite\Test\Unit\Model\Category\ChildrenUrlRewriteGeneratorTest</name>
+  <test-cases>
+    <test-case start="1729890279920" stop="1729890279926" status="passed">
+      <name>testNoChildrenCategories</name>
+    </test-case>
+    <test-case start="1729890279927" stop="1729890279929" status="passed">
+      <name>testGenerate</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

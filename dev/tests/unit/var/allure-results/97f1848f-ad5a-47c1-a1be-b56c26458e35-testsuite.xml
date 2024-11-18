@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890441028" stop="1729890441032" version="1.4.0">
+  <name>Magento\Framework\Config\Test\Unit\GenericSchemaLocatorTest</name>
+  <test-cases>
+    <test-case start="1729890441028" stop="1729890441029" status="passed">
+      <name>testItIsAnInstanceOfSchemaLocatorInterface</name>
+    </test-case>
+    <test-case start="1729890441029" stop="1729890441030" status="passed">
+      <name>testItReturnsThePathToTheSpecifiedModuleXsd</name>
+    </test-case>
+    <test-case start="1729890441030" stop="1729890441031" status="passed">
+      <name>testItReturnsNullAsTheDefaultPerFileSchema</name>
+    </test-case>
+    <test-case start="1729890441031" stop="1729890441032" status="passed">
+      <name>testItReturnsThePathToThePerFileSchema</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

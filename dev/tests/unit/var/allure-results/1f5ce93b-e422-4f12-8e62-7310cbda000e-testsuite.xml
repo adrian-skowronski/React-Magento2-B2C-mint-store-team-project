@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890324988" stop="1729890325001" version="1.4.0">
+  <name>Magento\Eav\Test\Unit\Model\AttributeRepositoryTest</name>
+  <test-cases>
+    <test-case start="1729890324989" stop="1729890324993" status="passed">
+      <name>testGetListInputException</name>
+    </test-case>
+    <test-case start="1729890324994" stop="1729890325001" status="passed">
+      <name>testGetList</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

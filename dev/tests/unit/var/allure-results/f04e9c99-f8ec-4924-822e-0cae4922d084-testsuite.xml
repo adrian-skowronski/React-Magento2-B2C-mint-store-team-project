@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890390218" stop="1729890390308" version="1.4.0">
+  <name>Magento\Sales\Test\Unit\Model\Service\OrderServiceTest</name>
+  <test-cases>
+    <test-case start="1729890390218" stop="1729890390258" status="passed">
+      <name>testCancel</name>
+    </test-case>
+    <test-case start="1729890390258" stop="1729890390266" status="passed">
+      <name>testCancelFailed</name>
+    </test-case>
+    <test-case start="1729890390267" stop="1729890390270" status="passed">
+      <name>testGetCommentsList</name>
+    </test-case>
+    <test-case start="1729890390273" stop="1729890390283" status="passed">
+      <name>testAddComment</name>
+    </test-case>
+    <test-case start="1729890390284" stop="1729890390288" status="passed">
+      <name>testNotify</name>
+    </test-case>
+    <test-case start="1729890390288" stop="1729890390294" status="passed">
+      <name>testGetStatus</name>
+    </test-case>
+    <test-case start="1729890390294" stop="1729890390300" status="passed">
+      <name>testHold</name>
+    </test-case>
+    <test-case start="1729890390300" stop="1729890390307" status="passed">
+      <name>testUnHold</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

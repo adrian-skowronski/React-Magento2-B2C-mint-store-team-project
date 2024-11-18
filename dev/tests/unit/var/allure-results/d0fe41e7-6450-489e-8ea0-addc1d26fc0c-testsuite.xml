@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890401298" stop="1729890401317" version="1.4.0">
+  <name>Magento\Theme\Test\Unit\Block\Html\TopmenuTest</name>
+  <test-cases>
+    <test-case start="1729890401298" stop="1729890401306" status="passed">
+      <name>testGetHtmlWithoutSelectedCategory</name>
+    </test-case>
+    <test-case start="1729890401306" stop="1729890401310" status="passed">
+      <name>testGetHtmlWithSelectedCategory</name>
+    </test-case>
+    <test-case start="1729890401310" stop="1729890401314" status="passed">
+      <name>testGetCacheKeyInfo</name>
+    </test-case>
+    <test-case start="1729890401314" stop="1729890401316" status="passed">
+      <name>testGetMenu</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

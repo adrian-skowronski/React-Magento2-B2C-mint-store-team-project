@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890463903" stop="1729890463919" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Layout\Generator\BlockTest</name>
+  <test-cases>
+    <test-case start="1729890463905" stop="1729890463915" status="passed">
+      <name>testProcess with data set #0</name>
+    </test-case>
+    <test-case start="1729890463916" stop="1729890463919" status="passed">
+      <name>testProcess with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

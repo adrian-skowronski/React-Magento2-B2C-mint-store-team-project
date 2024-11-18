@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890287637" stop="1729890287675" version="1.4.0">
+  <name>Magento\Catalog\Test\Unit\Model\LayerTest</name>
+  <test-cases>
+    <test-case start="1729890287637" stop="1729890287644" status="passed">
+      <name>testGetState</name>
+    </test-case>
+    <test-case start="1729890287644" stop="1729890287646" status="passed">
+      <name>testGetStateKey</name>
+    </test-case>
+    <test-case start="1729890287647" stop="1729890287650" status="passed">
+      <name>testGetProductCollection</name>
+    </test-case>
+    <test-case start="1729890287650" stop="1729890287653" status="passed">
+      <name>testApply</name>
+    </test-case>
+    <test-case start="1729890287653" stop="1729890287655" status="passed">
+      <name>testPrepareProductCollection</name>
+    </test-case>
+    <test-case start="1729890287656" stop="1729890287658" status="passed">
+      <name>testGetCurrentStore</name>
+    </test-case>
+    <test-case start="1729890287658" stop="1729890287660" status="passed">
+      <name>testSetNewCurrentCategoryIfCurrentCategoryIsAnother</name>
+    </test-case>
+    <test-case start="1729890287660" stop="1729890287662" status="passed">
+      <name>testSetNewCurrentCategoryIfCurrentCategoryIsSame</name>
+    </test-case>
+    <test-case start="1729890287663" stop="1729890287665" status="passed">
+      <name>testSetNewCurrentCategoryIfCategoryIsNotFound</name>
+    </test-case>
+    <test-case start="1729890287665" stop="1729890287667" status="passed">
+      <name>testSetCurrentCategoryInstanceOfException</name>
+    </test-case>
+    <test-case start="1729890287667" stop="1729890287669" status="passed">
+      <name>testSetCurrentCategoryNotFoundException</name>
+    </test-case>
+    <test-case start="1729890287670" stop="1729890287672" status="passed">
+      <name>testGetCurrentCategory</name>
+    </test-case>
+    <test-case start="1729890287672" stop="1729890287675" status="passed">
+      <name>testGetCurrentCategoryIfCurrentCategoryIsNotSet</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

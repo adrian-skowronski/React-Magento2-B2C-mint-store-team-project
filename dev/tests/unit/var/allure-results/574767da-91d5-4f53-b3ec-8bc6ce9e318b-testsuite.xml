@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890372154" stop="1729890372277" version="1.4.0">
+  <name>Magento\Reports\Test\Unit\Block\Adminhtml\Sales\Grid\Column\Renderer\DateTest</name>
+  <test-cases>
+    <test-case start="1729890372155" stop="1729890372161" status="passed">
+      <name>testRender with data set #0</name>
+    </test-case>
+    <test-case start="1729890372161" stop="1729890372163" status="passed">
+      <name>testRender with data set #1</name>
+    </test-case>
+    <test-case start="1729890372164" stop="1729890372166" status="passed">
+      <name>testRender with data set #2</name>
+    </test-case>
+    <test-case start="1729890372167" stop="1729890372170" status="passed">
+      <name>testRender with data set #3</name>
+    </test-case>
+    <test-case start="1729890372171" stop="1729890372266" status="passed">
+      <name>testRender with data set #4</name>
+    </test-case>
+    <test-case start="1729890372267" stop="1729890372276" status="passed">
+      <name>testDateIsRenderedIndependentOfSystemDefaultLocale</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890443571" stop="1729890443588" version="1.4.0">
+  <name>Magento\Framework\Data\Test\Unit\Form\Element\CheckboxTest</name>
+  <test-cases>
+    <test-case start="1729890443572" stop="1729890443574" status="passed">
+      <name>testConstruct</name>
+    </test-case>
+    <test-case start="1729890443578" stop="1729890443581" status="passed">
+      <name>testGetHtmlAttributes</name>
+    </test-case>
+    <test-case start="1729890443582" stop="1729890443587" status="passed">
+      <name>testGetElementHtml</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

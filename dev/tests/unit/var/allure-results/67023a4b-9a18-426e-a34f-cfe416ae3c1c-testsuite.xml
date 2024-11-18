@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890422045" stop="1729890422047" version="1.4.0">
+  <name>Magento\Framework\Acl\Test\Unit\Loader\DefaultTest</name>
+  <test-cases>
+    <test-case start="1729890422045" stop="1729890422046" status="passed">
+      <name>testPopulateAclDoesntChangeAclObject</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

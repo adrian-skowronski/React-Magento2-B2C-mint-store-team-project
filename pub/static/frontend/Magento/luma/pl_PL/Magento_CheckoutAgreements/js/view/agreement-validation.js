@@ -1,0 +1,1 @@
+/home/adrian-skowronski/www/mint/vendor/magento/module-checkout-agreements/view/frontend/web/js/view/agreement-validation.js

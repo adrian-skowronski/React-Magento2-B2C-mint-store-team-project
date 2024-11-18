@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890260827" stop="1729890260835" version="1.4.0">
+  <name>Magento\AdobeStockImage\Test\Unit\Model\SaveImageFileTest</name>
+  <test-cases>
+    <test-case start="1729890260827" stop="1729890260830" status="passed">
+      <name>testExecute with data set #0</name>
+    </test-case>
+    <test-case start="1729890260830" stop="1729890260831" status="passed">
+      <name>testExecute with data set #1</name>
+    </test-case>
+    <test-case start="1729890260832" stop="1729890260833" status="passed">
+      <name>testExecuteWithException with data set #0</name>
+    </test-case>
+    <test-case start="1729890260834" stop="1729890260835" status="passed">
+      <name>testExecuteWithException with data set #1</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890426296" stop="1729890426322" version="1.4.0">
+  <name>Magento\Framework\App\Test\Unit\Response\HttpTest</name>
+  <test-cases>
+    <test-case start="1729890426296" stop="1729890426299" status="passed">
+      <name>testSendVary</name>
+    </test-case>
+    <test-case start="1729890426299" stop="1729890426301" status="passed">
+      <name>testSendVaryEmptyDataDeleteCookie</name>
+    </test-case>
+    <test-case start="1729890426301" stop="1729890426302" status="passed">
+      <name>testSendVaryEmptyData</name>
+    </test-case>
+    <test-case start="1729890426303" stop="1729890426306" status="passed">
+      <name>testSetPublicHeaders</name>
+    </test-case>
+    <test-case start="1729890426307" stop="1729890426308" status="passed">
+      <name>testSetPublicHeadersWithoutTtl</name>
+    </test-case>
+    <test-case start="1729890426308" stop="1729890426310" status="passed">
+      <name>testSetPrivateHeaders</name>
+    </test-case>
+    <test-case start="1729890426311" stop="1729890426312" status="passed">
+      <name>testSetPrivateHeadersWithoutTtl</name>
+    </test-case>
+    <test-case start="1729890426312" stop="1729890426314" status="passed">
+      <name>testSetNoCacheHeaders</name>
+    </test-case>
+    <test-case start="1729890426315" stop="1729890426317" status="passed">
+      <name>testRepresentJson</name>
+    </test-case>
+    <test-case start="1729890426317" stop="1729890426318" status="passed">
+      <name>testWakeUpWithException</name>
+    </test-case>
+    <test-case start="1729890426319" stop="1729890426320" status="passed">
+      <name>testWakeUpWith</name>
+    </test-case>
+    <test-case start="1729890426320" stop="1729890426322" status="passed">
+      <name>testSetXFrameOptions</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

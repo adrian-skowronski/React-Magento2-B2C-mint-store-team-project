@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890349743" stop="1729890349755" version="1.4.0">
+  <name>Magento\Integration\Test\Unit\Model\ManagerTest</name>
+  <test-cases>
+    <test-case start="1729890349743" stop="1729890349747" status="passed">
+      <name>testProcessIntegrationConfigNoIntegrations</name>
+    </test-case>
+    <test-case start="1729890349748" stop="1729890349750" status="passed">
+      <name>testProcessIntegrationConfigSuccess</name>
+    </test-case>
+    <test-case start="1729890349751" stop="1729890349753" status="passed">
+      <name>testProcessConfigBasedIntegrationsRecreateUpdatedConfigAfterResourceChange</name>
+    </test-case>
+    <test-case start="1729890349754" stop="1729890349755" status="passed">
+      <name>testProcessConfigBasedIntegrationsCreateNewIntegrations</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

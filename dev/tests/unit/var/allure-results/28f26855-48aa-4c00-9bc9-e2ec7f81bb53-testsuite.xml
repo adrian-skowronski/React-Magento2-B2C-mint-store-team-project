@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890449572" stop="1729890449583" version="1.4.0">
+  <name>Magento\Framework\Filter\Test\Unit\Template\Tokenizer\ParameterTest</name>
+  <test-cases>
+    <test-case start="1729890449572" stop="1729890449574" status="passed">
+      <name>testTokenize with data set #0</name>
+    </test-case>
+    <test-case start="1729890449575" stop="1729890449576" status="passed">
+      <name>testTokenize with data set #1</name>
+    </test-case>
+    <test-case start="1729890449576" stop="1729890449577" status="passed">
+      <name>testTokenize with data set #2</name>
+    </test-case>
+    <test-case start="1729890449578" stop="1729890449579" status="passed">
+      <name>testGetValue with data set #0</name>
+    </test-case>
+    <test-case start="1729890449580" stop="1729890449581" status="passed">
+      <name>testGetValue with data set #1</name>
+    </test-case>
+    <test-case start="1729890449582" stop="1729890449583" status="passed">
+      <name>testGetValue with data set #2</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

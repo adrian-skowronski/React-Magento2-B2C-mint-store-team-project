@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890462896" stop="1729890462901" version="1.4.0">
+  <name>Magento\Framework\View\Test\Unit\Element\Message\InterpretationMediatorTest</name>
+  <test-cases>
+    <test-case start="1729890462896" stop="1729890462899" status="passed">
+      <name>testInterpretNotIdentifiedMessage</name>
+    </test-case>
+    <test-case start="1729890462899" stop="1729890462900" status="passed">
+      <name>testInterpretIdentifiedMessage</name>
+    </test-case>
+    <test-case start="1729890462900" stop="1729890462901" status="passed">
+      <name>testInterpretIdentifiedMessageNotConfigured</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

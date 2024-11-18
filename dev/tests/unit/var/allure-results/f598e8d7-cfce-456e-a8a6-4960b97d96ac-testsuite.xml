@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890376296" stop="1729890376299" version="1.4.0">
+  <name>Magento\SalesRule\Test\Unit\Model\Rss\DiscountsTest</name>
+  <test-cases>
+    <test-case start="1729890376296" stop="1729890376299" status="passed">
+      <name>testGetDiscountCollection</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

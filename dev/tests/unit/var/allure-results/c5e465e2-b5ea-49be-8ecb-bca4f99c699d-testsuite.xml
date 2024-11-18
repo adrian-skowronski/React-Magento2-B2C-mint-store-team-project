@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890313674" stop="1729890313677" version="1.4.0">
+  <name>Magento\Customer\Test\Unit\Console\Command\UpgradeHashAlgorithmCommandTest</name>
+  <test-cases>
+    <test-case start="1729890313674" stop="1729890313677" status="passed">
+      <name>testConfigure</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

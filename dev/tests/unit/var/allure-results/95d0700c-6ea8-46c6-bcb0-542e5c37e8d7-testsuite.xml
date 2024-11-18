@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890327157" stop="1729890327173" version="1.4.0">
+  <name>Magento\Elasticsearch\Test\Unit\Model\Adapter\FieldMapper\Product\FieldProvider\DynamicFieldTest</name>
+  <test-cases>
+    <test-case start="1729890327158" stop="1729890327164" status="passed">
+      <name>testGetFields with data set #0</name>
+    </test-case>
+    <test-case start="1729890327165" stop="1729890327168" status="passed">
+      <name>testGetFields with data set #1</name>
+    </test-case>
+    <test-case start="1729890327168" stop="1729890327170" status="passed">
+      <name>testGetFields with data set #2</name>
+    </test-case>
+    <test-case start="1729890327171" stop="1729890327173" status="passed">
+      <name>testGetFields with data set #3</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890362170" stop="1729890362184" version="1.4.0">
+  <name>Magento\Paypal\Test\Unit\Model\Payflow\Service\Response\Validator\CVV2MatchTest</name>
+  <test-cases>
+    <test-case start="1729890362170" stop="1729890362173" status="passed">
+      <name>testValidation with data set #0</name>
+    </test-case>
+    <test-case start="1729890362173" stop="1729890362175" status="passed">
+      <name>testValidation with data set #1</name>
+    </test-case>
+    <test-case start="1729890362175" stop="1729890362177" status="passed">
+      <name>testValidation with data set #2</name>
+    </test-case>
+    <test-case start="1729890362178" stop="1729890362180" status="passed">
+      <name>testValidation with data set #3</name>
+    </test-case>
+    <test-case start="1729890362180" stop="1729890362182" status="passed">
+      <name>testValidation with data set #4</name>
+    </test-case>
+    <test-case start="1729890362182" stop="1729890362184" status="passed">
+      <name>testValidation with data set #5</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1729890455790" stop="1729890455796" version="1.4.0">
+  <name>Magento\Framework\Reflection\Test\Unit\DataObjectProcessorTest</name>
+  <test-cases>
+    <test-case start="1729890455791" stop="1729890455794" status="passed">
+      <name>testBuildOutputDataArray with data set "No Attributes"</name>
+    </test-case>
+    <test-case start="1729890455794" stop="1729890455796" status="passed">
+      <name>testBuildOutputDataArray with data set "With Attributes"</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>
